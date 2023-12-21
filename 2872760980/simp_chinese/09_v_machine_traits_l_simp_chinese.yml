@@ -1,15 +1,15 @@
 ﻿l_simp_chinese:
 
- trait_v_self_replicating:0 "Self Replicating"
+ trait_v_self_replicating:0 "自我复制"
  trait_v_self_replicating_desc:0 "§LThe ability to self replicate is one of the best abilities a machine can have to explore, expand, exploit and exterminate.§!"
  TRAIT_SELF_REPLICATING_EFFECT:0 "Each pop working as a slave or better produces 0.02 £job_roboticist£ §YMonthly Pop Assembly§!"
 
  trait_v_terror_weapons:0 "Terror Weapons"
  trait_v_terror_weapons_desc:0 "§LThese models have been designed to crush the morale of the enemy. Fighting them resembles a scene from the worst nightmares of any organic or lithoid.§!"
 
- trait_v_polluting:0 "Polluting"
- trait_v_polluting_desc:0 "§LThese machines have an extremely negative impact on the environment.§!"
- TRAIT_POLLUTING_EFFECT:0 "Each pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-2%§!"
+ trait_v_polluting:0 "污染"
+ trait_v_polluting_desc:0 "§L这些机器对环境产生了极大的负面影响。§!"
+ TRAIT_POLLUTING_EFFECT:0 "每个做为奴隶或更高工作标准的人口降低 £mod_pop_environment_tolerance£ §YHabitability§! §R-2%§!"
 
  trait_v_emergency_repairs:0 "Emergency Repairs"
  trait_v_emergency_repairs_desc:0 "§LThese machines are capable of self repair in a case of being damaged in combat about half the time.§!"
