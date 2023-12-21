@@ -1,11 +1,11 @@
 ﻿l_simp_chinese:
 
  trait_v_self_replicating:0 "自我复制"
- trait_v_self_replicating_desc:0 "§LThe ability to self replicate is one of the best abilities a machine can have to explore, expand, exploit and exterminate.§!"
- TRAIT_SELF_REPLICATING_EFFECT:0 "Each pop working as a slave or better produces 0.02 £job_roboticist£ §YMonthly Pop Assembly§!"
+ trait_v_self_replicating_desc:0 "§L自我复制的能力是机器可以探索，扩展，利用和消灭對手的最佳能力之一。§!"
+ TRAIT_SELF_REPLICATING_EFFECT:0 "每個做為奴隸或更高工作標準的人口產生 0.02 £job_roboticist£ §Y每月人口組裝§!"
 
- trait_v_terror_weapons:0 "Terror Weapons"
- trait_v_terror_weapons_desc:0 "§LThese models have been designed to crush the morale of the enemy. Fighting them resembles a scene from the worst nightmares of any organic or lithoid.§!"
+ trait_v_terror_weapons:0 "恐怖武器"
+ trait_v_terror_weapons_desc:0 "§L这些机器旨在毁灭敌人的士气。 Fighting them resembles a scene from the worst nightmares of any organic or lithoid.§!"
 
  trait_v_polluting:0 "污染"
  trait_v_polluting_desc:0 "§L这些机器对环境产生了极大的负面影响。§!"
@@ -15,10 +15,10 @@
  trait_v_emergency_repairs_desc:0 "§LThese machines are capable of self repair in a case of being damaged in combat about half the time.§!"
  TRAIT_EMERGENCY_REPAIRS_EFFECT:0 "Chance for defeated armies to return: §Y33%§!"
 
- trait_v_stealth_bots:0 "Stealth Systems"
+ trait_v_stealth_bots:0 "隐形系统"
  trait_v_stealth_bots_desc:0 "§LThese machines are designed for stealth. They can't be seen or heard by normal means.§!"
 
- trait_v_solar_panels:0 "Solar Panels"
+ trait_v_solar_panels:0 "太阳能板"
  trait_v_solar_panels_desc:0 "§LThese machines supplement a part of their energy requirements using solar panels.§!"
  TRAIT_SOLAR_PANELS_EFFECT: "Reduces Pop Energy Upkeep between §G-0.15§! and §G-0.5§! depending on the most luminous §YActive Star§! in the system."
 
