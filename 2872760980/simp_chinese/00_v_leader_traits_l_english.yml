@@ -1,0 +1,40 @@
+﻿l_english:
+
+ #ADMIRAL#
+
+ leader_trait_v_interceptor:0 "Interceptor"
+ leader_trait_v_interceptor_desc:0 "This admiral excels at interception tactics."
+
+ #GENERAL#
+
+ leader_trait_v_digger:0 "Digger"
+ leader_trait_v_digger_desc:0 ""
+
+ #SCIENTIST#
+
+ leader_trait_v_evader:0 "Evader"
+ leader_trait_v_evader_desc:0 "Coming from a species of interception predators, this scientist is quite capable of evading most hostiles."
+
+
+ #GENERIC#
+ 
+ #HAREM#
+
+ leader_trait_v_polygynous:0 "Polygynous"
+ leader_trait_v_polygynous_desc:0 "This leader has formed a harem."
+
+ #BACKSTABBING#
+
+ leader_trait_v_backstabbing:0 "Backstabbing"
+ leader_trait_v_backstabbing_desc:0 "This leader can't be trusted. One should always keep this in mind when interacting with them."
+ LEADER_TRAIT_BACKSTABBING_EFFECT:0 "Chance to kill a random Leader: §R+1%§! \nOn Kill Change Skill Level by: §G+1§!"
+
+ #GANG LEADER#
+ leader_trait_v_gang_leader:0 "Gang Leader"
+ leader_trait_v_gang_leader_desc:0 "This leader has a background in a criminal organization. In fact, the leader of said organization."
+
+ #CAUTION TO THE WIND#
+
+ leader_trait_v_caution_to_the_wind:0 "Caution To The Wind"
+ leader_trait_v_caution_to_the_wind_desc:0 "To this leader, health and safety violations seem more like obstacles than valid concerns."
+ LEADER_TRAIT_CTTW_EFFECT:0 "Monthly Death Chance: §R+1%§!"

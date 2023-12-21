@@ -1,0 +1,28 @@
+﻿l_english:
+
+ v_traits_spore_event.2.name:0 "Spore Camp Removal"
+ v_traits_spore_event.2.desc:0 "The removal of a spore camp has started an armed insurrection against our rule. While mostly equipped with looted equipment and ramshackle vehicles, this army shouldn't be underestimated."
+ v_traits_spore_event.2.a:0 "HOLD YOUR GROUND!"
+
+ v_traits_backup_event.1.name:0 "Saved From Death"
+ v_traits_backup_event.1.desc_a:0 "[From.Leader.GetName] is dead. Thankfully we have the option to bring [From.Leader.GetHerHim] back. At a price, we may provide [From.Leader.GetHerHim] with a new body."
+ v_traits_backup_event.1.desc_b:0 "[From.Leader.GetName] is has suffered a critical malfunction. Thankfully, we have [From.Leader.GetHerHis] backup at the ready."
+ v_traits_backup_event.1.aa:0 "We can shall provide [From.Leader.GetHerHim] with a new body."
+ v_traits_backup_event.1.ab:0 "We can rebuild [From.Leader.GetHerHim]."
+ v_traits_backup_event_1_a_tooltip:0 "[From.Leader.GetName] returns."
+ v_traits_backup_event.1.b:0 "We can't afford to bring [From.Leader.GetHerHim] back."
+ v_traits_backup_event_1_b_tooltip:0 "[From.Leader.GetName] dies."
+
+ v_traits_spore_event.3.name:0 "Warlord On [Root.Planet.GetName]"
+ v_traits_spore_event.3.desc:0 "A local warlord has made a bid for control of [Root.Planet.GetName]. Whenever this attempt is successful is to be seen. Let us hope that the local forces are enough to stem the tide."
+
+ v_traits_spore_event.4.name:0 "Warlord Defeated"
+ v_traits_spore_event.4.desc:0 "The armies of the warlord have been successfully pushed back. The inhabitants of [Root.Planet.GetName] can now return to their daily lives."
+
+ v_traits_spore_event.5.name:0 "Warlord Takes Over [FROMFROM.Planet.GetName]"
+ v_traits_spore_event.5.desc:0 "Unfortunately, our troops were unable to keep control of [FROMFROM.Planet.GetName]. Now the inhabitants of [FROMFROM.Planet.GetName] are under the control of the warlord. At the moment, the warlord seems to be sending a message to mock our failure to defend the inhabitants of [FROMFROM.Planet.GetName]. "
+
+ v_traits_spore_event.6.desc:0 "This world is mine. Your pathetic armies didn't even stand a chance. Now stay away, or your armies will turn to dust once again."
+ v_traits_spore_event.6.a:0 "Everyone has their price."
+ v_traits_spore_event.6.b:0 "This world is ours."
+ v_traits_spore_event.6.c:0 "What is one planet in the grand scheme of things?"

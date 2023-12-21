@@ -1,0 +1,11 @@
+﻿l_english:
+ trait_v_rapid_mutation:0 "Rapid Mutation"
+ trait_v_rapid_mutation_desc:0 "§LThis species seems to mutate at a rapid pace, making them masters of adaptation. Unfortunately for them all, that adaptability comes with many drawbacks in terms of their health.§!"
+
+ trait_v_symbiont_a:0 "Alpha Symbiont"
+ trait_v_symbiont_a_desc:0 "§LThis species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce.§!"
+ TRAIT_SYMBIONT_A_EFFECT:0 "This species won't grow if there are more pops with §HAlpha Symbiont§! than with §HBeta Symbiont§! on the planet."
+
+ trait_v_symbiont_b:0 "Beta Symbiont"
+ trait_v_symbiont_b_desc:0 "§LThis species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce.§!"
+ TRAIT_SYMBIONT_B_EFFECT:0 "This species won't grow if there are more pops with §HBeta Symbiont§! than with §HAlpha Symbiont§! on the planet."

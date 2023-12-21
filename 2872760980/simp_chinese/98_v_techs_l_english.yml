@@ -1,0 +1,16 @@
+﻿l_english:
+
+ tech_v_zoological_transgenesis:0 "Zoological Transgenesis"
+ tech_v_zoological_transgenesis_desc:0 "The similarities between different animal analogues allow us to easily transfer specific traits between them to our benefit."
+ TECH_UNLOCK_V_ZOOLOGICAL_GENETICS_TITLE:0 "§HUnlocks Feature:§! Zoological Transgenesis"
+ TECH_UNLOCK_V_ZOOLOGICAL_GENETICS_DESC:0 "Allows us to add Zoological Traits to Biological and Lithoid Species through Species Modification."
+
+ tech_v_hive_transgenesis:0 "Gestalt Transgenesis"
+ tech_v_hive_transgenesis_desc:0 "The genetics of eusocial species has a great potential to increase the productivity of our population while at the same time keeping their individuality unscathed."
+ TECH_UNLOCK_V_HIVE_GENETICS_TITLE:0 "§HUnlocks Feature:§! Gestalt Transgenesis"
+ TECH_UNLOCK_V_HIVE_GENETICS_DESC:0 "Allows us to add Gestalt Traits to Biological and Lithoid Species through Species Modification"
+
+ tech_v_robot_neural_mimicry:0 "Neural Mimicry"
+ tech_v_robot_neural_mimicry_desc:0 "The behavioral processes in organics can be copied and applied to synthetic processors in such a way for us to benefit from them."
+ TECH_UNLOCK_V_ROBOT_NEURAL_MIMICRY_TITLE:0 "§HUnlocks Feature:§! Robot Ethic Traits"
+ TECH_UNLOCK_V_ROBOT_NEURAL_MIMICRY_DESC:0 "Allows us to add Ethic Traits to Robots through Robomodding."
