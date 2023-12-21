@@ -8,11 +8,11 @@
  trait_v_stargazers:0 "Sungazers"
  trait_v_stargazers_desc:0 "§LThis species places a great deal of cultural significance in the many stars of the galaxy, with said stars strongly influencing their psychology and even their physiology.§!"
  TRAIT_STARGAZERS_EFFECT:0 "In systems with §YBlack Holes§!, §YNeutron Stars§! and §YPulsars§!: \n£engineering£ Engineering research from jobs £job£ Jobs: §G+20%§! \n£physics£ Physics research from jobs £job£ Jobs: §G+20%§! \n£society£ Society research from jobs £job£ Jobs: §G+20%§! (§YSpiritualist§!) \n£unity£ Unity from jobs £job£ Jobs: §G+20%§! (§YSpiritualist§!) \n\nIn systems with §YF§!, §YG§! and §YK§! Stars: \n£food£ Food from £job£ Jobs: §G+5%§! \n\nIn systems with §YA§! and §YB§! Stars: \n£energy£ Energy from £job£ Jobs: §G+5%§! \n\nIn systems with §YRed§! and §YBrown§! Dwarfs: \n£society£ Society research from jobs £job£ Jobs: §G+5%§! \n\nIn systems with §YRed Giants§!: \n£unity£ Unity from £job£ Jobs with: §G+20%§! (§YDeath Cult§!) \n£unity£ Unity from £job£ Jobs: §R-20%§! \nHappiness: §G+10%§! (§YDeath Cult§!) \nHappiness: §R-10%§!"
- 
+
  trait_v_predator:0 "Predator"
  trait_v_predator_desc:0 "§LThis species has always been hunting for prey. They are well adapted to the art of killing.§!"
  TRAIT_PREDATOR_EFFECT:0 "When sharing a world with §EPrey§! of the same §HArchetype§!: \nHappiness §G+10%§!"
- 
+
  trait_v_prey:0 "Prey"
  trait_v_prey_desc:0 "§LThis species has always been preyed upon by the native fauna of their world. Until this day, they are vigilant of predators.§!"
  TRAIT_PREY_EFFECT:0 "When sharing a world with a §EPredator§! of the same §HArchetype§!: \nHappiness: §R-10%§! \nPop Housing Usage: §G-10%§! \nXenophobe Ethics Attraction: §Y+50%§!"
