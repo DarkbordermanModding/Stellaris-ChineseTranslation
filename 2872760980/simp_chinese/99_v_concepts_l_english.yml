@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
 
  concept_v_leader_interceptor: "$leader_trait_v_interceptor$"
  concept_v_leader_interceptor_desc:0 "$FLEET_EFFECTS_TXT$: \n- $MOD_SHIP_TRACKING_MULT$: §G+15%§! \n- $mod_weapon_type_strike_craft_weapon_damage_mult$: §G+15%§! \n- $mod_weapon_type_strike_craft_speed_mult$: §G+15%§! \n\n§L$leader_trait_v_interceptor_desc$§!"
