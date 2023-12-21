@@ -14,7 +14,7 @@
  trait_v_emergency_repairs:0 "Emergency Repairs"
  trait_v_emergency_repairs_desc:0 "§LThese machines are capable of self repair in a case of being damaged in combat about half the time.§!"
  TRAIT_EMERGENCY_REPAIRS_EFFECT:0 "Chance for defeated armies to return: §Y33%§!"
- 
+
  trait_v_stealth_bots:0 "Stealth Systems"
  trait_v_stealth_bots_desc:0 "§LThese machines are designed for stealth. They can't be seen or heard by normal means.§!"
 
@@ -65,7 +65,7 @@
  trait_v_machine_engrams_desc:0 "§LRecording the experiences and combining it with learning algorithms allows skipping years of training while at the same time hopefully helping to avoid any further accidents.§!"
  TRAIT_MACHINE_ENGRAMS_EFFECT:0 "Each time a leader with §HEngram Recorder§! dies, other leaders with these traits and the same leader class gain §G10%§! of the total level of skill level experience of the dead leader, minus §Y10%§! of their own total skill level experience. Leaders with higher levels won't gain any experience from dead lower or equal levels of skill."
 
- trait_v_spare_parts:0 "Spare Parts"
+ trait_v_spare_parts:0 "备用零件"
  trait_v_spare_parts_desc:0 "§LThese machines are designed with spare parts in mind. But due to the nature of having backup parts for everything, there is a chance to collect enough of them to build a new machine unit.§!"
  TRAIT_SPARE_PARTS_EFFECT:0 "Each time a pop gets assembled, there is a §Y5%§! chance to gain between §Y1-3§! additional pops."
 
@@ -73,6 +73,6 @@
  trait_v_economies_of_scale_desc:0 "§LFor these machines, efficiency is the main focus of their design. They achieve economies of scale by creating massive production complexes to reduce operating costs.§!"
  TRAIT_ECONOMIES_OF_SCALE_EFFECT:0 "Each pop with §HEconomies of Scale§! working in a job producing any resource decreases the energy upkeep of pops working that job by: §G-1%§! \nEach pop with §HEconomies of Scale§! working in a job producing an £consumer_goods£ £alloys£ §YAdvanced§! or £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic§! resource reduces the resource upkeep of that job by: §G-1%§!"
 
- trait_v_machine_batteries:0 "Batteries"
- trait_v_machine_batteries_desc:0 "§LThese machines are equipped with a set of batteries that can hold great amounts of energy, it is possible to keep extra power for later use.§!"
+ trait_v_machine_batteries:0 "电池"
+ trait_v_machine_batteries_desc:0 "§L这些机器配置可以容纳大量能量的电池，可以保留额外的能量供后续使用。§!"
  TRAIT_MACHINE_BATTERIES_EFFECT:0 "Each pop working as a £job_technician£ §YTechnician§! increases the £mod_resource_energy_mult£ §YEnergy Storage Capacity§! by: §G+100§!"
