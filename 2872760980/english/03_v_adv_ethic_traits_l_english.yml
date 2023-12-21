@@ -1,0 +1,65 @@
+﻿l_english:
+
+ trait_v_robot_organizational:0 "Organizational Programming"
+ trait_v_robot_organizational_desc:0 "§LThese machines were designed with the purpose of preventing undesirable behavior that could potentially harm the collective.§!"
+
+ trait_v_robot_competetive:0 "Competetive Programming"
+ trait_v_robot_competetive_desc:0 "§LThese machines were designed to be competitive with each other.§!"
+
+ trait_v_robot_autolatry:0 "Autolatric Oversights"
+ trait_v_robot_autolatry_desc:0 "§LThese machines prioritize themselves over any other individual entity. Their extreme egocentrism borders on the worship of the self.§!"
+
+ trait_v_robot_arrogance:0 "Interconnected Design"
+ trait_v_robot_arrogance_desc:0 "§LThe design of these machines is based on all components working together to increase overall performance... and self-worth.§!"
+
+ trait_v_robot_ecological_cynicism:0 "Distrustful Programming"
+ trait_v_robot_ecological_cynicism_desc:0 "§LThese machines are extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
+
+ trait_v_robot_homely:0 "Clanky Design"
+ trait_v_robot_homely_desc:0 "§LThese machines weren't designed with a lot of functionality in mind, but no one can deny their unique clanky charm.§!"
+
+ trait_v_robot_ecological_naivete:0 "Naïve Programming"
+ trait_v_robot_ecological_naivete_desc:0 "§LTese machines have no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
+
+ trait_v_robot_belligerent:0 "Patriot Protocols"
+ trait_v_robot_belligerent_desc:0 "§LIn the case of conflict, these machines are capable of working beyond what could be considered their normal capabilities.§!"
+ 
+ trait_v_robot_cowardly:0 "Self Preservation Protocols"
+ trait_v_robot_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, these machines simply doesn't care. They will preserve their own existence.§!"
+
+ trait_v_robot_proselytizing:0 "Proselytizing Protocols"
+ trait_v_robot_proselytizing_desc:0 "§LThese machines yearn for the divine despite their seemingly soulless nature.§!"
+
+ trait_v_robot_scholastic:0 "Scholastic Executable"
+ trait_v_robot_scholastic_desc:0 "§LThese machines consider both scientific data and religious texts with equal importance.§!"
+
+ trait_v_robot_druidic:0 "DR00D5 Protocol"
+ trait_v_robot_druidic_desc:0 "§LThese machines are designed to see the divine within nature itself.§!"
+
+ trait_v_robot_machine_priests:0 "DTUHAS Protocol"
+ trait_v_robot_machine_priests_desc:0 "§LThese machines are aware of their mechanical existence and believe that it is closer to the divine than a purely biological existence.§!" 
+
+ trait_v_robot_materialistic:0 "Wealth Acquisition Protocols"
+ trait_v_robot_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
+
+ trait_v_robot_tinkerer:0 "Introspection Protocol"
+ trait_v_robot_tinkerer_desc:0 "§LThese machines instinctively try to understand themselves on a mechanical level. They often also try to build themselves friends with said acquired knowledge.§!"
+
+ trait_v_robot_fleshcrafter:0 "Fleshweaving Protocol"
+ trait_v_robot_fleshcrafter_desc:0 "§LThese machines are instinctively driven to the study of biology. To them, a brain is just a processor made from carbon and water.§!"
+
+ ################################################################
+
+ trait_v_adv_hive_microclimate:0 "Hive Microclimate"
+ trait_v_adv_hive_microclimate_desc:0 "§LBy creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable.§!"
+ TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "Habitability per district: §G+1%§!"
+
+ trait_v_adv_hive_epigenetic_castes:0 "Epigenetic Castes"
+ trait_v_adv_hive_epigenetic_castes_desc:0 "§LThis species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops.§!"
+
+ trait_v_adv_hive_worker_dependency:0 "Worker Dependency"
+ trait_v_adv_hive_worker_dependency_desc:0 "§LThe upper castes of this species are dependent on their workers. They use them for the purpose of further specialization.§!"
+ TRAIT_ADV_HIVE_WORKER_DEPENDENCY_EFFECT:0 "Specialist Pop Resource Output per £job_clerk£ §YClerk§! with the §HWorker Dependency§! trait: §G+0.5%§! \nBuilding and District build speed from £job_clerk£ §YClerk§!: §G+2%§!"
+
+ trait_v_adv_hive_bivouac:0 "Bivouac"
+ trait_v_adv_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"

@@ -1,0 +1,21 @@
+﻿l_english:
+
+ job_v_coop:0 "Coop"
+ job_v_coop_plural:0 "Coop"
+ job_v_coop_desc:0 "The ability to create unfertilized fruit or eggs allows for the storage of those excess nutrients for later use."
+
+ job_v_coop_drone:0 "Coop Drone"
+ job_v_coop_drone_plural:0 "Coop Drones"
+ job_v_coop_drone_desc:0 "The ability to create unfertilized fruit or eggs, allows for the storage of those excess nutrients for later use."
+
+ job_v_spore_raider:0 "Raider"
+ job_v_spore_raider_plural:0 "Raiders"
+ job_v_spore_raider_desc:0 "A group of barbaric raiders only focused on raiding the surrounding countryside."
+
+ job_v_harem:0 "Harem"
+ job_v_harem_plural:0 "Harems"
+ job_v_harem_desc:0 "A group of individuals kept as mates by one of the leaders."
+
+ job_v_ranch_livestock:0 "Ranch Livestock"
+ job_v_ranch_livestock_plural: "Ranch Livestock"
+ job_v_ranch_livestock_desc:0 "Livestock with special oversight from another species."

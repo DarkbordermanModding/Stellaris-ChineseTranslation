@@ -1,0 +1,98 @@
+﻿l_english:
+
+ trait_v_organizational:0 "Organizational Culture"
+ trait_v_organizational_desc:0 "§LThis species developed a societal structure that exists to prevent undesirable behavior that could potentially harm the group.§!"
+ TRAIT_ORGANIZATIONAL_EFFECT:0 "Each authoritarian pop working as a slave or better generates no crime and reduces crime by: §G-1§!"
+
+ trait_v_competetive:0 "Competetive"
+ trait_v_competetive_desc:0 "§LThis species has a very competetive nature.§!"
+ TRAIT_COMPETETIVE_EFFECT:0 "Resources From £job£ Jobs worked by egalitarian pops: §G+5%§!"
+
+ trait_v_autolatry:0 "Autolatry"
+ trait_v_autolatry_desc:0 "§LFor this species, the universe revolves around them. Their extreme egocentrism borders on the worship of the self.§!"
+ TRAIT_AUTOLATRY_EFFECT:0 "Each Egalitarian pop working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
+
+ trait_v_arrogance:0 "Arrogant"
+ trait_v_arrogance_desc:0 "§LThis species sees itself as the be-all and end-all of the universe. Any reason they can use to elevate themselves above others is used to enforce that conviction.§!"
+ TRAIT_ARROGANCE_EFFECT:0 "Xenophobe Ethics Attraction: §G+5%§! for each positive trait selected \nHappiness: §G+2.5%§! for each positive trait selected \nResources from £job£ Jobs: §G+1.25%§! for each positive trait selected"
+
+ trait_v_ecological_cynicism:0 "Ecological Cynicism"
+ trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
+ TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "Happiness if a different species is present: §R-10%§!"
+
+ trait_v_homely:0 "Homely"
+ trait_v_homely_desc:0 "§LThis species isn't the most functional of them all. It has a lot of problems that make their lives difficult. But for some reason or another, other species find them charming.§!"
+ TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases Xenophile Ethics Attraction by: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
+
+ trait_v_ecological_naivete:0 "Ecological Naïveté"
+ trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
+ TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Happiness if a different species is present: §G+10%§!"
+
+ trait_v_belligerent:0 "Belligerent"
+ trait_v_belligerent_desc:0 "§LWar is the way of this species. Members of this species will do their part.§!"
+ TRAIT_PATRIOT_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §G+10%§!"
+ 
+ trait_v_cowardly:0 "Cowardly"
+ trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
+ TRAIT_COWARD_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §R-10%§! \nResettlement Cost During War and Crisis: §G-50%§!"
+
+ trait_v_proselytizing:0 "Proselytizing"
+ trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
+ TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 1 £unity£ §YUnity§! per month."
+
+ trait_v_scholastic:0 "Scholastic"
+ trait_v_scholastic_desc:0 "§LFor this species, there exists no difference between faith and science. In reality, they seem to consider both of those things to be the same thing.§!"
+ TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_researcher£ §YResearchers§!."
+
+ trait_v_druidic:0 "Druidic"
+ trait_v_druidic_desc:0 "§LThis species sees the divine within nature itself.§!"
+ TRAIT_DRUIDS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest Output for every Naturally Occurring Blocker: §G+5%§! \nSpiritualist Ethics Attraction for every Naturally Occurring Blocker: §G+5%§!"
+
+ trait_v_machine_priests:0 "Machine Reverence"
+ trait_v_machine_priests_desc:0 "§LFrom the moment this species understood the weakness of its flesh, it disgusted them. They craved the strength and certainty of steel. They aspired to the purity of the blessed machine.§!"
+ TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
+
+ trait_v_materialistic:0 "Materialistic"
+ trait_v_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
+ TRAIT_MATERIALISTIC_EFFECT:0 "Each Materialist pop working as a slave or better increases Materialist Ethics Attraction by: §G+1%§! \nEach Materialist pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!. \nPop Consumer Goods Upkeep for Materialist pops: §R+10%§! \nPop Housing Usage for Materialist pops: §R+10%§!"
+
+ trait_v_tinkerer:0 "Tinkerer"
+ trait_v_tinkerer_desc:0 "§LFor this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects.§!"
+ TRAIT_TINKERER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £engineering_research£ §YEngineering Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
+
+ trait_v_fleshcrafter:0 "Fleshcrafter"
+ trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
+ TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
+
+ ################################################################################################################################
+
+ trait_v_hive_microclimate:0 "Hive Microclimate"
+ trait_v_hive_microclimate_desc:0 "§LBy creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable.§!"
+ TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "Habitability per district: §G+1%§!"
+
+ trait_v_hive_epigenetic_castes:0 "Epigenetic Castes"
+ trait_v_hive_epigenetic_castes_desc:0 "§LThis species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops.§!"
+ TRAIT_EPIGENETIC_CASTES_EFFECT:0 "This species can recruit §YDoor§!, §YKamikaze§!, §YTerror§! and §YSplitter§! armies."
+
+ v_door_drone_army:0 "Door Army"
+ v_door_drone_army_desc:0 "An army originally designed to function as living doors in the protection of hives."
+
+ v_suicide_drone_army:0 "Kamikaze Army"
+ v_suicide_drone_army_desc:0 "This army is designed to rush in and explode, dealing great damage to its surroundings. \n\n§WOn Destruction causes §R5§! planetary devastation.§!"
+
+ v_terror_drone_army:0 "Terror Army"
+ v_terror_drone_army_desc:0 "This army is designed to spread fear and destruction. While its direct damage is less than that of other hive armies, the sight of acid dissolving everything it comes in contact with is quite capable of destroying morale."
+
+ v_splitter_drone_army:0 "Splitter Army"
+ v_splitter_drone_army_desc:0 "This army was designed to create swarms of other smaller, more numerous units in the event of death. Their bodies contain younger forms that are 99% developed and are in a state of suspended animation until their progenitor dies. \n\n§WIf the army gets destroyed, it creates two smaller armies with §Y50%§! of the base stats of the army it was spawned from.§!"
+
+ v_split_drone_army:0 "Split Army"
+ v_split_drone_army_desc:0 "This army was spawned from a splitter army."
+
+ trait_v_hive_worker_dependency:0 "Worker Dependency"
+ trait_v_hive_worker_dependency_desc:0 "§LThe upper castes of this species are dependent on their workers. They use them for the purpose of further specialization.§!"
+ TRAIT_HIVE_WORKER_DEPENDENCY_EFFECT:0 "Complex Drone Pop Resource Output per £job_maintenance_drone£ §YMaintenance Drone§! with the §HWorker Dependency§! trait: §G+0.5%§! \nBuilding and District build speed from £job_maintenance_drone£ §YMaintenance Drones§!: §G+2%§!"
+
+ trait_v_hive_bivouac:0 "Bivouac"
+ trait_v_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"
+ TRAIT_HIVE_BIVOUAC_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!" 

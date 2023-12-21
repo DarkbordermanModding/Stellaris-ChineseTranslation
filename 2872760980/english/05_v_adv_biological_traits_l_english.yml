@@ -1,0 +1,240 @@
+﻿l_english:
+
+ trait_v_adv_social_parasite:0 "Social Parasite"
+ trait_v_adv_social_parasite_desc:0 "§LThis species won't do any work that is beneath them. In their earlier days, this species performed slave raids against eusocial species in order to acquire workers.§!"
+ 
+ trait_v_adv_brood_parasite:0 "Brood Parasite"
+ trait_v_adv_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
+ 
+ ###############################################################################################################################################################################################################
+ 
+ trait_v_adv_fertilising:0 "Fertilizing"
+ trait_v_adv_fertilising_desc:0 "§LThis species has the ability to increase the habitability of any planet they find themselves on.§!"
+ 
+ trait_v_adv_infertilising:0 "Infertilizing"
+ trait_v_adv_infertilising_desc:0 "§LThis species is detrimental to the environment of any world they find themselves on.§!"
+ 
+ trait_v_adv_allelopathy:0 "Allelopathy"
+ trait_v_adv_allelopathy_desc:0 "§LThis species has developed a set of chemical defense mechanisms against predators. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns.§!"
+
+ trait_v_adv_nectaries:0 "Nectaries"
+ trait_v_adv_nectaries_desc:0 "§LThis species produces a sweet nectar to attract pollinators. Thanks to this they can increase their numbers faster.§!"
+
+ trait_v_adv_kairomones:0 "Kairomones"
+ trait_v_adv_kairomones_desc:0 "§LThis species releases special signal chemicals that tend to attract animals when damaged. These signal chemicals attract predators of whatever species might have damaged them.§!"
+
+ trait_v_adv_pest_sensitive:0 "Pest Sensitive"
+ trait_v_adv_pest_sensitive_desc:0 "§LThis species is uniquely plagued by a number of pests. Being in proximity to large, uncontrolled swathes of territory can lead to them being extra prone to infestation.§!"
+
+ trait_v_adv_mycorrhizal:0 "Mycorrhizal"
+ trait_v_adv_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
+ 
+ trait_v_adv_hyphae_network:0 "Hyphae Network"
+ trait_v_adv_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
+ 
+ trait_v_adv_rhizobial:0 "Rhizobial"
+ trait_v_adv_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen binding bacteria that help to make the soil more fertile.§!"
+ 
+ trait_v_adv_rooted:0 "Sessile"
+ trait_v_adv_rooted_desc:0 "§LThis species is physically inseperable from the place it was born in. Their roots dig deep into the surface of the planet, making replanting impossible.§!"
+ 
+ trait_v_adv_ecotypic_a:0 "Alpha Ecotypic"
+ trait_v_adv_ecotypic_a_desc:0 "§LThis species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression.§!"
+ trait_v_adv_ecotypic_b:0 "Beta Ecotypic"
+ trait_v_adv_ecotypic_b_desc:0 "$trait_v_adv_ecotypic_a_desc$"
+
+ trait_v_adv_spores:0 "Spores"
+ trait_v_adv_spores_desc:0 "§LThis species releases large amounts of spores on death.§!"
+ 
+ trait_v_adv_pseudocopulative:0 "Pseudocopulative"
+ trait_v_adv_pseudocopulative_desc:0 "§LThis species has evolved to mimic other species. This Mimicry has taken the form of tricking other species into copulation.§!"
+ 
+ ###############################################################################################################################################################################################################
+
+ trait_v_adv_flying:0 "Flying"
+ trait_v_adv_flying_desc:0 "§LThis species has evolved the means of flight. Migration for this species is fast, easy and natural.§!"
+
+ trait_v_adv_aeroplankton:0 "Aeroplankton"
+ trait_v_adv_aeroplankton_desc:0 "§LThis species is known to move throughout the air in a less controlled fashion. Planets that have lower gravity or a denser atmosphere are preferable, due to a better ability to spread their offspring.§!"
+ 
+ trait_v_adv_double_respiration:0 "Double Respiration"
+ trait_v_adv_double_respiration_desc:0 "§LThis species has evolved a highly efficient respiration system. Unfortunately, this makes the species more susceptible to air pollution.§!"
+ 
+ trait_v_adv_metalic_exoskeleton:0 "Metallic Exoskeleton"
+ trait_v_adv_metalic_exoskeleton_desc:0 "§LThis species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill.§!"
+
+ trait_v_adv_fire_spewing:0 "Fire Spewing"
+ trait_v_adv_fire_spewing_desc:0 "§LThis species is capable of producing flames through chemical reaction. This makes them really good at spreading fear among enemy ranks in addition to creating large amounts of collateral damage.§!"
+
+ trait_v_adv_ectotherm:0 "Ectotherm"
+ trait_v_adv_ectotherm_desc:0 "§LThis species is ectothermic and relies on environmental sources of heat instead of internal ones. Thanks to this, species needs less food to survive and have a higher life expectancy.§!"
+ 
+ trait_v_adv_fac_endotherm:0 "Facultative Endotherm"
+ trait_v_adv_fac_endotherm_desc:0 "§LThis species is capable of facultative endothermy and is capable of using external heat sources, as well as creating their own heat.§!"
+ 
+ trait_v_adv_interceptor:0 "Natural Interceptor"
+ trait_v_adv_interceptor_desc:0 "§LThis species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
+ 
+ trait_v_adv_fossorial:0 "Fossorial"
+ trait_v_adv_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
+
+ trait_v_adv_foragial_limbs:0 "Foragial Limbs"
+ trait_v_adv_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
+
+ trait_v_adv_active_camouflage:0 "Camouflage"
+ trait_v_adv_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
+ 
+ trait_v_adv_locust:0 "Locusts"
+ trait_v_adv_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
+ 
+ trait_v_adv_repletes:0 "Repletes"
+ trait_v_adv_repletes_desc:0 "§LCertain members of this species are able to function as repletes, and are able to function as resource storage.§!"
+ 
+ trait_v_adv_explosive_autothysis:0 "Explosive Autothysis"
+ trait_v_adv_explosive_autothysis_desc:0 "§LThis species has developed a form of altruistic suicide, that ends up with an individual of this species exploding with significant force.§!"
+ 
+ trait_v_adv_mayfly:0 "Mayfly"
+ trait_v_adv_mayfly_desc:0 "§LThis species is extremely short-lived for a sentient race. In return, they learn really fast.§!"
+
+ trait_v_adv_biological_immortality:0 "Biological Immortality"
+ trait_v_adv_biological_immortality_desc:0 "§LThis species is seemingly immortal and is capable of eternal regeneration unless killed by a disease, predator or weapon.§!"
+
+ trait_v_adv_reanimation:0 "Reanimation"
+ trait_v_adv_reanimation_desc:0 "§LThis species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state.§!"
+
+ trait_v_adv_ghoulish:0 "Ghoulish"
+ trait_v_adv_ghoulish_desc:0 "§LMembers of this species aren't very good at social interactions, as their behavior and physiology would be best described as unsettling, and when compared to other species, they seem to look sickly.§!"
+
+ trait_v_adv_pearl_makers:0 "Pearl Makers"
+ trait_v_adv_pearl_makers_desc:0 "§LThis species is capable of creating nacre and in consequence pearls that can be sold.§!"
+
+ trait_v_adv_nacre_shell:0 "Nacre Shell"
+ trait_v_adv_nacre_shell_desc:0 "§LThis species has a natural armor made from Nacre. Nacre is one of the most resilient organic substances in the known universe.§!"
+
+ trait_v_adv_self_domesticated:0 "Self Domesticated"
+ trait_v_adv_self_domesticated_desc:0 "§LThis species has lived in a society for such a long period of time, it has influenced their DNA. Members of this species tend to be much more docile than other species.§!"
+
+ trait_v_adv_extremely_precise:0 "Extremely Precise"
+ trait_v_adv_extremely_precise_desc:0 "§LBe that a more developed Cerebellum or a set of additional muscles under the skin, this species is capable of extremely precise movement.§!"
+
+ trait_v_adv_complex_digestive_system:0 "Complex Digestive System"
+ trait_v_adv_complex_digestive_system_desc:0 "§LThe digestive system of this species is a masterwork of biochemistry. The complex digestive process is thanks to the advanced structure of the stomach and is aided by symbiotic microorganisms. Each calorie and each nutrient that can be gained from the food is gained.§!"
+
+ trait_v_adv_electrogenesis:0 "Electrogenesis"
+ trait_v_adv_electrogenesis_desc:0 "§LThis species developed a set of electric organs for defense and offense. Currently, they still use that ability for its intended purpose but also donating that power.§!"
+ 
+ trait_v_adv_plague:0 "Plagued"
+ trait_v_adv_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
+ 
+ #trait_v_adv_urban_adaptation:0 "Urban Adaptation"
+ #trait_v_adv_urban_adaptation_desc:0 "§LDespite not having evolved in a city, this species is excellently adapted to the urban environment.§!"
+
+ trait_v_adv_urbanobiont:0 "Urbanobiont"
+ trait_v_adv_urbanobiont_desc:0 "§LThis species is dependent on cities to thrive. Once out of those cities they tend to, not do that well.§!"
+
+ trait_v_adv_behavioral_sink:0 "Behavioral Sink"
+ trait_v_adv_behavioral_sink_desc:0 "§LMembers of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse.§!"
+
+ trait_v_adv_old_instincts:0 "Old Instincts"
+ trait_v_adv_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
+
+ trait_v_adv_toxoplasmosis:0 "Behavior Altering"
+ trait_v_adv_toxoplasmosis_desc:0 "§LThis species has a host to a parasite that can affect the behavior of its host's prey. While helpful in hunting, it also affects other species by increasing their happiness.§!"
+
+ trait_v_adv_webbing:0 "Webbing"
+ trait_v_adv_webbing_desc:0 "§LThis species has developed silk-like webs that can be used in a variety of situations. They make an excellent hiding spot from the elements and whatever else the surrounding environment has to offer.§!"
+
+ trait_v_adv_parthenocarpy:0 "Parthenocarpy"
+ trait_v_adv_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized fruit that can be reused as a source of food.§!"
+
+ trait_v_adv_blooming:0 "Blooming"
+ trait_v_adv_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
+
+ trait_v_adv_engrams:0 "Biochemical Engrams"
+ trait_v_adv_engrams_desc:0 "§LThis species is able to store memories in their genetic code and other forms of biochemical information storage. Over the years, it has been common for the younger generations to consume their elders to gain access to those memories.§!"
+ 
+ trait_v_adv_cecotrophy:0 "Cecotrophy"
+ trait_v_adv_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
+
+ trait_v_adv_silken_birth:0 "Silken Birth"
+ trait_v_adv_silken_birth_desc:0 "§LThe byproduct of reproduction of this species is the creation of a silklike thread.§!"
+
+ trait_v_adv_polyembryony:0 "Polyembryony"
+ trait_v_adv_polyembryony_desc:0 "§LThe reproductive process of this species can result in multiple embryos developing from a singular zygote.§!"
+
+ trait_v_adv_living_building:0 "Living Building Material"
+ trait_v_adv_living_building_desc:0 "§LThis species produces a material that can be used in construction. It is cheap and self repairing, making it perfect for infrastructure projects.§!"
+
+ trait_v_adv_hills_have_eyes:0 "Hills Have Eyes"
+ trait_v_adv_hills_have_eyes_desc:0 "§LThis species is connected to its planet in a peculiar way, it is able to sense enemies that land on the planet, essentially always knowing where the enemy is.§!"
+
+ trait_v_adv_guardians:0 "Guardians"
+ trait_v_adv_guardians_desc:0 "§LCertain members of this species take the form of towering giants with the purpose of protecting their people.§!"
+
+ trait_v_adv_explosive_birth:0 "Explosive Birth"
+ trait_v_adv_explosive_birth_desc:0 "§LBecause of a desire to spread its offspring as far as possible, this species does it through propelling their offspring with the use of explosive shrapnel-like seeds.§!"
+
+ trait_v_adv_prenatal_fratricide:0 "Prenatal Fratricide"
+ trait_v_adv_prenatal_fratricide_desc:0 "§LWhile many young may develop in the womb at the same time, only one will see the light of day.§!"
+
+ trait_v_adv_thorns:0 "Thorns"
+ trait_v_adv_thorns_desc:0 "§LThis species developed thorns for defensive purposes. Unfortunately, these thorns also affect other species.§!"
+
+ trait_v_adv_grafting:0 "Grafting"
+ trait_v_adv_grafting_desc:0 "§LThe physiology of this species allows for the grafting of parts belonging to other species without any major side effects.§!"
+
+ trait_v_adv_ecosystem_engineer:0 "Ecosystem Engineer"
+ trait_v_adv_ecosystem_engineer_desc:0 "§LThis species dabbles in the process of ecosystem engineering. Because of this, they are capable of altering the environment by creating new living spaces for themselves.§!"
+
+ trait_v_adv_musk:0 "Appeasement Displays"
+ trait_v_adv_musk_desc:0 "§LThis species uses scents and displays to show submission to member of their species that stand higher in their society.§!"
+
+ trait_v_adv_modular_organism:0 "Modular Organism"
+ trait_v_adv_modular_organism_desc:0 "§LMembers of this species take the form of zooids. Colonies specialize in one of few functions to maximize the good of the whole species.§!"
+
+ trait_v_adv_fungus_farmer:0 "Leaf Cutter"
+ trait_v_adv_fungus_farmer_desc:0 "§LThis species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi.§!"
+
+ trait_v_adv_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
+ trait_v_adv_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
+
+ trait_v_adv_embryonic_diapause:0 "Delayed Implantation"
+ trait_v_adv_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
+
+ trait_v_adv_creature_of_paradise:0 "Creature Of Paradise"
+ trait_v_adv_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
+
+ trait_v_adv_voice_box:0 "Voice Box"
+ trait_v_adv_voice_box_desc:0 "§LThis species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams.§!"
+
+ trait_v_adv_weaver:0 "Weavers"
+ trait_v_adv_weaver_desc:0 "§LThis species tends to use natural materials such as leaves to produce buildings and everyday items.§!"
+
+ trait_v_adv_bioluminesce:0 "Bioluminesce"
+ trait_v_adv_bioluminesce_desc:0 "§LThis species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out.§!"
+
+ trait_v_adv_rancher:0 "Ranchers"
+ trait_v_adv_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
+
+ trait_v_adv_aggregation:0 "Aggregation"
+ trait_v_adv_aggregation_desc:0 "§LThis species tends to aggregate into large groups of individuals to save space and protect them from the elements.§!"
+
+ trait_v_adv_filter_feeder:0 "Filter Feeder"
+ trait_v_adv_filter_feeder_desc:0 "§LThis species is adapted to filter food particles from the water.§!"
+
+ trait_v_adv_life_support:0 "Life Support"
+ trait_v_adv_life_support_desc:0 "§LThis species is generally weak and suffers from many ailments, therefore it needs to be constantly hooked up to a set of life support systems to function normally. This separation from their environment, however, grants them the ability to function in most environments without major problems.§!"
+
+ trait_v_adv_pneumoconiosis:0 "Pneumoconiosis"
+ trait_v_adv_pneumoconiosis_desc:0 "§LThis species has a tendency to develop pneumoconiosis, which makes breathing more difficult.§!"
+
+ trait_v_adv_polygynous:0 "Polygynous"
+ trait_v_adv_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
+
+ trait_v_adv_courtship_displays:0 "Courtship Displays"
+ trait_v_adv_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
+
+ ################################################################################################################################
+
+ trait_v_maleable_branches:0 "Malleable Branches"
+ trait_v_maleable_branches_desc:0 "§LThe branches of this species have been modified in such a way that they could be used to grow furniture, casings and other consumer goods.§!"
