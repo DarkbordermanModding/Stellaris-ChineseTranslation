@@ -9,7 +9,7 @@
 
  trait_v_polluting:0 "污染"
  trait_v_polluting_desc:0 "§L这些机器对环境产生了极大的负面影响。§!"
- TRAIT_POLLUTING_EFFECT:0 "每个做为奴隶或更高工作标准的人口降低 £mod_pop_environment_tolerance£ §YHabitability§! §R-2%§!"
+ TRAIT_POLLUTING_EFFECT:0 "每个做为奴隶或更高工作标准的人口 £mod_pop_environment_tolerance£ §Y宜居性§! §R-2%§!"
 
  trait_v_emergency_repairs:0 "Emergency Repairs"
  trait_v_emergency_repairs_desc:0 "§LThese machines are capable of self repair in a case of being damaged in combat about half the time.§!"
