@@ -32,19 +32,19 @@
  trait_v_rgb:0 "Exquisite Design"
  trait_v_rgb_desc:0 "§LThese machines have been designed with great care towards how they are designed. Their design is enough to awe almost anyone.§!"
 
- trait_v_auv:0 "AUV"
- trait_v_auv_desc:0 "§LThese machines have been designed to work in an aquatic environment and have problems working everywhere else.§!"
+ trait_v_auv:0 "水用机具"
+ trait_v_auv_desc:0 "§L这些机器专为水生环境中工作设计，在其他环境下无法使用。§!"
  TRAIT_AUV_EFFECT:0 "Job Resource output on §YOcean§! worlds: §G+10%§! \nJob Resource output on all other worlds: §R-100%§!"
 
- trait_v_flying_machine:0 "Flying Machines"
+ trait_v_flying_machine:0 "飞天机具"
  trait_v_flying_machine_desc:0 "§LThese machines are capable of flight, which grants them a lot of mobility.§!"
 
  trait_v_stationary: "Stationary"
  trait_v_stationary_desc: "§LThese machines aren't capable of relocation beyond their planet due to their design.§!"
  TRAIT_STATIONARY_EFFECT:0 "§RThese machines can't be resettled or migrate to other planets.§!"
 
- trait_v_fabricators:0 "Fabricators"
- trait_v_fabricators_desc:0 "§LThese machines were designed to work in heavy industries and metallurgy.§!"
+ trait_v_fabricators:0 "制造专精"
+ trait_v_fabricators_desc:0 "§L这些机器专为重工业和冶金设计。§!"
 
  trait_v_soft_robotics:0 "Soft Robotics"
  trait_v_soft_robotics_desc:0 "§LThese machines by design perform better when dealing with jobs concerning organics.§!"
