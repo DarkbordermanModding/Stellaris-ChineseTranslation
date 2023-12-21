@@ -1,15 +1,15 @@
 ﻿l_simp_chinese:
 
- trait_v_silicon_brain: "Silicon Brain"
- trait_v_silicon_brain_desc:0 "§LThe brains of this species resemble computers more than standard brains.§!"
+ trait_v_silicon_brain: "硅晶大脑"
+ trait_v_silicon_brain_desc:0 "§L這個物种的大脑比起一般大脑更像是计算机。§!"
 
- trait_v_regular_structure:0 "Regular Structure"
+ trait_v_regular_structure:0 "规则结构"
  trait_v_regular_structure_desc:0 "§LThe structure of this species is exceedingly regular, making their bodies hard but brittle.§!"
 
- trait_v_irregular_structure:0 "Irregular Structure"
+ trait_v_irregular_structure:0 "不规则结构"
  trait_v_irregular_structure_desc:0 "§LThe structure of this species is exceedingly irregular, making their bodies strong but soft.§!"
 
- trait_v_litholytic_enzymes:0 "Litholytic Enzymes"
+ trait_v_litholytic_enzymes:0 "石质酶"
  trait_v_litholytic_enzymes_desc:0 "§LThis species has developed litholytic enzymes for the purpose of easier access to minerals.§!"
  TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a slave or better increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by §G+1%§!"
 
