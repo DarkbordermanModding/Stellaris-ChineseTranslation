@@ -18,17 +18,17 @@
  trait_v_vein_network:0 "Ore Vein Network"
  trait_v_vein_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex network of ore veins and artificial wires. Ideas can be quickly shared between individuals, allowing for great leaps in culture and technology.§!"
 
- trait_v_living_mountain:0 "活體山脈"
+ trait_v_living_mountain:0 "活体山脉"
  trait_v_living_mountain_desc:0 "§LThis species might be considered a mountain, considering the fact that it is basically impossible to move them.§!"
  TRAIT_LIVING_MOUNTAIN_EFFECT:0 "Pop Mineral Upkeep per £planetsize£ §YPlanet Size§!: §G-1%§! \n$TRAIT_ROOTED_EFFECT$"
 
- trait_v_living_reactors:0 "輻射驅動"
+ trait_v_living_reactors:0 "核驱动"
  trait_v_living_reactors_desc:0 "§L這個物种是行走的核反应堆。Due to a large amount of radioactive isotopes, this species has adapted its organism to make use of those nuclear reactions for its own gain.§!"
  TRAIT_LIVING_REACTOR_EFFECT:0 "Habitability per Radiating Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§! \nEach pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. \nDestroyed armies and purged pops cause §R5§! planetary devastation."
 
  #TRAIT_ASBESTOS_WEBBING_EFFECT:0 "Habitability from £job_miner£ §YMiner§! Jobs for Lithoid species: §G+2%§! \nHabitability from £job_miner£ §YMiner§! Jobs for non-Lithoid species: §R-2%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-1§!"
 
- trait_v_lithoid_old_instincts:0 "Old Instincts"
+ trait_v_lithoid_old_instincts:0 "先祖本能"
  trait_v_lithoid_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
 
  trait_v_lithoid_aeroplankton:0 "Dust Reproduction"
@@ -47,26 +47,26 @@
  trait_v_lithoid_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized eggs or fruit in the form of geodes that can be reused as a source of minerals.§!"
  TRAIT_PARTHENOCARPY_L_EFFECT:0 "Instead of becoming unemployed, Pops automatically get employed in §YCoop§! Jobs. \nCoops provide §G2§! £minerals£ §YMinerals§! and §Y1§! £trade_value£ §YTrade Value§! but §R-2%§! Pop Growth Speed for §HGeodic§! Pops."
 
- trait_v_lithoid_cecotrophy:0 "Cecotrophy"
+ trait_v_lithoid_cecotrophy:0 "剖腹生产"
  trait_v_lithoid_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
 
  trait_v_pumice_raft:0 "Pumice Raft"
  trait_v_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
  TRAIT_PUMICE_RAFT_EFFECT:0 "On §YOcean Worlds§! Gain 1 £district£ §YDistrict§! per 10 pops with §HPumice Raft§!"
 
- trait_v_lithoid_foragial_limbs:0 "Foragial Limbs"
- trait_v_lithoid_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting minerals.§!"
+ trait_v_lithoid_foragial_limbs:0 "搜索肢"
+ trait_v_lithoid_foragial_limbs_desc:0 "§L该物种發展出专门收集矿物的肢体。§!"
 
  trait_v_lithoid_embryonic_diapause:0 "Delayed Implantation"
  trait_v_lithoid_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
  TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "Planets with this species can enact the Diapause decision. Upon enacting the Diapause decision, all pops with §HDelayed Implantation§!: \nPop Mineral Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
 
- trait_v_prismatic:0 "Prismatic"
- trait_v_prismatic_desc:0 "§LThe bodies of this species bend light to create beautiful displays of color.§!"
+ trait_v_prismatic:0 "稜鏡散射"
+ trait_v_prismatic_desc:0 "§L该物种的身体能讓光散射，创造出美丽的颜色陈列。§!"
  TRAIT_PRISMATIC_EFFECT:0 "£mod_planet_immigration_pull_add£ Immigration Pull from £job_entertainer£ Entertainers: §G+5§! \nReplaces £job_entertainer£ §YEntertainer§! £consumer_goods£ §Y$consumer_goods$§! upkeep with £energy£ §YEnergy§!"
 
- trait_v_crucible:0 "活體熔爐"
- trait_v_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物质直接改进成可用的合金。§!"
+ trait_v_crucible:0 "活体熔炉"
+ trait_v_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物直接合成可用的合金。§!"
  TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §YMiners§! count as £job_foundry£ §YMetallurgists§!. \nHabitability on §YDry§! Worlds: §G+50%§!"
 
  trait_v_lithoid_mycorrhizal:0 "菌丝网络"

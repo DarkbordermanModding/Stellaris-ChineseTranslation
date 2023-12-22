@@ -1,8 +1,8 @@
 ﻿l_simp_chinese:
 
- trait_v_lunar_cycle:0 "Lunar Cycle"
- trait_v_lunar_cycle_desc:0 "§LFor millions of years, this species has been linked to the existence of moons. The Presence of Moons has a visible effect on their wellbeing.§!"
- TRAIT_LUNAR_CYCLE_EFFECT:0 "Habitability on §YMoons§! and Worlds with §YMoons§!: §G+20%§!\nHabitability on Worlds without §YMoons§!: §R-20%§!"
+ trait_v_lunar_cycle:0 "卫星共同体"
+ trait_v_lunar_cycle_desc:0 "§L数百万年来，该物种与卫星的存在息息相关。卫星的存在对他们的健康有显著的影响。§!"
+ TRAIT_LUNAR_CYCLE_EFFECT:0 "在§Y卫星§!及有§Y卫星§!的行星宜居性: §G+20%§!\n在无§Y卫星§!的行星宜居性: §R-20%§!"
  NAME_LUNAR_NAME:0 "[Root.GetHomeWorldName]-Minor"
 
  trait_v_stargazers:0 "Sungazers"
