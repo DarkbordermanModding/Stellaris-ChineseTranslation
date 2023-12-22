@@ -108,8 +108,8 @@
  trait_v_neuroplasticity_desc:0 "§LThe brain of this species shows exceptional neuroplastic properties.§!"
  TRAIT_NEUROPLASTICITY_EFFECT:0 "Monthly chance to remove all Negative Traits from Leader: §G+1%§! \nFor each Trait removed, lose §R-300§! experience."
 
- trait_v_hale:0 "Hale"
- trait_v_hale_desc:0 "§LThis species is of strong health.§!"
+ trait_v_hale:0 "身强体壮"
+ trait_v_hale_desc:0 "§L这个物种先天体质健壮§!"
 
- trait_v_sickly:0 "Sickly"
- trait_v_sickly_desc:0 "§LThis species is of weak health.§!"
+ trait_v_sickly:0 "体弱多病"
+ trait_v_sickly_desc:0 "§L这个物种先天体质虚弱§!"
