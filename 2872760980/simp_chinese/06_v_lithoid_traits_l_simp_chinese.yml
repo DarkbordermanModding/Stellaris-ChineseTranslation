@@ -18,7 +18,7 @@
  trait_v_vein_network:0 "Ore Vein Network"
  trait_v_vein_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex network of ore veins and artificial wires. Ideas can be quickly shared between individuals, allowing for great leaps in culture and technology.§!"
 
- trait_v_living_mountain:0 "Living Mountains"
+ trait_v_living_mountain:0 "活體山脈"
  trait_v_living_mountain_desc:0 "§LThis species might be considered a mountain, considering the fact that it is basically impossible to move them.§!"
  TRAIT_LIVING_MOUNTAIN_EFFECT:0 "Pop Mineral Upkeep per £planetsize£ §YPlanet Size§!: §G-1%§! \n$TRAIT_ROOTED_EFFECT$"
 
@@ -65,13 +65,13 @@
  trait_v_prismatic_desc:0 "§LThe bodies of this species bend light to create beautiful displays of color.§!"
  TRAIT_PRISMATIC_EFFECT:0 "£mod_planet_immigration_pull_add£ Immigration Pull from £job_entertainer£ Entertainers: §G+5§! \nReplaces £job_entertainer£ §YEntertainer§! £consumer_goods£ §Y$consumer_goods$§! upkeep with £energy£ §YEnergy§!"
 
- trait_v_crucible:0 "Living Crucible"
- trait_v_crucible_desc:0 "§LThis species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up.§!"
+ trait_v_crucible:0 "活體熔爐"
+ trait_v_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物质直接改进成可用的合金。§!"
  TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §YMiners§! count as £job_foundry£ §YMetallurgists§!. \nHabitability on §YDry§! Worlds: §G+50%§!"
 
- trait_v_lithoid_mycorrhizal:0 "Mycorrhizal"
- trait_v_lithoid_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
- TRAIT_LITHOID_MYCORRHIZA_EFFECT:0 "Pop Minerals Upkeep per Naturally Occurring Blocker: §G-5%§!"
+ trait_v_lithoid_mycorrhizal:0 "菌丝网络"
+ trait_v_lithoid_mycorrhizal_desc:0 "§L该物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
+ TRAIT_LITHOID_MYCORRHIZA_EFFECT:0 "每个天然障碍人口矿物维护费: §G-5%§!"
 
  trait_v_statuesque:0 "Statuesque"
  trait_v_statuesque_desc:0 "§LThe bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue.§!"
