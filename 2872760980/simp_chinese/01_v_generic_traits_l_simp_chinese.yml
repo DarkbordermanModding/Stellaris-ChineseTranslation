@@ -84,24 +84,24 @@
  trait_v_lithoid_edc_sensitive_desc:0 "§LThis species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways.§!"
  TRAIT_LITHOID_EDC_SENSITIVE_EFFECT:0 "Pop Growth Speed per §YCity§!, §YIndustrial§! and §YMining§! district: §R-2.5%§!"
 
- trait_v_dry_adaptation:0 "Dry Adaptation"
+ trait_v_dry_adaptation:0 "干旱气候偏好"
  trait_v_dry_adaptation_desc:0 "§LThis species has a set of adaptations for dry environments, but they are disadvantageous in cold and wet environments.§!"
  TRAIT_DRY_ADAPTATION_EFFECT:0 "Habitability on §YDry§! Worlds: §G+20%§! \nHabitability on §YWet§! and §YFrozen§! Worlds: §R-10%§!"
 
- trait_v_wet_adaptation:0 "Wet Adaptation"
+ trait_v_wet_adaptation:0 "潮湿气候偏好"
  trait_v_wet_adaptation_desc:0 "§LThis species has a set of adaptations for wet environments, but they are disadvantageous in dry and cold environments.§!"
  TRAIT_WET_ADAPTATION_EFFECT:0 "Habitability on §YWet§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YFrozen§! Worlds: §R-10%§!"
 
- trait_v_frozen_adaptation:0 "Frozen Adaptation"
+ trait_v_frozen_adaptation:0 "寒冷气候偏好"
  trait_v_frozen_adaptation_desc:0 "§LThis species has a set of adaptations for frozen environments, but they are disadvantageous in hot and wet environments.§!"
  TRAIT_FROZEN_ADAPTATION_EFFECT:0 "Habitability on §YFrozen§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YWet§! Worlds: §R-10%§!"
 
- trait_v_difficult_reproduction:0 "Difficult Reproduction"
+ trait_v_difficult_reproduction:0 "难以繁殖"
  trait_v_difficult_reproduction_desc:0 "§LThis species requires a set of extremely specific environmental conditions to reproduce.§!"
  TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "Species can't procreate if the planet habitability is below §Y80%§!"
 
- trait_v_asexual_reproduction:0 "Asexual Reproduction"
- trait_v_asexual_reproduction_desc:0 "§LDue to a set of specific evolutionary developments, this species has become exclusively asexual in terms of reproduction.§!"
+ trait_v_asexual_reproduction:0 "无性繁殖"
+ trait_v_asexual_reproduction_desc:0 "§L在一系列特定的进化发展下，這個物种在繁殖上已成为无性繁殖。§!"
  TRAIT_ASEXUAL_REPRODUCTION_EFFECT:0 "Each pop working as a slave or better produces 0.05 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!.§!"
 
  trait_v_neuroplasticity:0 "Neuroplasticity"
