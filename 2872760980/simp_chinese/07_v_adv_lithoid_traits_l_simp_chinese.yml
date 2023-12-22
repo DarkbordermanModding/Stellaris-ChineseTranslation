@@ -1,21 +1,21 @@
 ﻿l_simp_chinese:
  trait_v_adv_silicon_brain: "Silicon Brain"
- trait_v_adv_silicon_brain_desc:0 "§LThrough advanced genetic engineering, the brains of this species have been altered to resemble computers more than standard brains.§!"
+ trait_v_adv_silicon_brain_desc:0 "§L透過先進的基因剪裁，the brains of this species have been altered to resemble computers more than standard brains.§!"
 
  trait_v_adv_regular_structure:0 "Regular Structure"
- trait_v_adv_regular_structure_desc:0 "§LThrough advanced genetic engineering, the structure of this species has been altered to be exceedingly regular, making their bodies hard but brittle.§!"
+ trait_v_adv_regular_structure_desc:0 "§L透過先進的基因剪裁，the structure of this species has been altered to be exceedingly regular, making their bodies hard but brittle.§!"
 
  trait_v_adv_irregular_structure:0 "Irregular Structure"
- trait_v_adv_irregular_structure_desc:0 "§LThrough advanced genetic engineering, the structure of this species has been altered to be exceedingly irregular, making their bodies strong but soft.§!"
+ trait_v_adv_irregular_structure_desc:0 "§L透過先進的基因剪裁，the structure of this species has been altered to be exceedingly irregular, making their bodies strong but soft.§!"
 
  trait_v_adv_litholytic_enzymes:0 "Litholytic Enzymes"
- trait_v_adv_litholytic_enzymes_desc:0 "§LThrough advanced genetic engineering, this species has gained the ability to produce litholytic enzymes for the purpose of dissolving minerals.§!"
+ trait_v_adv_litholytic_enzymes_desc:0 "§L透過先進的基因剪裁，this species has gained the ability to produce litholytic enzymes for the purpose of dissolving minerals.§!"
 
  trait_v_adv_living_reactors:0 "Radiating"
- trait_v_adv_living_reactors_desc:0 "§LThrough advanced genetic engineering, this species has become a walking nuclear reactor.§!"
+ trait_v_adv_living_reactors_desc:0 "§L透過先進的基因剪裁，this species has become a walking nuclear reactor.§!"
 
  trait_v_adv_meteoric:0 "Meteoric"
- trait_v_adv_meteoric_desc:0 "§LThrough advanced genetic engineering, this species has gained the ability to survive atmospheric entry. Their bodies have become more tough and durable, to compensate for the extreme heat and kinetic forces.§!"
+ trait_v_adv_meteoric_desc:0 "§L透過先進的基因剪裁，this species has gained the ability to survive atmospheric entry. Their bodies have become more tough and durable, to compensate for the extreme heat and kinetic forces.§!"
 
  trait_v_adv_pumice_raft:0 "Pumice Raft"
  trait_v_adv_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
