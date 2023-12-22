@@ -43,10 +43,10 @@
  trait_v_inefficient_digestion_l:0 "$trait_v_inefficient_digestion$"
  trait_v_inefficient_digestion_l_desc:0 "$trait_v_inefficient_digestion_desc$"
 
- trait_v_ascetic:0 "Ascetic"
+ trait_v_ascetic:0 "苦行者"
  trait_v_ascetic_desc:0 "§LThis species strains far from hedonistic pursuits. They tend to abstain from anything that can be considered unnecessary.§!"
 
- trait_v_sybaritic:0 "Sybaritic"
+ trait_v_sybaritic:0 "奢侈"
  trait_v_sybaritic_desc:0 "§LThis species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species.§!"
 
  trait_v_pack_behaviour:0 "Pack Behavior"
@@ -96,9 +96,9 @@
  trait_v_frozen_adaptation_desc:0 "§LThis species has a set of adaptations for frozen environments, but they are disadvantageous in hot and wet environments.§!"
  TRAIT_FROZEN_ADAPTATION_EFFECT:0 "Habitability on §YFrozen§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YWet§! Worlds: §R-10%§!"
 
- trait_v_difficult_reproduction:0 "难以繁殖"
- trait_v_difficult_reproduction_desc:0 "§LThis species requires a set of extremely specific environmental conditions to reproduce.§!"
- TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "Species can't procreate if the planet habitability is below §Y80%§!"
+ trait_v_difficult_reproduction:0 "高要求繁殖"
+ trait_v_difficult_reproduction_desc:0 "§L這個物种需要极其特定的环境条件才能繁殖。§!"
+ TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "物種無法在宜居性 §Y80% 以下自然繁殖§!"
 
  trait_v_asexual_reproduction:0 "无性繁殖"
  trait_v_asexual_reproduction_desc:0 "§L在一系列特定的进化发展下，這個物种在繁殖上已成为无性繁殖。§!"
