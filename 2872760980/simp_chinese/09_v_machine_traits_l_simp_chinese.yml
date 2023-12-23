@@ -1,11 +1,10 @@
 ﻿l_simp_chinese:
-
  trait_v_self_replicating:0 "自我复制"
  trait_v_self_replicating_desc:0 "§L自我复制的能力是机器可以探索，扩展，利用和消灭對手的最佳能力之一。§!"
- TRAIT_SELF_REPLICATING_EFFECT:0 "每個做為奴隸或更高工作標準的人口產生 0.02 £job_roboticist£ §Y每月人口組裝§!"
+ TRAIT_SELF_REPLICATING_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 0.02 £job_roboticist£ §Y每月人口组装§!"
 
  trait_v_terror_weapons:0 "恐怖武器"
- trait_v_terror_weapons_desc:0 "§L这些机器旨在毁灭敌人的士气，与他们战斗能讓任何物種想起他們最糟糕的噩梦。§!"
+ trait_v_terror_weapons_desc:0 "§L这些机器旨在毁灭敌人的士气，与他们战斗能让任何物种想起他们最糟糕的噩梦。§!"
 
  trait_v_polluting:0 "污染"
  trait_v_polluting_desc:0 "§L这些机器对环境产生了极大的负面影响。§!"
@@ -20,11 +19,11 @@
 
  trait_v_solar_panels:0 "太阳能板"
  trait_v_solar_panels_desc:0 "§L这些机器使用太阳能板补充了其能源需求的一部分。§!"
- TRAIT_SOLAR_PANELS_EFFECT: "Reduces Pop Energy Upkeep between §G-0.15§! and §G-0.5§! depending on the most luminous §YActive Star§! in the system."
+ TRAIT_SOLAR_PANELS_EFFECT: "根據星系內§Y最亮天體§!降低能量幣維護費 §G-0.15§! 至 §G-0.5§!"
 
- trait_v_processing_power_donation:0 "Processing Power Donation"
- trait_v_processing_power_donation_desc:0 "§LThese machines are capable of sharing a part of their unused processing power for scientific pursuits.§!"
- TRAIT_PROCESSING_POWER_DONATION_EFFECT:0 "Each pop working as a slave or better increases the £engineering£ £physics£ £society£ Research from £job_researcher£ §Y演算者§! by §G+0.5%§!"
+ trait_v_processing_power_donation:0 "处理器分享"
+ trait_v_processing_power_donation_desc:0 "§L这些机器能够将一部分未使用的处理资源分配给科研使用§!"
+ TRAIT_PROCESSING_POWER_DONATION_EFFECT:0 "每个做为奴隶或更高工作标准的人口对 £job_researcher£ §Y演算者§! £engineering£ £physics£ £society£ 产出 §G+0.5%§!"
 
  trait_v_stock_bot:0 "股票机器人"
  trait_v_stock_bot_desc:0 "§L这些机器将其过剩的处理能力用于计算股票价格。§!"
@@ -34,9 +33,9 @@
 
  trait_v_auv:0 "水用机具"
  trait_v_auv_desc:0 "§L这些机器专为水生环境中工作设计，在其他环境下无法使用。§!"
- TRAIT_AUV_EFFECT:0 "Job Resource output on §YOcean§! worlds: §G+10%§! \nJob Resource output on all other worlds: §R-100%§!"
+ TRAIT_AUV_EFFECT:0 "§Y海洋§! 星球岗位产出: §G+10%§! \n其他星球岗位产出: §R-100%§!"
 
- trait_v_flying_machine:0 "飞天机具"
+ trait_v_flying_machine:0 "航天机具"
  trait_v_flying_machine_desc:0 "§LThese machines are capable of flight, which grants them a lot of mobility.§!"
 
  trait_v_stationary: "Stationary"
