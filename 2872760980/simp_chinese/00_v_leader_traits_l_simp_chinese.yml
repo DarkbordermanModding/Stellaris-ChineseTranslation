@@ -1,25 +1,23 @@
 ﻿l_simp_chinese:
  #ADMIRAL#
- leader_trait_v_interceptor:0 "攔截者"
- leader_trait_v_interceptor_desc:0 "这位海军上将擅长拦截策略上。"
+ leader_trait_v_interceptor:0 "拦截者"
+ leader_trait_v_interceptor_desc:0 "这位海军上将擅长拦截策略。"
 
  #GENERAL#
  leader_trait_v_digger:0 "挖掘者"
  leader_trait_v_digger_desc:0 ""
 
  #SCIENTIST#
- leader_trait_v_evader:0 "閃避者"
- leader_trait_v_evader_desc:0 "Coming from a species of interception predators, this scientist is quite capable of evading most hostiles."
+ leader_trait_v_evader:0 "闪避者"
+ leader_trait_v_evader_desc:0 "这位科学家来自一种拦截者物种，具有逃避敌对势力的能力。"
 
  #GENERIC#
 
  #HAREM#
-
  leader_trait_v_polygynous:0 "Polygynous"
  leader_trait_v_polygynous_desc:0 "This leader has formed a harem."
 
  #BACKSTABBING#
-
  leader_trait_v_backstabbing:0 "Backstabbing"
  leader_trait_v_backstabbing_desc:0 "This leader can't be trusted. One should always keep this in mind when interacting with them."
  LEADER_TRAIT_BACKSTABBING_EFFECT:0 "Chance to kill a random Leader: §R+1%§! \nOn Kill Change Skill Level by: §G+1§!"
@@ -29,7 +27,6 @@
  leader_trait_v_gang_leader_desc:0 "This leader has a background in a criminal organization. In fact, the leader of said organization."
 
  #CAUTION TO THE WIND#
-
  leader_trait_v_caution_to_the_wind:0 "Caution To The Wind"
  leader_trait_v_caution_to_the_wind_desc:0 "To this leader, health and safety violations seem more like obstacles than valid concerns."
  LEADER_TRAIT_CTTW_EFFECT:0 "Monthly Death Chance: §R+1%§!"
