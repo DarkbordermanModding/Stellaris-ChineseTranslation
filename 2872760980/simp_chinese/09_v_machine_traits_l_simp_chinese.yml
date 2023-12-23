@@ -36,17 +36,17 @@
  TRAIT_AUV_EFFECT:0 "§Y海洋§! 星球岗位产出: §G+10%§! \n其他星球岗位产出: §R-100%§!"
 
  trait_v_flying_machine:0 "航天机具"
- trait_v_flying_machine_desc:0 "§LThese machines are capable of flight, which grants them a lot of mobility.§!"
+ trait_v_flying_machine_desc:0 "§L这些机器能够飞行，使他们机动性优良。§!"
 
- trait_v_stationary: "Stationary"
- trait_v_stationary_desc: "§LThese machines aren't capable of relocation beyond their planet due to their design.§!"
- TRAIT_STATIONARY_EFFECT:0 "§RThese machines can't be resettled or migrate to other planets.§!"
+ trait_v_stationary: "锚定"
+ trait_v_stationary_desc: "§L由于设计，这些机器无法搬迁到其他星球。§!"
+ TRAIT_STATIONARY_EFFECT:0 "§R这些机器不会搬迁并且无法强制迁徙§!"
 
  trait_v_fabricators:0 "制造专精"
  trait_v_fabricators_desc:0 "§L这些机器专为重工业和冶金设计。§!"
 
- trait_v_soft_robotics:0 "Soft Robotics"
- trait_v_soft_robotics_desc:0 "§LThese machines by design perform better when dealing with jobs concerning organics.§!"
+ trait_v_soft_robotics:0 "软体机器"
+ trait_v_soft_robotics_desc:0 "§L这些机器得利于其设计，在处理有机物的工作时的表现更好。§!"
  TRAIT_SOFT_ROBOTICS_EFFECT:0 "£society_research£ Society Research from £job_researcher£ Researchers and £job_ranger£ Rangers for every Naturally Occurring Blocker: §G+0.25§! \n£society_research£ Society Research from £job_healthcare£ Medical Workers: §G+1§! \n£job_healthcare£ Medical Workers have their base output increased by §G+50%§! \nBase Amenities from £job_xeno_zoo_keeper£ Zoo Keepers: §G+50%§!"
 
  trait_v_automated_chemistry:0 "Automated Chemistry"
