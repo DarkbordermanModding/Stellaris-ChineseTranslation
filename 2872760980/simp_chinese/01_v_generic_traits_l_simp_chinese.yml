@@ -98,7 +98,7 @@
 
  trait_v_difficult_reproduction:0 "高要求繁殖"
  trait_v_difficult_reproduction_desc:0 "§L這個物种需要极其特定的环境条件才能繁殖。§!"
- TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "物種無法在宜居性§Y80%§!以下自然繁殖§!"
+ TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "物種無法在宜居性§Y80%§!以下繁殖§!"
 
  trait_v_asexual_reproduction:0 "无性繁殖"
  trait_v_asexual_reproduction_desc:0 "§L在一系列特定的进化发展下，這個物种在繁殖上已成为无性繁殖。§!"

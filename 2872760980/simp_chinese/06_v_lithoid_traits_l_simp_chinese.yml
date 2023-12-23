@@ -51,7 +51,7 @@
  trait_v_lithoid_cecotrophy_desc:0 "§L该物种会藉由食糞获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
 
  trait_v_pumice_raft:0 "浮石"
- trait_v_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
+ trait_v_pumice_raft_desc:0 "§L与大多数岩石不同，浮石能漂浮在水上。这个物种充分利用这个特质来改变其环境。§!"
  TRAIT_PUMICE_RAFT_EFFECT:0 "On §YOcean Worlds§! Gain 1 £district£ §YDistrict§! per 10 pops with §HPumice Raft§!"
 
  trait_v_lithoid_foragial_limbs:0 "搜索肢"
@@ -81,10 +81,10 @@
  trait_v_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。该物种非常适合电力工作和作为活电池。§!"
  TRAIT_BATTERY_EFFECT: "Each pop working as a £job_technician£ §YTechnician§! increases the £mod_resource_energy_mult£ §YEnergy Storage Capacity§! by: §G+100§!"
 
- trait_v_iron_shell:0 "Iron Shells"
- trait_v_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
+ trait_v_iron_shell:0 "铁壳"
+ trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
  TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n£alloys£ $alloys$ from £job_foundry£ §YMetallurgists§! when a pop of this species is Growing or is being Assembled: §G+0.5§!"
 
- trait_v_eroding:0 "Eroding"
+ trait_v_eroding:0 "易腐"
  trait_v_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"
  TRAIT_ERODING_EFFECT:0 "Species Habitability Cap for each positive trait selected: §R-10%§!"
