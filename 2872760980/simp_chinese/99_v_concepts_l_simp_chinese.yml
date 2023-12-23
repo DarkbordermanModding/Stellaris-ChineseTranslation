@@ -23,6 +23,6 @@
 
  concept_v_harem:0 "$job_v_harem$"
  concept_v_harem_desc:0 "$job_v_harem$ Jobs produce £unity£ §YUnity§! \n\n§L$job_v_harem_desc$§!"
- 
+
  concept_v_ranch_livestock:0 "$job_v_ranch_livestock_plural$"
  concept_v_ranch_livestock_desc:0 "$job_v_ranch_livestock_plural$ produce £food£ §YFood§!, £consumer_goods£ §YConsumer Goods§!, £trade_value£ §YTrade Value§! and generate no £crime£ §YCrime§! \n\nLithoid $job_v_ranch_livestock_plural$ produce £minerals£ §YMinerals§! instead of £food£ §YFood§! \n\nGestalt Empires produce extra £food£ §YFood§! or £minerals£ §YMinerals§! instead of §YConsumer Goods§! and £trade_value£ §YTrade Value§! \n\n§L$job_v_ranch_livestock_desc$§!"
