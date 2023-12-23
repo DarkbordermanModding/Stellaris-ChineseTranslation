@@ -10,7 +10,7 @@
  mod_planet_entertainers_society_research_produces_add:0 "£society_research£ Society Research from £job_entertainer£ Entertainers"
  mod_planet_entertainers_physics_research_produces_add:0 "£physics_research£ Physics Research from £job_entertainer£ Entertainers"
 
- mod_planet_livestock_produces_mult:0 "Livestock Resource Output"
+ mod_planet_livestock_produces_mult:0 "牲畜资源产出"
  mod_country_resource_max_energy_add:0 "能量币储存上限"
 
  mod_planet_priests_engineering_research_produces_add:0 "£engineering_research£ Engineering from £job_priest£ £job_death_priest£ Priests"

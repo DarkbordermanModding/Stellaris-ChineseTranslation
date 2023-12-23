@@ -21,11 +21,11 @@
  trait_v_robot_ecological_naivete:0 "Naïve Programming"
  trait_v_robot_ecological_naivete_desc:0 "§LTese machines have no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
 
- trait_v_robot_belligerent:0 "Patriot 协议"
+ trait_v_robot_belligerent:0 "爱国者协议"
  trait_v_robot_belligerent_desc:0 "§LIn the case of conflict, these machines are capable of working beyond what could be considered their normal capabilities.§!"
 
- trait_v_robot_cowardly:0 "Self Preservation 协议"
- trait_v_robot_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, these machines simply doesn't care. They will preserve their own existence.§!"
+ trait_v_robot_cowardly:0 "自我保护协议"
+ trait_v_robot_cowardly_desc:0 "§L这些机器不在乎国家的存亡，他们寧願保全自己的存在。§!"
 
  trait_v_robot_proselytizing:0 "Proselytizing 协议"
  trait_v_robot_proselytizing_desc:0 "§LThese machines yearn for the divine despite their seemingly soulless nature.§!"
