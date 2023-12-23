@@ -67,7 +67,7 @@
 
  trait_v_crucible:0 "活体熔炉"
  trait_v_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物直接合成可用的合金。§!"
- TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §Y礦工§! 如同 £job_foundry£ §Y冶金師§!生產合金。 \n§Y干旱§!星球宜居性: §G+50%§!"
+ TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §Y矿工§! 如同 £job_foundry£ §Y冶金師§!生產合金。 \n§Y干旱§!星球宜居性: §G+50%§!"
 
  trait_v_lithoid_mycorrhizal:0 "菌丝网络"
  trait_v_lithoid_mycorrhizal_desc:0 "§L该物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
