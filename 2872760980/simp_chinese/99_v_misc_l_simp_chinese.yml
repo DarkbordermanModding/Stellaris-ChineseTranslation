@@ -1,11 +1,10 @@
 ﻿l_simp_chinese:
-
  mod_planet_livestock_consumer_goods_produces_add:0 "£consumer_goods£ Consumer Goods from £job_livestock£ §YLivestock§!"
  mod_planet_livestock_alloys_produces_add:0 "£alloys£ Alloys from £job_livestock£ §YLivestock§!"
 
  mod_planet_miners_food_produces_add:0 "£job_miner£ 矿工生产的 £food£ 食物"
- mod_planet_miners_exotic_gases_produces_add:0 "£exotic_gases£ Exotic Gases from £job_miner£ Miners"
- mod_planet_miners_rare_crystals_produces_add:0 "£rare_crystals£ Rare Crystals from £job_miner£ Miners"
+ mod_planet_miners_exotic_gases_produces_add:0 "£job_miner£ 矿工生产的 £exotic_gases£ 異星天然氣"
+ mod_planet_miners_rare_crystals_produces_add:0 "£job_miner£ 矿工生产的 £rare_crystals£ 稀有水晶"
 
  mod_planet_entertainers_society_research_produces_add:0 "£society_research£ Society Research from £job_entertainer£ Entertainers"
  mod_planet_entertainers_physics_research_produces_add:0 "£physics_research£ Physics Research from £job_entertainer£ Entertainers"
