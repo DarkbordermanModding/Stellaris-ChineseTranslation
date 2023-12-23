@@ -18,9 +18,9 @@
  leader_trait_v_polygynous_desc:0 "This leader has formed a harem."
 
  #BACKSTABBING#
- leader_trait_v_backstabbing:0 "Backstabbing"
- leader_trait_v_backstabbing_desc:0 "This leader can't be trusted. One should always keep this in mind when interacting with them."
- LEADER_TRAIT_BACKSTABBING_EFFECT:0 "Chance to kill a random Leader: §R+1%§! \nOn Kill Change Skill Level by: §G+1§!"
+ leader_trait_v_backstabbing:0 "背刺"
+ leader_trait_v_backstabbing_desc:0 "这个领袖不能信任。与它们互动时，应始终牢记这一点。"
+ LEADER_TRAIT_BACKSTABBING_EFFECT:0 "殺害領袖機率: §R+1%§! \n殺害領袖時等級: §G+1§!"
 
  #GANG LEADER#
  leader_trait_v_gang_leader:0 "Gang Leader"

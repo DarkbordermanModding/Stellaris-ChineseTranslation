@@ -15,7 +15,7 @@
  mod_planet_priests_engineering_research_produces_add:0 "£engineering_research£ Engineering from £job_priest£ £job_death_priest£ Priests"
  mod_planet_priests_physics_research_produces_add:0 "£physics_research£ Physics from £job_priest£ £job_death_priest£ Priests"
 
- mod_planet_pops_cyborgs_energy_upkeep_mult:0 "合成人能量币维护费"
+ mod_planet_pops_cyborgs_energy_upkeep_mult:0 "义体人能量币维护费"
 
  mod_job_v_harem_add:0 "Harem Jobs"
  mod_job_v_ranch_livestock_add:0 "Ranch Livestock Jobs"

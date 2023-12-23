@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
- trait_v_rapid_mutation:0 "Rapid Mutation"
- trait_v_rapid_mutation_desc:0 "§LThis species seems to mutate at a rapid pace, making them masters of adaptation. Unfortunately for them all, that adaptability comes with many drawbacks in terms of their health.§!"
+ trait_v_rapid_mutation:0 "快速突变"
+ trait_v_rapid_mutation_desc:0 "§L该物种突变迅速，使其得以适应各种环境。对于他们来说，不幸的是，这个特质在健康方面有许多缺点。§!"
 
  trait_v_symbiont_a:0 "Alpha Symbiont"
  trait_v_symbiont_a_desc:0 "§LThis species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce.§!"
