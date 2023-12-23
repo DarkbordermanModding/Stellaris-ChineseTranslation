@@ -35,22 +35,22 @@
  trait_v_lithoid_aeroplankton_desc:0 "§LThis species reproduces through dust-like particles. These particles can be easily moved by the wind, but cause respiratory issues to other species.§!"
  TRAIT_LITHOID_AEROPLANKTON_EFFECT:0 "Pop Growth Speed per £planetsize£ §YPlanet Size§! differing from £planetsize£ §Y18§!: §G+5%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! for species without §HDust Reproduction§! by §R-1%§!"
 
- trait_v_meteoric:0 "Meteoric"
- trait_v_meteoric_desc:0 "§LThis species has the ability to survive atmospheric entry. Their bodies are tough and durable, to compensate for the extreme heat and kinetic forces.§!"
- TRAIT_METEORIC_EFFECT:0 "Resettling a pop of this species causes §R10§! planetary devastation."
+ trait_v_meteoric:0 "陨石之躯"
+ trait_v_meteoric_desc:0 "§L这个物种迁徙时从大气进入，他们的身体坚固耐用以抵抗极端的热量和冲击。§!"
+ TRAIT_METEORIC_EFFECT:0 "强制迁徙人口造成§R10§!点破坏度."
 
  trait_v_rockust:0 "Rockusts"
  trait_v_rockust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into rockusts and enters a feeding frenzy.§!"
  TRAIT_ROCKUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Sped: §G+100%§! \nPop Mineral Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RMineral Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R2%§! \nEach pop working as a slave or better decreases the £minerals£ §YMinerals§! from jobs by: §R-2%§!  \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds.§!"
 
- trait_v_lithoid_parthenocarpy:0 "Geodic"
- trait_v_lithoid_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized eggs or fruit in the form of geodes that can be reused as a source of minerals.§!"
+ trait_v_lithoid_parthenocarpy:0 "晶蛋生產"
+ trait_v_lithoid_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"
  TRAIT_PARTHENOCARPY_L_EFFECT:0 "Instead of becoming unemployed, Pops automatically get employed in §YCoop§! Jobs. \nCoops provide §G2§! £minerals£ §YMinerals§! and §Y1§! £trade_value£ §YTrade Value§! but §R-2%§! Pop Growth Speed for §HGeodic§! Pops."
 
  trait_v_lithoid_cecotrophy:0 "食糞"
  trait_v_lithoid_cecotrophy_desc:0 "§L该物种会藉由食糞获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
 
- trait_v_pumice_raft:0 "Pumice Raft"
+ trait_v_pumice_raft:0 "浮石"
  trait_v_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
  TRAIT_PUMICE_RAFT_EFFECT:0 "On §YOcean Worlds§! Gain 1 £district£ §YDistrict§! per 10 pops with §HPumice Raft§!"
 
