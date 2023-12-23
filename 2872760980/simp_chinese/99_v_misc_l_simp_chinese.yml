@@ -3,7 +3,7 @@
  mod_planet_livestock_consumer_goods_produces_add:0 "£consumer_goods£ Consumer Goods from £job_livestock£ §YLivestock§!"
  mod_planet_livestock_alloys_produces_add:0 "£alloys£ Alloys from £job_livestock£ §YLivestock§!"
 
- mod_planet_miners_food_produces_add:0 "£food£ Food from £job_miner£ Miners"
+ mod_planet_miners_food_produces_add:0 "£job_miner£ 矿工生产的 £food£ 食物"
  mod_planet_miners_exotic_gases_produces_add:0 "£exotic_gases£ Exotic Gases from £job_miner£ Miners"
  mod_planet_miners_rare_crystals_produces_add:0 "£rare_crystals£ Rare Crystals from £job_miner£ Miners"
 
@@ -11,12 +11,12 @@
  mod_planet_entertainers_physics_research_produces_add:0 "£physics_research£ Physics Research from £job_entertainer£ Entertainers"
 
  mod_planet_livestock_produces_mult:0 "Livestock Resource Output"
- mod_country_resource_max_energy_add:0 "Energy Storage Capacity"
+ mod_country_resource_max_energy_add:0 "能量币储存上限"
 
  mod_planet_priests_engineering_research_produces_add:0 "£engineering_research£ Engineering from £job_priest£ £job_death_priest£ Priests"
  mod_planet_priests_physics_research_produces_add:0 "£physics_research£ Physics from £job_priest£ £job_death_priest£ Priests"
 
- mod_planet_pops_cyborgs_energy_upkeep_mult:0 "Cyborg Energy Upkeep"
+ mod_planet_pops_cyborgs_energy_upkeep_mult:0 "合成人能量币维护费"
 
  mod_job_v_harem_add:0 "Harem Jobs"
  mod_job_v_ranch_livestock_add:0 "Ranch Livestock Jobs"
