@@ -35,8 +35,8 @@
  trait_v_adv_rhizobial:0 "Rhizobial"
  trait_v_adv_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen binding bacteria that help to make the soil more fertile.§!"
  
- trait_v_adv_rooted:0 "Sessile"
- trait_v_adv_rooted_desc:0 "§LThis species is physically inseperable from the place it was born in. Their roots dig deep into the surface of the planet, making replanting impossible.§!"
+ trait_v_adv_rooted:0 "扎根"
+ trait_v_adv_rooted_desc:0 "§L这个物种物理上无法从居住地分离。它们的根部深入星球，使其不可能搬迁。§!"
  
  trait_v_adv_ecotypic_a:0 "Alpha Ecotypic"
  trait_v_adv_ecotypic_a_desc:0 "§LThis species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression.§!"

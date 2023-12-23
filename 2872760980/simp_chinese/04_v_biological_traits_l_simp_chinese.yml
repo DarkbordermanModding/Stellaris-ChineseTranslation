@@ -51,10 +51,10 @@
  trait_v_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen binding bacteria that help to make the soil more fertile.§!"
  TRAIT_RHIZOBIAL_EFFECT:0 "Each pop working as a slave or better increases £food£ §YFood§! from £job_farmer£ §YFarmers§! by: §G+1%§!"
 
- trait_v_rooted:0 "Sessile"
- trait_v_rooted_desc:0 "§LThis species is physically inseperable from the place it was born in. Their roots dig deep into the surface of the planet, making replanting impossible.§!"
- TRAIT_ROOTED_EFFECT:0 "§RThis species can't be resettled or migrate to other planets.§!"
- is_v_mobile_cant_be_resetttled:0 "§RPop can't be resettled!§!"
+ trait_v_rooted:0 "扎根"
+ trait_v_rooted_desc:0 "§L这个物种物理上无法从居住地分离。它们的根部深入星球，使其不可能搬迁。§!"
+ TRAIT_ROOTED_EFFECT:0 "§R这个物种不会搬迁并且无法强制迁徙§!"
+ is_v_mobile_cant_be_resetttled:0 "§R無法强制迁徙!§!"
 
  trait_v_ecotypic_a:0 "Alpha Ecotypic"
  trait_v_ecotypic_a_desc:0 "§LThis species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression.§!"
