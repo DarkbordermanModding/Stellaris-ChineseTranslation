@@ -49,16 +49,16 @@
  trait_v_soft_robotics_desc:0 "§L这些机器得利于其设计，在处理有机物的工作时的表现更好。§!"
  TRAIT_SOFT_ROBOTICS_EFFECT:0 "£society_research£ Society Research from £job_researcher£ Researchers and £job_ranger£ Rangers for every Naturally Occurring Blocker: §G+0.25§! \n£society_research£ Society Research from £job_healthcare£ Medical Workers: §G+1§! \n£job_healthcare£ Medical Workers have their base output increased by §G+50%§! \nBase Amenities from £job_xeno_zoo_keeper£ Zoo Keepers: §G+50%§!"
 
- trait_v_automated_chemistry:0 "Automated Chemistry"
+ trait_v_automated_chemistry:0 "自动化学"
  trait_v_automated_chemistry_desc:0 "§LThese machines have been designed for the purpose of working with dangerous chemicals. Due to this, they have enhanced protection from reactive substances.§!"
 
  trait_v_ecomorph:0 "Ecomorph"
  trait_v_ecomorph_desc:0 "§LThese machines have been designed to fill niches inside a ecosystem. Even if it doesn't fulfill the role anymore, it is still able to trigger a instinctual reaction from a specific species.§!"
  TRAIT_ECOMORPH_EFFECT:0 "Pops with this trait are counted for §EBrood Parasite§! and §EPseudocopulative§!. \nPops with this trait can trigger the effects of §EPredator§! and §EPrey§!."
 
- trait_v_living_metal:0 "活體金屬鑄造"
- trait_v_living_metal_desc:0 "§LThese machines have been designed using living metal, giving them a set of regenerative abilities.§!"
- living_metal_upkeep_tooltip:0 "Chance for armies to return: §Y50%§! \n£sr_living_metal£ Living Metal Upkeep: §R+0.125§!"
+ trait_v_living_metal:0 "活体金属设计"
+ trait_v_living_metal_desc:0 "§L这些机器是使用活体金属设计的，赋予了它们再生的能力。§!"
+ living_metal_upkeep_tooltip:0 "被摧毁陆军复活机率: §Y50%§! \n£sr_living_metal£ 活体金属维护费: §R+0.125§!"
 
  trait_v_machine_engrams:0 "Engram Recorder"
  trait_v_machine_engrams_desc:0 "§LRecording the experiences and combining it with learning algorithms allows skipping years of training while at the same time hopefully helping to avoid any further accidents.§!"
