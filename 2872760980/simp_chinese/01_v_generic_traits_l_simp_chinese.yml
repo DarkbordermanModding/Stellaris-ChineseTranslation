@@ -49,12 +49,12 @@
  trait_v_sybaritic:0 "奢侈"
  trait_v_sybaritic_desc:0 "§LThis species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species.§!"
 
- trait_v_pack_behaviour:0 "Pack Behavior"
- trait_v_pack_behaviour_desc:0 "§LThis species has a distinctive set of relationships between its members. They exhibit a extreme loyalty to anyone who is part of their "Pack". This isn't limited to members of their own species and anyone can become a part of it. And this fact isn't necesarily a good thing for them.§!"
+ trait_v_pack_behaviour:0 "集团行为"
+ trait_v_pack_behaviour_desc:0 "§L这个物种在其成员之间具有独特的关系。他们对参加「集团」的任何人都表现出极大的忠诚。这不仅限于自己物种的成员，任何人都可以成为其中的一部分。这对他们来说是必需的。§!"
 
- trait_v_lithotrophic:0 "Lithotrophic"
- trait_v_lithotrophic_desc:0 "§LThis species has a biology partially based on Carbon, as well as Silicon. This makes them a midpoint between Carbon and Silicon based life.§!"
- TRAIT_LITHOTROPHIC_EFFECT:0 "Replaces §Y50%§! of Base £food£ §YFood§! Upkeep with £minerals£ §YMinerals§! Upkeep. \n\nPop Growth Speed: §R-12.5%§! \nPop Assembly Speed: §R-12.5%§! \nHabitability: §G+25%§! \nArmy Health: §G+25%§! \nLeader Lifespan: §G+25§!"
+ trait_v_lithotrophic:0 "碳硅基生物"
+ trait_v_lithotrophic_desc:0 "§L这个物种的胺基酸部分基于碳和硅。这使它们成为碳基和硅基的生物体之间的中间点。§!"
+ TRAIT_LITHOTROPHIC_EFFECT:0 "将§Y50%§!的基础£food£§Y食物§!维护费替换为£minerals£§Y矿物§!维护费。 \n\n人口增长速度: §R-12.5%§! \n人口组装速度: §R-12.5%§! \n宜居性: §G+25%§! \n陆军生命值: §G+25%§! \n领袖寿命: §G+25§!年"
 
  trait_v_parasitised:0 "Parasitic Host"
  trait_v_parasitised_desc:0 "§LThis species is infested with a brain parasite, that is capable of hijacking the motor functions of the meatsuit it finds itself in for its own gain. Unfortunately for them, their inteligence is based on the inteligence of the host.§!"
@@ -76,13 +76,13 @@
  trait_v_weak_immune_system_desc:0 "§LThis species has a extraordinarily weak immune system. Diseases that other species can simply shrug off are for this species potentially deadly. Because of this, this species has to stay in perpetual quarantine to stay safe from the diseases other species might have.§!"
  TRAIT_WEAK_IMMUNE_SYSTEM_EFFECT:0 "This species will start to decline when any Non-Robotic pop without §HWeak Immune System§! is present."
 
- trait_v_edc_sensitive:0 "EDC Sensitive"
- trait_v_edc_sensitive_desc:0 "§LThis species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways.§!"
- TRAIT_EDC_SENSITIVE_EFFECT:0 "Pop Growth Speed per §YCity§!, §YIndustrial§! and §YAgriculture§! district: §R-2.5%§!"
+ trait_v_edc_sensitive:0 "化学物敏感"
+ trait_v_edc_sensitive_desc:0 "§L这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。§!"
+ TRAIT_EDC_SENSITIVE_EFFECT:0 "每 §Y都市区划§!，§Y工业区划§!，§Y农业区划§! 对人口成长速度: §R-2.5%§!"
 
- trait_v_lithoid_edc_sensitive:0 "EDC Sensitive"
- trait_v_lithoid_edc_sensitive_desc:0 "§LThis species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways.§!"
- TRAIT_LITHOID_EDC_SENSITIVE_EFFECT:0 "Pop Growth Speed per §YCity§!, §YIndustrial§! and §YMining§! district: §R-2.5%§!"
+ trait_v_lithoid_edc_sensitive:0 "化学物敏感"
+ trait_v_lithoid_edc_sensitive_desc:0 "§L这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。§!"
+ TRAIT_LITHOID_EDC_SENSITIVE_EFFECT:0 "每 §Y都市区划§!，§Y工业区划§!，§Y采矿区划§! 对人口成长速度: §R-2.5%§!"
 
  trait_v_dry_adaptation:0 "干旱气候偏好"
  trait_v_dry_adaptation_desc:0 "§LThis species has a set of adaptations for dry environments, but they are disadvantageous in cold and wet environments.§!"
@@ -102,11 +102,11 @@
 
  trait_v_asexual_reproduction:0 "无性繁殖"
  trait_v_asexual_reproduction_desc:0 "§L在一系列特定的进化发展下，這個物种在繁殖上已成为无性繁殖。§!"
- TRAIT_ASEXUAL_REPRODUCTION_EFFECT:0 "Each pop working as a slave or better produces 0.05 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!.§!"
+ TRAIT_ASEXUAL_REPRODUCTION_EFFECT:0 "每个做为奴隶或更高工作标准的人口產生 0.05 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!。§!"
 
- trait_v_neuroplasticity:0 "Neuroplasticity"
- trait_v_neuroplasticity_desc:0 "§LThe brain of this species shows exceptional neuroplastic properties.§!"
- TRAIT_NEUROPLASTICITY_EFFECT:0 "Monthly chance to remove all Negative Traits from Leader: §G+1%§! \nFor each Trait removed, lose §R-300§! experience."
+ trait_v_neuroplasticity:0 "神经可塑性"
+ trait_v_neuroplasticity_desc:0 "§L这个物种的大脑显示出卓越的神经塑性。§!"
+ TRAIT_NEUROPLASTICITY_EFFECT:0 "每月移除全部负向特质机率: §G+1%§! \n每移除一个负向特质 §R-300§! 经验。"
 
  trait_v_hale:0 "身强体壮"
  trait_v_hale_desc:0 "§L这个物种先天体质健壮§!"
