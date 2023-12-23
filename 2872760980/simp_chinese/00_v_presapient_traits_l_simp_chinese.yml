@@ -3,11 +3,11 @@
  trait_v_lunar_cycle:0 "卫星共同体"
  trait_v_lunar_cycle_desc:0 "§L数百万年来，该物种与卫星的存在息息相关。卫星的存在对他们的健康有显著的影响。§!"
  TRAIT_LUNAR_CYCLE_EFFECT:0 "在§Y卫星§!及有§Y卫星§!的行星宜居性: §G+20%§!\n在无§Y卫星§!的行星宜居性: §R-20%§!"
- NAME_LUNAR_NAME:0 "[Root.GetHomeWorldName]之守護"
+ NAME_LUNAR_NAME:0 "[Root.GetHomeWorldName]之守护"
 
- trait_v_stargazers:0 "Sungazers"
- trait_v_stargazers_desc:0 "§LThis species places a great deal of cultural significance in the many stars of the galaxy, with said stars strongly influencing their psychology and even their physiology.§!"
- TRAIT_STARGAZERS_EFFECT:0 "In systems with §YBlack Holes§!, §YNeutron Stars§! and §YPulsars§!: \n£engineering£ Engineering research from jobs £job£ Jobs: §G+20%§! \n£physics£ Physics research from jobs £job£ Jobs: §G+20%§! \n£society£ Society research from jobs £job£ Jobs: §G+20%§! (§YSpiritualist§!) \n£unity£ Unity from jobs £job£ Jobs: §G+20%§! (§YSpiritualist§!) \n\nIn systems with §YF§!, §YG§! and §YK§! Stars: \n£food£ Food from £job£ Jobs: §G+5%§! \n\nIn systems with §YA§! and §YB§! Stars: \n£energy£ Energy from £job£ Jobs: §G+5%§! \n\nIn systems with §YRed§! and §YBrown§! Dwarfs: \n£society£ Society research from jobs £job£ Jobs: §G+5%§! \n\nIn systems with §YRed Giants§!: \n£unity£ Unity from £job£ Jobs with: §G+20%§! (§YDeath Cult§!) \n£unity£ Unity from £job£ Jobs: §R-20%§! \nHappiness: §G+10%§! (§YDeath Cult§!) \nHappiness: §R-10%§!"
+ trait_v_stargazers:0 "天文爱好者"
+ trait_v_stargazers_desc:0 "§L某些恒星中对这个物种具有很大的文化意义，强烈影响其心理学甚至生理学。§!"
+ TRAIT_STARGAZERS_EFFECT:0 "在§Y黑洞§!，§Y中子星§!及§Y脉冲星§!: \n£engineering£ Engineering research from jobs £job£ Jobs: §G+20%§! \n£physics£ Physics research from jobs £job£ Jobs: §G+20%§! \n£society£ Society research from jobs £job£ Jobs: §G+20%§! (§YSpiritualist§!) \n£unity£ Unity from jobs £job£ Jobs: §G+20%§! (§YSpiritualist§!) \n\nIn systems with §YF§!, §YG§! and §YK§! Stars: \n£food£ Food from £job£ Jobs: §G+5%§! \n\nIn systems with §YA§! and §YB§! Stars: \n£energy£ Energy from £job£ Jobs: §G+5%§! \n\nIn systems with §YRed§! and §YBrown§! Dwarfs: \n£society£ Society research from jobs £job£ Jobs: §G+5%§! \n\nIn systems with §YRed Giants§!: \n£unity£ Unity from £job£ Jobs with: §G+20%§! (§YDeath Cult§!) \n£unity£ Unity from £job£ Jobs: §R-20%§! \nHappiness: §G+10%§! (§YDeath Cult§!) \nHappiness: §R-10%§!"
 
  trait_v_predator:0 "掠食者"
  trait_v_predator_desc:0 "§L这个物种一直在寻找猎物。他们在掠食技术上达到登峰造极。§!"
@@ -17,18 +17,18 @@
  trait_v_prey_desc:0 "§LThis species has always been preyed upon by the native fauna of their world. Until this day, they are vigilant of predators.§!"
  TRAIT_PREY_EFFECT:0 "When sharing a world with a §EPredator§! of the same §HArchetype§!: \nHappiness: §R-10%§! \nPop Housing Usage: §G-10%§! \nXenophobe Ethics Attraction: §Y+50%§!"
 
- trait_v_model_organism:0 "Model Organism"
- trait_v_model_organism_desc:0 "§LThe genetic code of this species is well organized and easy to edit, making this species perfect for advanced genetic modification.§!"
- trait_v_powerhungry:0 "Power Hungry"
+ trait_v_model_organism:0 "模型生物"
+ trait_v_model_organism_desc:0 "§L该物种的遗传密码井井有条且易于编辑，使该物种非常适合先进的遗传修饰。§!"
+ trait_v_powerhungry:0 "求权若渴"
  trait_v_powerhungry_desc:0 "§LThis species has a natural desire to be in positions of power. This is a consequence of their Ethology.§!"
  TRAIT_POWERHUNGRY_EFFECT:0 "Happiness when a ruler of their species isn't in power: §R-10%§! \n£unity£  Unity from £job£ Jobs when a ruler of their species isn't in power: §R-10%§!"
 
  trait_v_endemic:0 "特有种"
- trait_v_endemic_desc:0 "§L该物种只在這個星球存在，且無法適應其他環境。§!"
- TRAIT_ENDEMIC_EFFECT:0 "非此物種母星的行星宜居性: §R-100%§!"
+ trait_v_endemic_desc:0 "§L该物种只在这个星球存在，且无法适应其他环境。§!"
+ TRAIT_ENDEMIC_EFFECT:0 "非此物种母星的行星宜居性: §R-100%§!"
 
- trait_v_cosmopolitan:0 "Cosmopolitan"
- trait_v_cosmopolitan_desc:0 "§LThis species has spread far and wide across its homeworld, and it managed to thrive anywhere on it.§!"
+ trait_v_cosmopolitan:0 "随处可居"
+ trait_v_cosmopolitan_desc:0 "§L该物种已经遍及其母星，并在其任何地方都蓬勃发展。§!"
 
  trait_v_soil_maker:0 "造壤"
  trait_v_soil_maker_desc:0 "§L这个物种能够生产土壤。这个能力使该物种能够将贫瘠的行星变得可居住。§!"
