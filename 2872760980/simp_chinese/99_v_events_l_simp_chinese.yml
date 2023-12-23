@@ -16,13 +16,13 @@
  v_traits_spore_event.3.name:0 "Warlord On [Root.Planet.GetName]"
  v_traits_spore_event.3.desc:0 "A local warlord has made a bid for control of [Root.Planet.GetName]. Whenever this attempt is successful is to be seen. Let us hope that the local forces are enough to stem the tide."
 
- v_traits_spore_event.4.name:0 "Warlord Defeated"
+ v_traits_spore_event.4.name:0 "军阀被击败"
  v_traits_spore_event.4.desc:0 "The armies of the warlord have been successfully pushed back. The inhabitants of [Root.Planet.GetName] can now return to their daily lives."
 
- v_traits_spore_event.5.name:0 "Warlord Takes Over [FROMFROM.Planet.GetName]"
+ v_traits_spore_event.5.name:0 "军阀掌控了 [FROMFROM.Planet.GetName]"
  v_traits_spore_event.5.desc:0 "Unfortunately, our troops were unable to keep control of [FROMFROM.Planet.GetName]. Now the inhabitants of [FROMFROM.Planet.GetName] are under the control of the warlord. At the moment, the warlord seems to be sending a message to mock our failure to defend the inhabitants of [FROMFROM.Planet.GetName]. "
 
  v_traits_spore_event.6.desc:0 "This world is mine. Your pathetic armies didn't even stand a chance. Now stay away, or your armies will turn to dust once again."
- v_traits_spore_event.6.a:0 "Everyone has their price."
- v_traits_spore_event.6.b:0 "This world is ours."
- v_traits_spore_event.6.c:0 "What is one planet in the grand scheme of things?"
+ v_traits_spore_event.6.a:0 "万物都有其代价。"
+ v_traits_spore_event.6.b:0 "这个星球是我们的了。"
+ v_traits_spore_event.6.c:0 "在宏伟计划中，一个星球又算什么？"
