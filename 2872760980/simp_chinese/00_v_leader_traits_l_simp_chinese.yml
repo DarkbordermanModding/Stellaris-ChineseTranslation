@@ -1,23 +1,18 @@
 ﻿l_simp_chinese:
-
  #ADMIRAL#
-
- leader_trait_v_interceptor:0 "Interceptor"
- leader_trait_v_interceptor_desc:0 "This admiral excels at interception tactics."
+ leader_trait_v_interceptor:0 "攔截者"
+ leader_trait_v_interceptor_desc:0 "这位海军上将擅长拦截策略上。"
 
  #GENERAL#
-
- leader_trait_v_digger:0 "Digger"
+ leader_trait_v_digger:0 "挖掘者"
  leader_trait_v_digger_desc:0 ""
 
  #SCIENTIST#
-
- leader_trait_v_evader:0 "Evader"
+ leader_trait_v_evader:0 "閃避者"
  leader_trait_v_evader_desc:0 "Coming from a species of interception predators, this scientist is quite capable of evading most hostiles."
 
-
  #GENERIC#
- 
+
  #HAREM#
 
  leader_trait_v_polygynous:0 "Polygynous"
