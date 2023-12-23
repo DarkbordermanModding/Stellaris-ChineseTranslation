@@ -67,7 +67,7 @@
 
  trait_v_crucible:0 "活体熔炉"
  trait_v_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物直接合成可用的合金。§!"
- TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §YMiners§! count as £job_foundry£ §YMetallurgists§!. \nHabitability on §YDry§! Worlds: §G+50%§!"
+ TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §Y礦工§! 如同 £job_foundry£ §Y冶金師§!生產合金。 \n§Y干旱§!星球宜居性: §G+50%§!"
 
  trait_v_lithoid_mycorrhizal:0 "菌丝网络"
  trait_v_lithoid_mycorrhizal_desc:0 "§L该物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
@@ -77,8 +77,8 @@
  trait_v_statuesque_desc:0 "§LThe bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue.§!"
  TRAIT_STATUESQUE_EFFECT:0 "£job_culture_worker£ §YCulture Workers§! for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \n£unity£ Unity from £pop_cat_ruler£ Ruler Pops: §G+1§! \n£consumer_goods£ Consumer Goods upkeep for £pop_cat_ruler£ Ruler Pops: §R+1§!"
 
- trait_v_conductive:0 "Conductive"
- trait_v_conductive_desc:0 "§LDue to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries.§!"
+ trait_v_conductive:0 "导體"
+ trait_v_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。该物种非常适合电力工作和作为活电池。§!"
  TRAIT_BATTERY_EFFECT: "Each pop working as a £job_technician£ §YTechnician§! increases the £mod_resource_energy_mult£ §YEnergy Storage Capacity§! by: §G+100§!"
 
  trait_v_iron_shell:0 "Iron Shells"
