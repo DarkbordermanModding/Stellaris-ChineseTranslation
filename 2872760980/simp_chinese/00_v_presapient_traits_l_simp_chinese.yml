@@ -39,4 +39,4 @@
 
  trait_v_heterogamous_reproduction:0 "交互性繁殖"
  trait_v_heterogamous_reproduction_desc:0 "§L這個物种根据自己所處环境在有性和无性繁殖之间交替进行。在艰难的环境条件下以及在有益的环境条件下无性繁殖的性行为。§!"
- TRAIT_HETEROGAMOUS_REPRODUCTION_EFFECT:0 "物種無法在宜居性§Y80%§!以上繁殖 \n 當宜居性§Y60%§!以上時 each pop working as a slave or better produces 0.02 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!.§!"
+ TRAIT_HETEROGAMOUS_REPRODUCTION_EFFECT:0 "物種無法在宜居性§Y80%§!以上繁殖 \n 當宜居性§Y60%§!以上時，每个做为奴隶或更高工作标准的人口產生 0.02 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!。§!"
