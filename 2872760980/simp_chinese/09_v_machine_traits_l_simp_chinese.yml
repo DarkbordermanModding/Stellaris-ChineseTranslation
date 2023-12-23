@@ -29,7 +29,7 @@
  trait_v_stock_bot_desc:0 "§L这些机器将其过剩的处理能力用于计算股票价格。§!"
 
  trait_v_rgb:0 "精美設計"
- trait_v_rgb_desc:0 "§LThese machines have been designed with great care towards how they are designed. Their design is enough to awe almost anyone.§!"
+ trait_v_rgb_desc:0 "§L这些机器的设计非常精美。他们的设计足以令任何人敬畏。§!"
 
  trait_v_auv:0 "水用机具"
  trait_v_auv_desc:0 "§L这些机器专为水生环境中工作设计，在其他环境下无法使用。§!"
