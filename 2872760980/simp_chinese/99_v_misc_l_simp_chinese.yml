@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
- mod_planet_livestock_consumer_goods_produces_add:0 "£consumer_goods£ Consumer Goods from £job_livestock£ §YLivestock§!"
- mod_planet_livestock_alloys_produces_add:0 "£alloys£ Alloys from £job_livestock£ §YLivestock§!"
+ mod_planet_livestock_consumer_goods_produces_add:0 "£job_livestock£§Y牲口§!生產的£consumer_goods£消費品"
+ mod_planet_livestock_alloys_produces_add:0 "£job_livestock£§Y牲口§!生產的£alloys£合金"
 
  mod_planet_miners_food_produces_add:0 "£job_miner£ 矿工生产的 £food£ 食物"
  mod_planet_miners_exotic_gases_produces_add:0 "£job_miner£ 矿工生产的 £exotic_gases£ 異星天然氣"
