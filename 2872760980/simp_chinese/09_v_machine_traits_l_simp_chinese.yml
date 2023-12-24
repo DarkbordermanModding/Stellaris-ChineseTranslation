@@ -19,7 +19,7 @@
 
  trait_v_solar_panels:0 "太阳能板"
  trait_v_solar_panels_desc:0 "§L这些机器使用太阳能板补充了其能源需求的一部分。§!"
- TRAIT_SOLAR_PANELS_EFFECT: "根據星系內§Y最亮天體§!降低能量幣維護費 §G-0.15§! 至 §G-0.5§!"
+ TRAIT_SOLAR_PANELS_EFFECT: "根据星系内§Y最亮天体§!降低能量币维护费§G-0.15§!至§G-0.5§!"
 
  trait_v_processing_power_donation:0 "处理器分享"
  trait_v_processing_power_donation_desc:0 "§L这些机器能够将一部分未使用的处理资源分配给科研使用§!"
@@ -47,10 +47,10 @@
 
  trait_v_soft_robotics:0 "软体机器"
  trait_v_soft_robotics_desc:0 "§L这些机器得利于其设计，在处理有机物的工作时的表现更好。§!"
- TRAIT_SOFT_ROBOTICS_EFFECT:0 "£society_research£ Society Research from £job_researcher£ Researchers and £job_ranger£ Rangers for every Naturally Occurring Blocker: §G+0.25§! \n£society_research£ Society Research from £job_healthcare£ Medical Workers: §G+1§! \n£job_healthcare£ Medical Workers have their base output increased by §G+50%§! \nBase Amenities from £job_xeno_zoo_keeper£ Zoo Keepers: §G+50%§!"
+ TRAIT_SOFT_ROBOTICS_EFFECT:0 "每个天然障碍对£job_researcher£演算者及£job_ranger£护林员£society_research£社会学产出: §G+0.25§! \n £job_healthcare£医务工作者£society_research£社会学产出: §G+1 §! \n£job_healthcare£ Medical Workers have their base output increased by §G+50%§! \nBase Amenities from £job_xeno_zoo_keeper£ Zoo Keepers: §G+50%§!"
 
- trait_v_automated_chemistry:0 "自动化学"
- trait_v_automated_chemistry_desc:0 "§LThese machines have been designed for the purpose of working with dangerous chemicals. Due to this, they have enhanced protection from reactive substances.§!"
+ trait_v_automated_chemistry:0 "化学自处理"
+ trait_v_automated_chemistry_desc:0 "§L这些机器的设计目的是用于危险的化学物质处理。因此，它们增强了对化学物质的保护。§!"
 
  trait_v_ecomorph:0 "Ecomorph"
  trait_v_ecomorph_desc:0 "§LThese machines have been designed to fill niches inside a ecosystem. Even if it doesn't fulfill the role anymore, it is still able to trigger a instinctual reaction from a specific species.§!"
@@ -65,8 +65,8 @@
  TRAIT_MACHINE_ENGRAMS_EFFECT:0 "Each time a leader with §HEngram Recorder§! dies, other leaders with these traits and the same leader class gain §G10%§! of the total level of skill level experience of the dead leader, minus §Y10%§! of their own total skill level experience. Leaders with higher levels won't gain any experience from dead lower or equal levels of skill."
 
  trait_v_spare_parts:0 "备用零件"
- trait_v_spare_parts_desc:0 "§LThese machines are designed with spare parts in mind. But due to the nature of having backup parts for everything, there is a chance to collect enough of them to build a new machine unit.§!"
- TRAIT_SPARE_PARTS_EFFECT:0 "Each time a pop gets assembled, there is a §Y5%§! chance to gain between §Y1-3§! additional pops."
+ trait_v_spare_parts_desc:0 "§L这些机器在设计时留下备用零件以备不时之需。由于所有人口都有备份零件，因此有机会收集足够的它们来建立一个新的机器单元。§!"
+ TRAIT_SPARE_PARTS_EFFECT:0 "每当有人口组装完成时有§Y5%§!机率额外获得§Y1-3§!人口。"
 
  trait_v_economies_of_scale:0 "规模经济"
  trait_v_economies_of_scale_desc:0 "§LFor these machines, efficiency is the main focus of their design. They achieve economies of scale by creating massive production complexes to reduce operating costs.§!"
@@ -74,4 +74,4 @@
 
  trait_v_machine_batteries:0 "电池"
  trait_v_machine_batteries_desc:0 "§L这些机器配置可以容纳大量能量的电池，可以保留额外的能量供后续使用。§!"
- TRAIT_MACHINE_BATTERIES_EFFECT:0 "Each pop working as a £job_technician£ §YTechnician§! increases the £mod_resource_energy_mult£ §YEnergy Storage Capacity§! by: §G+100§!"
+ TRAIT_MACHINE_BATTERIES_EFFECT:0 "每个£job_technician£§Y技工§!岗位£mod_resource_energy_mult£§Y能量币储存上限§!: §G+100§!"
