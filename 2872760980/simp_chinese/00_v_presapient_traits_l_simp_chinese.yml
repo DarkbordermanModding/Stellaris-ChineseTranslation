@@ -11,11 +11,11 @@
 
  trait_v_predator:0 "掠食者"
  trait_v_predator_desc:0 "§L这个物种一直在寻找猎物。他们在掠食技术上达到登峰造极。§!"
- TRAIT_PREDATOR_EFFECT:0 "When sharing a world with §EPrey§! of the same §HArchetype§!: \nHappiness §G+10%§!"
+ TRAIT_PREDATOR_EFFECT:0 "当星球上有§E猎物§!特质的同§H生物类别§!人口: \n幸福度§G+10%§!"
 
  trait_v_prey:0 "猎物"
- trait_v_prey_desc:0 "§LThis species has always been preyed upon by the native fauna of their world. Until this day, they are vigilant of predators.§!"
- TRAIT_PREY_EFFECT:0 "When sharing a world with a §EPredator§! of the same §HArchetype§!: \nHappiness: §R-10%§! \nPop Housing Usage: §G-10%§! \nXenophobe Ethics Attraction: §Y+50%§!"
+ trait_v_prey_desc:0 "§L这个物种一直被星球的其他物种捕食。直到今天，他们对掠食者仍保持警惕。§!"
+ TRAIT_PREY_EFFECT:0 "当星球上有§E掠食者§!特质的同§H生物类别§!人口: \n幸福度:§R-10%§! \n人口住房使用: §G-10%§! \n排外主义思潮吸引度: §Y+50%§!"
 
  trait_v_model_organism:0 "模型生物"
  trait_v_model_organism_desc:0 "§L该物种的遗传密码井井有条且易于编辑，使该物种非常适合先进的遗传修饰。§!"
