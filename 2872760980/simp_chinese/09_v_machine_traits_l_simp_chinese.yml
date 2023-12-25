@@ -62,7 +62,7 @@
 
  trait_v_machine_engrams:0 "记忆纪录器"
  trait_v_machine_engrams_desc:0 "§L记忆纪录器记录经验并与学习算法相结合，可以跳过多年的培训，同时有望帮助避免发生任何其他事故。§!"
- TRAIT_MACHINE_ENGRAMS_EFFECT:0 "Each time a leader with §HEngram Recorder§! dies, other leaders with these traits and the same leader class gain §G10%§! of the total level of skill level experience of the dead leader, minus §Y10%§! of their own total skill level experience. Leaders with higher levels won't gain any experience from dead lower or equal levels of skill."
+ TRAIT_MACHINE_ENGRAMS_EFFECT:0 "当具有§H记忆纪录器§!特质领袖死亡时，其他具有此特质的领袖获得§G10%§!此领袖总经验 - §Y10%§!自身总经验。领袖死亡时仅有小于其等级的领袖会获得经验"
 
  trait_v_spare_parts:0 "备用零件"
  trait_v_spare_parts_desc:0 "§L这些机器在设计时留下备用零件以备不时之需。由于所有人口都有备份零件，因此有机会收集足够的它们来建立一个新的机器单元。§!"
