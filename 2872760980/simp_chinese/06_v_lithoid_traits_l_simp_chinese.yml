@@ -20,7 +20,7 @@
 
  trait_v_living_mountain:0 "活体山脉"
  trait_v_living_mountain_desc:0 "§L由于基本上不可能移动它们，这个物种被认为是山的山体。§!"
- TRAIT_LIVING_MOUNTAIN_EFFECT:0 "每 £planetsize£ §Y行星規模§!人口矿物维护费: §G-1%§! \n$TRAIT_ROOTED_EFFECT$"
+ TRAIT_LIVING_MOUNTAIN_EFFECT:0 "每£planetsize£§Y行星规模§!人口矿物维护费:§G-1%§! \n$TRAIT_ROOTED_EFFECT$"
 
  trait_v_living_reactors:0 "核驱动"
  trait_v_living_reactors_desc:0 "§L这个物种是行走的核反应堆。他们已经适应了体内大量的放射性同位素并利用核反应来获得好处。§!"
@@ -29,10 +29,10 @@
  #TRAIT_ASBESTOS_WEBBING_EFFECT:0 "Habitability from £job_miner£ §YMiner§! Jobs for Lithoid species: §G+2%§! \nHabitability from £job_miner£ §YMiner§! Jobs for non-Lithoid species: §R-2%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-1§!"
 
  trait_v_lithoid_old_instincts:0 "先祖本能"
- trait_v_lithoid_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
+ trait_v_lithoid_old_instincts_desc:0 "§L尽管该物种设法发展了一种文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
 
- trait_v_lithoid_aeroplankton:0 "Dust Reproduction"
- trait_v_lithoid_aeroplankton_desc:0 "§LThis species reproduces through dust-like particles. These particles can be easily moved by the wind, but cause respiratory issues to other species.§!"
+ trait_v_lithoid_aeroplankton:0 "粉尘复制"
+ trait_v_lithoid_aeroplankton_desc:0 "§L这个物种能够通过类似粉尘的颗粒生成。这些颗粒容易随风飞舞，造成其他物种呼吸系统的不适。§!"
  TRAIT_LITHOID_AEROPLANKTON_EFFECT:0 "Pop Growth Speed per £planetsize£ §YPlanet Size§! differing from £planetsize£ §Y18§!: §G+5%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! for species without §HDust Reproduction§! by §R-1%§!"
 
  trait_v_meteoric:0 "陨石之躯"
