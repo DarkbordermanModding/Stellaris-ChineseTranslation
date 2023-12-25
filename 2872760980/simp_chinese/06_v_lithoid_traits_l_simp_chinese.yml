@@ -83,8 +83,8 @@
 
  trait_v_iron_shell:0 "铁壳"
  trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
- TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n£alloys£ $alloys$ from £job_foundry£ §YMetallurgists§! when a pop of this species is Growing or is being Assembled: §G+0.5§!"
+ TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n当此物种正在生长或是被组装时£alloys£ $alloys$ from £job_foundry£ §YMetallurgists§! : §G+0.5§!"
 
  trait_v_eroding:0 "易腐"
  trait_v_eroding_desc:0 "§L尽管身为石质生物，这个物种特别容易受到侵蚀影响。§!"
- TRAIT_ERODING_EFFECT:0 "每个正向特质对移居性上限: §R-10%§!"
+ TRAIT_ERODING_EFFECT:0 "每个正向特质对物种宜居性上限: §R-10%§!"
