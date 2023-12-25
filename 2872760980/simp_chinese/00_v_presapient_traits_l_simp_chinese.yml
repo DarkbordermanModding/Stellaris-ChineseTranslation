@@ -28,15 +28,15 @@
  TRAIT_ENDEMIC_EFFECT:0 "非此物种母星的行星宜居性: §R-100%§!"
 
  trait_v_cosmopolitan:0 "随处可居"
- trait_v_cosmopolitan_desc:0 "§L该物种已经遍及其母星，并在其任何地方都蓬勃发展。§!"
+ trait_v_cosmopolitan_desc:0 "§L该物种已经遍及其母星，并在任何地方都能够蓬勃发展。§!"
 
  trait_v_soil_maker:0 "造壤"
- trait_v_soil_maker_desc:0 "§L这个物种能够生产土壤。这个能力使该物种能够将贫瘠的行星变得可居住。§!"
+ trait_v_soil_maker_desc:0 "§L这个物种能够生产土壤。这个能力使该物种能够将贫瘠的行星变得易于居住。§!"
  TRAIT_SOIL_MAKER_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§! §G+0.5%§! \n每个做为奴隶或更高工作标准的人口£job£崗位生產的£food£§Y食物§! : §G+1%§! \n每个做为奴隶或更高工作标准的人口£job£岗位生产的£minerals£§Y矿物§!: §R-1%§!"
 
  trait_v_party_animal:0 "派对动物"
- trait_v_party_animal_desc:0 "§LThis species likes to party. Their parties require a lot of resources, but at the same time are far wilder than the parties of any other species.§!"
+ trait_v_party_animal_desc:0 "§L这个物种喜欢开派对。他们的派对需要大量资源，但与此同时，它们的派对比其他物种的各方都狂野。§!"
 
  trait_v_heterogamous_reproduction:0 "交互性繁殖"
- trait_v_heterogamous_reproduction_desc:0 "§L這個物种根据自己所處环境在有性和无性繁殖之间交替进行。在艰难的环境条件下以及在有益的环境条件下无性繁殖的性行为。§!"
- TRAIT_HETEROGAMOUS_REPRODUCTION_EFFECT:0 "物種無法在宜居性§Y80%§!以上繁殖 \n 当宜居性§Y60%§!以上時，每个做为奴隶或更高工作标准的人口產生 0.02 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!。§!"
+ trait_v_heterogamous_reproduction_desc:0 "§L这个物种根据自己所处环境在有性和无性繁殖之间交替进行。在艰难的环境条件下以及在有益的环境条件下无性繁殖的性行为。§!"
+ TRAIT_HETEROGAMOUS_REPRODUCTION_EFFECT:0 "物种无法在宜居性§Y80%§!以上繁殖 \n 当宜居性§Y60%§!以上时，每个做为奴隶或更高工作标准的人口产生 0.02 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!。§!"

@@ -1,19 +1,19 @@
 ﻿l_simp_chinese:
  job_v_coop:0 "孵化者"
  job_v_coop_plural:0 "孵化者"
- job_v_coop_desc:0 "The ability to create unfertilized fruit or eggs allows for the storage of those excess nutrients for later use."
+ job_v_coop_desc:0 "能够产生未受精的水果或鸡蛋，存储多余的营养物质供以后使用。"
 
  job_v_coop_drone:0 "孵化無人機"
  job_v_coop_drone_plural:0 "孵化無人機"
- job_v_coop_drone_desc:0 "The ability to create unfertilized fruit or eggs, allows for the storage of those excess nutrients for later use."
+ job_v_coop_drone_desc:0 "能够产生未受精的水果或鸡蛋，存储多余的营养物质供以后使用。"
 
- job_v_spore_raider:0 "Raider"
- job_v_spore_raider_plural:0 "Raiders"
- job_v_spore_raider_desc:0 "A group of barbaric raiders only focused on raiding the surrounding countryside."
+ job_v_spore_raider:0 "劫匪"
+ job_v_spore_raider_plural:0 "劫匪"
+ job_v_spore_raider_desc:0 "一群野蛮的劫匪，着眼于突袭周围的乡村。"
 
- job_v_harem:0 "Harem"
- job_v_harem_plural:0 "Harems"
- job_v_harem_desc:0 "A group of individuals kept as mates by one of the leaders."
+ job_v_harem:0 "后宫"
+ job_v_harem_plural:0 "后宫"
+ job_v_harem_desc:0 "被领袖保留为满足交配需求的个体"
 
  job_v_ranch_livestock:0 "牧場牲口"
  job_v_ranch_livestock_plural: "牧場牲口"
