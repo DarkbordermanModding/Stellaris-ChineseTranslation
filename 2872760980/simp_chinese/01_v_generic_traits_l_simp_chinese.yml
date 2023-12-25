@@ -44,10 +44,10 @@
  trait_v_inefficient_digestion_l_desc:0 "$trait_v_inefficient_digestion_desc$"
 
  trait_v_ascetic:0 "苦行者"
- trait_v_ascetic_desc:0 "§LThis species strains far from hedonistic pursuits. They tend to abstain from anything that can be considered unnecessary.§!"
+ trait_v_ascetic_desc:0 "§L该物种远离享乐主义。他们倾向于避免任何可以认为是不必要的东西。§!"
 
  trait_v_sybaritic:0 "奢侈"
- trait_v_sybaritic_desc:0 "§LThis species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species.§!"
+ trait_v_sybaritic_desc:0 "§L这个物种喜欢奢侈品。享乐主义和浪费时间不必要的消费是该物种的标志。§!"
 
  trait_v_pack_behaviour:0 "集团行为"
  trait_v_pack_behaviour_desc:0 "§L这个物种在其成员之间具有独特的关系。他们对参加「集团」的任何人都表现出极大的忠诚。这不仅限于自己物种的成员，任何人都可以成为其中的一部分。这对他们来说是必需的。§!"
