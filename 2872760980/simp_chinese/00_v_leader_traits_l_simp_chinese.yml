@@ -14,19 +14,19 @@
  #GENERIC#
 
  #HAREM#
- leader_trait_v_polygynous:0 "Polygynous"
- leader_trait_v_polygynous_desc:0 "This leader has formed a harem."
+ leader_trait_v_polygynous:0 "一夫多妻"
+ leader_trait_v_polygynous_desc:0 "这个领袖有自己的后宫"
 
  #BACKSTABBING#
  leader_trait_v_backstabbing:0 "背刺"
  leader_trait_v_backstabbing_desc:0 "这个领袖不能信任。与它们互动时，应始终牢记这一点。"
- LEADER_TRAIT_BACKSTABBING_EFFECT:0 "殺害領袖機率: §R+1%§! \n殺害領袖時等級: §G+1§!"
+ LEADER_TRAIT_BACKSTABBING_EFFECT:0 "杀害领袖机率: §R+1%§! \n杀害领袖时等级: §G+1§!"
 
  #GANG LEADER#
- leader_trait_v_gang_leader:0 "Gang Leader"
- leader_trait_v_gang_leader_desc:0 "This leader has a background in a criminal organization. In fact, the leader of said organization."
+ leader_trait_v_gang_leader:0 "劫匪领袖"
+ leader_trait_v_gang_leader_desc:0 "该领袖曾经有犯罪背景。事实上他曾是犯罪组织的领导者。"
 
  #CAUTION TO THE WIND#
- leader_trait_v_caution_to_the_wind:0 "Caution To The Wind"
- leader_trait_v_caution_to_the_wind_desc:0 "To this leader, health and safety violations seem more like obstacles than valid concerns."
- LEADER_TRAIT_CTTW_EFFECT:0 "Monthly Death Chance: §R+1%§!"
+ leader_trait_v_caution_to_the_wind:0 "鲁莽行事"
+ leader_trait_v_caution_to_the_wind_desc:0 "对于这位领袖来说，违反健康和安全的行为与其是担忧更像是该跨过的障碍。"
+ LEADER_TRAIT_CTTW_EFFECT:0 "每月死亡率: §R+1%§!"
