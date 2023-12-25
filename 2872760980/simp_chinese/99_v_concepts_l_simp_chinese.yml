@@ -22,7 +22,7 @@
  ################################################################################################################################
 
  concept_v_harem:0 "$job_v_harem$"
- concept_v_harem_desc:0 "$job_v_harem$ Jobs produce £unity£ §YUnity§! \n\n§L$job_v_harem_desc$§!"
+ concept_v_harem_desc:0 "$job_v_harem$产生£unity£§Y凝聚力§! \n\n§L$job_v_harem_desc$§!"
 
  concept_v_ranch_livestock:0 "$job_v_ranch_livestock_plural$"
- concept_v_ranch_livestock_desc:0 "$job_v_ranch_livestock_plural$ produce £food£ §YFood§!, £consumer_goods£ §YConsumer Goods§!, £trade_value£ §YTrade Value§! and generate no £crime£ §YCrime§! \n\nLithoid $job_v_ranch_livestock_plural$ produce £minerals£ §YMinerals§! instead of £food£ §YFood§! \n\nGestalt Empires produce extra £food£ §YFood§! or £minerals£ §YMinerals§! instead of §YConsumer Goods§! and £trade_value£ §YTrade Value§! \n\n§L$job_v_ranch_livestock_desc$§!"
+ concept_v_ranch_livestock_desc:0 "$job_v_ranch_livestock_plural$产生£food£§Y食物§!，£consumer_goods£§Y消费品§!，£trade_value£§Y贸易额§!并且不产生£crime£§Y犯罪度§! \n\n石质类$job_v_ranch_livestock_plural$产生£minerals£§Y矿物§!而非£food£§Y食物§! \n\n格式塔意识帝国产生额外的£food£§Y食物§!或£minerals£§Y矿物§!而非£consumer_goods£§Y消费品§!及£trade_value£ §Y贸易额§! \n\n§L$job_v_ranch_livestock_desc$§!"
