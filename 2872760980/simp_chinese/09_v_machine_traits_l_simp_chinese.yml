@@ -70,7 +70,7 @@
 
  trait_v_economies_of_scale:0 "规模经济"
  trait_v_economies_of_scale_desc:0 "§L对于这些机器，效率是其设计的主要重点。他们通过建立大量生产建物来降低运营成本实现规模经济。§!"
- TRAIT_ECONOMIES_OF_SCALE_EFFECT:0 "每个具有§H规模经济§!特质的人口在岗位上时对此岗位人口维护费: §G-1%§! \nEach pop with §HEconomies of Scale§! working in a job producing an £consumer_goods£ £alloys£ §YAdvanced§! or £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic§! resource reduces the resource upkeep of that job by: §G-1%§!"
+ TRAIT_ECONOMIES_OF_SCALE_EFFECT:0 "每个具有§H规模经济§!特质的人口在岗位上时对此岗位人口维护费: §G-1%§! \n每个具有§H规模经济§!特质的人口在岗位上对此岗位的£consumer_goods£ £alloys£ §Y进阶资源§!或 £volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!维护费: §G-1%§!"
 
  trait_v_machine_batteries:0 "电池"
  trait_v_machine_batteries_desc:0 "§L这些机器配置可以容纳大量能量的电池，可以保留额外的能量供后续使用。§!"
