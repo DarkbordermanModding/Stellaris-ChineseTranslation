@@ -3,28 +3,28 @@
  trait_v_silicon_brain_desc:0 "§L這個物种的大脑比起一般大脑更像是计算机。§!"
 
  trait_v_regular_structure:0 "规则结构"
- trait_v_regular_structure_desc:0 "§LThe structure of this species is exceedingly regular, making their bodies hard but brittle.§!"
+ trait_v_regular_structure_desc:0 "§L這個物种的结构极为规律，使他们的身体堅硬但易碎。§!"
 
  trait_v_irregular_structure:0 "不规则结构"
- trait_v_irregular_structure_desc:0 "§LThe structure of this species is exceedingly irregular, making their bodies strong but soft.§!"
+ trait_v_irregular_structure_desc:0 "§L這個物种的结构极为不规律，使其身体柔软但不易碎。§!"
 
  trait_v_litholytic_enzymes:0 "石质酶"
- trait_v_litholytic_enzymes_desc:0 "§LThis species has developed litholytic enzymes for the purpose of easier access to minerals.§!"
- TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a slave or better increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by §G+1%§!"
+ trait_v_litholytic_enzymes_desc:0 "§L這個物种發展出了石质酶，以便于更容易攝取矿物质。§!"
+ TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "每个做为奴隶或更高工作标准的人口£job_miner£§Y矿工§!£minerals£§Y矿物§!产出§G+1%§!"
 
  trait_v_gems:0 "宝石外壳"
  trait_v_gems_desc:0 "§L这个物种外壳会脱落宝石。尽管这些宝石的工业价值不大，但由于它们的美学价值和地位象征而受到更广泛的公众追求。§!"
 
- trait_v_vein_network:0 "Ore Vein Network"
- trait_v_vein_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex network of ore veins and artificial wires. Ideas can be quickly shared between individuals, allowing for great leaps in culture and technology.§!"
+ trait_v_vein_network:0 "矿脉网络"
+ trait_v_vein_network_desc:0 "§这个物种具有复杂的矿脉和人造网络，与物种的其他成员建立了永久连接。个人可以在个人之间迅速共享想法，从而允许文化和技术方面突飞猛进。§!"
 
  trait_v_living_mountain:0 "活体山脉"
- trait_v_living_mountain_desc:0 "§LThis species might be considered a mountain, considering the fact that it is basically impossible to move them.§!"
+ trait_v_living_mountain_desc:0 "§L由于基本上不可能移动它们，这个物种被认为是山的山体。§!"
  TRAIT_LIVING_MOUNTAIN_EFFECT:0 "每 £planetsize£ §Y行星規模§!人口矿物维护费: §G-1%§! \n$TRAIT_ROOTED_EFFECT$"
 
  trait_v_living_reactors:0 "核驱动"
- trait_v_living_reactors_desc:0 "§L這個物种是行走的核反应堆。Due to a large amount of radioactive isotopes, this species has adapted its organism to make use of those nuclear reactions for its own gain.§!"
- TRAIT_LIVING_REACTOR_EFFECT:0 "Habitability per Radiating Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§! \nEach pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. \nDestroyed armies and purged pops cause §R5§! planetary devastation."
+ trait_v_living_reactors_desc:0 "§L这个物种是行走的核反应堆。他们已经适应了体内大量的放射性同位素并利用核反应来获得好处。§!"
+ TRAIT_LIVING_REACTOR_EFFECT:0 "Habitability per Radiating Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§! \nEach pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. \nDestroyed armies and purged pops cause §R5§!点破坏度。"
 
  #TRAIT_ASBESTOS_WEBBING_EFFECT:0 "Habitability from £job_miner£ §YMiner§! Jobs for Lithoid species: §G+2%§! \nHabitability from £job_miner£ §YMiner§! Jobs for non-Lithoid species: §R-2%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-1§!"
 
@@ -37,7 +37,7 @@
 
  trait_v_meteoric:0 "陨石之躯"
  trait_v_meteoric_desc:0 "§L这个物种迁徙时从大气进入，他们的身体坚固耐用以抵抗极端的热量和冲击。§!"
- TRAIT_METEORIC_EFFECT:0 "强制迁徙人口造成§R10§!点破坏度."
+ TRAIT_METEORIC_EFFECT:0 "强制迁徙人口造成§R10§!点破坏度。"
 
  trait_v_rockust:0 "Rockusts"
  trait_v_rockust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into rockusts and enters a feeding frenzy.§!"
