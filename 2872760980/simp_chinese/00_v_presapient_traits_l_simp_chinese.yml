@@ -20,7 +20,7 @@
  trait_v_model_organism:0 "模型生物"
  trait_v_model_organism_desc:0 "§L该物种的遗传密码井井有条且易于编辑，使该物种非常适合先进的遗传修饰。§!"
  trait_v_powerhungry:0 "求权若渴"
- trait_v_powerhungry_desc:0 "§LThis species has a natural desire to be in positions of power. This is a consequence of their Ethology.§!"
+ trait_v_powerhungry_desc:0 "§L该物种希望成为权力的顶端。这是他们的伦理学的结果。§!"
  TRAIT_POWERHUNGRY_EFFECT:0 "Happiness when a ruler of their species isn't in power: §R-10%§! \n£unity£  Unity from £job£ Jobs when a ruler of their species isn't in power: §R-10%§!"
 
  trait_v_endemic:0 "特有种"
