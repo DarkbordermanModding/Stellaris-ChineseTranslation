@@ -57,8 +57,8 @@
  trait_v_lithoid_foragial_limbs:0 "搜索肢"
  trait_v_lithoid_foragial_limbs_desc:0 "§L该物种發展出专门收集矿物的肢体。§!"
 
- trait_v_lithoid_embryonic_diapause:0 "Delayed Implantation"
- trait_v_lithoid_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
+ trait_v_lithoid_embryonic_diapause:0 "滯育"
+ trait_v_lithoid_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。
  TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "Planets with this species can enact the Diapause decision. Upon enacting the Diapause decision, all pops with §HDelayed Implantation§!: \nPop Mineral Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
 
  trait_v_prismatic:0 "稜鏡散射"
@@ -86,5 +86,5 @@
  TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n£alloys£ $alloys$ from £job_foundry£ §YMetallurgists§! when a pop of this species is Growing or is being Assembled: §G+0.5§!"
 
  trait_v_eroding:0 "易腐"
- trait_v_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"
- TRAIT_ERODING_EFFECT:0 "Species Habitability Cap for each positive trait selected: §R-10%§!"
+ trait_v_eroding_desc:0 "§L尽管身为石质生物，这个物种特别容易受到侵蚀影响。§!"
+ TRAIT_ERODING_EFFECT:0 "每个正向特质对移居性上限: §R-10%§!"
