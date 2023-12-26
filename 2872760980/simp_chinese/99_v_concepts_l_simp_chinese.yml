@@ -10,13 +10,13 @@
  concept_v_leader_polygynous_desc:0 "$BACKGROUND_PLANET_EFFECTS_TXT$: \n-$mod_job_v_harem_add$: §G+1§! \n\n§L$leader_trait_v_polygynous_desc$§!"
 
  concept_v_leader_backstabbing:0 "$leader_trait_v_backstabbing$"
- concept_v_leader_backstabbing_desc:0 "-Chance to kill a random Leader: §R+1%§! \n-On Kill Change Skill Level by: §G+1§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
+ concept_v_leader_backstabbing_desc:0 "-随机领袖死亡机率: §R+1%§! \n-领袖死亡时时等级: §G+1§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
 
  leader_trait_v_caution_to_the_wind:0 "$leader_trait_v_caution_to_the_wind$"
- leader_trait_v_caution_to_the_wind_desc:0 "-Monthly Death Chance: §R+1%§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
+ leader_trait_v_caution_to_the_wind_desc:0 "-每月死亡率: §R+1%§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
 
  leader_trait_v_gang_leader:0 "$leader_trait_v_gang_leader$"
- leader_trait_v_gang_leader_desc:0 "-Chance to kill a random Leader: §R+1%§! \n-On Kill Change Skill Level by: §G+1§! \n\n§L$leader_trait_v_gang_leader_desc$§!"
+ leader_trait_v_gang_leader_desc:0 "-随机领袖死亡机率: §R+1%§! \n-领袖死亡时时等级: §G+1§! \n\n§L$leader_trait_v_gang_leader_desc$§!"
 
 
  ################################################################################################################################
