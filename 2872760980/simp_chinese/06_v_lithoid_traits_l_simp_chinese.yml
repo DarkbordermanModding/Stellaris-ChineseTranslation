@@ -24,12 +24,12 @@
 
  trait_v_living_reactors:0 "核驱动"
  trait_v_living_reactors_desc:0 "§L这个物种是行走的核反应堆。他们已经适应了体内大量的放射性同位素并利用核反应来获得好处。§!"
- TRAIT_LIVING_REACTOR_EFFECT:0 "Habitability per Radiating Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§! \nEach pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. \nDestroyed armies and purged pops cause §R5§!点破坏度。"
+ TRAIT_LIVING_REACTOR_EFFECT:0 "每人口对核驱动特质宜居性: §G+1%§! \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£ §Y宜居性§! §R-1%§! \n每个做为奴隶或更高工作标准的人口每月產生 0.5 £energy£ §Y能量币§! per month。 \n每个陆军死亡及人口灭绝时造成§R5§!点破坏度。"
 
  #TRAIT_ASBESTOS_WEBBING_EFFECT:0 "Habitability from £job_miner£ §YMiner§! Jobs for Lithoid species: §G+2%§! \nHabitability from £job_miner£ §YMiner§! Jobs for non-Lithoid species: §R-2%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-1§!"
 
  trait_v_lithoid_old_instincts:0 "先祖本能"
- trait_v_lithoid_old_instincts_desc:0 "§L尽管该物种设法发展了一种文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
+ trait_v_lithoid_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
 
  trait_v_lithoid_aeroplankton:0 "粉尘复制"
  trait_v_lithoid_aeroplankton_desc:0 "§L这个物种能够通过类似粉尘的颗粒生成。这些颗粒容易随风飞舞，造成其他物种呼吸系统的不适。§!"
@@ -48,34 +48,34 @@
  TRAIT_PARTHENOCARPY_L_EFFECT:0 "失业人口自动转化为§Y孵化者§!岗位。 \n孵化者提供§G2§!£minerals£§Y矿物§!及§Y1§!£trade_value£§Y贸易额§! 每个具§H晶蛋生产§!特质人口对人口成长速度: §R-2%§!"
 
  trait_v_lithoid_cecotrophy:0 "食糞"
- trait_v_lithoid_cecotrophy_desc:0 "§L该物种会藉由食糞获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
+ trait_v_lithoid_cecotrophy_desc:0 "§L这个物种会藉由食糞获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
 
  trait_v_pumice_raft:0 "浮石"
  trait_v_pumice_raft_desc:0 "§L与大多数岩石不同，浮石能漂浮在水上。这个物种充分利用这个特质来改变其环境。§!"
  TRAIT_PUMICE_RAFT_EFFECT:0 "在§Y海洋§!星球上时，每10个具§H浮石§!特质人口获得额外1£district£§Y區劃§!"
 
  trait_v_lithoid_foragial_limbs:0 "搜索肢"
- trait_v_lithoid_foragial_limbs_desc:0 "§L该物种發展出专门收集矿物的肢体。§!"
+ trait_v_lithoid_foragial_limbs_desc:0 "§L这个物种發展出专门收集矿物的肢体。§!"
 
  trait_v_lithoid_embryonic_diapause:0 "滯育"
  trait_v_lithoid_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。
  TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "Planets with this species can enact the Diapause decision. Upon enacting the Diapause decision, all pops with §HDelayed Implantation§!: \nPop Mineral Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
 
  trait_v_prismatic:0 "稜鏡散射"
- trait_v_prismatic_desc:0 "§L该物种的身体能讓光散射，创造出美丽的颜色陈列。§!"
- TRAIT_PRISMATIC_EFFECT:0 "£mod_planet_immigration_pull_add£ Immigration Pull from £job_entertainer£ Entertainers: §G+5§! \nReplaces £job_entertainer£ §YEntertainer§! £consumer_goods£ §Y$consumer_goods$§! upkeep with £energy£ §YEnergy§!"
+ trait_v_prismatic_desc:0 "§L这个物种的身体能讓光散射，创造出美丽的颜色陈列。§!"
+ TRAIT_PRISMATIC_EFFECT:0 "£job_entertainer£演艺人员£mod_planet_immigration_pull_add£迁入吸引力: §G+5§! \n將£job_entertainer£§Y演艺人员§!£consumer_goods£§Y$消费品$§!维护费替代为£energy£§Y能量币§!"
 
  trait_v_crucible:0 "活体熔炉"
  trait_v_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物直接合成可用的合金。§!"
  TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §Y矿工§! 如同 £job_foundry£ §Y冶金師§!生產合金。 \n§Y干旱§!星球宜居性: §G+50%§!"
 
  trait_v_lithoid_mycorrhizal:0 "菌丝网络"
- trait_v_lithoid_mycorrhizal_desc:0 "§L该物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
+ trait_v_lithoid_mycorrhizal_desc:0 "§L这个物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
  TRAIT_LITHOID_MYCORRHIZA_EFFECT:0 "每个天然障碍人口矿物维护费: §G-5%§!"
 
  trait_v_statuesque:0 "可雕塑"
  trait_v_statuesque_desc:0 "§L这个物种的身体能够像一块大理石一样被凿成极为理想的形状。这个物种的上层阶级是雇用工匠凿掉其缺陷，创造出如雕像般的外观。§!"
- TRAIT_STATUESQUE_EFFECT:0 "£job_culture_worker£ §YCulture Workers§! for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \n£unity£ Unity from £pop_cat_ruler£ Ruler Pops: §G+1§! \n£consumer_goods£ Consumer Goods upkeep for £pop_cat_ruler£ Ruler Pops: §R+1§!"
+ TRAIT_STATUESQUE_EFFECT:0 "每个£pop_cat_ruler£领袖£job_culture_worker£§Y文化工作者§!岗位: §G+0.5§! \n£pop_cat_ruler£领袖£unity£凝聚力产出: §G+1§! \n£pop_cat_ruler£领袖£consumer_goods£消费品维护费: §R+1§!"
 
  trait_v_conductive:0 "导體"
  trait_v_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。这个物种非常适合电力工作和作为活电池。§!"
