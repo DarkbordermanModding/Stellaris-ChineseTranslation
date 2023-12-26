@@ -73,13 +73,13 @@
  trait_v_lithoid_mycorrhizal_desc:0 "§L该物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
  TRAIT_LITHOID_MYCORRHIZA_EFFECT:0 "每个天然障碍人口矿物维护费: §G-5%§!"
 
- trait_v_statuesque:0 "Statuesque"
- trait_v_statuesque_desc:0 "§LThe bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue.§!"
+ trait_v_statuesque:0 "可雕塑"
+ trait_v_statuesque_desc:0 "§L这个物种的身体能够像一块大理石一样被凿成极为理想的形状。这个物种的上层阶级是雇用工匠凿掉其缺陷，创造出如雕像般的外观。§!"
  TRAIT_STATUESQUE_EFFECT:0 "£job_culture_worker£ §YCulture Workers§! for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \n£unity£ Unity from £pop_cat_ruler£ Ruler Pops: §G+1§! \n£consumer_goods£ Consumer Goods upkeep for £pop_cat_ruler£ Ruler Pops: §R+1§!"
 
  trait_v_conductive:0 "导體"
- trait_v_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。该物种非常适合电力工作和作为活电池。§!"
- TRAIT_BATTERY_EFFECT: "每個£job_technician£§Y技工§!崗位£mod_resource_energy_mult£§Y能量币储存上限§!: §G+100§!"
+ trait_v_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。这个物种非常适合电力工作和作为活电池。§!"
+ TRAIT_BATTERY_EFFECT: "每个£job_technician£§Y技工§!崗位£mod_resource_energy_mult£§Y能量币储存上限§!: §G+100§!"
 
  trait_v_iron_shell:0 "铁壳"
  trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
