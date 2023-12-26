@@ -52,9 +52,9 @@
  trait_v_automated_chemistry:0 "化学自处理"
  trait_v_automated_chemistry_desc:0 "§L这些机器的设计目的是用于危险的化学物质处理。因此，它们增强了对化学物质的保护。§!"
 
- trait_v_ecomorph:0 "Ecomorph"
- trait_v_ecomorph_desc:0 "§LThese machines have been designed to fill niches inside a ecosystem. Even if it doesn't fulfill the role anymore, it is still able to trigger a instinctual reaction from a specific species.§!"
- TRAIT_ECOMORPH_EFFECT:0 "Pops with this trait are counted for §EBrood Parasite§! and §EPseudocopulative§!. \nPops with this trait can trigger the effects of §EPredator§! and §EPrey§!."
+ trait_v_ecomorph:0 "生态变形"
+ trait_v_ecomorph_desc:0 "§L这些机器被设计来在完善生态系循环。即使它不再扮演角色，它仍然能够引发特定物种的本能反应。§!"
+ TRAIT_ECOMORPH_EFFECT:0 "具此特质人口视为具有§E育雏寄生§!特质及§E拟交配§!特质。\n具此特质人口可以觸發§E掠食者§!特质及§E猎物§!特质效果。"
 
  trait_v_living_metal:0 "活体金属设计"
  trait_v_living_metal_desc:0 "§L这些机器是使用活体金属设计的，赋予了它们再生的能力。§!"
