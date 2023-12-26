@@ -7,7 +7,7 @@
 
  trait_v_stargazers:0 "天文爱好者"
  trait_v_stargazers_desc:0 "§L某些恒星对这个物种具有很大的文化意义，强烈影响其心理学甚至生理学。§!"
- TRAIT_STARGAZERS_EFFECT:0 "在§Y黑洞§!，§Y中子星§!及§Y脉冲星§!: \n £job£岗位生产的£engineering£工程学研究: §G+20%§! \n£job£岗位生产的£physics£物理学研究: §G+20%§! \n£job£岗位生产的£society£社会学研究: §G+20%§! (§Y唯心主義§!) \n £job£岗位生产的£unity£凝聚力: §G+20%§! (§Y唯心主義§!) \n\n在§YF§!，§YG§!及§YK§!型恆星: \n£job£岗位生产的£food£食物: §G+5%§! \n\n在§YA§!及§YB§!型恆星: \n£job£岗位生产的£energy£能量幣: §G+5%§! \n\nIn systems with §YRed§! and §YBrown§! Dwarfs: \n£society£ Society research from jobs £job£ Jobs: §G+5%§! \n\nIn systems with §YRed Giants§!: \n£unity£ Unity from £job£ Jobs with: §G+20%§! (§YDeath Cult§!) \n£unity£ Unity from £job£ Jobs: §R-20%§! \nHappiness: §G+10%§! (§YDeath Cult§!) \nHappiness: §R-10%§!"
+ TRAIT_STARGAZERS_EFFECT:0 "在§Y黑洞§!，§Y中子星§!及§Y脉冲星§!: \n £job£岗位生产的£engineering£工程学研究: §G+20%§! \n£job£岗位生产的£physics£物理学研究: §G+20%§! \n£job£岗位生产的£society£社会学研究: §G+20%§! (§Y唯心主義§!) \n £job£岗位生产的£unity£凝聚力: §G+20%§! (§Y唯心主義§!) \n\n在§YF§!，§YG§!及§YK§!型恆星: \n£job£岗位生产的£food£食物: §G+5%§! \n\n在§YA§!及§YB§!型恆星: \n£job£岗位生产的£energy£能量币: §G+5%§! \n\n在§Y红矮星§!及§Y棕矮星§!: \n£job£岗位生产的£society£社会学产出: §G+5%§! \n\n在§Y紅巨星§!: \n£unity£ Unity from £job£ Jobs with: §G+20%§! (§YDeath Cult§!) \n£unity£ Unity from £job£ Jobs: §R-20%§! \nHappiness: §G+10%§! (§YDeath Cult§!) \nHappiness: §R-10%§!"
 
  trait_v_predator:0 "掠食者"
  trait_v_predator_desc:0 "§L这个物种一直在寻找猎物。他们在掠食技术上达到登峰造极。§!"
