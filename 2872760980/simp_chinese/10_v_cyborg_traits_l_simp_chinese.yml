@@ -27,17 +27,17 @@ l_simp_chinese:
  trait_v_cyborg_autodoc:0 "Autodoc"
  trait_v_cyborg_autodoc_desc:0 "§LBy implanting a health monitoring system, the risks of contracting any illness is greatly reduced.§!"
 
- trait_v_cyborg_fractal_limbs:0 "Fractal Limbs"
- trait_v_cyborg_fractal_limbs_desc:0 "§LThe Limbs of this species have been enhanced allowing them to split in a fractal like fashion, allowing for great precision and overall ability to manipulate objects§!"
+ trait_v_cyborg_fractal_limbs:0 "分形肢"
+ trait_v_cyborg_fractal_limbs_desc:0 "§L这个物种的四肢经过增强，能够以一种类似分形的方式分裂，使他们有高精度和操作物体的能力§!"
 
- trait_v_chem_skin:0 "Chemical Resistant Skin"
- trait_v_chem_skin_desc:0 "§LReplacing the natural epidermis with a synthetic chemical resistant one.§!"
+ trait_v_chem_skin:0 "抗化学皮肤"
+ trait_v_chem_skin_desc:0 "§L用抗化学药剂的合成皮肤替代天然表皮。§!"
 
- trait_v_cyborg_stealth:0 "Stealth Skin"
- trait_v_cyborg_stealth_desc:0 "§LBy placing a set of stealth systems within and below the skin, the chances of being detected are drastically reduced.§!"
+ trait_v_cyborg_stealth:0 "潜行皮肤"
+ trait_v_cyborg_stealth_desc:0 "§L通过将一组隐形系统放置在皮肤内外，大大减少了被敌方察觉的机会。§!"
  CYBORG_STEALTH_EFFECT:0 "$TRAIT_ACTIVE_CAMOUFLAGE_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
 
- trait_v_solar_skin_b:0 "Solar Skin"
+ trait_v_solar_skin_b:0 "太阳能皮肤"
  trait_v_solar_skin_b_desc:0 "§LTransfering a part of the metabolic processes away from chemical energy to the solar energy, allows to offload the upkeep cost from planets offworld.§!"
  trait_v_solar_skin_l:0 "$trait_v_solar_skin_b$"
  trait_v_solar_skin_l_desc:0 "$trait_v_solar_skin_b_desc$"
@@ -77,15 +77,15 @@ l_simp_chinese:
 
  trait_v_cyborg_no_crime:0 "Guardian Sibling Protocols"
  trait_v_cyborg_no_crime_desc:0 "§LIf everyone listened to their guardian angel on their shoulder, the galaxy would be a better place. Thanks to advancements in technology, we can now prevent criminal thoughts from occurring by tapping into a potential criminal's nervous system.§!"
- TRAIT_NO_CRIME_EFFECT:0 "§GSpecies doesn't generate any crime.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ TRAIT_NO_CRIME_EFFECT:0 "§GSpecies doesn't generate any crime.§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_engram:0 "记忆纪录器"
  trait_v_cyborg_engram_desc:0 "§L通过死亡领袖的记忆，我们可以学习其过往经验来培训新领导者。§!"
- TRAIT_CYBORG_ENGRAMS_EFFECT:0 "$TRAIT_MACHINE_ENGRAMS_EFFECT$ \n增加$r_energy$维护费§R+$@cyborg_energy_upkeep$§!"
+ TRAIT_CYBORG_ENGRAMS_EFFECT:0 "$TRAIT_MACHINE_ENGRAMS_EFFECT$ \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_immortality:0 "Mind Transference"
  trait_v_cyborg_immortality_desc:0 "§LHaving a backup body in might come in very useful in the case of something bad happening to the original body. While not perfect, this is the closest you can get to immortality without being biologically immortal or being a synthetic being.§!"
- TRAIT_CYBORG_IMMORTALITY_EFFECT:0 "$TRAIT_BACKUPS_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ TRAIT_CYBORG_IMMORTALITY_EFFECT:0 "$TRAIT_BACKUPS_EFFECT$ \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_economies_of_scale:0 "规模经济"
  trait_v_cyborg_economies_of_scale_desc:0 "§L通过使用专门为义体人设计的先进演算法，可以降低运营成本并提高生产水平及效率。§!"
