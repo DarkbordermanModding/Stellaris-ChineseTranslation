@@ -1,26 +1,26 @@
 ﻿
 l_simp_chinese:
 
- trait_v_cyborg_servitor:0 "Servitor"
+ trait_v_cyborg_servitor:0 "仆从"
  trait_v_cyborg_servitor_desc:0 "§LWith a combination of implanting cybernetics and lobotomizing a part of the population, it is possible to create a loyal workforce for the most tedious of jobs.§!"
  CYBORG_SERVITOR_EFFECT:0 "Cannot generate §YLeaders§!\nCannot be employed in §Y$pop_cat_ruler$§! or §Y$pop_cat_specialist$§! Jobs \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_nails:0 "Neural Nails"
+ trait_v_cyborg_nails:0 "神经钉"
  trait_v_cyborg_nails_desc:0 "§LBy implanting neural nails into the brain that cause discomfort while not in combat, it allows for a terrifyingly brutal and effective army.§!"
 
- trait_v_cyborg_weapons:0 "Weapon Implants"
+ trait_v_cyborg_weapons:0 "武器植入"
  trait_v_cyborg_weapons_desc:0 "§LImplanting weapons is a great way of increasing the combat performance of the average soldier. Everything from aim assistance through hand canons and ending on blades can be implanted."
 
- trait_v_cyborg_blue_beam:0 "Blue Beam Implant"
- trait_v_cyborg_blue_beam_desc:0 "§LMany cultures have previously talked about the connection with the divine. By attaching this program into the base cybernetics, it is possible to replicate this effect under our control.§!"
+ trait_v_cyborg_blue_beam:0 "蓝光线植入"
+ trait_v_cyborg_blue_beam_desc:0 "§L许多文化以前曾谈论过与神的联系。通过将该程序附加到义体中，可以在我们控制的情况下复制这种效果。§!"
 
  trait_v_cyborg_reproduction:0 "Reproductive Control"
  trait_v_cyborg_reproduction_desc:0 "§LBy allowing the state to control the reproductive drive of its citizens it allows for much easier population controls in comparison to just using the law or suggestion.§!"
 
- trait_v_cyborg_lungs:0 "Cybernetic Lungs"
- trait_v_cyborg_lungs_desc:0 "§LBy replacing the respiratory system with a cybernetic analogue, it is much easier for our people to live in more inhospitable environments.§!"
+ trait_v_cyborg_lungs:0 "义体肺"
+ trait_v_cyborg_lungs_desc:0 "§L将原有呼吸系统换为人工呼吸器，使我们能够住在更不宜居的环境。§!"
 
- trait_v_cyborg_nanomachines:0 "Nanite Enhancement"
+ trait_v_cyborg_nanomachines:0 "纳米机器加强"
  trait_v_cyborg_nanomachines_desc:0 "§LThese Nanites harden in response to physical trauma, allowing for more resilient troops and for repairs on the celular level, greatly increasing life expectancy.§!"
  CYBORG_NANOMACHINE_UPKEEP_EFFECT:0 "Increases £nanites£ §YNanites§! Upkeep by §R+0.125§!"
 
@@ -28,7 +28,7 @@ l_simp_chinese:
  trait_v_cyborg_autodoc_desc:0 "§LBy implanting a health monitoring system, the risks of contracting any illness is greatly reduced.§!"
 
  trait_v_cyborg_fractal_limbs:0 "分形肢"
- trait_v_cyborg_fractal_limbs_desc:0 "§L这个物种的四肢经过增强，能够以一种类似分形的方式分裂，使他们有高精度和操作物体的能力§!"
+ trait_v_cyborg_fractal_limbs_desc:0 "§L这个物种的四肢经过增强，能够以一种类似分形的方式分裂，使他们有高精度和操作物体的能力。§!"
 
  trait_v_chem_skin:0 "抗化学皮肤"
  trait_v_chem_skin_desc:0 "§L用抗化学药剂的合成皮肤替代天然表皮。§!"
