@@ -58,7 +58,7 @@
 
  trait_v_living_metal:0 "活体金属设计"
  trait_v_living_metal_desc:0 "§L这些机器是使用活体金属设计的，赋予了它们再生的能力。§!"
- living_metal_upkeep_tooltip:0 "被摧毁陆军复活机率: §Y50%§! \n£sr_living_metal£ 活体金属维护费: §R+0.125§!"
+ living_metal_upkeep_tooltip:0 "被摧毁陆军复活机率: §Y50%§! \n增加£sr_living_metal£活体金属维护费: §R+0.125§!"
 
  trait_v_machine_engrams:0 "记忆纪录器"
  trait_v_machine_engrams_desc:0 "§L记忆纪录器记录经验并与学习算法相结合，可以跳过多年的培训，同时有望帮助避免发生任何其他事故。§!"

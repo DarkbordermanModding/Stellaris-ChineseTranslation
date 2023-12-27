@@ -79,16 +79,16 @@ l_simp_chinese:
  trait_v_cyborg_no_crime_desc:0 "§LIf everyone listened to their guardian angel on their shoulder, the galaxy would be a better place. Thanks to advancements in technology, we can now prevent criminal thoughts from occurring by tapping into a potential criminal's nervous system.§!"
  TRAIT_NO_CRIME_EFFECT:0 "§GSpecies doesn't generate any crime.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_engram:0 "Engram Recorder"
- trait_v_cyborg_engram_desc:0 "§LBy recording the engrams of our leaders that died, we might salvage all that experience to train new leaders.§!"
- TRAIT_CYBORG_ENGRAMS_EFFECT:0 "$TRAIT_MACHINE_ENGRAMS_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ trait_v_cyborg_engram:0 "记忆纪录器"
+ trait_v_cyborg_engram_desc:0 "§L通过死亡领袖的记忆，我们可以学习其过往经验来培训新领导者。§!"
+ TRAIT_CYBORG_ENGRAMS_EFFECT:0 "$TRAIT_MACHINE_ENGRAMS_EFFECT$ \n增加$r_energy$维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_immortality:0 "Mind Transference"
  trait_v_cyborg_immortality_desc:0 "§LHaving a backup body in might come in very useful in the case of something bad happening to the original body. While not perfect, this is the closest you can get to immortality without being biologically immortal or being a synthetic being.§!"
  TRAIT_CYBORG_IMMORTALITY_EFFECT:0 "$TRAIT_BACKUPS_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_economies_of_scale:0 "Economies of Scale"
- trait_v_cyborg_economies_of_scale_desc:0 "§LBy using advanced algorithms and specially designed cybernetics, it is possible to reduce operating costs and improve efficiency with increasing levels of production.§!"
+ trait_v_cyborg_economies_of_scale:0 "规模经济"
+ trait_v_cyborg_economies_of_scale_desc:0 "§L通过使用专门为义体人设计的先进演算法，可以降低运营成本并提高生产水平及效率。§!"
 
  trait_v_cyborg_batteries:0 "电池"
  trait_v_cyborg_batteries_desc:0 "配置可以容纳大量能量的电池，可以保留额外的能量供后续使用。"
