@@ -73,7 +73,7 @@ l_simp_chinese:
 
  trait_v_cyborg_bubble:0 "义体清洁"
  trait_v_cyborg_bubble_desc:0 "§在身体的毛孔与人工表皮里安装灭菌和其他植入物，可以减轻有毒个体对周围环境的影响。§!"
- TRAIT_BUBBLE_EFFECT:0 "使§H弱免疫系统§!，§H相克作用§!，§H散播瘟疫§!，§HVector§!，§H粉尘复制§!，§HAsbestos Webbing§!特质的宜居性减损无效。 \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
+ TRAIT_BUBBLE_EFFECT:0 "使§H弱免疫系统§!，§H相克作用§!，§H散播瘟疫§!，§H粉尘复制§!特质的宜居性减损无效。 \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_no_crime:0 "守护者协议"
  trait_v_cyborg_no_crime_desc:0 "§L得益于技术的进步，我们可以利用神经控制系统来防止潜在犯罪思想发生。§!"
