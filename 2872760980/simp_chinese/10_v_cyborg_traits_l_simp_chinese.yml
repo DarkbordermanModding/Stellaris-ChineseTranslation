@@ -2,14 +2,14 @@
 l_simp_chinese:
 
  trait_v_cyborg_servitor:0 "仆从"
- trait_v_cyborg_servitor_desc:0 "§LWith a combination of implanting cybernetics and lobotomizing a part of the population, it is possible to create a loyal workforce for the most tedious of jobs.§!"
+ trait_v_cyborg_servitor_desc:0 "§L藉由义体植入物的力量，可以为最乏味的工作创造一个忠实的劳动力。§!"
  CYBORG_SERVITOR_EFFECT:0 "无法产生§Y领袖§!\n无法就任§Y$pop_cat_ruler$§!或§Y$pop_cat_specialist$§!岗位\n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_nails:0 "神经钉"
- trait_v_cyborg_nails_desc:0 "§LBy implanting neural nails into the brain that cause discomfort while not in combat, it allows for a terrifyingly brutal and effective army.§!"
+ trait_v_cyborg_nails_desc:0 "§L通过将神经钉植入大脑，不参与战斗时会引起不适，这让我们能建立一支残酷而有效率的军队。§!"
 
  trait_v_cyborg_weapons:0 "武器植入"
- trait_v_cyborg_weapons_desc:0 "§LImplanting weapons is a great way of increasing the combat performance of the average soldier. Everything from aim assistance through hand canons and ending on blades can be implanted."
+ trait_v_cyborg_weapons_desc:0 "§L植入武器是提高一般士兵战斗表现的好方法。从手炮到刀片，一切都可以植入。"
 
  trait_v_cyborg_blue_beam:0 "蓝光线植入"
  trait_v_cyborg_blue_beam_desc:0 "§L许多文化以前曾谈论过与神的联系。通过将该程序附加到义体中，可以在我们控制的情况下复制这种效果。§!"
@@ -41,7 +41,7 @@ l_simp_chinese:
  trait_v_solar_skin_b_desc:0 "§LTransfering a part of the metabolic processes away from chemical energy to the solar energy, allows to offload the upkeep cost from planets offworld.§!"
  trait_v_solar_skin_l:0 "$trait_v_solar_skin_b$"
  trait_v_solar_skin_l_desc:0 "$trait_v_solar_skin_b_desc$"
- TRAIT_LITHOID_PHOTOTROPHIC_EFFECT:0 "Replaces §Y50%§! of Base £minerals£ §YMineral§! Upkeep with £energy£ §YEnergy§! Upkeep."
+ TRAIT_LITHOID_PHOTOTROPHIC_EFFECT:0 "将§Y50%§!的基础£minerals£§Y矿物§!维护费替换为£energy£§Y能量§!维护费。"
 
  trait_v_soft_augmentations:0 "Soft Augmentations"
  trait_v_soft_augmentations_desc:0 "§LA combination of extremely flexible materials and a set of extremely precise motors and artificial muscles allows for never-before-seen advancements in surgery and biological research.§!"
@@ -51,13 +51,13 @@ l_simp_chinese:
  trait_v_cyborg_internet_desc:0 "§LHaving direct access to all the knowledge of the galaxy has its upsides.§!"
  CYBORG_INTERNET_EFFECT:0 "Each Ruler or Specialist pop in the empire with §HGalactic Internet Access§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by §G+0.125%§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_motoric:0 "Motoric Upgrades"
+ trait_v_cyborg_motoric:0 "驱动升级"
  trait_v_cyborg_motoric_desc:0 "§LHaving replaced certain parts of the brain and central nervous system, greatly reducing reaction time.§!"
 
- trait_v_cyborg_mobility:0 "Augmented Mobility"
+ trait_v_cyborg_mobility:0 "机动性加强"
  trait_v_cyborg_mobility_desc:0 "§LImplanting artificial muscles, additional joints, or built in repulsors, will greatly increase both movement speed and our combat performance.§!"
 
- trait_v_cyborg_bulletproofing:0 "Bulletproofing"
+ trait_v_cyborg_bulletproofing:0 "防弹"
  trait_v_cyborg_bulletproofing_desc:0 "§LImplanting subdermal layers of carbon nanofibers combined with artificial bones can make our troops exceedingly resistant to physical damage.§!"
 
  trait_v_cyborg_exotic_augments:0 "Exotic Augments"
