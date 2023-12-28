@@ -28,7 +28,7 @@ l_simp_chinese:
  trait_v_cyborg_autodoc_desc:0 "§L通过植入健康监测系统，大大降低了患病的风险。§!"
 
  trait_v_cyborg_fractal_limbs:0 "分形肢"
- trait_v_cyborg_fractal_limbs_desc:0 "§L这个物种的四肢经过增强，能够以一种类似分形的方式分裂，使他们有高精度和操作物体的能力。§!"
+ trait_v_cyborg_fractal_limbs_desc:0 "§L这些义体人的四肢经过增强，能够以一种类似分形的方式分裂，使他们有高精度和操作物体的能力。§!"
 
  trait_v_chem_skin:0 "抗化学皮肤"
  trait_v_chem_skin_desc:0 "§L用抗化学药剂的合成皮肤替代天然表皮。§!"
@@ -48,7 +48,7 @@ l_simp_chinese:
  TRAIT_CYBORG_SOFT_ROBOTICS_EFFECT:0 "$TRAIT_SOFT_ROBOTICS_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
 
  trait_v_cyborg_internet:0 "银河互联网访问"
- trait_v_cyborg_internet_desc:0 "§L这个物种能够访问银河间互联网获取其知识。§!"
+ trait_v_cyborg_internet_desc:0 "§L这些义体人能够访问银河间互联网获取其知识。§!"
  CYBORG_INTERNET_EFFECT:0 "每个具有§H银河互联网访问§!特质的统治者或专家岗位 £engineering£ £physics£ £society£ 研究及 £unity£ 凝聚力 £job£ §Y岗位§!產出§G+0.125%§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_motoric:0 "驱动升级"
@@ -58,26 +58,26 @@ l_simp_chinese:
  trait_v_cyborg_mobility_desc:0 "§L植入人造肌肉，额外关节或内置抑制剂将大大提高运动速度和战斗性能。§!"
 
  trait_v_cyborg_bulletproofing:0 "防弹"
- trait_v_cyborg_bulletproofing_desc:0 "§LImplanting subdermal layers of carbon nanofibers combined with artificial bones can make our troops exceedingly resistant to physical damage.§!"
+ trait_v_cyborg_bulletproofing_desc:0 "§L植入人造骨头及数层碳纳米纤维使我们的部队能极大地抵抗身体伤害。§!"
 
  trait_v_cyborg_exotic_augments:0 "表达加强"
- trait_v_cyborg_exotic_augments_desc:0 "§L这个物种喜欢以意想不到的方式来展现自己的个性。§!"
+ trait_v_cyborg_exotic_augments_desc:0 "§L这些义体人喜欢以意想不到的方式来展现自己的个性。§!"
  TRAIT_EXOTIC_AUGMENTS_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 1 £trade_value£§Y贸易额§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_polluting:0 "污染"
  trait_v_cyborg_polluting_desc:0 "§L这些义体人对环境产生了极大的负面影响。§!"
 
  trait_v_cyborg_mobile_platform:0 "移动平台"
- trait_v_cyborg_mobile_platform_desc:0 "§L通过添加义体活动平台，这个物种终于可以自由移动。§!"
- TRAIT_MOBILE_PLATFORM_EFFECT:0 "§GNegates the effects of immobilising traits.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ trait_v_cyborg_mobile_platform_desc:0 "§L通过添加义体活动平台，这些义体人终于可以自由移动。§!"
+ TRAIT_MOBILE_PLATFORM_EFFECT:0 "§G使不可移动相关特质无效。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_bubble:0 "Cyber Sterility"
  trait_v_cyborg_bubble_desc:0 "§LBy lining every orifice of the body with artificial epidermis, installing sterilizing implants and other augmentation it is possible to mitigate the effects of spending time around some of the more toxic individuals.§!"
  TRAIT_BUBBLE_EFFECT:0 "Negates the habitability effects of §HWeak Immune System§!, §HAllelopathy§!, §HPlagued§!, §HVector§!, §HDust Reproduction§! and §HAsbestos Webbing§! on this species. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_no_crime:0 "Guardian Sibling Protocols"
+ trait_v_cyborg_no_crime:0 "守护者协议"
  trait_v_cyborg_no_crime_desc:0 "§LIf everyone listened to their guardian angel on their shoulder, the galaxy would be a better place. Thanks to advancements in technology, we can now prevent criminal thoughts from occurring by tapping into a potential criminal's nervous system.§!"
- TRAIT_NO_CRIME_EFFECT:0 "§GSpecies doesn't generate any crime.§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
+ TRAIT_NO_CRIME_EFFECT:0 "§G物种不产生犯罪度。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_engram:0 "记忆纪录器"
  trait_v_cyborg_engram_desc:0 "§L通过死亡领袖的记忆，我们可以学习其过往经验来培训新领导者。§!"
