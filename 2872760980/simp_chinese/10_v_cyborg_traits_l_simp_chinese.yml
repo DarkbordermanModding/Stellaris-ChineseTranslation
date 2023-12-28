@@ -24,8 +24,8 @@ l_simp_chinese:
  trait_v_cyborg_nanomachines_desc:0 "§L纳米机器在身体受创时会硬化，使得陆军部队更坚韧，并在细胞维度上进行修复，从而大大增加了预期寿命。§!"
  CYBORG_NANOMACHINE_UPKEEP_EFFECT:0 "增加£nanites£§Y纳米机器人§!维护费§R+0.125§!"
 
- trait_v_cyborg_autodoc:0 "Autodoc"
- trait_v_cyborg_autodoc_desc:0 "§LBy implanting a health monitoring system, the risks of contracting any illness is greatly reduced.§!"
+ trait_v_cyborg_autodoc:0 "自动医疗"
+ trait_v_cyborg_autodoc_desc:0 "§L通过植入健康监测系统，大大降低了患病的风险。§!"
 
  trait_v_cyborg_fractal_limbs:0 "分形肢"
  trait_v_cyborg_fractal_limbs_desc:0 "§L这个物种的四肢经过增强，能够以一种类似分形的方式分裂，使他们有高精度和操作物体的能力。§!"
@@ -38,7 +38,7 @@ l_simp_chinese:
  CYBORG_STEALTH_EFFECT:0 "$TRAIT_ACTIVE_CAMOUFLAGE_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
 
  trait_v_solar_skin_b:0 "太阳能皮肤"
- trait_v_solar_skin_b_desc:0 "§LTransfering a part of the metabolic processes away from chemical energy to the solar energy, allows to offload the upkeep cost from planets offworld.§!"
+ trait_v_solar_skin_b_desc:0 "§L将一部分新陈代谢从化学能量转移到太阳能中，从而使保养成本从化学能源转移到太阳能。§!"
  trait_v_solar_skin_l:0 "$trait_v_solar_skin_b$"
  trait_v_solar_skin_l_desc:0 "$trait_v_solar_skin_b_desc$"
  TRAIT_LITHOID_PHOTOTROPHIC_EFFECT:0 "将§Y50%§!的基础£minerals£§Y矿物§!维护费替换为£energy£§Y能量§!维护费。"
