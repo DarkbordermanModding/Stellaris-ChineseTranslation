@@ -185,7 +185,7 @@
  trait_v_electrogenesis_desc:0 "§LThis species developed a set of electric organs for defense and offense. Currently, they still use that ability for its intended purpose but also donating that power.§!"
  TRAIT_ELECTROGENESIS_EFFECT:0 "Each pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month."
 
- trait_v_plague:0 "Plagued"
+ trait_v_plague:0 "散播瘟疫"
  trait_v_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
  TRAIT_PLAGUE_EFFECT:0 "Habitability per Plagued Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§! \n§GThis species can't be infected by parasite pops.§!"
 

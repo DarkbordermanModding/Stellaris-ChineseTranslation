@@ -72,7 +72,7 @@
  trait_v_hypermetabolic_desc:0 "§LThe metabolism of this species is extremely active. This species has a lot of energy it can spend on menial tasks, but is unable to handle higher temperatures that well.§!"
  TRAIT_HYPERMETABOLIC_EFFECT:0 "Pop Consumer Goods Upkeep on §YCold§! Worlds: §G-10%§! \nFood, Energy and Mineral output on §YCold§! Worlds: §G+10%§! \nPop Consumer Goods Upkeep on non-§YCold§! Worlds: §R-20%§! \nFood, Energy and Mineral output on non-§YCold§! Worlds: §R+20%§! \nHability on non-§YCold§! Worlds: §R-40%§!"
 
- trait_v_weak_immune_system:0 "Weak Immune System"
+ trait_v_weak_immune_system:0 "弱免疫系统"
  trait_v_weak_immune_system_desc:0 "§LThis species has a extraordinarily weak immune system. Diseases that other species can simply shrug off are for this species potentially deadly. Because of this, this species has to stay in perpetual quarantine to stay safe from the diseases other species might have.§!"
  TRAIT_WEAK_IMMUNE_SYSTEM_EFFECT:0 "This species will start to decline when any Non-Robotic pop without §HWeak Immune System§! is present."
 
