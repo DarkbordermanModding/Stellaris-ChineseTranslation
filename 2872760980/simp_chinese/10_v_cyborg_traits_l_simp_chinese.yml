@@ -3,7 +3,7 @@ l_simp_chinese:
 
  trait_v_cyborg_servitor:0 "仆从"
  trait_v_cyborg_servitor_desc:0 "§LWith a combination of implanting cybernetics and lobotomizing a part of the population, it is possible to create a loyal workforce for the most tedious of jobs.§!"
- CYBORG_SERVITOR_EFFECT:0 "Cannot generate §YLeaders§!\nCannot be employed in §Y$pop_cat_ruler$§! or §Y$pop_cat_specialist$§! Jobs \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ CYBORG_SERVITOR_EFFECT:0 "无法产生§Y领袖§!\n无法就任§Y$pop_cat_ruler$§!或§Y$pop_cat_specialist$§!岗位\n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_nails:0 "神经钉"
  trait_v_cyborg_nails_desc:0 "§LBy implanting neural nails into the brain that cause discomfort while not in combat, it allows for a terrifyingly brutal and effective army.§!"
@@ -14,15 +14,15 @@ l_simp_chinese:
  trait_v_cyborg_blue_beam:0 "蓝光线植入"
  trait_v_cyborg_blue_beam_desc:0 "§L许多文化以前曾谈论过与神的联系。通过将该程序附加到义体中，可以在我们控制的情况下复制这种效果。§!"
 
- trait_v_cyborg_reproduction:0 "Reproductive Control"
- trait_v_cyborg_reproduction_desc:0 "§LBy allowing the state to control the reproductive drive of its citizens it allows for much easier population controls in comparison to just using the law or suggestion.§!"
+ trait_v_cyborg_reproduction:0 "生殖控制"
+ trait_v_cyborg_reproduction_desc:0 "§L与使用法律或建议相比，通过控制人口的生殖本能让人口控制更加容易。§!"
 
  trait_v_cyborg_lungs:0 "义体肺"
  trait_v_cyborg_lungs_desc:0 "§L将原有呼吸系统换为人工呼吸器，使我们能够住在更不宜居的环境。§!"
 
  trait_v_cyborg_nanomachines:0 "纳米机器加强"
- trait_v_cyborg_nanomachines_desc:0 "§LThese Nanites harden in response to physical trauma, allowing for more resilient troops and for repairs on the celular level, greatly increasing life expectancy.§!"
- CYBORG_NANOMACHINE_UPKEEP_EFFECT:0 "Increases £nanites£ §YNanites§! Upkeep by §R+0.125§!"
+ trait_v_cyborg_nanomachines_desc:0 "§L纳米机器在身体受创时会硬化，使得陆军部队更坚韧，并在细胞维度上进行修复，从而大大增加了预期寿命。§!"
+ CYBORG_NANOMACHINE_UPKEEP_EFFECT:0 "增加£nanites£§Y纳米机器人§!维护费§R+0.125§!"
 
  trait_v_cyborg_autodoc:0 "Autodoc"
  trait_v_cyborg_autodoc_desc:0 "§LBy implanting a health monitoring system, the risks of contracting any illness is greatly reduced.§!"
