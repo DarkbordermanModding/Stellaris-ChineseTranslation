@@ -44,12 +44,12 @@ l_simp_chinese:
  TRAIT_LITHOID_PHOTOTROPHIC_EFFECT:0 "将§Y50%§!的基础£minerals£§Y矿物§!维护费替换为£energy£§Y能量§!维护费。"
 
  trait_v_soft_augmentations:0 "软体加强"
- trait_v_soft_augmentations_desc:0 "§LA combination of extremely flexible materials and a set of extremely precise motors and artificial muscles allows for never-before-seen advancements in surgery and biological research.§!"
+ trait_v_soft_augmentations_desc:0 "§L弹性材料，人造肌肉以及精确的马达结合，让我们在生物学及外科手术得到前所未见的进展。§!"
  TRAIT_CYBORG_SOFT_ROBOTICS_EFFECT:0 "$TRAIT_SOFT_ROBOTICS_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
 
  trait_v_cyborg_internet:0 "银河互联网访问"
  trait_v_cyborg_internet_desc:0 "§L这个物种能够访问银河间互联网获取其知识。§!"
- CYBORG_INTERNET_EFFECT:0 "每个具有§H银河互联网访问§!的统治者或专家岗位 £engineering£ £physics£ £society£ 研究及 £unity£ 凝聚力 £job£ §Y岗位§!產出§G+0.125%§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
+ CYBORG_INTERNET_EFFECT:0 "每个具有§H银河互联网访问§!特质的统治者或专家岗位 £engineering£ £physics£ £society£ 研究及 £unity£ 凝聚力 £job£ §Y岗位§!產出§G+0.125%§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_motoric:0 "驱动升级"
  trait_v_cyborg_motoric_desc:0 "§L藉由更新大脑的某些部位和中枢神经系统，大大减少了反应时间。§!"
@@ -60,9 +60,9 @@ l_simp_chinese:
  trait_v_cyborg_bulletproofing:0 "防弹"
  trait_v_cyborg_bulletproofing_desc:0 "§LImplanting subdermal layers of carbon nanofibers combined with artificial bones can make our troops exceedingly resistant to physical damage.§!"
 
- trait_v_cyborg_exotic_augments:0 "Exotic Augments"
- trait_v_cyborg_exotic_augments_desc:0 "§LThese individuals seem to be very fond of augmenting their bodies in unexpected ways to show their individuality.§!"
- TRAIT_EXOTIC_AUGMENTS_EFFECT:0 "Each pop working as a slave or better produces 1 £trade_value£ §YTrade Value§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ trait_v_cyborg_exotic_augments:0 "表达加强"
+ trait_v_cyborg_exotic_augments_desc:0 "§L这个物种喜欢以意想不到的方式来展现自己的个性。§!"
+ TRAIT_EXOTIC_AUGMENTS_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 1 £trade_value£§Y贸易额§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_polluting:0 "污染"
  trait_v_cyborg_polluting_desc:0 "§L这些义体人对环境产生了极大的负面影响。§!"
