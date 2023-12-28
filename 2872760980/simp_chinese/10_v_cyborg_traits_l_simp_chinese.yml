@@ -47,9 +47,9 @@ l_simp_chinese:
  trait_v_soft_augmentations_desc:0 "§LA combination of extremely flexible materials and a set of extremely precise motors and artificial muscles allows for never-before-seen advancements in surgery and biological research.§!"
  TRAIT_CYBORG_SOFT_ROBOTICS_EFFECT:0 "$TRAIT_SOFT_ROBOTICS_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
 
- trait_v_cyborg_internet:0 "Galactic Internet Access"
- trait_v_cyborg_internet_desc:0 "§LHaving direct access to all the knowledge of the galaxy has its upsides.§!"
- CYBORG_INTERNET_EFFECT:0 "Each Ruler or Specialist pop in the empire with §HGalactic Internet Access§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by §G+0.125%§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ trait_v_cyborg_internet:0 "银河互联网访问"
+ trait_v_cyborg_internet_desc:0 "§L直接访问银河系的所有知识具有其优势。§!"
+ CYBORG_INTERNET_EFFECT:0 "每个具有§H银河互联网访问§!的统治者或专家岗位 £engineering£ £physics£ £society£ 研究及 £unity£ 凝聚力 £job£ §Y岗位§!產出§G+0.125%§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_motoric:0 "驱动升级"
  trait_v_cyborg_motoric_desc:0 "§LHaving replaced certain parts of the brain and central nervous system, greatly reducing reaction time.§!"
