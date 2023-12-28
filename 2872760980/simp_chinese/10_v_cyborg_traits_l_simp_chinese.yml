@@ -83,8 +83,8 @@ l_simp_chinese:
  trait_v_cyborg_engram_desc:0 "§L通过死亡领袖的记忆，我们可以学习其过往经验来培训新领导者。§!"
  TRAIT_CYBORG_ENGRAMS_EFFECT:0 "$TRAIT_MACHINE_ENGRAMS_EFFECT$ \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_immortality:0 "Mind Transference"
- trait_v_cyborg_immortality_desc:0 "§LHaving a backup body in might come in very useful in the case of something bad happening to the original body. While not perfect, this is the closest you can get to immortality without being biologically immortal or being a synthetic being.§!"
+ trait_v_cyborg_immortality:0 "思维转移"
+ trait_v_cyborg_immortality_desc:0 "§L改用备份身体运作在原身体发生问题时非常有用。虽然并非完美，但在生物学上算是最接近不朽的了。§!"
  TRAIT_CYBORG_IMMORTALITY_EFFECT:0 "$TRAIT_BACKUPS_EFFECT$ \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_economies_of_scale:0 "规模经济"
