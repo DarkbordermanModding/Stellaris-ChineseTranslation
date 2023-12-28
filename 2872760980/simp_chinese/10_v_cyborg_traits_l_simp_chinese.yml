@@ -71,12 +71,12 @@ l_simp_chinese:
  trait_v_cyborg_mobile_platform_desc:0 "§L通过添加义体活动平台，这些义体人终于可以自由移动。§!"
  TRAIT_MOBILE_PLATFORM_EFFECT:0 "§G使不可移动相关特质无效。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
- trait_v_cyborg_bubble:0 "Cyber Sterility"
- trait_v_cyborg_bubble_desc:0 "§LBy lining every orifice of the body with artificial epidermis, installing sterilizing implants and other augmentation it is possible to mitigate the effects of spending time around some of the more toxic individuals.§!"
- TRAIT_BUBBLE_EFFECT:0 "使§H弱免疫系统§!, §HAllelopathy§!, §H散播瘟疫§!, §HVector§!, §H粉尘复制§! and §HAsbestos Webbing§!特质的宜居性效果无效。 \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
+ trait_v_cyborg_bubble:0 "义体清洁"
+ trait_v_cyborg_bubble_desc:0 "§在身体的毛孔与人工表皮里安装灭菌和其他植入物，可以减轻有毒个体对周围环境的影响。§!"
+ TRAIT_BUBBLE_EFFECT:0 "使§H弱免疫系统§!，§H相克作用§!，§H散播瘟疫§!，§HVector§!，§H粉尘复制§!，§HAsbestos Webbing§!特质的宜居性减损无效。 \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_no_crime:0 "守护者协议"
- trait_v_cyborg_no_crime_desc:0 "§LIf everyone listened to their guardian angel on their shoulder, the galaxy would be a better place. Thanks to advancements in technology, we can now prevent criminal thoughts from occurring by tapping into a potential criminal's nervous system.§!"
+ trait_v_cyborg_no_crime_desc:0 "§L得益于技术的进步，我们可以利用神经控制系统来防止潜在犯罪思想发生。§!"
  TRAIT_NO_CRIME_EFFECT:0 "§G物种不产生犯罪度。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_engram:0 "记忆纪录器"
