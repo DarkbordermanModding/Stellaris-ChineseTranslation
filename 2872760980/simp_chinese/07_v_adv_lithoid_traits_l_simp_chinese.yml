@@ -1,39 +1,39 @@
 ﻿l_simp_chinese:
  trait_v_adv_silicon_brain: "硅晶大脑"
- trait_v_adv_silicon_brain_desc:0 "§L透過先進的基因剪裁，這個物种的大脑比起一般大脑更像是计算机。§!"
+ trait_v_adv_silicon_brain_desc:0 "§L透过先进的基因剪裁，這個物种的大脑比起一般大脑更像是计算机。§!"
 
  trait_v_adv_regular_structure:0 "规则结构"
- trait_v_adv_regular_structure_desc:0 "§L透過先進的基因剪裁，這個物种的结构极为规律，使他们的身体堅硬但易碎。§!"
+ trait_v_adv_regular_structure_desc:0 "§L透过先进的基因剪裁，這個物种的结构极为规律，使他们的身体堅硬但易碎。§!"
 
  trait_v_adv_irregular_structure:0 "不规则结构"
- trait_v_adv_irregular_structure_desc:0 "§L透過先進的基因剪裁，這個物种的结构极为不规律，使其身体柔软但不易碎。§!"
+ trait_v_adv_irregular_structure_desc:0 "§L透过先进的基因剪裁，這個物种的结构极为不规律，使其身体柔软但不易碎。§!"
 
  trait_v_adv_litholytic_enzymes:0 "石质酶"
- trait_v_adv_litholytic_enzymes_desc:0 "§L透過先進的基因剪裁，這個物种發展出了石质酶，以便于更容易攝取矿物质。§!"
+ trait_v_adv_litholytic_enzymes_desc:0 "§L透过先进的基因剪裁，這個物种發展出了石质酶，以便于更容易攝取矿物质。§!"
 
- trait_v_adv_living_reactors:0 "Radiating"
- trait_v_adv_living_reactors_desc:0 "§L透過先進的基因剪裁，this species has become a walking nuclear reactor.§!"
+ trait_v_adv_living_reactors:0 "核驱动"
+ trait_v_adv_living_reactors_desc:0 "§L透过先进的基因剪裁，这个物种成为了行走的核反应堆。§!"
 
- trait_v_adv_meteoric:0 "Meteoric"
- trait_v_adv_meteoric_desc:0 "§L透過先進的基因剪裁，this species has gained the ability to survive atmospheric entry. Their bodies have become more tough and durable, to compensate for the extreme heat and kinetic forces.§!"
+ trait_v_adv_meteoric:0 "陨石之躯"
+ trait_v_adv_meteoric_desc:0 "§L透过先进的基因剪裁，这个物种迁徙时从大气进入，他们的身体坚固耐用以抵抗极端的热量和冲击。§!"
 
- trait_v_adv_pumice_raft:0 "Pumice Raft"
- trait_v_adv_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
+ trait_v_adv_pumice_raft:0 "浮石"
+ trait_v_adv_pumice_raft_desc:0 "§L与大多数岩石不同，浮石能漂浮在水上。这个物种充分利用这个特质来改变其环境。§!"
 
- trait_v_adv_prismatic:0 "Prismatic"
- trait_v_adv_prismatic_desc:0 "§LThe bodies of this species bend light to create beautiful displays of color.§!"
+ trait_v_adv_prismatic:0 "稜鏡散射"
+ trait_v_adv_prismatic_desc:0 "§L这个物种的身体能讓光散射，创造出美丽的颜色陈列。§!"
 
- trait_v_adv_crucible:0 "Living Crucible"
- trait_v_adv_crucible_desc:0 "§LThis species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up.§!"
+ trait_v_adv_crucible:0 "活体熔炉"
+ trait_v_adv_crucible_desc:0 "§L这个物种非常耐热，可以在加热时将矿物直接合成可用的合金。§!"
 
- trait_v_adv_statuesque:0 "Statuesque"
- trait_v_adv_statuesque_desc:0 "§LThe bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue.§!"
+ trait_v_adv_statuesque:0 "可雕塑"
+ trait_v_adv_statuesque_desc:0 "§L这个物种的身体能够像一块大理石一样被凿成极为理想的形状。这个物种的上层阶级是雇用工匠凿掉其缺陷，创造出如雕像般的外观。§!"
 
- trait_v_adv_conductive:0 "Conductive"
- trait_v_adv_conductive_desc:0 "§LDue to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries.§!"
+ trait_v_adv_conductive:0 "导體"
+ trait_v_adv_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。这个物种非常适合电力工作和作为活电池。§!"
 
- trait_v_adv_iron_shell:0 "Iron Shells"
- trait_v_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
+ trait_v_adv_iron_shell:0 "铁壳"
+ trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
 
- trait_v_adv_eroding:0 "Eroding"
- trait_v_adv_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"
+ trait_v_adv_eroding:0 "易腐"
+ trait_v_adv_eroding_desc:0 "§L尽管身为石质生物，这个物种特别容易受到侵蚀影响。§!"
