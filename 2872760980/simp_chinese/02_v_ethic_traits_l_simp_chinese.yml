@@ -1,20 +1,20 @@
 ﻿l_simp_chinese:
 
- trait_v_organizational:0 "Organizational Culture"
- trait_v_organizational_desc:0 "§LThis species developed a societal structure that exists to prevent undesirable behavior that could potentially harm the group.§!"
- TRAIT_ORGANIZATIONAL_EFFECT:0 "Each authoritarian pop working as a slave or better generates no crime and reduces crime by: §G-1§!"
+ trait_v_organizational:0 "组织文化"
+ trait_v_organizational_desc:0 "§L这个物种发展出了一种社会结构，能够预防这个物种的不良行为发生。§!"
+ TRAIT_ORGANIZATIONAL_EFFECT:0 "Each 威权主义 pop working as a slave or better generates no crime and reduces crime by: §G-1§!"
 
- trait_v_competetive:0 "Competetive"
- trait_v_competetive_desc:0 "§LThis species has a very competetive nature.§!"
- TRAIT_COMPETETIVE_EFFECT:0 "Resources From £job£ Jobs worked by egalitarian pops: §G+5%§!"
+ trait_v_competetive:0 "爱好竞争"
+ trait_v_competetive_desc:0 "§L这个物种天性喜欢竞争。§!"
+ TRAIT_COMPETETIVE_EFFECT:0 "平等主义者£job£岗位产出: §G+5%§!"
 
  trait_v_autolatry:0 "Autolatry"
  trait_v_autolatry_desc:0 "§LFor this species, the universe revolves around them. Their extreme egocentrism borders on the worship of the self.§!"
- TRAIT_AUTOLATRY_EFFECT:0 "Each Egalitarian pop working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
+ TRAIT_AUTOLATRY_EFFECT:0 "Each 平等主义者 pop working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
- trait_v_arrogance:0 "Arrogant"
+ trait_v_arrogance:0 "傲慢"
  trait_v_arrogance_desc:0 "§LThis species sees itself as the be-all and end-all of the universe. Any reason they can use to elevate themselves above others is used to enforce that conviction.§!"
- TRAIT_ARROGANCE_EFFECT:0 "Xenophobe Ethics Attraction: §G+5%§! for each positive trait selected \nHappiness: §G+2.5%§! for each positive trait selected \nResources from £job£ Jobs: §G+1.25%§! for each positive trait selected"
+ TRAIT_ARROGANCE_EFFECT:0 "排外主义思潮吸引力: §G+5%§! for each positive trait selected \nHappiness: §G+2.5%§! for each positive trait selected \nResources from £job£ Jobs: §G+1.25%§! for each positive trait selected"
 
  trait_v_ecological_cynicism:0 "Ecological Cynicism"
  trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
@@ -22,7 +22,7 @@
 
  trait_v_homely:0 "Homely"
  trait_v_homely_desc:0 "§LThis species isn't the most functional of them all. It has a lot of problems that make their lives difficult. But for some reason or another, other species find them charming.§!"
- TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases Xenophile Ethics Attraction by: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
+ TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases 亲外主义思潮吸引力: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
 
  trait_v_ecological_naivete:0 "Ecological Naïveté"
  trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
@@ -30,11 +30,11 @@
 
  trait_v_belligerent:0 "好战"
  trait_v_belligerent_desc:0 "§L战争是这个物种的生活日常。他们会在战争期间各司其职§!"
- TRAIT_PATRIOT_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §G+10%§!"
+ TRAIT_PATRIOT_EFFECT:0 "在战争和危机期间£job£岗位产出: §G+10%§!"
 
- trait_v_cowardly:0 "Cowardly"
+ trait_v_cowardly:0 "胆小"
  trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
- TRAIT_COWARD_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §R-10%§! \nResettlement Cost During War and Crisis: §G-50%§!"
+ TRAIT_COWARD_EFFECT:0 "在战争和危机期间£job£岗位产出: §R-10%§! \n在战争和危机期间强制迁徙花费: §G-50%§!"
 
  trait_v_proselytizing:0 "Proselytizing"
  trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
@@ -74,19 +74,19 @@
  trait_v_hive_epigenetic_castes_desc:0 "§LThis species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops.§!"
  TRAIT_EPIGENETIC_CASTES_EFFECT:0 "This species can recruit §YDoor§!, §YKamikaze§!, §YTerror§! and §YSplitter§! armies."
 
- v_door_drone_army:0 "Door Army"
+ v_door_drone_army:0 "门卫部队"
  v_door_drone_army_desc:0 "An army originally designed to function as living doors in the protection of hives."
 
- v_suicide_drone_army:0 "Kamikaze Army"
+ v_suicide_drone_army:0 "自杀部队"
  v_suicide_drone_army_desc:0 "This army is designed to rush in and explode, dealing great damage to its surroundings. \n\n§WOn Destruction causes §R5§! planetary devastation.§!"
 
- v_terror_drone_army:0 "Terror Army"
+ v_terror_drone_army:0 "恐惧部队"
  v_terror_drone_army_desc:0 "This army is designed to spread fear and destruction. While its direct damage is less than that of other hive armies, the sight of acid dissolving everything it comes in contact with is quite capable of destroying morale."
 
- v_splitter_drone_army:0 "Splitter Army"
+ v_splitter_drone_army:0 "分裂者部队"
  v_splitter_drone_army_desc:0 "This army was designed to create swarms of other smaller, more numerous units in the event of death. Their bodies contain younger forms that are 99% developed and are in a state of suspended animation until their progenitor dies. \n\n§WIf the army gets destroyed, it creates two smaller armies with §Y50%§! of the base stats of the army it was spawned from.§!"
 
- v_split_drone_army:0 "Split Army"
+ v_split_drone_army:0 "分裂子部队"
  v_split_drone_army_desc:0 "This army was spawned from a splitter army."
 
  trait_v_hive_worker_dependency:0 "Worker Dependency"
