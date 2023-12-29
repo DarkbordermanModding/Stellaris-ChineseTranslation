@@ -57,11 +57,11 @@
  TRAIT_LITHOTROPHIC_EFFECT:0 "将§Y50%§!的基础£food£§Y食物§!维护费替换为£minerals£§Y矿物§!维护费。 \n\n人口增长速度: §R-12.5%§! \n人口组装速度: §R-12.5%§! \n宜居性: §G+25%§! \n陆军生命值: §G+25%§! \n领袖寿命: §G+25§!年"
 
  trait_v_parasitised:0 "寄生宿主"
- trait_v_parasitised_desc:0 "§LThis species is infested with a brain parasite, that is capable of hijacking the motor functions of the meatsuit it finds itself in for its own gain. Unfortunately for them, their inteligence is based on the inteligence of the host.§!"
+ trait_v_parasitised_desc:0 "§L这个物种被脑部寄生虫感染，that is capable of hijacking the motor functions of the meatsuit it finds itself in for its own gain. Unfortunately for them, their inteligence is based on the inteligence of the host.§!"
  TRAIT_PARASITISED_EFFECT: "Over time other species located on the planet will be turned into subspecies of the original parasite species \nChance for defeated armies to infect a pop on the planet: §Y+33%§! \nHappiness in the presence of any number pops with Parasitic Hosts: §R-10%§! \nTrust Growth from Rulers: §R-20%§! \n\nBecause of how the game works, you need to put a §YSPACE§! in front of your species name, so your original species won't become a subspecies of some other species."
 
  trait_v_parasitic_castration:0 "寄生 Castration"
- trait_v_parasitic_castration_desc:0 "§LThis species is infested with a brain parasite. The infection process requires the castration of the individual, which makes having a host population above replacement level impossible.§!"
+ trait_v_parasitic_castration_desc:0 "§L这个物种被脑部寄生虫感染。The infection process requires the castration of the individual, which makes having a host population above replacement level impossible.§!"
  TRAIT_PARASITIC_CASTRATION_EFFECT: "Over time, other species located on the planet will be turned into subspecies of the original parasite species \nChance for defeated armies to infect a pop on the planet: §Y+33%§! \nHappiness in the presence of any number pops with Parasitic Hosts: §R-10%§! \nTrust Growth from Rulers: §R-20%§! \n\nBecause of how the game works, you need to put a §YSPACE§! in front of your species name, so your original species won't become a subspecies of some other species."
 
  trait_v_parasite_immunity:0 "寄生免疫"
@@ -73,8 +73,8 @@
  TRAIT_HYPERMETABOLIC_EFFECT:0 "Pop Consumer Goods Upkeep on §YCold§! Worlds: §G-10%§! \nFood, Energy and Mineral output on §YCold§! Worlds: §G+10%§! \nPop Consumer Goods Upkeep on non-§YCold§! Worlds: §R-20%§! \nFood, Energy and Mineral output on non-§YCold§! Worlds: §R+20%§! \nHability on non-§YCold§! Worlds: §R-40%§!"
 
  trait_v_weak_immune_system:0 "弱免疫系统"
- trait_v_weak_immune_system_desc:0 "§LThis species has a extraordinarily weak immune system. Diseases that other species can simply shrug off are for this species potentially deadly. Because of this, this species has to stay in perpetual quarantine to stay safe from the diseases other species might have.§!"
- TRAIT_WEAK_IMMUNE_SYSTEM_EFFECT:0 "This species will start to decline when any Non-Robotic pop without §HWeak Immune System§! is present."
+ trait_v_weak_immune_system_desc:0 "§L这个物种的免疫系统极弱，其他物种的小病可以要了他們的命。因此这个物种必须永久隔离以防止患病。§!"
+ TRAIT_WEAK_IMMUNE_SYSTEM_EFFECT:0 "与无§H弱免疫系统§!特质的非机械生存时人口会开始减少。"
 
  trait_v_edc_sensitive:0 "化学物敏感"
  trait_v_edc_sensitive_desc:0 "§L这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。§!"
