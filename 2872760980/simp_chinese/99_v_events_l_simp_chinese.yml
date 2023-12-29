@@ -1,15 +1,15 @@
 ﻿l_simp_chinese:
- v_traits_spore_event.2.name:0 "Spore Camp Removal"
- v_traits_spore_event.2.desc:0 "The removal of a spore camp has started an armed insurrection against our rule. While mostly equipped with looted equipment and ramshackle vehicles, this army shouldn't be underestimated."
- v_traits_spore_event.2.a:0 "HOLD YOUR GROUND!"
+ v_traits_spore_event.2.name:0 "移除胞子营"
+ v_traits_spore_event.2.desc:0 "移除胞子营导致了最近的武装起义。虽然部队只装备了抢来的武器及二手车辆，也不应低估其战斗能力。"
+ v_traits_spore_event.2.a:0 "堅守陣地!"
 
  v_traits_backup_event.1.name:0 "免于一死"
  v_traits_backup_event.1.desc_a:0 "[From.Leader.GetName]死了。值得庆幸的是，我们可以选择拯救[From.Leader.GetHerHim]。代價是，我们需要提供[From.Leader.GetHerHim]一具新的身体"
  v_traits_backup_event.1.desc_b:0 "[From.Leader.GetName]遭受了严重故障。值得庆幸的是我们有[From.Leader.GetHerHis]的备品。"
- v_traits_backup_event.1.aa:0 "We can shall provide [From.Leader.GetHerHim] with a new body."
- v_traits_backup_event.1.ab:0 "We can rebuild [From.Leader.GetHerHim]."
+ v_traits_backup_event.1.aa:0 "我們可以提供[From.Leader.GetHerHim]一具新的身体。"
+ v_traits_backup_event.1.ab:0 "我们可以重造[From.Leader.GetHerHim]。"
  v_traits_backup_event_1_a_tooltip:0 "[From.Leader.GetName]回归。"
- v_traits_backup_event.1.b:0 "We can't afford to bring [From.Leader.GetHerHim] back."
+ v_traits_backup_event.1.b:0 "我们负担不起[From.Leader.GetHerHim]。"
  v_traits_backup_event_1_b_tooltip:0 "[From.Leader.GetName]死亡。"
 
  v_traits_spore_event.3.name:0 "在[Root.Planet.GetName]的军阀"
