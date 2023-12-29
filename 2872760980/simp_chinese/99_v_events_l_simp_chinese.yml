@@ -13,15 +13,15 @@
  v_traits_backup_event_1_b_tooltip:0 "[From.Leader.GetName]死亡。"
 
  v_traits_spore_event.3.name:0 "在[Root.Planet.GetName]的军阀"
- v_traits_spore_event.3.desc:0 "A local warlord has made a bid for control of [Root.Planet.GetName]. Whenever this attempt is successful is to be seen. Let us hope that the local forces are enough to stem the tide."
+ v_traits_spore_event.3.desc:0 "一位军阀开始和我们抢夺[Root.Planet.GetName]的控制权。虽然机会渺茫，我们仍祈祷当地部队能挡下他们"
 
  v_traits_spore_event.4.name:0 "军阀被击败"
- v_traits_spore_event.4.desc:0 "军阀的军队已成功被击退。 The inhabitants of [Root.Planet.GetName] can now return to their daily lives."
+ v_traits_spore_event.4.desc:0 "军阀的军队成功被击退。现在[Root.Planet.GetName]可以回歸正常生活了。"
 
- v_traits_spore_event.5.name:0 "军阀掌控了 [FROMFROM.Planet.GetName]"
- v_traits_spore_event.5.desc:0 "Unfortunately, our troops were unable to keep control of [FROMFROM.Planet.GetName]. Now the inhabitants of [FROMFROM.Planet.GetName] are under the control of the warlord. At the moment, the warlord seems to be sending a message to mock our failure to defend the inhabitants of [FROMFROM.Planet.GetName]. "
+ v_traits_spore_event.5.name:0 "军阀掌控了[FROMFROM.Planet.GetName]"
+ v_traits_spore_event.5.desc:0 "不幸地，我们的军队无法控制[FROMFROM.Planet.GetName]。现在[FROMFROM.Planet.GetName]在军阀的掌控下。于此同时，军阀发出讯息嘲讽我们我们的失败。"
 
  v_traits_spore_event.6.desc:0 "这个星球是我的。您可悲的军队甚至没有一丝机会拿下它。现在远离，否则你的军队将再次化为灰烬。"
  v_traits_spore_event.6.a:0 "万物都有其代价。"
- v_traits_spore_event.6.b:0 "这个星球是我们的了。"
+ v_traits_spore_event.6.b:0 "这个星球是他们的了。"
  v_traits_spore_event.6.c:0 "在宏伟计划中，一个星球又算什么？"
