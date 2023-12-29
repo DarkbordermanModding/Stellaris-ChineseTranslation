@@ -20,21 +20,21 @@
  trait_conservational_assimilation:0 "保守主义同化"
  trait_docile_assimilation:0 "温顺同化"
  trait_communal_assimilation:0 "合群同化"
- trait_v_precise_assimilation:0 "Precise 同化"
+ trait_v_precise_assimilation:0 "精确同化"
  trait_v_belligerent_assimilation:0 "好战同化"
- trait_v_efficient_digestion_assimilation:0 "Efficient Digestion 同化"
+ trait_v_efficient_digestion_assimilation:0 "消化優良同化"
  trait_v_ascetic_assimilation:0 "苦行者同化"
 
- trait_v_precise:0 "Precise"
+ trait_v_precise:0 "精确"
  trait_v_precise_desc:0 "§LThis species is capable of exceedingly precise movements which come in usefull in both manufacturing and combat.§!"
 
- trait_v_imprecise:0 "Imprecise"
+ trait_v_imprecise:0 "不精确"
  trait_v_imprecise_desc:0 "§LThis species isn't known from their precise movement skills, which can be best described as lacking.§!"
 
- trait_v_efficient_digestion:0 "Efficient Digestion"
+ trait_v_efficient_digestion:0 "消化優良"
  trait_v_efficient_digestion_desc:0 "§LThis species has developed a efficient digestive system, thanks to this they need less food to sustain their bodies.§!"
 
- trait_v_inefficient_digestion:0 "Inefficient Digestion"
+ trait_v_inefficient_digestion:0 "消化不良"
  trait_v_inefficient_digestion_desc:0 "§LThe intestines of this species are inefficient when it comes to absorbing nutrients, a lot of nutrients just get wasted.§!"
 
  trait_v_efficient_digestion_l:0 "$trait_v_efficient_digestion$"
