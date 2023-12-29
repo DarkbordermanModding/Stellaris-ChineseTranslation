@@ -28,10 +28,10 @@
  trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
  TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Happiness if a different species is present: §G+10%§!"
 
- trait_v_belligerent:0 "Belligerent"
- trait_v_belligerent_desc:0 "§LWar is the way of this species. Members of this species will do their part.§!"
+ trait_v_belligerent:0 "好战"
+ trait_v_belligerent_desc:0 "§L战争是这个物种的生活日常。他们会在战争期间各司其职§!"
  TRAIT_PATRIOT_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §G+10%§!"
- 
+
  trait_v_cowardly:0 "Cowardly"
  trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
  TRAIT_COWARD_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §R-10%§! \nResettlement Cost During War and Crisis: §G-50%§!"
