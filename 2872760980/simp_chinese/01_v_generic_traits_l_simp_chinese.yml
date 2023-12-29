@@ -26,16 +26,16 @@
  trait_v_ascetic_assimilation:0 "苦行者同化"
 
  trait_v_precise:0 "精确"
- trait_v_precise_desc:0 "§LThis species is capable of exceedingly precise movements which come in usefull in both manufacturing and combat.§!"
+ trait_v_precise_desc:0 "§L这个物种在制造和战斗中都能做到极为精确的动作。§!"
 
  trait_v_imprecise:0 "不精确"
- trait_v_imprecise_desc:0 "§LThis species isn't known from their precise movement skills, which can be best described as lacking.§!"
+ trait_v_imprecise_desc:0 "§L这个物种在各种动作上都极为不精准§!"
 
  trait_v_efficient_digestion:0 "消化優良"
- trait_v_efficient_digestion_desc:0 "§LThis species has developed a efficient digestive system, thanks to this they need less food to sustain their bodies.§!"
+ trait_v_efficient_digestion_desc:0 "§L这个物种发展出优秀的消化系统，他们需要更少的食物来维持自己的身体运作。§!"
 
  trait_v_inefficient_digestion:0 "消化不良"
- trait_v_inefficient_digestion_desc:0 "§LThe intestines of this species are inefficient when it comes to absorbing nutrients, a lot of nutrients just get wasted.§!"
+ trait_v_inefficient_digestion_desc:0 "§L在吸收营养时，这个物种的肠道效率低下，浪费了许多营养。§!"
 
  trait_v_efficient_digestion_l:0 "$trait_v_efficient_digestion$"
  trait_v_efficient_digestion_l_desc:0 "$trait_v_efficient_digestion_desc$"
@@ -85,15 +85,15 @@
  TRAIT_LITHOID_EDC_SENSITIVE_EFFECT:0 "每 §Y都市区划§!，§Y工业区划§!，§Y采矿区划§! 对人口成长速度: §R-2.5%§!"
 
  trait_v_dry_adaptation:0 "干旱气候偏好"
- trait_v_dry_adaptation_desc:0 "§LThis species has a set of adaptations for dry environments, but they are disadvantageous in cold and wet environments.§!"
+ trait_v_dry_adaptation_desc:0 "§L这个物种对干旱气候适应良好，在其他气候则不然。§!"
  TRAIT_DRY_ADAPTATION_EFFECT:0 "Habitability on §YDry§! Worlds: §G+20%§! \nHabitability on §YWet§! and §YFrozen§! Worlds: §R-10%§!"
 
  trait_v_wet_adaptation:0 "潮湿气候偏好"
- trait_v_wet_adaptation_desc:0 "§LThis species has a set of adaptations for wet environments, but they are disadvantageous in dry and cold environments.§!"
+ trait_v_wet_adaptation_desc:0 "§L这个物种对潮湿气候适应良好，在其他气候则不然。§!"
  TRAIT_WET_ADAPTATION_EFFECT:0 "Habitability on §YWet§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YFrozen§! Worlds: §R-10%§!"
 
  trait_v_frozen_adaptation:0 "寒冷气候偏好"
- trait_v_frozen_adaptation_desc:0 "§LThis species has a set of adaptations for frozen environments, but they are disadvantageous in hot and wet environments.§!"
+ trait_v_frozen_adaptation_desc:0 "§L这个物种对寒冷气候适应良好，在其他气候则不然。§!"
  TRAIT_FROZEN_ADAPTATION_EFFECT:0 "Habitability on §YFrozen§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YWet§! Worlds: §R-10%§!"
 
  trait_v_difficult_reproduction:0 "高要求繁殖"
