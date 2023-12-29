@@ -65,10 +65,10 @@
  TRAIT_PARASITIC_CASTRATION_EFFECT: "Over time, other species located on the planet will be turned into subspecies of the original parasite species \nChance for defeated armies to infect a pop on the planet: §Y+33%§! \nHappiness in the presence of any number pops with Parasitic Hosts: §R-10%§! \nTrust Growth from Rulers: §R-20%§! \n\nBecause of how the game works, you need to put a §YSPACE§! in front of your species name, so your original species won't become a subspecies of some other species."
 
  trait_v_parasite_immunity:0 "寄生免疫"
- trait_v_parasite_immunity_desc:0 "§LDue to evolutionary adaptations, this species has developed a extremely efficacious immune response to all forms of parasitic infection.§!"
- TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§GThis species can't be infected by parasite pops.§!"
+ trait_v_parasite_immunity_desc:0 "§L基于物种进化，这个物种对各种寄生虫感染有极有效的免疫反应。§!"
+ TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§G这个物种不会被寄生物种感染§!"
 
- trait_v_hypermetabolic:0 "Hypermetabolic"
+ trait_v_hypermetabolic:0 "高代谢"
  trait_v_hypermetabolic_desc:0 "§LThe metabolism of this species is extremely active. This species has a lot of energy it can spend on menial tasks, but is unable to handle higher temperatures that well.§!"
  TRAIT_HYPERMETABOLIC_EFFECT:0 "Pop Consumer Goods Upkeep on §YCold§! Worlds: §G-10%§! \nFood, Energy and Mineral output on §YCold§! Worlds: §G+10%§! \nPop Consumer Goods Upkeep on non-§YCold§! Worlds: §R-20%§! \nFood, Energy and Mineral output on non-§YCold§! Worlds: §R+20%§! \nHability on non-§YCold§! Worlds: §R-40%§!"
 
