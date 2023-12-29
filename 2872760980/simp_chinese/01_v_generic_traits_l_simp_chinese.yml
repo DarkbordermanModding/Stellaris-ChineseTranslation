@@ -86,15 +86,15 @@
 
  trait_v_dry_adaptation:0 "干旱气候偏好"
  trait_v_dry_adaptation_desc:0 "§L这个物种对干旱气候适应良好，在其他气候则不然。§!"
- TRAIT_DRY_ADAPTATION_EFFECT:0 "Habitability on §YDry§! Worlds: §G+20%§! \nHabitability on §YWet§! and §YFrozen§! Worlds: §R-10%§!"
+ TRAIT_DRY_ADAPTATION_EFFECT:0 "§Y干旱§!星球宜居性: §G+20%§! \n§Y潮湿§!及§Y寒冷§!星球宜居性: §R-10%§!"
 
  trait_v_wet_adaptation:0 "潮湿气候偏好"
  trait_v_wet_adaptation_desc:0 "§L这个物种对潮湿气候适应良好，在其他气候则不然。§!"
- TRAIT_WET_ADAPTATION_EFFECT:0 "Habitability on §YWet§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YFrozen§! Worlds: §R-10%§!"
+ TRAIT_WET_ADAPTATION_EFFECT:0 "§Y潮湿§!星球宜居性: §G+20%§! \n§Y干旱§!及§Y寒冷§!星球宜居性: §R-10%§!"
 
  trait_v_frozen_adaptation:0 "寒冷气候偏好"
  trait_v_frozen_adaptation_desc:0 "§L这个物种对寒冷气候适应良好，在其他气候则不然。§!"
- TRAIT_FROZEN_ADAPTATION_EFFECT:0 "Habitability on §YFrozen§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YWet§! Worlds: §R-10%§!"
+ TRAIT_FROZEN_ADAPTATION_EFFECT:0 "§Y寒冷§!星球宜居性: §G+20%§! \n§Y干旱§!及§Y潮湿§!星球宜居性: §R-10%§!"
 
  trait_v_difficult_reproduction:0 "高要求繁殖"
  trait_v_difficult_reproduction_desc:0 "§L這個物种需要极其特定的环境条件才能繁殖。§!"
