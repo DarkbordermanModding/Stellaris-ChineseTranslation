@@ -1,8 +1,8 @@
 ﻿l_simp_chinese:
 
  trait_v_horizontal_gene_transfer:0 "遗传同化"
- trait_v_horizontal_gene_transfer_desc:0 "§LThis species has gained a adaptation to gain beneficial genes from the enviroment. While this ability is mainly restricted to single cellular organisms, this species seems to be one of the few exceptions. In addition, the constant flow of new genetic material functionally made this species immortal.§!"
- TRAIT_HGT_EFFECT: "当这个物种和其他物种共用星球时，可以获得其正向同化特质。\n§H起源§!，§H未開智§!及种族特定特质无法获得。\n已有类似特质时则不会再获得。"
+ trait_v_horizontal_gene_transfer_desc:0 "§L这个物种具有从周遭环境获得正向特质的能力。尽管这种能力一般只有单细胞生物具有，但这个物种似乎是少数例外。§!"
+ TRAIT_HGT_EFFECT: "当这个物种和其他物种共存时，可以获得其正向同化特质。\n§H起源§!，§H未開智§!及种族特定特质无法获得。\n已有类似特质时则不会再获得。"
 
  trait_agrarian_assimilation:0 "农民同化"
  trait_industrious_assimilation:0 "勤勉同化"
@@ -106,7 +106,7 @@
 
  trait_v_neuroplasticity:0 "神经可塑性"
  trait_v_neuroplasticity_desc:0 "§L这个物种的大脑显示出卓越的神经塑性。§!"
- TRAIT_NEUROPLASTICITY_EFFECT:0 "每月移除全部负向特质机率: §G+1%§! \n每移除一个负向特质 §R-300§! 经验。"
+ TRAIT_NEUROPLASTICITY_EFFECT:0 "每月移除全部负向特质机率: §G+1%§! \n每移除一个负向特质§R-300§!经验。"
 
  trait_v_hale:0 "身强体壮"
  trait_v_hale_desc:0 "§L这个物种先天体质健壮§!"
