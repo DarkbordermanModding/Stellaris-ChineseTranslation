@@ -2,19 +2,19 @@
 
  trait_v_organizational:0 "组织文化"
  trait_v_organizational_desc:0 "§L这个物种发展出了一种社会结构，能够预防这个物种的不良行为发生。§!"
- TRAIT_ORGANIZATIONAL_EFFECT:0 "Each 威权主义人口 working as a slave or better generates no crime and reduces crime by: §G-1§!"
+ TRAIT_ORGANIZATIONAL_EFFECT:0 "每个做为奴隶或更高工作标准的威权主义人口不产生犯罪度并降低§G-1§!点犯罪度"
 
  trait_v_competetive:0 "爱好竞争"
  trait_v_competetive_desc:0 "§L这个物种天性喜欢竞争。§!"
  TRAIT_COMPETETIVE_EFFECT:0 "平等主义者£job£岗位产出: §G+5%§!"
 
  trait_v_autolatry:0 "自我崇拜"
- trait_v_autolatry_desc:0 "§LFor this species, the universe revolves around them. Their extreme egocentrism borders on the worship of the self.§!"
- TRAIT_AUTOLATRY_EFFECT:0 "Each 平等主义者人口 working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
+ trait_v_autolatry_desc:0 "§L这个物种认为宇宙绕着它们转，他们极端的自我中心主义与自我崇拜接壤。§!"
+ TRAIT_AUTOLATRY_EFFECT:0 "每个做为奴隶或更高工作标准的平等主义者人口 produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
  trait_v_arrogance:0 "傲慢"
- trait_v_arrogance_desc:0 "§LThis species sees itself as the be-all and end-all of the universe. Any reason they can use to elevate themselves above others is used to enforce that conviction.§!"
- TRAIT_ARROGANCE_EFFECT:0 "排外主义思潮吸引力: §G+5%§! for each positive trait selected \nHappiness: §G+2.5%§! for each positive trait selected \nResources from £job£ Jobs: §G+1.25%§! for each positive trait selected"
+ trait_v_arrogance_desc:0 "§L这个物种将自己视为宇宙的最终主宰，他们可以用任何理由贯彻这种信念，将自己提升到他人之上。§!"
+ TRAIT_ARROGANCE_EFFECT:0 "每个正向特质排外主义思潮吸引力: §G+5%§! \n每个正向特质幸福度: §G+2.5%§! \n每个正向特质£job£对岗位产出: §G+1.25%§!"
 
  trait_v_ecological_cynicism:0 "Ecological Cynicism"
  trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
@@ -22,7 +22,7 @@
 
  trait_v_homely:0 "平凡"
  trait_v_homely_desc:0 "§L这个物种不是所有物种中最有用的，它有很多问题使他们的生活变得困难。但由于某种原因，其他物种觉得它们迷人。§!"
- TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases 亲外主义思潮吸引力: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
+ TRAIT_HOMELY_EFFECT:0 "每个做为奴隶或更高工作标准的人口亲外主义思潮吸引力: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
 
  trait_v_ecological_naivete:0 "Ecological Naïveté"
  trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
@@ -48,25 +48,25 @@
  trait_v_druidic_desc:0 "§L这个物种视自然为众神。§!"
  TRAIT_DRUIDS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest Output for every Naturally Occurring Blocker: §G+5%§! \nSpiritualist Ethics Attraction for every Naturally Occurring Blocker: §G+5%§!"
 
- trait_v_machine_priests:0 "Machine Reverence"
+ trait_v_machine_priests:0 "机械景仰"
  trait_v_machine_priests_desc:0 "§LFrom the moment this species understood the weakness of its flesh, it disgusted them. They craved the strength and certainty of steel. They aspired to the purity of the blessed machine.§!"
  TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
 
- trait_v_materialistic:0 "Materialistic"
- trait_v_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
+ trait_v_materialistic:0 "物质主义"
+ trait_v_materialistic_desc:0 "§L这个物种的人生目标便是获得尽可能多的物质财富。§!"
  TRAIT_MATERIALISTIC_EFFECT:0 "Each Materialist pop working as a slave or better increases Materialist Ethics Attraction by: §G+1%§! \nEach Materialist pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!. \nPop Consumer Goods Upkeep for Materialist pops: §R+10%§! \nPop Housing Usage for Materialist pops: §R+10%§!"
 
- trait_v_tinkerer:0 "Tinkerer"
+ trait_v_tinkerer:0 "机械工匠"
  trait_v_tinkerer_desc:0 "§LFor this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects.§!"
  TRAIT_TINKERER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £engineering_research£ §YEngineering Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
 
- trait_v_fleshcrafter:0 "Fleshcrafter"
+ trait_v_fleshcrafter:0 "躯体工匠"
  trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
  TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
 
  ################################################################################################################################
 
- trait_v_hive_microclimate:0 "Hive Microclimate"
+ trait_v_hive_microclimate:0 "蜂巢微气候"
  trait_v_hive_microclimate_desc:0 "§LBy creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable.§!"
  TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "Habitability per district: §G+1%§!"
 
@@ -89,10 +89,10 @@
  v_split_drone_army:0 "分裂子部队"
  v_split_drone_army_desc:0 "This army was spawned from a splitter army."
 
- trait_v_hive_worker_dependency:0 "Worker Dependency"
+ trait_v_hive_worker_dependency:0 "工人依赖"
  trait_v_hive_worker_dependency_desc:0 "§LThe upper castes of this species are dependent on their workers. They use them for the purpose of further specialization.§!"
  TRAIT_HIVE_WORKER_DEPENDENCY_EFFECT:0 "Complex Drone Pop Resource Output per £job_maintenance_drone£ §YMaintenance Drone§! with the §HWorker Dependency§! trait: §G+0.5%§! \nBuilding and District build speed from £job_maintenance_drone£ §YMaintenance Drones§!: §G+2%§!"
 
  trait_v_hive_bivouac:0 "Bivouac"
  trait_v_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"
- TRAIT_HIVE_BIVOUAC_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!" 
+ TRAIT_HIVE_BIVOUAC_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!"
