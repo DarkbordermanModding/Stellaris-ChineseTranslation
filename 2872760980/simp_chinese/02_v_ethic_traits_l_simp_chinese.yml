@@ -2,15 +2,15 @@
 
  trait_v_organizational:0 "组织文化"
  trait_v_organizational_desc:0 "§L这个物种发展出了一种社会结构，能够预防这个物种的不良行为发生。§!"
- TRAIT_ORGANIZATIONAL_EFFECT:0 "Each 威权主义 pop working as a slave or better generates no crime and reduces crime by: §G-1§!"
+ TRAIT_ORGANIZATIONAL_EFFECT:0 "Each 威权主义人口 working as a slave or better generates no crime and reduces crime by: §G-1§!"
 
  trait_v_competetive:0 "爱好竞争"
  trait_v_competetive_desc:0 "§L这个物种天性喜欢竞争。§!"
  TRAIT_COMPETETIVE_EFFECT:0 "平等主义者£job£岗位产出: §G+5%§!"
 
- trait_v_autolatry:0 "Autolatry"
+ trait_v_autolatry:0 "自我崇拜"
  trait_v_autolatry_desc:0 "§LFor this species, the universe revolves around them. Their extreme egocentrism borders on the worship of the self.§!"
- TRAIT_AUTOLATRY_EFFECT:0 "Each 平等主义者 pop working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
+ TRAIT_AUTOLATRY_EFFECT:0 "Each 平等主义者人口 working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
  trait_v_arrogance:0 "傲慢"
  trait_v_arrogance_desc:0 "§LThis species sees itself as the be-all and end-all of the universe. Any reason they can use to elevate themselves above others is used to enforce that conviction.§!"
@@ -20,8 +20,8 @@
  trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
  TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "Happiness if a different species is present: §R-10%§!"
 
- trait_v_homely:0 "Homely"
- trait_v_homely_desc:0 "§LThis species isn't the most functional of them all. It has a lot of problems that make their lives difficult. But for some reason or another, other species find them charming.§!"
+ trait_v_homely:0 "平凡"
+ trait_v_homely_desc:0 "§L这个物种不是所有物种中最有用的，它有很多问题使他们的生活变得困难。但由于某种原因，其他物种觉得它们迷人。§!"
  TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases 亲外主义思潮吸引力: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
 
  trait_v_ecological_naivete:0 "Ecological Naïveté"
@@ -36,16 +36,16 @@
  trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
  TRAIT_COWARD_EFFECT:0 "在战争和危机期间£job£岗位产出: §R-10%§! \n在战争和危机期间强制迁徙花费: §G-50%§!"
 
- trait_v_proselytizing:0 "Proselytizing"
+ trait_v_proselytizing:0 "传教"
  trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
- TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 1 £unity£ §YUnity§! per month."
+ TRAIT_PROSELYTIZING_EFFECT:0 "Each 唯心主义人口 working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 1 £unity£ §YUnity§! per month."
 
- trait_v_scholastic:0 "Scholastic"
- trait_v_scholastic_desc:0 "§LFor this species, there exists no difference between faith and science. In reality, they seem to consider both of those things to be the same thing.§!"
- TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_researcher£ §YResearchers§!."
+ trait_v_scholastic:0 "学教合一"
+ trait_v_scholastic_desc:0 "§L对于这个物种，信仰与科学之间没有区别。实际上，他们认为这两种事情都是同一件事。§!"
+ TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£§Y祭司§!视为£job_researcher£§Y研究人员§!"
 
- trait_v_druidic:0 "Druidic"
- trait_v_druidic_desc:0 "§LThis species sees the divine within nature itself.§!"
+ trait_v_druidic:0 "德鲁伊"
+ trait_v_druidic_desc:0 "§L这个物种视自然为众神。§!"
  TRAIT_DRUIDS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest Output for every Naturally Occurring Blocker: §G+5%§! \nSpiritualist Ethics Attraction for every Naturally Occurring Blocker: §G+5%§!"
 
  trait_v_machine_priests:0 "Machine Reverence"
