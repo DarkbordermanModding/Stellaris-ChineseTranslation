@@ -49,16 +49,16 @@
  TRAIT_DRUIDS_EFFECT:0 "每个天然障碍对£job_priest£ £job_death_priest£祭司产出: §G+5%§! \n每个天然障碍唯心主义思潮吸引力: §G+5%§!"
 
  trait_v_machine_priests:0 "机械景仰"
- trait_v_machine_priests_desc:0 "§LFrom the moment this species understood the weakness of its flesh, it disgusted them. They craved the strength and certainty of steel. They aspired to the purity of the blessed machine.§!"
- TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
+ trait_v_machine_priests_desc:0 "§L这个物种厌恶肉体的脆弱。他们渴望躯体坚硬如钢，渴望心灵如机器的纯洁。§!"
+ TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£祭司視為£job_foundry£§Y冶金师§!及£job_artisan£§Y工匠§!。 \n每个§H工业区划§!唯心主义思潮吸引力: §G+2%§!"
 
  trait_v_materialistic:0 "物质主义"
  trait_v_materialistic_desc:0 "§L这个物种的人生目标便是获得尽可能多的物质财富。§!"
- TRAIT_MATERIALISTIC_EFFECT:0 "Each Materialist pop working as a slave or better increases Materialist Ethics Attraction by: §G+1%§! \nEach Materialist pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!. \nPop Consumer Goods Upkeep for Materialist pops: §R+10%§! \nPop Housing Usage for Materialist pops: §R+10%§!"
+ TRAIT_MATERIALISTIC_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口唯物主义思潮吸引力: §G+1%§! \n每个做为奴隶或更高工作标准的唯物主义人口產生 1 £trade_value£ §Y贸易额§!。 \n唯物主义人口消费品维护费: §R+10%§! \n唯物主义人口住房使用: §R+10%§!"
 
  trait_v_tinkerer:0 "机械工匠"
- trait_v_tinkerer_desc:0 "§LFor this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects.§!"
- TRAIT_TINKERER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £engineering_research£ §YEngineering Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
+ trait_v_tinkerer_desc:0 "§L这个物种对机械系统相当着迷，他们平时喜欢跟机械打交道。§!"
+ TRAIT_TINKERER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 1 £engineering_research£ §Y工程學§! \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
 
  trait_v_fleshcrafter:0 "躯体工匠"
  trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
@@ -68,7 +68,7 @@
 
  trait_v_hive_microclimate:0 "蜂巢微气候"
  trait_v_hive_microclimate_desc:0 "§LBy creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable.§!"
- TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "Habitability per district: §G+1%§!"
+ TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "每个区划宜居性: §G+1%§!"
 
  trait_v_hive_epigenetic_castes:0 "Epigenetic Castes"
  trait_v_hive_epigenetic_castes_desc:0 "§LThis species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops.§!"

@@ -32,7 +32,7 @@
 
  trait_v_soil_maker:0 "造壤"
  trait_v_soil_maker_desc:0 "§L这个物种能够生产土壤。这个能力使该物种能够将贫瘠的行星变得易于居住。§!"
- TRAIT_SOIL_MAKER_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§! §G+0.5%§! \n每个做为奴隶或更高工作标准的人口£job£崗位生產的£food£§Y食物§! : §G+1%§! \n每个做为奴隶或更高工作标准的人口£job£岗位生产的£minerals£§Y矿物§!: §R-1%§!"
+ TRAIT_SOIL_MAKER_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§! §G+0.5%§! \n每个做为奴隶或更高工作标准的人口£job£崗位生产的£food£§Y食物§! : §G+1%§! \n每个做为奴隶或更高工作标准的人口£job£岗位生产的£minerals£§Y矿物§!: §R-1%§!"
 
  trait_v_party_animal:0 "派对动物"
  trait_v_party_animal_desc:0 "§L这个物种喜欢开派对。他们的派对需要大量资源，但与此同时，它们的派对比其他物种的各方都狂野。§!"
