@@ -81,13 +81,13 @@
  v_suicide_drone_army_desc:0 "这个部队旨在冲入敌营和爆炸，对周围环境造成破坏。\n\n§W击败时造成§R5§!点破坏度。§!"
 
  v_terror_drone_army:0 "恐惧部队"
- v_terror_drone_army_desc:0 "This army is designed to spread fear and destruction. While its direct damage is less than that of other hive armies, the sight of acid dissolving everything it comes in contact with is quite capable of destroying morale."
+ v_terror_drone_army_desc:0 "这个部队旨在散播恐惧。虽然其直接伤害比其他部队的伤害少，但接触时能溶解一切的酸非常能破坏士气。"
 
  v_splitter_drone_army:0 "分裂者部队"
- v_splitter_drone_army_desc:0 "This army was designed to create swarms of other smaller, more numerous units in the event of death. Their bodies contain younger forms that are 99% developed and are in a state of suspended animation until their progenitor dies. \n\n§WIf the army gets destroyed, it creates two smaller armies with §Y50%§! of the base stats of the army it was spawned from.§!"
+ v_splitter_drone_army_desc:0 "这个部队在被击败时会分裂出数个较小的部队。他们的身体包含99%的幼体并停止发育，直到母体死亡。 \n\n§W部队在被击败时会分裂出2个具§Y50%§!原能力值的较小部队。§!"
 
  v_split_drone_army:0 "分裂子部队"
- v_split_drone_army_desc:0 "This army was spawned from a splitter army."
+ v_split_drone_army_desc:0 "这个部队由分裂者部队分裂而来。"
 
  trait_v_hive_worker_dependency:0 "子个体依赖"
  trait_v_hive_worker_dependency_desc:0 "§LThe upper castes of this species are dependent on their workers. They use them for the purpose of further specialization.§!"
