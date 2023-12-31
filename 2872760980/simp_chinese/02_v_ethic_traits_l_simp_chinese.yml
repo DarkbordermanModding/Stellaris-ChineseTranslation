@@ -61,18 +61,18 @@
  TRAIT_TINKERER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 1 £engineering_research£ §Y工程學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £job_roboticist£ §Y每月机械人口组装§!."
 
  trait_v_fleshcrafter:0 "躯体工匠"
- trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
- TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
+ trait_v_fleshcrafter_desc:0 "§L这个物种认为有机与其他生物系统没有太大区别。它们像操纵钟表一样调整肉体和基因。§!"
+ TRAIT_FLESHCRAFTER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 1 £society_research£ §Y社會學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
 
  ################################################################################################################################
 
  trait_v_hive_microclimate:0 "蜂巢微气候"
- trait_v_hive_microclimate_desc:0 "§LBy creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable.§!"
+ trait_v_hive_microclimate_desc:0 "§L通过人工建造的蜂巢气候，这个物种能够在其他人认为无法居住的环境中生存。§!"
  TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "每个区划宜居性: §G+1%§!"
 
- trait_v_hive_epigenetic_castes:0 "Epigenetic Castes"
- trait_v_hive_epigenetic_castes_desc:0 "§LThis species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops.§!"
- TRAIT_EPIGENETIC_CASTES_EFFECT:0 "This species can recruit §YDoor§!, §YKamikaze§!, §YTerror§! and §YSplitter§! armies."
+ trait_v_hive_epigenetic_castes:0 "遗传学种性"
+ trait_v_hive_epigenetic_castes_desc:0 "§L这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。§!"
+ TRAIT_EPIGENETIC_CASTES_EFFECT:0 "这个物种可以招募§Y门卫§!，§Y自杀§!，§Y恐惧§!及§Y分裂者§!部队"
 
  v_door_drone_army:0 "门卫部队"
  v_door_drone_army_desc:0 "An army originally designed to function as living doors in the protection of hives."
