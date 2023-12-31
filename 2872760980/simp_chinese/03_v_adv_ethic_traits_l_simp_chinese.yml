@@ -22,12 +22,12 @@
  trait_v_robot_ecological_naivete_desc:0 "§L这些机器没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
 
  trait_v_robot_belligerent:0 "爱国者协议"
- trait_v_robot_belligerent_desc:0 "§LIn the case of conflict, these machines are capable of working beyond what could be considered their normal capabilities.§!"
+ trait_v_robot_belligerent_desc:0 "§L这些机器在发生冲突的情况下，能够超越其正常能力的工作量。§!"
 
  trait_v_robot_cowardly:0 "自我保护协议"
  trait_v_robot_cowardly_desc:0 "§L这些机器不在乎国家的存亡，他们寧願保全自己的存在。§!"
 
- trait_v_robot_proselytizing:0 "Proselytizing 协议"
+ trait_v_robot_proselytizing:0 "传教协议"
  trait_v_robot_proselytizing_desc:0 "§LThese machines yearn for the divine despite their seemingly soulless nature.§!"
 
  trait_v_robot_scholastic:0 "Scholastic Executable"
@@ -57,9 +57,9 @@
  trait_v_adv_hive_epigenetic_castes:0 "遗传学种性"
  trait_v_adv_hive_epigenetic_castes_desc:0 "§L这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。§!"
 
- trait_v_adv_hive_worker_dependency:0 "子个体依赖"
- trait_v_adv_hive_worker_dependency_desc:0 "§L这个物种的上层阶级仰赖于他们的基础子个体，他们将它们用于进一步的专业化。§!"
- TRAIT_ADV_HIVE_WORKER_DEPENDENCY_EFFECT:0 "Specialist Pop Resource Output per £job_clerk£ §YClerk§! with the §HWorker Dependency§! trait: §G+0.5%§! \nBuilding and District build speed from £job_clerk£ §YClerk§!: §G+2%§!"
+ trait_v_adv_hive_worker_dependency:0 "劳工依赖"
+ trait_v_adv_hive_worker_dependency_desc:0 "§L这个物种的上层阶级仰赖于他们的劳工，他们将它们用于进一步的专业化。§!"
+ TRAIT_ADV_HIVE_WORKER_DEPENDENCY_EFFECT:0 "每个具§H劳工依赖§!特质的£job_clerk£§Y职员§!对专家产出: §G+0.5%§! \n每个£job_clerk£§Y职员§!对建筑及区划建造速度: §G+2%§!"
 
  trait_v_adv_hive_bivouac:0 "露营"
  trait_v_adv_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
