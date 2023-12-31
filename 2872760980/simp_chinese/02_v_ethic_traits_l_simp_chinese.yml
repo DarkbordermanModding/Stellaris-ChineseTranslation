@@ -58,7 +58,7 @@
 
  trait_v_tinkerer:0 "机械工匠"
  trait_v_tinkerer_desc:0 "§L这个物种对机械系统相当着迷，他们平时喜欢跟机械打交道。§!"
- TRAIT_TINKERER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 1 £engineering_research£ §Y工程學§! \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
+ TRAIT_TINKERER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 1 £engineering_research£ §Y工程學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £job_roboticist£ §Y每月机械人口组装§!."
 
  trait_v_fleshcrafter:0 "躯体工匠"
  trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
