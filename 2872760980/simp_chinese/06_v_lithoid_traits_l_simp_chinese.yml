@@ -33,7 +33,7 @@
 
  trait_v_lithoid_aeroplankton:0 "粉尘复制"
  trait_v_lithoid_aeroplankton_desc:0 "§L这个物种能够通过类似粉尘的颗粒生成。这些颗粒容易随风飞舞，造成其他物种呼吸系统的不适。§!"
- TRAIT_LITHOID_AEROPLANKTON_EFFECT:0 "人口成长速度每£planetsize£ §Y行星规模§!與 £planetsize£ §Y18§!差值: §G+5%§! \n每个做为奴隶或更高工作标准的人口对无§H粉尘复制§!特质人口£mod_pop_environment_tolerance£§Y宜居性§! §R-1%§!"
+ TRAIT_LITHOID_AEROPLANKTON_EFFECT:0 "人口成长速度每£planetsize£§Y行星规模§!與£planetsize£§Y18§!差值: §G+5%§! \n每个做为奴隶或更高工作标准的人口对无§H粉尘复制§!特质人口£mod_pop_environment_tolerance£§Y宜居性§! §R-1%§!"
 
  trait_v_meteoric:0 "陨石之躯"
  trait_v_meteoric_desc:0 "§L这个物种迁徙时从大气进入，他们的身体坚固耐用以抵抗极端的热量和冲击。§!"
