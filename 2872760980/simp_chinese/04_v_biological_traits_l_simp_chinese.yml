@@ -1,31 +1,31 @@
 ﻿l_simp_chinese:
 
- trait_v_social_parasite:0 "Social Parasite"
+ trait_v_social_parasite:0 "社会寄生虫"
  trait_v_social_parasite_desc:0 "§LThis species won't do any work that is beneath them. In their earlier days, this species performed slave raids against eusocial species in order to acquire workers.§!"
- TRAIT_SOCIAL_PARASITE_EFFECT:0 "Cannot be employed in §YWorker§! Jobs"
+ TRAIT_SOCIAL_PARASITE_EFFECT:0 "无法担任§Y劳工§!岗位"
 
- trait_v_brood_parasite:0 "Brood Parasite"
+ trait_v_brood_parasite:0 "育雏寄生虫"
  trait_v_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
  TRAIT_BROOD_PARASITE_EFFECT:0 "Pop growth speed per non-§HBroood Parasite§! pop: §G+3%§! \nPop growth speed per Brood Parasite pop on planet: §R-1%§!"
 
  ###############################################################################################################################################################################################################
 
  trait_v_fertilising:0 "施肥"
- trait_v_fertilising_desc:0 "§LThis species has the ability to increase the habitability of any planet they find themselves on.§!"
- TRAIT_FERTILISING_EFFECT:0 "Each pop working as a slave or better increases the £mod_pop_environment_tolerance£ §YHabitability§! by: §G+1%§!"
+ trait_v_fertilising_desc:0 "§L这个物种能够提高居住行星的宜居性。§!"
+ TRAIT_FERTILISING_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §G+1%§!"
 
  trait_v_infertilising:0 "荒化"
- trait_v_infertilising_desc:0 "§LThis species is detrimental to the environment of any world they find themselves on.§!"
- TRAIT_INFERTILISING_EFFECT:0 "Each pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§!"
+ trait_v_infertilising_desc:0 "§L这个物种会伤害居住行星的宜居性。§!"
+ TRAIT_INFERTILISING_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-1%§!"
 
  trait_v_allelopathy:0 "相克作用"
  trait_v_allelopathy_desc:0 "§LThis species has developed a set of chemical defense mechanisms against predators and competition. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns.§!"
  TRAIT_ALLELOPATHY_EFFECT:0 "When this species reaches a number of pops equal to the £planetsize£ §YPlanet Size§!, it will cause all Organic, non-§HAllelopathic§! pops to decline."
  ALLELOPATHY_FORCE_DECLINE:0 "§R过多具§H相克作用§!特质人口§!"
 
- trait_v_nectaries:0 "Nectaries"
- trait_v_nectaries_desc:0 "§LThis species produces a sweet nectar to attract pollinators. Thanks to this they can increase their numbers faster.§!"
- TRAIT_NECTARIES_EFFECT:0 "Pop Growth Speed for every Naturally Occurring Blocker: §G+5%§!"
+ trait_v_nectaries:0 "花蜜"
+ trait_v_nectaries_desc:0 "§L这个物种会产生花蜜来吸引传粉媒介，因此他们可以繁衍地更快。§!"
+ TRAIT_NECTARIES_EFFECT:0 "每个天然障碍对人口成长速度: §G+5%§!"
 
  trait_v_kairomones:0 "Kairomones"
  trait_v_kairomones_desc:0 "§LThis species releases special signal chemicals that tend to attract animals when damaged. These signal chemicals attract predators of whatever species might have damaged them.§!"
