@@ -19,7 +19,7 @@
  trait_v_robot_homely_desc:0 "§L这些机器的设计并没有考虑到很多功能，但是没有人能否认其独特的吵杂声。§!"
 
  trait_v_robot_ecological_naivete:0 "亲外编程"
- trait_v_robot_ecological_naivete_desc:0 "§LTese machines have no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
+ trait_v_robot_ecological_naivete_desc:0 "§L这些机器没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
 
  trait_v_robot_belligerent:0 "爱国者协议"
  trait_v_robot_belligerent_desc:0 "§LIn the case of conflict, these machines are capable of working beyond what could be considered their normal capabilities.§!"
