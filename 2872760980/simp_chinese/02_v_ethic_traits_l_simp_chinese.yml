@@ -90,9 +90,9 @@
  v_split_drone_army_desc:0 "这个部队由分裂者部队分裂而来。"
 
  trait_v_hive_worker_dependency:0 "子个体依赖"
- trait_v_hive_worker_dependency_desc:0 "§LThe upper castes of this species are dependent on their workers. They use them for the purpose of further specialization.§!"
- TRAIT_HIVE_WORKER_DEPENDENCY_EFFECT:0 "复合子个体 Pop Resource Output per £job_maintenance_drone£ §YMaintenance Drone§! with the §HWorker Dependency§! trait: §G+0.5%§! \nBuilding and District build speed from £job_maintenance_drone£ §YMaintenance Drones§!: §G+2%§!"
+ trait_v_hive_worker_dependency_desc:0 "§L这个物种的上层阶级仰赖于他们的基础子个体，他们将它们用于进一步的专业化。§!"
+ TRAIT_HIVE_WORKER_DEPENDENCY_EFFECT:0 "每个具§H子个体依赖§!特质的£job_maintenance_drone£§Y维护子个体§!对复合子个体人口产出: §G+0.5%§! \n每个£job_maintenance_drone£§Y维护子个体§!对建筑及区划建造速度: §G+2%§!"
 
- trait_v_hive_bivouac:0 "Bivouac"
- trait_v_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"
- TRAIT_HIVE_BIVOUAC_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!"
+ trait_v_hive_bivouac:0 "露营"
+ trait_v_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
+ TRAIT_HIVE_BIVOUAC_EFFECT:0 "每个天然障碍对人口住房使用: §G-5%§!"
