@@ -72,13 +72,13 @@
 
  trait_v_hive_epigenetic_castes:0 "遗传学种性"
  trait_v_hive_epigenetic_castes_desc:0 "§L这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。§!"
- TRAIT_EPIGENETIC_CASTES_EFFECT:0 "这个物种可以招募§Y门卫§!，§Y自杀§!，§Y恐惧§!及§Y分裂者§!部队"
+ TRAIT_EPIGENETIC_CASTES_EFFECT:0 "这个物种可以招募§Y门卫§!，§Y自杀§!，§Y恐惧§!及§Y分裂者§!部队。"
 
  v_door_drone_army:0 "门卫部队"
- v_door_drone_army_desc:0 "An army originally designed to function as living doors in the protection of hives."
+ v_door_drone_army_desc:0 "这个部队如同守门员一样守卫蜂巢。"
 
  v_suicide_drone_army:0 "自杀部队"
- v_suicide_drone_army_desc:0 "This army is designed to rush in and explode, dealing great damage to its surroundings. \n\n§WOn Destruction causes §R5§! planetary devastation.§!"
+ v_suicide_drone_army_desc:0 "这个部队旨在冲入敌营和爆炸，对周围环境造成破坏。\n\n§W击败时造成§R5§!点破坏度。§!"
 
  v_terror_drone_army:0 "恐惧部队"
  v_terror_drone_army_desc:0 "This army is designed to spread fear and destruction. While its direct damage is less than that of other hive armies, the sight of acid dissolving everything it comes in contact with is quite capable of destroying morale."
