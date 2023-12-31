@@ -28,24 +28,24 @@
  trait_v_robot_cowardly_desc:0 "§L这些机器不在乎国家的存亡，他们寧願保全自己的存在。§!"
 
  trait_v_robot_proselytizing:0 "传教协议"
- trait_v_robot_proselytizing_desc:0 "§LThese machines yearn for the divine despite their seemingly soulless nature.§!"
+ trait_v_robot_proselytizing_desc:0 "§L这些机器信仰神明，尽管他们的本性应当不会的。§!"
 
- trait_v_robot_scholastic:0 "Scholastic Executable"
+ trait_v_robot_scholastic:0 "学术执行"
  trait_v_robot_scholastic_desc:0 "§LThese machines consider both scientific data and religious texts with equal importance.§!"
 
- trait_v_robot_druidic:0 "DR00D5 协议"
+ trait_v_robot_druidic:0 "DR00D5协议"
  trait_v_robot_druidic_desc:0 "§LThese machines are designed to see the divine within nature itself.§!"
 
- trait_v_robot_machine_priests:0 "DTUHAS 协议"
- trait_v_robot_machine_priests_desc:0 "§LThese machines are aware of their mechanical existence and believe that it is closer to the divine than a purely biological existence.§!" 
+ trait_v_robot_machine_priests:0 "DTUHAS协议"
+ trait_v_robot_machine_priests_desc:0 "§LThese machines are aware of their mechanical existence and believe that it is closer to the divine than a purely biological existence.§!"
 
- trait_v_robot_materialistic:0 "Wealth Acquisition 协议"
+ trait_v_robot_materialistic:0 "财富获取协议"
  trait_v_robot_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
 
- trait_v_robot_tinkerer:0 "Introspection 协议"
+ trait_v_robot_tinkerer:0 "内省协议"
  trait_v_robot_tinkerer_desc:0 "§LThese machines instinctively try to understand themselves on a mechanical level. They often also try to build themselves friends with said acquired knowledge.§!"
 
- trait_v_robot_fleshcrafter:0 "Fleshweaving 协议"
+ trait_v_robot_fleshcrafter:0 "肉体编织协议"
  trait_v_robot_fleshcrafter_desc:0 "§LThese machines are instinctively driven to the study of biology. To them, a brain is just a processor made from carbon and water.§!"
 
  ################################################################
