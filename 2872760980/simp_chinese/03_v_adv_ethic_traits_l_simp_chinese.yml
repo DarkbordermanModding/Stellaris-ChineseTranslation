@@ -1,24 +1,24 @@
 ﻿l_simp_chinese:
 
- trait_v_robot_organizational:0 "Organizational Programming"
- trait_v_robot_organizational_desc:0 "§LThese machines were designed with the purpose of preventing undesirable behavior that could potentially harm the collective.§!"
+ trait_v_robot_organizational:0 "组织编程"
+ trait_v_robot_organizational_desc:0 "§L这些机器是为防止可能损害集体的不良行为而设计。§!"
 
- trait_v_robot_competetive:0 "Competetive Programming"
- trait_v_robot_competetive_desc:0 "§LThese machines were designed to be competitive with each other.§!"
+ trait_v_robot_competetive:0 "竞争编程"
+ trait_v_robot_competetive_desc:0 "§L这些机器是为相互竞争而设计。§!"
 
- trait_v_robot_autolatry:0 "Autolatric Oversights"
- trait_v_robot_autolatry_desc:0 "§LThese machines prioritize themselves over any other individual entity. Their extreme egocentrism borders on the worship of the self.§!"
+ trait_v_robot_autolatry:0 "自动监督"
+ trait_v_robot_autolatry_desc:0 "§L这些机器将自己优先于任何其他实体。他们极端的自我中心主义与对自我的崇拜接壤。§!"
 
- trait_v_robot_arrogance:0 "Interconnected Design"
- trait_v_robot_arrogance_desc:0 "§LThe design of these machines is based on all components working together to increase overall performance... and self-worth.§!"
+ trait_v_robot_arrogance:0 "互连设计"
+ trait_v_robot_arrogance_desc:0 "§L这些机器的设计基于彼此衔接的组件以提高整体性能及自我价值。§!"
 
- trait_v_robot_ecological_cynicism:0 "Distrustful Programming"
- trait_v_robot_ecological_cynicism_desc:0 "§LThese machines are extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
+ trait_v_robot_ecological_cynicism:0 "排外编程"
+ trait_v_robot_ecological_cynicism_desc:0 "§L这些机器对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。§!"
 
- trait_v_robot_homely:0 "Clanky Design"
- trait_v_robot_homely_desc:0 "§LThese machines weren't designed with a lot of functionality in mind, but no one can deny their unique clanky charm.§!"
+ trait_v_robot_homely:0 "吵雜設計"
+ trait_v_robot_homely_desc:0 "§L这些机器的设计并没有考虑到很多功能，但是没有人能否认其独特的吵杂声。§!"
 
- trait_v_robot_ecological_naivete:0 "Naïve Programming"
+ trait_v_robot_ecological_naivete:0 "亲外编程"
  trait_v_robot_ecological_naivete_desc:0 "§LTese machines have no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
 
  trait_v_robot_belligerent:0 "爱国者协议"
