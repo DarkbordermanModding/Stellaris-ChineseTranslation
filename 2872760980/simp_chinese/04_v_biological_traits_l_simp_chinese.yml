@@ -172,18 +172,18 @@
  trait_v_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
  TRAIT_BLOOMING_EFFECT:0 "Pop Growth Speed per §YAgriculture§! district on §YOcean Worlds§!: §G2.5%§! \nEach pop working as a slave or better produces 0.005 £exotic_gases£ §YExotic Gases§! per §YAgriculture§! district on §YOcean Worlds§! per month. \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! on §YOcean Worlds§! per §YAgriculture§! district for non-Blooming species by: §R-0.25%§!"
 
- trait_v_self_domesticated:0 "Self Domesticated"
- trait_v_self_domesticated_desc:0 "§LThis species has lived in a society for such a long period of time, it has influenced their DNA. Members of this species tend to be much more docile than other species.§!"
+ trait_v_self_domesticated:0 "自给自足"
+ trait_v_self_domesticated_desc:0 "§L这个物种已经在社会中生活了长时间以至于影响了他们的本性，这个物种的成员比其他物种更温顺。§!"
 
- trait_v_extremely_precise:0 "Extremely Precise"
- trait_v_extremely_precise_desc:0 "§LBe that a more developed Cerebellum or a set of additional muscles under the skin, this species is capable of extremely precise movement.§!"
+ trait_v_extremely_precise:0 "极度精确"
+ trait_v_extremely_precise_desc:0 "§L这个物种在发展精良的小脑以及多组肌肉的辅助下能够做到极度精确的移动。§!"
 
- trait_v_complex_digestive_system:0 "Complex Digestive System"
- trait_v_complex_digestive_system_desc:0 "§LThe digestive system of this species is a masterwork of biochemistry. The complex digestive process is thanks to the advanced structure of the stomach and is aided by symbiotic microorganisms. Each calorie and each nutrient that can be gained from the food is gained.§!"
+ trait_v_complex_digestive_system:0 "复杂消化"
+ trait_v_complex_digestive_system_desc:0 "§L这个物种的消化系统是生物化学的杰作，归功于胃的先进结构及共生微生物的帮助，食物中的卡路里和每种营养素都可以获得。§!"
 
- trait_v_electrogenesis:0 "Electrogenesis"
- trait_v_electrogenesis_desc:0 "§LThis species developed a set of electric organs for defense and offense. Currently, they still use that ability for its intended purpose but also donating that power.§!"
- TRAIT_ELECTROGENESIS_EFFECT:0 "Each pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month."
+ trait_v_electrogenesis:0 "发电器官"
+ trait_v_electrogenesis_desc:0 "§L这个物种演化出了发电器官作为自卫及攻击用，他们目前仍有此功能并且用其发电。§!"
+ TRAIT_ELECTROGENESIS_EFFECT:0 "每个做为奴隶或更高工作标准的人口每月生产 0.5 £energy£§Y能量幣§!"
 
  trait_v_plague:0 "散播瘟疫"
  trait_v_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
