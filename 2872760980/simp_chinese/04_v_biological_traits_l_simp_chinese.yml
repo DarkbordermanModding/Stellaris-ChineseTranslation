@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
 
  trait_v_social_parasite:0 "社会寄生虫"
- trait_v_social_parasite_desc:0 "§LThis species won't do any work that is beneath them. In their earlier days, this species performed slave raids against eusocial species in order to acquire workers.§!"
+ trait_v_social_parasite_desc:0 "§L该物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
  TRAIT_SOCIAL_PARASITE_EFFECT:0 "无法担任§Y劳工§!岗位"
 
  trait_v_brood_parasite:0 "育雏寄生虫"
@@ -39,17 +39,17 @@
  v_kairomone_wildlife_army_desc:0 "These animals have been attracted by a large amount of kairomones released into the atmosphere in search of prey."
  NAME_v_kairomone_wildlife:0 "Kairomone Attracted Wildlife"
 
- trait_v_mycorrhizal:0 "Mycorrhizal"
- trait_v_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
- TRAIT_MYCORRHIZA_EFFECT:0 "Pop Food Upkeep for every Naturally Occurring Blocker: §G-5%§!"
+ trait_v_mycorrhizal:0 "菌丝网络"
+ trait_v_mycorrhizal_desc:0 "§L这个物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
+ TRAIT_MYCORRHIZA_EFFECT:0 "每个天然障碍人口食物维护费: §G-5%§!"
 
  trait_v_hyphae_network:0 "Hyphae Network"
  trait_v_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
  TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with §HHyphae Network§! or §HOre Vein Network§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
 
- trait_v_rhizobial:0 "Rhizobial"
- trait_v_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen binding bacteria that help to make the soil more fertile.§!"
- TRAIT_RHIZOBIAL_EFFECT:0 "Each pop working as a slave or better increases £food£ §YFood§! from £job_farmer£ §YFarmers§! by: §G+1%§!"
+ trait_v_rhizobial:0 "根瘤菌"
+ trait_v_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
+ TRAIT_RHIZOBIAL_EFFECT:0 "每个做为奴隶或更高工作标准的人口£job_farmer£§Y农夫§!£food£§Y食物§!: §G+1%§!"
 
  trait_v_rooted:0 "扎根"
  trait_v_rooted_desc:0 "§L这个物种物理上无法从居住地分离。它们的根部深入星球，使其不可能搬迁。§!"
@@ -65,30 +65,30 @@
 
  TRAIT_ECOTYPIC_B_EFFECT:0 "On §YWet§! and §YFrozen§! Worlds £energy£ Energy from £job£ Jobs: §G+7.5%§! \nOn §YDry§! and §YFrozen§! Worlds £food£ Food from £job£ Jobs: §G+7.5%§! \nOn §YWet§! and §YDry§! Worlds £minerals£ Minerals from £job£ Jobs: §G+7.5%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Good Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a §HHabitability§!, §HSurvivor§! or §HRadiothropic§! retain all the previous benefits."
 
- trait_v_spores:0 "Spores"
- trait_v_spores_desc:0 "§LThis species releases large amounts of spores on death.§!"
+ trait_v_spores:0 "孢子"
+ trait_v_spores_desc:0 "§L这个物种在死亡时会释放大量孢子。§!"
  TRAIT_SPORES_EFFECT:0 "Destroyed armies and purged pops can spawn §YSpore Camps§! that impact the planet in negative ways. \nPeriodically hostile armies will attempt to take over the planet for themselves. \nOn removal the spore camp will spawn 3 enemy armies + 1 enemy army for each additional §YSpore Camps§! present on the planet."
  d_v_spore_camp:0 "£blocker£ Spore Camp"
  d_v_spore_camp_desc:0 "In this camp live members of a beligerent species that raid and loot the surrounding countryside, making the lives of the locals into a living nightmare."
  d_v_spore_camp_custom_tooltip:0 "§Y1§! £pops£ Pop is created \nOn removal, 3 enemy armies attack the planet, with 1 additional army per §H$d_v_spore_camp$§! \nIn case of a defeat, the planet is ceded to the invading force"
- v_spore_raider_army:0 "Raider Army"
- v_spore_raider_army_desc:0 "An army made up of raiders and looters that rose up against the true rulers of the planet."
+ v_spore_raider_army:0 "突袭部队"
+ v_spore_raider_army_desc:0 "由突袭者和劫匪组成的部队，反抗星球的统治者。"
 
  trait_v_pseudocopulative:0 "Pseudocopulative"
  trait_v_pseudocopulative_desc:0 "§LThis species has evolved to mimic other species. This Mimicry has taken the form of tricking other species into copulation.§!"
  TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "Pop Growth when working £job_entertainer£ §YEntertainer§! Jobs: §G+2%§! \nPop Growth per non-§HPseudocopulative§! pop: §G+1%§!"
 
- trait_v_flying:0 "Flying"
- trait_v_flying_desc:0 "§LThis species has evolved the means of flight. Migration for this species is fast, easy and natural.§!"
+ trait_v_flying:0 "飞行"
+ trait_v_flying_desc:0 "§L这个物种能够飞行。这个物种的迁移是快速，容易和自然的。§!"
 
  trait_v_aeroplankton:0 "空中浮游"
- trait_v_aeroplankton_desc:0 "§L该物种以不受控制的方式在整个空气中移动，因此具有较低重力或大气浓度较高的行星能更好地传播其后代。§!"
+ trait_v_aeroplankton_desc:0 "§L这个物种以不受控制的方式在整个空气中移动，因此具有较低重力或大气浓度较高的行星能更好地传播其后代。§!"
  TRAIT_AEROPLANKTON_EFFECT:0 "人口成长速度每£planetsize£§Y行星规模§!與£planetsize£§Y18§!差值: §G+5%§!"
 
  trait_v_double_respiration:0 "Double Respiration"
  trait_v_double_respiration_desc:0 "§LThis species has evolved a highly efficient respiration system. Unfortunately, this makes the species more susceptible to air pollution.§!"
  TRAIT_DOUBLE_RESPIRATION_EFFECT:0 "Species Habitability Cap per §YCity§! and §YIndustrial§! district: §R-4%§! \nSpecies Habitability Cap for every Naturally Occurring Blocker: §G+2%§! \n§HUrban Adaptation§! halves the penalty."
- 
+
  trait_v_metalic_exoskeleton:0 "Metallic Exoskeleton"
  trait_v_metalic_exoskeleton_desc:0 "§LThis species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill.§!"
  TRAIT_METALIC_EXOSKELETON_EFFECT:0 "Each pop working as a slave or better produces 0.025 £alloys£ §YAlloys§! per month. \n£minerals£ §YMineral§! Upkeep: §R+0.25§!"
