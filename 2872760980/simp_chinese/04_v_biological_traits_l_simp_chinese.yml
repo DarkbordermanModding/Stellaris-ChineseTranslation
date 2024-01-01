@@ -45,7 +45,7 @@
 
  trait_v_hyphae_network:0 "菌丝网络"
  trait_v_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
- TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with §H菌丝网络§! or §H矿脉网络§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
+ TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with §H菌丝网络§!或§H矿脉网络§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
 
  trait_v_rhizobial:0 "根瘤菌"
  trait_v_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
@@ -97,21 +97,21 @@
  trait_v_fire_spewing_desc:0 "§L这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。§!"
  TRAIT_FIRE_SPEWING_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §G+20%§!"
 
- trait_v_ectotherm:0 "變溫動物"
- trait_v_ectotherm_desc:0 "§L這個物是變溫動物，依赖于环境的热源而非自體發熱。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
+ trait_v_ectotherm:0 "變溫"
+ trait_v_ectotherm_desc:0 "§L这个物种是变温动物，依赖于环境的热源而非自体发热。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
  TRAIT_COLD_ECTOTHERM_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §R-20%§!"
 
- trait_v_fac_endotherm:0 "Facultative Endotherm"
- trait_v_fac_endotherm_desc:0 "§LThis species is capable of facultative endothermy and is capable of using external heat sources, as well as creating their own heat.§!"
- TRAIT_COLD_FAC_ENDOTHERM_EFFECT:0 "Pop Food Upkeep on §YDry§! and §YWet§! worlds: §G-25%§!"
+ trait_v_fac_endotherm:0 "选择性恒温"
+ trait_v_fac_endotherm_desc:0 "§L这个物种是选择性恒温动物，能够在自体发热与环境热源间做切换。§!"
+ TRAIT_COLD_FAC_ENDOTHERM_EFFECT:0 "在§Y干燥气候§!及§Y潮湿气候§!星球人口食物维护费: §G-25%§!"
 
- trait_v_interceptor:0 "Natural Interceptor"
- trait_v_interceptor_desc:0 "§LThis species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
- TRAIT_INTERCEPTOR_EFFECT:0 "§YCommanders§! start with the ['concept_v_leader_interceptor'] trait \n§YScientists§! start with the ['concept_v_leader_evader'] trait"
+ trait_v_interceptor:0 "天生拦截者"
+ trait_v_interceptor_desc:0 "§L这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指§!"
+ TRAIT_INTERCEPTOR_EFFECT:0 "§Y舰队司令§!会带有['concept_v_leader_interceptor']特质 \n§Y科学家§!会带有['concept_v_leader_evader']特质"
 
- trait_v_fossorial:0 "Fossorial"
- trait_v_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
- TRAIT_FOSSORIAL_EFFECT:0 "Species Minimum Habitability per Mining District: §G+4%§!"
+ trait_v_fossorial:0 "穴居"
+ trait_v_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
+ TRAIT_FOSSORIAL_EFFECT:0 "每个采矿区划物种宜居性下限: §G+4%§!"
 
  trait_v_foragial_limbs:0 "Foragial Limbs"
  trait_v_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
@@ -136,10 +136,10 @@
  trait_v_mayfly_desc:0 "§LThis species is extremely short-lived for a sentient race. In return, they learn really fast.§!"
  TRAIT_MAYFLY_EFFECT:0 "Leader Recruitment Age §Y2§!-§Y5§! Years"
 
- trait_v_biological_immortality:0 "Biological Immortality"
- trait_v_biological_immortality_desc:0 "§LThis species is seemingly immortal and is capable of eternal regeneration unless killed by a disease, predator or weapon.§!"
+ trait_v_biological_immortality:0 "生理不朽"
+ trait_v_biological_immortality_desc:0 "§L这个物种似乎是不朽的。除非被疾病，捕食者或武器杀死，否则这个物种会不断再生。§!"
 
- trait_v_reanimation:0 "Reanimation"
+ trait_v_reanimation:0 "复活"
  trait_v_reanimation_desc:0 "§LThis species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state.§!"
  TRAIT_REANIMATION_EFFECT:0 "Destroyed armies of this species return as §YUndead Armies§!"
 
