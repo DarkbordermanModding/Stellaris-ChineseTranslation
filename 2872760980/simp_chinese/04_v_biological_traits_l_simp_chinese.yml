@@ -97,9 +97,9 @@
  trait_v_fire_spewing_desc:0 "§L这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。§!"
  TRAIT_FIRE_SPEWING_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §G+20%§!"
 
- trait_v_ectotherm:0 "Ectotherm"
- trait_v_ectotherm_desc:0 "§LThis species is ectothermic and relies on environmental sources of heat instead of internal ones. Thanks to this, species needs less food to survive and have a higher life expectancy.§!"
- TRAIT_COLD_ECTOTHERM_EFFECT:0 "Habitability on §YCold§! and §YTomb Worlds§!: §R-20%§!"
+ trait_v_ectotherm:0 "變溫動物"
+ trait_v_ectotherm_desc:0 "§L這個物是變溫動物，依赖于环境的热源而非自體發熱。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
+ TRAIT_COLD_ECTOTHERM_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §R-20%§!"
 
  trait_v_fac_endotherm:0 "Facultative Endotherm"
  trait_v_fac_endotherm_desc:0 "§LThis species is capable of facultative endothermy and is capable of using external heat sources, as well as creating their own heat.§!"
