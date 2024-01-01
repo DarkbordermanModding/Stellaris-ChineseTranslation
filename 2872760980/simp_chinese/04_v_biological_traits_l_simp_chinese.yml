@@ -39,13 +39,13 @@
  v_kairomone_wildlife_army_desc:0 "These animals have been attracted by a large amount of kairomones released into the atmosphere in search of prey."
  NAME_v_kairomone_wildlife:0 "Kairomone Attracted Wildlife"
 
- trait_v_mycorrhizal:0 "菌丝网络"
- trait_v_mycorrhizal_desc:0 "§L这个物种连接到菌丝网络，为它们的发育提供了其他营养。§!"
+ trait_v_mycorrhizal:0 "菌根"
+ trait_v_mycorrhizal_desc:0 "§L这个物种发展出了菌根，为它们的发育提供了其他营养。§!"
  TRAIT_MYCORRHIZA_EFFECT:0 "每个天然障碍人口食物维护费: §G-5%§!"
 
- trait_v_hyphae_network:0 "Hyphae Network"
+ trait_v_hyphae_network:0 "菌丝网络"
  trait_v_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
- TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with §HHyphae Network§! or §HOre Vein Network§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
+ TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with §H菌丝网络§! or §H矿脉网络§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
 
  trait_v_rhizobial:0 "根瘤菌"
  trait_v_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
@@ -93,9 +93,9 @@
  trait_v_metalic_exoskeleton_desc:0 "§LThis species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill.§!"
  TRAIT_METALIC_EXOSKELETON_EFFECT:0 "Each pop working as a slave or better produces 0.025 £alloys£ §YAlloys§! per month. \n£minerals£ §YMineral§! Upkeep: §R+0.25§!"
 
- trait_v_fire_spewing:0 "Fire Spewing"
- trait_v_fire_spewing_desc:0 "§LThis species is capable of producing flames through chemical reaction. This makes them really good at spreading fear among enemy ranks in addition to creating large amounts of collateral damage.§!"
- TRAIT_FIRE_SPEWING_EFFECT:0 "Habitability on §YCold§! and §YTomb Worlds§!: §G+20%§!"
+ trait_v_fire_spewing:0 "喷火"
+ trait_v_fire_spewing_desc:0 "§L这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。§!"
+ TRAIT_FIRE_SPEWING_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §G+20%§!"
 
  trait_v_ectotherm:0 "Ectotherm"
  trait_v_ectotherm_desc:0 "§LThis species is ectothermic and relies on environmental sources of heat instead of internal ones. Thanks to this, species needs less food to survive and have a higher life expectancy.§!"
@@ -119,7 +119,7 @@
  trait_v_active_camouflage:0 "Camouflage"
  trait_v_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
  TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs: §G-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§! \n§GPops can't be abducted.§!"
- 
+
  trait_v_locust:0 "Locusts"
  trait_v_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
  TRAIT_LOCUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Speed: §G+100%§! \nPop Food Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RFood Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-2%§! \nEach pop working as a slave or better decreases the £food£ §YFood§! from jobs by: §R-2%§! \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds.§!"
@@ -330,7 +330,7 @@
  trait_v_rancher:0 "Ranchers"
  trait_v_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
  TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs provide 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] Jobs."
- 
+
  OLD_TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs increase £job_livestock£ §YLivestock§! Resource Output by: §G+2.5%§!"
 
  trait_v_aggregation:0 "Aggregation"
