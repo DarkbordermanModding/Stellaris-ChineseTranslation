@@ -2,7 +2,7 @@
 
  trait_v_social_parasite:0 "社会寄生虫"
  trait_v_social_parasite_desc:0 "§L该物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
- TRAIT_SOCIAL_PARASITE_EFFECT:0 "无法担任§Y劳工§!岗位"
+ TRAIT_SOCIAL_PARASITE_EFFECT:0 "无法从事§Y劳工§!岗位"
 
  trait_v_brood_parasite:0 "育雏寄生虫"
  trait_v_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
@@ -151,22 +151,22 @@
  trait_v_pearl_makers_desc:0 "§LThis species is capable of creating nacre and in consequence pearls that can be sold.§!"
  TRAIT_PEARL_MAKERS_EFFECT:0 "Each pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!"
 
- trait_v_nacre_shell:0 "Nacre Shell"
- trait_v_nacre_shell_desc:0 "§LThis species has a natural armor made from Nacre. Nacre is one of the most resilient organic substances in the known universe.§!"
+ trait_v_nacre_shell:0 "珍珠母甲壳"
+ trait_v_nacre_shell_desc:0 "§L该物种有由珍珠母制成的天然护甲，珍珠母是已知宇宙中最高强度的有机物质之一。§!"
 
- trait_v_parthenocarpy:0 "Parthenocarpy"
- trait_v_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized fruit that can be reused as a source of food.§!"
- TRAIT_PARTHENOCARPY_EFFECT:0 "Instead of becoming unemployed, Pops automatically get employed in §YCoop§! Jobs. \nCoops provide §G2§! £food£ §YFood§! and §Y1§! £trade_value£ §YTrade Value§! but §R-2%§! Pop Growth Speed for §HParthenocarpic§! Pops."
+ trait_v_parthenocarpy:0 "无精卵"
+ trait_v_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"
+ TRAIT_PARTHENOCARPY_EFFECT:0 "失业人口自动转化为§Y孵化者§!岗位。 \n孵化者产生§G2§!£food£§Y食物§!及§Y1§!£trade_value£§Y贸易额§! \n每个具§H无精卵§!特质人口对人口成长速度: §R-2%§!"
 
- decision_v_000_coop:0 "Forbid Coops"
- decision_v_000_coop_desc:0 "Coops are going to be illegalised on this planet."
+ decision_v_000_coop:0 "禁止孵化者"
+ decision_v_000_coop_desc:0 "将孵化者崗位列为违法。"
 
- decision_v_000_coop_remove:0 "Allow Coops"
- decision_v_000_coop_remove_desc:0 "Coops are going to be legalised on this planet."
+ decision_v_000_coop_remove:0 "允许孵化者"
+ decision_v_000_coop_remove_desc:0 "将孵化者崗位列为合法。"
 
- v_coop_modifier:0 "Coops Forbidden"
- v_coop_modifier_desc:0 "The practice of forming coops has been delegalised on this planet."
- v_coop_modifier_tooltip:0 "§HParthenocarpic§! pops won't be employed in §YCoop§! jobs."
+ v_coop_modifier:0 "禁止孵化者崗位"
+ v_coop_modifier_desc:0 "從事孵化者崗位被列為非法行為。"
+ v_coop_modifier_tooltip:0 "§H无精卵§!特质人口不会从事§Y孵化者§!崗位。"
 
  trait_v_blooming:0 "Blooming"
  trait_v_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
