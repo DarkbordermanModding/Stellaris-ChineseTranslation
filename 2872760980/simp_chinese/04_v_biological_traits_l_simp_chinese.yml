@@ -113,8 +113,8 @@
  trait_v_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
  TRAIT_FOSSORIAL_EFFECT:0 "每个采矿区划物种宜居性下限: §G+4%§!"
 
- trait_v_foragial_limbs:0 "Foragial Limbs"
- trait_v_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
+ trait_v_foragial_limbs:0 "搜索肢"
+ trait_v_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
 
  trait_v_active_camouflage:0 "Camouflage"
  trait_v_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
@@ -203,8 +203,8 @@
 
  TRAIT_BEHAVIORAL_SINK_EFFECT_OLD:0 "For each sentient pop above 1.5 £planetsize£ §YPlanet Size§!: \n£unity£ Unity from £job£ Jobs: §R-2%§! \nHappiness: §R-2%§! \nGoverning Ethics Attraction: §R-2%§! \nPop Growth Speed: §R-2%§!"
 
- trait_v_old_instincts:0 "Old Instincts"
- trait_v_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
+ trait_v_old_instincts:0 "先祖本能"
+ trait_v_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
 
  trait_v_toxoplasmosis:0 "Behavior Altering"
  trait_v_toxoplasmosis_desc:0 "§LThis species has a host to a parasite that can affect the behavior of its host's prey. While helpful in hunting, it also affects other species by increasing their happiness.§!"
