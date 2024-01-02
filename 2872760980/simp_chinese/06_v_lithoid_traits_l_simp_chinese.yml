@@ -47,8 +47,8 @@
  trait_v_lithoid_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"
  TRAIT_PARTHENOCARPY_L_EFFECT:0 "失业人口自动转化为§Y孵化者§!岗位。 \n孵化者产生§G2§!£minerals£§Y矿物§!及§Y1§!£trade_value£§Y贸易额§! \n每个具§H晶蛋生产§!特质人口对人口成长速度: §R-2%§!"
 
- trait_v_lithoid_cecotrophy:0 "食糞"
- trait_v_lithoid_cecotrophy_desc:0 "§L这个物种会藉由食糞获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
+ trait_v_lithoid_cecotrophy:0 "食粪"
+ trait_v_lithoid_cecotrophy_desc:0 "§L这个物种会藉由食粪获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
 
  trait_v_pumice_raft:0 "浮石"
  trait_v_pumice_raft_desc:0 "§L与大多数岩石不同，浮石能漂浮在水上。这个物种充分利用这个特质来改变其环境。§!"
