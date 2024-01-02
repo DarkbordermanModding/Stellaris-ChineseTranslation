@@ -189,13 +189,13 @@
  trait_v_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
  TRAIT_PLAGUE_EFFECT:0 "Habitability per Plagued Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§! \n§GThis species can't be infected by parasite pops.§!"
 
- trait_v_urban_adaptation:0 "Urban Adaptation"
- trait_v_urban_adaptation_desc:0 "§LDespite not having evolved in a city, this species is excellently adapted to the urban environment.§!"
- TRAIT_URBAN_ADAPTATION_EFFECT:0 "On §YEcumenopolis§! Worlds: \nPop Housing Usage: §G-30%§! \nPop Consumer Goods Upkeep: §G-30%§! \nPop Amenities Usage: §G-30%§! \n\nOn non-§YEcumenopolis§! Worlds: \nPop Housing Usage per §YCity§! or §YIndustrial§! district: §G-2%§! \nPop Consumer Goods Upkeep per §YCity§! or §YIndustrial§! district: §G-2%§! \nPop Amenities Usage per §YCity§! or §YIndustrial§! district: §G-2%§! \nHabitability per §YCity§! or §YIndustrial§! district: §G+2.5%§!"
+ trait_v_urban_adaptation:0 "都市适应"
+ trait_v_urban_adaptation_desc:0 "§L尽管这个物种并非在都市演化，但非常适合都市环境。§!"
+ TRAIT_URBAN_ADAPTATION_EFFECT:0 "在§Y都市§!星球: \n人口住房使用: §G-30%§! \n人口消费品维护费: §G-30%§! \n人口娱乐度使用: §G-30%§! \n\n在非§Y都市§!星球: \n每§Y住房§!或§Y工业§!区划人口住房使用: §G-2%§! \n每§Y住房§!或§Y工业§!区划人口消费品维护费: §G-2%§! \n每§Y住房§!或§Y工业§!区划人口娱乐度使用: §G-2%§! \n每§Y住房§!或§Y工业§!区划宜居性: §G+2.5%§!"
 
- trait_v_urbanobiont:0 "Urbanobiont"
- trait_v_urbanobiont_desc:0 "§LThis species is dependent on cities to thrive. Once out of those cities they tend to, not do that well.§!"
- TRAIT_URBANOBIONT_EFFECT:0 "Species Habitability Cap: §R-70%§! \nSpecies Minimum Habitability: §G+30%§! \nSpecies Habitability Cap per §YCity§! and §YIndustrial§! district: §G+5%§! \nSpecies Minimum Habitability per §YCity§! and §YIndustrial§! district: §G+5%§!"
+ trait_v_urbanobiont:0 "都市依赖"
+ trait_v_urbanobiont_desc:0 "§L这个物种依赖于都市才能生存，当离开他们习以为常的都市时发展得并不好。§!"
+ TRAIT_URBANOBIONT_EFFECT:0 "物种宜居性上限: §R-70%§! \n物种宜居性下限: §G+30%§! \n每§Y住房§!或§Y工业§!区划物种宜居性上限: §G+5%§! \n每§Y住房§!或§Y工业§!区划物种宜居性下限: §G+5%§!"
 
  trait_v_behavioral_sink:0 "Behavioral Sink"
  trait_v_behavioral_sink_desc:0 "§LMembers of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse.§!"
