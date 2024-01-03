@@ -76,7 +76,7 @@
 
  trait_v_pseudocopulative:0 "拟态交配"
  trait_v_pseudocopulative_desc:0 "§L这个物种演化出模仿其他物种的能力，这种拟态的形式能够欺骗其他物种与其进行交配。§!"
- TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "担任£job_entertainer£§Y演艺人员§!岗位时人口成长: §G+2%§! \n每个无§H拟态交配§!特质人口成长: §G+1%§!"
+ TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "担任£job_entertainer£§Y演艺人员§!岗位时人口成长速度: §G+2%§! \n每个无§H拟态交配§!特质人口成长速度: §G+1%§!"
 
  trait_v_flying:0 "飞行"
  trait_v_flying_desc:0 "§L这个物种能够飞行。这个物种的迁移是快速，容易和自然的。§!"
@@ -168,9 +168,9 @@
  v_coop_modifier_desc:0 "從事孵化者岗位被列為非法行為。"
  v_coop_modifier_tooltip:0 "§H无精卵§!特质人口不会从事§Y孵化者§!岗位。"
 
- trait_v_blooming:0 "Blooming"
- trait_v_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
- TRAIT_BLOOMING_EFFECT:0 "Pop Growth Speed per §YAgriculture§! district on §YOcean Worlds§!: §G2.5%§! \nEach pop working as a slave or better produces 0.005 £exotic_gases£ §YExotic Gases§! per §YAgriculture§! district on §YOcean Worlds§! per month. \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! on §YOcean Worlds§! per §YAgriculture§! district for non-Blooming species by: §R-0.25%§!"
+ trait_v_blooming:0 "农业绽放"
+ trait_v_blooming_desc:0 "§L这个物种以农业引起的绽放而闻名。虽然生长迅速，但这个物种会释放毒素到周围的环境中。§!"
+ TRAIT_BLOOMING_EFFECT:0 "在§Y海洋§!星球每§Y农业§!区划人口增长速度: §G2.5%§! \n在§Y海洋§!星球每§Y农业§!区划的每个做为奴隶或更高工作标准的人口每月产生 0.005 £exotic_gases£§Y异星天然气§! \n在§Y海洋§!星球每§Y农业§!区划的每个做为奴隶或更高工作标准的人口对非农业绽放人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-0.25%§!"
 
  trait_v_self_domesticated:0 "自给自足"
  trait_v_self_domesticated_desc:0 "§L这个物种已经在社会中生活了长时间以至于影响了他们的本性，这个物种的成员比其他物种更温顺。§!"
@@ -186,8 +186,8 @@
  TRAIT_ELECTROGENESIS_EFFECT:0 "每个做为奴隶或更高工作标准的人口每月生产 0.5 £energy£§Y能量幣§!"
 
  trait_v_plague:0 "散播瘟疫"
- trait_v_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
- TRAIT_PLAGUE_EFFECT:0 "Habitability per Plagued Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§! \n§GThis species can't be infected by parasite pops.§!"
+ trait_v_plague_desc:0 "§L这个物种的免疫系统学会了控制寄居在体内的病原体作为一种不寻常的自卫方式。§!"
+ TRAIT_PLAGUE_EFFECT:0 "每个散播瘟疫人口宜居性: §G+1%§! \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-1%§! \n§G这个物种不会被寄生虫感染。§!"
 
  trait_v_urban_adaptation:0 "都市适应"
  trait_v_urban_adaptation_desc:0 "§L尽管这个物种并非在都市演化，但非常适合都市环境。§!"
@@ -197,7 +197,7 @@
  trait_v_urbanobiont_desc:0 "§L这个物种依赖于都市才能生存，当离开他们习以为常的都市时发展得并不好。§!"
  TRAIT_URBANOBIONT_EFFECT:0 "物种宜居性上限: §R-70%§! \n物种宜居性下限: §G+30%§! \n每§Y住房§!或§Y工业§!区划物种宜居性上限: §G+5%§! \n每§Y住房§!或§Y工业§!区划物种宜居性下限: §G+5%§!"
 
- trait_v_behavioral_sink:0 "Behavioral Sink"
+ trait_v_behavioral_sink:0 "行为沉积"
  trait_v_behavioral_sink_desc:0 "§LMembers of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse.§!"
  TRAIT_BEHAVIORAL_SINK_EFFECT:0 "This species is incapable of growing its population past 2 times the £planetsize£ §YPlanet Size§! \nLeaders from planets that have reached the limit have a §R75%§! chance to start with the ['concept_v_leader_backstabbing'] trait. \nHappiness on reaching the limit: §R-25%§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
@@ -206,9 +206,9 @@
  trait_v_old_instincts:0 "先祖本能"
  trait_v_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
 
- trait_v_toxoplasmosis:0 "Behavior Altering"
- trait_v_toxoplasmosis_desc:0 "§LThis species has a host to a parasite that can affect the behavior of its host's prey. While helpful in hunting, it also affects other species by increasing their happiness.§!"
- TRAIT_TOXOPLASMOSIS_EFFECT:0 "Happiness to non-Behavior Altering Pops (Not including Pops unaffected by Happiness and Machine Pops): §G+1%§! (Max: §G+40%§!)"
+ trait_v_toxoplasmosis:0 "行为改变"
+ trait_v_toxoplasmosis_desc:0 "§L这个物种是寄生虫的宿主，影响狩猎的行为。虽然对狩猎有帮助，但会影响到其他物种的幸福度。§!"
+ TRAIT_TOXOPLASMOSIS_EFFECT:0 "无行为改变特质人口幸福度 (不含机械人口及不受幸福度影响人口): §G+1%§! (最高: §G+40%§!)"
 
  trait_v_webbing:0 "织网"
  trait_v_webbing_desc:0 "§L这个物种能够生产类似丝绸的网，可以在各种情况下使用。它们是一个优秀的躲藏地，可以遮挡来自环境的各种元素和其他东西。§!"
@@ -273,7 +273,7 @@
  trait_kairomone_grafting:0 "诱导激素嫁接"
  trait_prismatic_grafting:0 "稜鏡散射嫁接"
  trait_mycorrhizal_grafting:0 "菌根嫁接"
- trait_blooming_grafting:0 "Blooming嫁接"
+ trait_blooming_grafting:0 "农业绽放嫁接"
 
  trait_v_ecosystem_engineer:0 "Ecosystem Engineer"
  trait_v_ecosystem_engineer_desc:0 "§LThis species dabbles in the process of ecosystem engineering. Because of this, they are capable of altering the environment by creating new living spaces for themselves.§!"
