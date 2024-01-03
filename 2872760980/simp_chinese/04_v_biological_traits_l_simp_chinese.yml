@@ -91,13 +91,13 @@
 
  trait_v_metalic_exoskeleton:0 "金属外骨骼"
  trait_v_metalic_exoskeleton_desc:0 "§L这个物种在它们的外骨骼中嵌入了金属，使其既极具致命性又极难被杀死。§!"
- TRAIT_METALIC_EXOSKELETON_EFFECT:0 "每个做为奴隶或更高工作标准的人口每月产生 0.025 £alloys£§Y合金§! \n人口£minerals£§Y礦物§!维护费: §R+0.25§!"
+ TRAIT_METALIC_EXOSKELETON_EFFECT:0 "每个做为奴隶或更高工作标准的人口每月产生 0.025 £alloys£§Y合金§! \n人口£minerals£§Y矿物§!维护费: §R+0.25§!"
 
  trait_v_fire_spewing:0 "喷火"
  trait_v_fire_spewing_desc:0 "§L这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。§!"
  TRAIT_FIRE_SPEWING_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §G+20%§!"
 
- trait_v_ectotherm:0 "變溫"
+ trait_v_ectotherm:0 "变温"
  trait_v_ectotherm_desc:0 "§L这个物种是变温动物，依赖于环境的热源而非自体发热。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
  TRAIT_COLD_ECTOTHERM_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §R-20%§!"
 
@@ -140,33 +140,33 @@
  trait_v_biological_immortality_desc:0 "§L这个物种似乎是不朽的。除非被疾病，捕食者或武器杀死，否则这个物种会不断再生。§!"
 
  trait_v_reanimation:0 "复活"
- trait_v_reanimation_desc:0 "§LThis species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state.§!"
- TRAIT_REANIMATION_EFFECT:0 "Destroyed armies of this species return as §Y不死军§!"
+ trait_v_reanimation_desc:0 "§L这个物种因战斗而死后能够复活，但是处于高度认知减退的状态。§!"
+ TRAIT_REANIMATION_EFFECT:0 "被击败的陆军会转变为§Y不死军§!"
 
- trait_v_ghoulish:0 "Ghoulish"
- trait_v_ghoulish_desc:0 "§LMembers of this species aren't very good at social interactions, as their behavior and physiology would be best described as unsettling, and when compared to other species, they seem to look sickly.§!"
- TRAIT_GHOULISH_EFFECT:0 "Each pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§!"
+ trait_v_ghoulish:0 "食尸鬼"
+ trait_v_ghoulish_desc:0 "§L这个物种因生理特征令其他物种不安，而不擅长社交。§!"
+ TRAIT_GHOULISH_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+0.5§!"
 
- trait_v_pearl_makers:0 "Pearl Makers"
- trait_v_pearl_makers_desc:0 "§LThis species is capable of creating nacre and in consequence pearls that can be sold.§!"
- TRAIT_PEARL_MAKERS_EFFECT:0 "Each pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!"
+ trait_v_pearl_makers:0 "珍珠制作"
+ trait_v_pearl_makers_desc:0 "§L这个物种能够制造可以卖钱的珍珠。§!"
+ TRAIT_PEARL_MAKERS_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 1 £trade_value£§Y贸易额§!"
 
- trait_v_nacre_shell:0 "珍珠母甲壳"
- trait_v_nacre_shell_desc:0 "§L该物种有由珍珠母制成的天然护甲，珍珠母是已知宇宙中最高强度的有机物质之一。§!"
+ trait_v_nacre_shell:0 "珍珠质甲壳"
+ trait_v_nacre_shell_desc:0 "§L该物种有由珍珠质制成的天然护甲，珍珠质是已知宇宙中最高强度的有机物质之一。§!"
 
  trait_v_parthenocarpy:0 "无精卵"
  trait_v_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"
  TRAIT_PARTHENOCARPY_EFFECT:0 "失业人口自动转化为§Y孵化者§!岗位。 \n孵化者产生§G2§!£food£§Y食物§!及§Y1§!£trade_value£§Y贸易额§! \n每个具§H无精卵§!特质人口对人口成长速度: §R-2%§!"
 
  decision_v_000_coop:0 "禁止孵化者"
- decision_v_000_coop_desc:0 "将孵化者崗位列为违法。"
+ decision_v_000_coop_desc:0 "将孵化者岗位列为违法。"
 
  decision_v_000_coop_remove:0 "允许孵化者"
- decision_v_000_coop_remove_desc:0 "将孵化者崗位列为合法。"
+ decision_v_000_coop_remove_desc:0 "将孵化者岗位列为合法。"
 
- v_coop_modifier:0 "禁止孵化者崗位"
- v_coop_modifier_desc:0 "從事孵化者崗位被列為非法行為。"
- v_coop_modifier_tooltip:0 "§H无精卵§!特质人口不会从事§Y孵化者§!崗位。"
+ v_coop_modifier:0 "禁止孵化者岗位"
+ v_coop_modifier_desc:0 "從事孵化者岗位被列為非法行為。"
+ v_coop_modifier_tooltip:0 "§H无精卵§!特质人口不会从事§Y孵化者§!岗位。"
 
  trait_v_blooming:0 "Blooming"
  trait_v_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
