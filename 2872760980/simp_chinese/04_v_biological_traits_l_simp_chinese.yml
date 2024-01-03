@@ -19,25 +19,25 @@
  TRAIT_INFERTILISING_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-1%§!"
 
  trait_v_allelopathy:0 "相克作用"
- trait_v_allelopathy_desc:0 "§LThis species has developed a set of chemical defense mechanisms against predators and competition. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns.§!"
- TRAIT_ALLELOPATHY_EFFECT:0 "When this species reaches a number of pops equal to the £planetsize£ §YPlanet Size§!, it will cause all Organic, non-§HAllelopathic§! pops to decline."
+ trait_v_allelopathy_desc:0 "§L这个物种演化出了一套化学防御机制来对抗捕食者。虽然它们对自己的毒素免疫，但其他物种会遭受化学灼伤。§!"
+ TRAIT_ALLELOPATHY_EFFECT:0 "当人口达到£planetsize£§Y行星规模§!大小時，会导致无§H相克作用§!特质有机人口减少。"
  ALLELOPATHY_FORCE_DECLINE:0 "§R过多具§H相克作用§!特质人口§!"
 
  trait_v_nectaries:0 "花蜜"
  trait_v_nectaries_desc:0 "§L这个物种会产生花蜜来吸引传粉媒介，因此他们可以繁衍地更快。§!"
  TRAIT_NECTARIES_EFFECT:0 "每个天然障碍对人口成长速度: §G+5%§!"
 
- trait_v_kairomones:0 "Kairomones"
- trait_v_kairomones_desc:0 "§LThis species releases special signal chemicals that tend to attract animals when damaged. These signal chemicals attract predators of whatever species might have damaged them.§!"
- TRAIT_KAIROMONES_EFFECT:0 "Habitability for every Naturally Occurring Blocker: §G+5%§! \nDestroyed armies of this species once per invasion attempt attract a number of §YKairomone Wildlife Armies§! equal to the number of Naturally Occurring Blockers."
+ trait_v_kairomones:0 "诱导激素"
+ trait_v_kairomones_desc:0 "§L这个物种受伤时能够释放出特殊的化学物质，这些物质能够吸引伤害它们的掠食者。§!"
+ TRAIT_KAIROMONES_EFFECT:0 "每个天然障碍宜居性: §G+5%§! \n入侵星球时被每个被击败陆军会产生等同天然障碍数量的§Y诱导激素掠食者§!。"
 
- trait_v_pest_sensitive:0 "Pest Sensitive"
- trait_v_pest_sensitive_desc:0 "§LThis species is uniquely plagued by a number of pests. Being in proximity to large, uncontrolled swathes of territory can lead to them being extra prone to infestation.§!"
- TRAIT_PEST_SENSITIVE_EFFECT:0 "Habitability for every Naturally Occurring Blocker: §R-5%§!"
+ trait_v_pest_sensitive:0 "害虫敏感"
+ trait_v_pest_sensitive_desc:0 "§L这个物种受到许多害虫的困扰，未整理过的领地使它们更容易受到侵扰。§!"
+ TRAIT_PEST_SENSITIVE_EFFECT:0 "每个天然障碍宜居性: §R-5%§!"
 
- v_kairomone_wildlife_army:0 "Wildlife Attracted by Kairomones"
- v_kairomone_wildlife_army_desc:0 "These animals have been attracted by a large amount of kairomones released into the atmosphere in search of prey."
- NAME_v_kairomone_wildlife:0 "Kairomone Attracted Wildlife"
+ v_kairomone_wildlife_army:0 "诱导激素掠食者"
+ v_kairomone_wildlife_army_desc:0 "这些掠食者被大量释放到大气中的诱导激素所吸引而来。"
+ NAME_v_kairomone_wildlife:0 "诱导激素掠食者"
 
  trait_v_mycorrhizal:0 "菌根"
  trait_v_mycorrhizal_desc:0 "§L这个物种发展出了菌根，为它们的发育提供了其他营养。§!"
@@ -230,13 +230,13 @@
  trait_v_polyembryony_desc:0 "§L这个物种的繁殖过程可以使一个子个体发育出多个胚胎。§!"
  TRAIT_POLYEMBRYONY_EFFECT:0 "每当有人口成长或组装完成时，有§Y5%§!机率额外获得§Y1-3§!人口。"
 
- trait_v_living_building:0 "Living Building Material"
- trait_v_living_building_desc:0 "§LThis species produces a material that can be used in construction. It is cheap and self repairing, making it perfect for infrastructure projects.§!"
- TRAIT_LIVING_BUILDING_EFFECT:0 "Each pop working as a slave or better decreases the building and district cost and upkeep by: §G-1%§! \nEffects halved on §YEcumenopolis§! Worlds."
+ trait_v_living_building:0 "活体建材"
+ trait_v_living_building_desc:0 "§L这个物种能夠产生一种建材。它便宜且具有自我修复功能，非常适合基础建设。§!"
+ TRAIT_LIVING_BUILDING_EFFECT:0 "每个做为奴隶或更高工作标准的人口建筑及区划花费及维护费: §G-1%§! \n在§Y都市§!星球效果减半。"
 
- trait_v_hills_have_eyes:0 "Hills Have Eyes"
- trait_v_hills_have_eyes_desc:0 "§LThis species is connected to its planet in a peculiar way, it is able to sense enemies that land on the planet, essentially always knowing where the enemy is.§!"
- TRAIT_HILLS_HAVE_EYES_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs: §G+5§!"
+ trait_v_hills_have_eyes:0 "山丘之眼"
+ trait_v_hills_have_eyes_desc:0 "§L这个物种与其行星有一种独特的联系，它能够感知着陆在行星上敌人的位置。§!"
+ TRAIT_HILLS_HAVE_EYES_EFFECT:0 "£job_enforcer£§Y执法者§!岗位犯罪度降低: §G+5§!"
 
  trait_v_guardians:0 "Guardians"
  trait_v_guardians_desc:0 "§LCertain members of this species take the form of towering giants with the purpose of protecting their people.§!"
