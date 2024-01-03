@@ -56,21 +56,21 @@
  TRAIT_ROOTED_EFFECT:0 "§R这个物种不会搬迁并且无法强制迁徙§!"
  is_v_mobile_cant_be_resetttled:0 "§R無法强制迁徙!§!"
 
- trait_v_ecotypic_a:0 "Alpha Ecotypic"
- trait_v_ecotypic_a_desc:0 "§LThis species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression.§!"
- trait_v_ecotypic_b:0 "Beta Ecotypic"
+ trait_v_ecotypic_a:0 "甲級生态型"
+ trait_v_ecotypic_a_desc:0 "§L这个物种基于它们所栖息的生态系统表现出不同的特征，这是由于基因表达的差异造成的。§!"
+ trait_v_ecotypic_b:0 "乙級生态型"
  trait_v_ecotypic_b_desc:0 "$trait_v_ecotypic_a_desc$"
 
- TRAIT_ECOTYPIC_A_EFFECT:0 "On §YDry§! Worlds £energy£ Energy from £job£ Jobs: §G+15%§! \nOn §YWet§! Worlds £food£ Food from £job£ Jobs: §G+15%§! \nOn §YFrozen§! Worlds £minerals£ Minerals from £job£ Jobs: §G+15%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Good Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a §HHabitability§!, §HSurvivor§! or §HRadiothropic§! retain all the previous benefits."
+ TRAIT_ECOTYPIC_A_EFFECT:0 "在§Y干旱§!星球£job£岗位£energy£能量币产出: §G+15%§! \n在§Y潮湿§!星球£job£岗位£food£食物产出: §G+15%§! \n在§Y寒冷§!星球£job£岗位£minerals£矿物产出: §G+15%§! \n在§Y盖亚§!，§Y蜂巢§!星球及§Y环形世界§!£job£岗位基础资源产出: §G+15%§! \n\n在§Y盖亚§!，§Y蜂巢§!星球及§Y环形世界§!人口住房使用: §G-10%§! \n在§Y盖亚§!，§Y蜂巢§!星球及§Y环形世界§!人口消费品维护费: §G-10%§!"
 
- TRAIT_ECOTYPIC_B_EFFECT:0 "On §YWet§! and §YFrozen§! Worlds £energy£ Energy from £job£ Jobs: §G+7.5%§! \nOn §YDry§! and §YFrozen§! Worlds £food£ Food from £job£ Jobs: §G+7.5%§! \nOn §YWet§! and §YDry§! Worlds £minerals£ Minerals from £job£ Jobs: §G+7.5%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Good Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a §HHabitability§!, §HSurvivor§! or §HRadiothropic§! retain all the previous benefits."
+ TRAIT_ECOTYPIC_B_EFFECT:0 "在§Y潮湿§!及§Y寒冷§!星球£job£岗位£energy£能量币产出: §G+7.5%§! \n在§Y干旱§!及§Y寒冷§!星球£job£岗位£food£食物产出: §G+7.5%§! \n在§Y潮湿§!及§Y干旱§!星球£job£岗位£minerals£矿物产出: §G+7.5%§! \n在§Y盖亚§!，§Y蜂巢§!星球及§Y环形世界§!£job£岗位基础资源产出: §G+15%§! \n\n在§Y盖亚§!，§Y蜂巢§!星球及§Y环形世界§!人口住房使用: §G-10%§! \n在§Y盖亚§!，§Y蜂巢§!星球及§Y环形世界§!人口消费品维护费: §G-10%§!"
 
  trait_v_spores:0 "孢子"
  trait_v_spores_desc:0 "§L这个物种在死亡时会释放大量孢子。§!"
- TRAIT_SPORES_EFFECT:0 "Destroyed armies and purged pops can spawn §YSpore Camps§! that impact the planet in negative ways. \nPeriodically hostile armies will attempt to take over the planet for themselves. \nOn removal the spore camp will spawn 3 enemy armies + 1 enemy army for each additional §YSpore Camps§! present on the planet."
- d_v_spore_camp:0 "£blocker£ Spore Camp"
- d_v_spore_camp_desc:0 "In this camp live members of a beligerent species that raid and loot the surrounding countryside, making the lives of the locals into a living nightmare."
- d_v_spore_camp_custom_tooltip:0 "§Y1§! £pops£ Pop is created \nOn removal, 3 enemy armies attack the planet, with 1 additional army per §H$d_v_spore_camp$§! \nIn case of a defeat, the planet is ceded to the invading force"
+ TRAIT_SPORES_EFFECT:0 "每个陆军死亡及人口灭绝时会生成§Y胞子营§!，對星球造成負面影響。\n定期有敌对的军队会试图占领这个行星。\n移除孢子营将会产生(3 + 星球上§Y胞子营§!數量)的敌军。"
+ d_v_spore_camp:0 "£blocker£胞子营"
+ d_v_spore_camp_desc:0 "这个营地里住着一群好战的物种，他们劫掠周围的乡间，将当地居民的生活变成了一场噩梦。"
+ d_v_spore_camp_custom_tooltip:0 "£pops£增加§Y1§!人口。\n移除孢子营将会产生(3 + 星球上§H$d_v_spore_camp$§!數量)的敌军。\n若清除失败，行星将被割让给胞子营势力。"
  v_spore_raider_army:0 "突袭部队"
  v_spore_raider_army_desc:0 "由突袭者和劫匪组成的部队，反抗星球的统治者。"
 
@@ -85,13 +85,13 @@
  trait_v_aeroplankton_desc:0 "§L这个物种以不受控制的方式在整个空气中移动，因此具有较低重力或大气浓度较高的行星能更好地传播其后代。§!"
  TRAIT_AEROPLANKTON_EFFECT:0 "人口成长速度每£planetsize£§Y行星规模§!與£planetsize£§Y18§!差值: §G+5%§!"
 
- trait_v_double_respiration:0 "Double Respiration"
- trait_v_double_respiration_desc:0 "§LThis species has evolved a highly efficient respiration system. Unfortunately, this makes the species more susceptible to air pollution.§!"
- TRAIT_DOUBLE_RESPIRATION_EFFECT:0 "Species Habitability Cap per §YCity§! and §YIndustrial§! district: §R-4%§! \nSpecies Habitability Cap for every Naturally Occurring Blocker: §G+2%§! \n§HUrban Adaptation§! halves the penalty."
+ trait_v_double_respiration:0 "双呼吸系统"
+ trait_v_double_respiration_desc:0 "§L这个物种演化出了非常高效的呼吸系统，但也使得这个物种更容易受到空气污染的影响。§!"
+ TRAIT_DOUBLE_RESPIRATION_EFFECT:0 "每§Y住房§!或§Y工业§!区划物种宜居性上限: §R-4%§! \n每个天然障碍区划物种宜居性上限: §G+2%§! \n具§H都市适应§!特质能使惩罚减半。"
 
- trait_v_metalic_exoskeleton:0 "Metallic Exoskeleton"
- trait_v_metalic_exoskeleton_desc:0 "§LThis species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill.§!"
- TRAIT_METALIC_EXOSKELETON_EFFECT:0 "Each pop working as a slave or better produces 0.025 £alloys£ §YAlloys§! per month. \n£minerals£ §YMineral§! Upkeep: §R+0.25§!"
+ trait_v_metalic_exoskeleton:0 "金属外骨骼"
+ trait_v_metalic_exoskeleton_desc:0 "§L这个物种在它们的外骨骼中嵌入了金属，使其既极具致命性又极难被杀死。§!"
+ TRAIT_METALIC_EXOSKELETON_EFFECT:0 "每个做为奴隶或更高工作标准的人口每月产生 0.025 £alloys£§Y合金§! \n人口£minerals£§Y礦物§!维护费: §R+0.25§!"
 
  trait_v_fire_spewing:0 "喷火"
  trait_v_fire_spewing_desc:0 "§L这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。§!"
