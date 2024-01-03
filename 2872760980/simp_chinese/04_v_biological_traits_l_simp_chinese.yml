@@ -5,8 +5,8 @@
  TRAIT_SOCIAL_PARASITE_EFFECT:0 "无法从事§Y劳工§!岗位"
 
  trait_v_brood_parasite:0 "育雏寄生虫"
- trait_v_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
- TRAIT_BROOD_PARASITE_EFFECT:0 "Pop growth speed per non-§HBroood Parasite§! pop: §G+3%§! \nPop growth speed per Brood Parasite pop on planet: §R-1%§!"
+ trait_v_brood_parasite_desc:0 "§L这个物种不太重视育儿，更倾向于寄生在其他物种的善意上。§!"
+ TRAIT_BROOD_PARASITE_EFFECT:0 "每个无§H育雏寄生虫§!特质人口人口成长: §G+3%§! \n每个§H育雏寄生虫§!特质人口人口成长: §R-1%§!"
 
  ###############################################################################################################################################################################################################
 
@@ -116,17 +116,17 @@
  trait_v_foragial_limbs:0 "搜索肢"
  trait_v_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
 
- trait_v_active_camouflage:0 "Camouflage"
- trait_v_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
- TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs: §G-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§! \n§GPops can't be abducted.§!"
+ trait_v_active_camouflage:0 "匿踪"
+ trait_v_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
+ TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "£job_enforcer£§Y执法者§!岗位犯罪度降低: §G-5§! \n£job_criminal£§Y罪犯§!岗位犯罪度: §R+5§! \n§G人口无法被掠袭。§!"
 
  trait_v_locust:0 "Locusts"
  trait_v_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
  TRAIT_LOCUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Speed: §G+100%§! \nPop Food Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RFood Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-2%§! \nEach pop working as a slave or better decreases the £food£ §YFood§! from jobs by: §R-2%§! \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds.§!"
 
- trait_v_repletes:0 "Repletes"
- trait_v_repletes_desc:0 "§LCertain members of this species are able to function as repletes, and are able to function as resource storage.§!"
- TRAIT_REPLETE_EFFECT:0 "Each pop working as a £job_clerk£ §YClerk§! or £job_maintenance_drone£ §YMaintenance Drone§! increases the £mod_country_resource_max_add£ §YResource Storage Capacity§! by: §G+100§!"
+ trait_v_repletes:0 "充实工蜂"
+ trait_v_repletes_desc:0 "§L这个物种的成员能够充当充实工蜂，作为资源储存。§!"
+ TRAIT_REPLETE_EFFECT:0 "每个£job_clerk£§Y职员§!或£job_maintenance_drone£§Y维护子个体§!£mod_country_resource_max_add£§Y资源储存上限§!: §G+100§!"
 
  trait_v_explosive_autothysis:0 "自杀爆炸"
  trait_v_explosive_autothysis_desc:0 "§L这个物种演化出一种自杀方式，能使个体以显着的力量爆炸。§!"
