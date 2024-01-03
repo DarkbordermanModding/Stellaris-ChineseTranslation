@@ -44,8 +44,8 @@
  TRAIT_MYCORRHIZA_EFFECT:0 "每个天然障碍人口食物维护费: §G-5%§!"
 
  trait_v_hyphae_network:0 "菌丝网络"
- trait_v_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
- TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with §H菌丝网络§!或§H矿脉网络§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
+ trait_v_hyphae_network_desc:0 "§L这个物种通过复杂的菌丝网络与同类永久连接在一起。思想能够在个体之间迅速共享，从而推动文化和技术的巨大飞跃。§!"
+ TRAIT_HYPHAE_NETWORK_EFFECT:0 "每个具§H菌丝网络§!或§H矿脉网络§!特质的人口£job£§Y岗位! £engineering£ £physics£ £society£研究及£unity£凝聚力产出: §G+0.5%§!"
 
  trait_v_rhizobial:0 "根瘤菌"
  trait_v_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
@@ -128,13 +128,13 @@
  trait_v_repletes_desc:0 "§LCertain members of this species are able to function as repletes, and are able to function as resource storage.§!"
  TRAIT_REPLETE_EFFECT:0 "Each pop working as a £job_clerk£ §YClerk§! or £job_maintenance_drone£ §YMaintenance Drone§! increases the £mod_country_resource_max_add£ §YResource Storage Capacity§! by: §G+100§!"
 
- trait_v_explosive_autothysis:0 "Explosive Autothysis"
- trait_v_explosive_autothysis_desc:0 "§LThis species has developed a form of altruistic suicide, that ends up with an individual of this species exploding with significant force.§!"
- TRAIT_EXPLOSIVE_AUTOTHYSIS_EFFECT:0 "Destroyed armies and purged pops cause §R5§! planetary devastation."
+ trait_v_explosive_autothysis:0 "自杀爆炸"
+ trait_v_explosive_autothysis_desc:0 "§L这个物种演化出一种自杀方式，能使个体以显着的力量爆炸。§!"
+ TRAIT_EXPLOSIVE_AUTOTHYSIS_EFFECT:0 "每个陆军死亡及人口灭绝时造成§R5§!点破坏度。"
 
- trait_v_mayfly:0 "Mayfly"
- trait_v_mayfly_desc:0 "§LThis species is extremely short-lived for a sentient race. In return, they learn really fast.§!"
- TRAIT_MAYFLY_EFFECT:0 "Leader Recruitment Age §Y2§!-§Y5§! Years"
+ trait_v_mayfly:0 "蜉蝣"
+ trait_v_mayfly_desc:0 "§L这个物种的寿命非常短暂。作为补偿，它们学习速度非常快。§!"
+ TRAIT_MAYFLY_EFFECT:0 "领袖起始年纪为§Y2§!-§Y5§!岁"
 
  trait_v_biological_immortality:0 "生理不朽"
  trait_v_biological_immortality_desc:0 "§L这个物种似乎是不朽的。除非被疾病，捕食者或武器杀死，否则这个物种会不断再生。§!"
@@ -250,17 +250,17 @@
  trait_v_explosive_birth_desc:0 "§LBecause of a desire to spread its offspring as far as possible, this species does it through propelling their offspring with the use of explosive shrapnel-like seeds.§!"
  TRAIT_EXPLOSIVE_BIRTH_EFFECT:0 "§R10§! planetary devastation each time a pop of this species grows \n§R10%§! chance to kill random pop without the §HExplosive Birth§! trait each time a pop of this species grows."
 
- trait_v_prenatal_fratricide:0 "Prenatal Fratricide"
- trait_v_prenatal_fratricide_desc:0 "§LWhile many young may develop in the womb at the same time, only one will see the light of day.§!"
- TRAIT_PRENATAL_FRATRICIDE_EFFECT:0 "§YLeaders§! start at Level §G+1§!"
+ trait_v_prenatal_fratricide:0 "产前天择"
+ trait_v_prenatal_fratricide_desc:0 "§L这个物种虽然许多幼体同时在子宫中发育，但只有一个会迎接第一缕阳光。§!"
+ TRAIT_PRENATAL_FRATRICIDE_EFFECT:0 "§Y领袖§!起始等级§G+1§!"
 
- trait_v_thorns:0 "Thorns"
- trait_v_thorns_desc:0 "§LThis species developed thorns for defensive purposes. Unfortunately, these thorns also affect other species.§!"
- TRAIT_THORNS_EFFECT:0 "Pop Housing Usage to non-thorny Pops: §R+2%§!"
+ trait_v_thorns:0 "棘刺"
+ trait_v_thorns_desc:0 "§L这个物种发展出了带有防御目的的刺。不幸的是，这些刺也对其他物种产生影响。§!"
+ TRAIT_THORNS_EFFECT:0 "非棘刺人口住房使用: §R+2%§!"
 
- trait_v_grafting:0 "Grafting"
- trait_v_grafting_desc:0 "§LThe physiology of this species allows for the grafting of parts belonging to other species without any major side effects.§!"
- TRAIT_PLANTOID_GRAFTING_EFFECT: "If this species shares the planet with another species that has a positive Plantoid or Lithoid trait, with a few exceptions, it will also gain its benefits."
+ trait_v_grafting:0 "嫁接"
+ trait_v_grafting_desc:0 "§L这个物种的生理结构允许移植其他物种的器官部分，而几乎没有副作用。§!"
+ TRAIT_PLANTOID_GRAFTING_EFFECT: "当这个物种与其他具石质或植物类正向特质共存时，除了少数例外，皆可获得其正向特质。"
  trait_hyphae_grafting:0 "Hyphae Network Graft"
  trait_pseudocopulative_grafting:0 "Pseudocopulative Graft"
  trait_detritivore_grafting:0 "Detritivore Graft"
