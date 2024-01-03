@@ -120,9 +120,9 @@
  trait_v_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
  TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "£job_enforcer£§Y执法者§!岗位犯罪度降低: §G-5§! \n£job_criminal£§Y罪犯§!岗位犯罪度: §R+5§! \n§G人口无法被掠袭。§!"
 
- trait_v_locust:0 "Locusts"
- trait_v_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
- TRAIT_LOCUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Speed: §G+100%§! \nPop Food Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RFood Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-2%§! \nEach pop working as a slave or better decreases the £food£ §YFood§! from jobs by: §R-2%§! \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds.§!"
+ trait_v_locust:0 "莲花绽放"
+ trait_v_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
+ TRAIT_LOCUST_EFFECT:0 "當人口為£planetsize£§Y行星规模§!2倍以上时，获得以下效果: \n人口增长速度: §G+100%§! \n人口食物维护费: §R+1§! \n每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y遷出吸引力§!: §Y+0.5§! \n\n为降低§R食物缺乏§!影响: \n當宜居性§Y0%§!以上时食物短缺不影响幸福度 \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-2%§! \n每个做为奴隶或更高工作标准的人口£food£§Y食物§!产出: §R-2%§! \n\n§H这些效果在§Y人工§!，§Y盖亚§!及§Y都市§!星球无效§!。§!"
 
  trait_v_repletes:0 "充实工蜂"
  trait_v_repletes_desc:0 "§L这个物种的成员能够充当充实工蜂，作为资源储存。§!"
@@ -141,7 +141,7 @@
 
  trait_v_reanimation:0 "复活"
  trait_v_reanimation_desc:0 "§LThis species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state.§!"
- TRAIT_REANIMATION_EFFECT:0 "Destroyed armies of this species return as §YUndead Armies§!"
+ TRAIT_REANIMATION_EFFECT:0 "Destroyed armies of this species return as §Y不死军§!"
 
  trait_v_ghoulish:0 "Ghoulish"
  trait_v_ghoulish_desc:0 "§LMembers of this species aren't very good at social interactions, as their behavior and physiology would be best described as unsettling, and when compared to other species, they seem to look sickly.§!"
