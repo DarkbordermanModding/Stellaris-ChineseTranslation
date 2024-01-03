@@ -74,9 +74,9 @@
  v_spore_raider_army:0 "突袭部队"
  v_spore_raider_army_desc:0 "由突袭者和劫匪组成的部队，反抗星球的统治者。"
 
- trait_v_pseudocopulative:0 "Pseudocopulative"
- trait_v_pseudocopulative_desc:0 "§LThis species has evolved to mimic other species. This Mimicry has taken the form of tricking other species into copulation.§!"
- TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "Pop Growth when working £job_entertainer£ §YEntertainer§! Jobs: §G+2%§! \nPop Growth per non-§HPseudocopulative§! pop: §G+1%§!"
+ trait_v_pseudocopulative:0 "拟态交配"
+ trait_v_pseudocopulative_desc:0 "§L这个物种演化出模仿其他物种的能力，这种拟态的形式能够欺骗其他物种与其进行交配。§!"
+ TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "担任£job_entertainer£§Y演艺人员§!岗位时人口成长: §G+2%§! \n每个无§H拟态交配§!特质人口成长: §G+1%§!"
 
  trait_v_flying:0 "飞行"
  trait_v_flying_desc:0 "§L这个物种能够飞行。这个物种的迁移是快速，容易和自然的。§!"
