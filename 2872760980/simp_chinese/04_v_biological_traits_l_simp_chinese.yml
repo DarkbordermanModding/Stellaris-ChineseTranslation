@@ -275,29 +275,29 @@
  trait_mycorrhizal_grafting:0 "菌根嫁接"
  trait_blooming_grafting:0 "农业绽放嫁接"
 
- trait_v_ecosystem_engineer:0 "Ecosystem Engineer"
- trait_v_ecosystem_engineer_desc:0 "§LThis species dabbles in the process of ecosystem engineering. Because of this, they are capable of altering the environment by creating new living spaces for themselves.§!"
- TRAIT_ECOSYSTEM_ENGINEER_EFFECT:0 "Gain 1 £district£ §YDistrict§! per 20 pops with §HEcosystem Engineer§! on Non-Ecumenopolis and Non-Artificial Worlds"
+ trait_v_ecosystem_engineer:0 "生态系工程师"
+ trait_v_ecosystem_engineer_desc:0 "§L这个物种在生态系工程上略有建树，它们有能力通过为自己创造新的生活空间来改变环境。§!"
+ TRAIT_ECOSYSTEM_ENGINEER_EFFECT:0 "在非都市及人工星球每20具§H生态系工程师§!特质人口获得1£district£§Y区划§!"
 
- trait_v_musk:0 "Appeasement Displays"
- trait_v_musk_desc:0 "§LThis species uses scents and displays to show submission to member of their species that stand higher in their society.§!"
- TRAIT_MUSK_EFFECT:0 "Happiness: §R-10§! \nEach pop increases the Happiness of pops with §HAppeasement Displays§! in the strata located above them by: §G+1%§!"
+ trait_v_musk:0 "顺从展示"
+ trait_v_musk_desc:0 "§L这个物种使用气味来表示对社会地位更高的同类的顺从。§!"
+ TRAIT_MUSK_EFFECT:0 "幸福度: §R-10§! \n每个具§H顺从展示§!特质人口对更上阶级幸福度: §G+1%§!"
 
- trait_v_modular_organism:0 "Modular Organism"
- trait_v_modular_organism_desc:0 "§LMembers of this species take the form of zooids. Colonies specialize in one of few functions to maximize the good of the whole species.§!"
- TRAIT_MODULAR_ORGANISM_EFFECT:0 "Each pop with §HModular Organism§! working in a job producing a £energy£ £minerals£ £food£ §YBasic Resource§! increases the output of that resource by: §G+1%§!"
+ trait_v_modular_organism:0 "模块化生物"
+ trait_v_modular_organism_desc:0 "§L这个物种具模块化的行为模式。群体中的个体专门从事少数几种功能以促进整个物种的利益。§!"
+ TRAIT_MODULAR_ORGANISM_EFFECT:0 "每个具§H模块化生物§!特质并生产£energy£ £minerals£ £food£ §Y基础资源§!的岗位产出: §G+1%§!"
 
- trait_v_embryonic_diapause:0 "Delayed Implantation"
- trait_v_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
- TRAIT_EMBRYONIC_DIAPAUSE_EFFECT:0 "Planets with this species can enact the Diapause decision. Upon enacting the Diapause decision, all pops with §HDelayed Implantation§!: \nPop Food Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
+ trait_v_embryonic_diapause:0 "滞育"
+ trait_v_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。§!"
+ TRAIT_EMBRYONIC_DIAPAUSE_EFFECT:0 "有这个物种的行星可以使用滞育决议。决议生效時所有具§H滞育§!特质的人口: \nPop Food Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
 
- decision_v_000_diapause:0 "Diapause"
+ decision_v_000_diapause:0 "滞育"
  decision_v_000_diapause_desc:0 "Through hormonal manipulation the growth of certain species can be halted."
 
- decision_v_000_diapause_remove:0 "End Diapause"
+ decision_v_000_diapause_remove:0 "停止滞育"
  decision_v_000_diapause_remove_desc:0 "Time to end the restrictions on growth."
 
- v_diapause_modifier:0 "Diapause"
+ v_diapause_modifier:0 "滞育"
  v_diapause_modifier_desc:0 "Through hormonal manipulation, the growth of certain species has been halted."
  v_diapause_modifier_tooltip:0 "Activates the effects of §HDelayed Implantation§!"
 
