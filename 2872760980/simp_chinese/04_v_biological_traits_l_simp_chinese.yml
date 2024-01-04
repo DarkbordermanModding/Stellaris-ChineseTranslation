@@ -301,27 +301,27 @@
  v_diapause_modifier_desc:0 "通过激素操控，某些物种的生长已经停止了。"
  v_diapause_modifier_tooltip:0 "启用§H滞育§!特质效果"
 
- trait_v_fungus_farmer:0 "Leaf Cutter"
- trait_v_fungus_farmer_desc:0 "§LThis species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi.§!"
- TRAIT_FUNGUS_FARMER_EFFECT:0 "£job_miner£ §YMiners§! count as £job_farmer£ §YFarmers§!."
+ trait_v_fungus_farmer:0 "树叶收获"
+ trait_v_fungus_farmer_desc:0 "§L这个物种能利用地下空间，填充一种基质，上面生长可食用的真菌。§!"
+ TRAIT_FUNGUS_FARMER_EFFECT:0 "£job_miner£§Y矿工§!视为£job_farmer£§Y农夫§!。"
 
- trait_v_reed_cutter:0 "Reed Cutter"
- trait_v_reed_cutter_desc:0 "This species cuts aquatic plants with the goal of causing fungal infections, which they use as a source of food."
- TRAIT_REED_CUTTER_EFFECT:0 "£food£ Food from £job_farmer£ Farmers on §YWet Worlds§!: §G+1§! \n£food£ Food from £job_farmer£ Farmers on Non-§YWet Worlds§!: §R-2§!"
+ trait_v_reed_cutter:0 "海带收获"
+ trait_v_reed_cutter_desc:0 "这个物种切割水生植物使其被真菌感染，然后利用这些真菌作为食物来源。"
+ TRAIT_REED_CUTTER_EFFECT:0 "在§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §G+1§! \n在非§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §R-2§!"
 
- trait_v_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
- trait_v_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
+ trait_v_sensitive_chemoreceptors:0 "化学敏感受体"
+ trait_v_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
 
  trait_v_creature_of_paradise:0 "Creature Of Paradise"
  trait_v_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
  TRAIT_CREATURE_OF_PARADISE_EFFECT:0 "Each pop working as a slave or better increases the £mod_planet_immigration_pull_add£ §YImmigration Pull§! by: §G+1§!"
 
- trait_v_voice_box:0 "Voice Box"
- trait_v_voice_box_desc:0 "§LThis species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams.§!"
+ trait_v_voice_box:0 "音乐盒"
+ trait_v_voice_box_desc:0 "§L这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。§!"
 
- trait_v_weaver:0 "Weavers"
- trait_v_weaver_desc:0 "§LThis species tends to use natural materials such as leaves to produce buildings and everyday items.§!"
- TRAIT_WEAVER_EFFECT:0 "Non-Hivemind pops working £job_farmer£ §YFarmer§! jobs have 1 £food£ §YFood§! replaced with 1 £consumer_goods£ §Y$consumer_goods$§!. \nPops working £job_farmer£ §YFarmer§! jobs decrease building and district cost and upkeep by: §G-2%§! \nPop Housing Usage when working £job_farmer£ §YFarmer§! Jobs: §Y-1§! \n£job_farmer£ §YFarmers§! count as £job_artisan£ §YArtisans§!."
+ trait_v_weaver:0 "织工"
+ trait_v_weaver_desc:0 "§L这个物种倾向于使用自然材料，比如树叶，来制作建筑和日常用品。§!"
+ TRAIT_WEAVER_EFFECT:0 "作为£job_farmer£§Y农夫§!的非蜂巢人口將 1 £food£§Y食物§!维护费取代为 1 £consumer_goods£ §Y消费品§!维护费。\n每个£job_farmer£§Y农夫§!岗位建筑及区划花费及维护费: §G-2%§! \n每个£job_farmer£§Y农夫§!岗位人口住房使用: §Y-1§! \n£job_farmer£§Y农夫§!视为£job_artisan£§Y工匠§!。"
 
  trait_v_bioluminesce:0 "Bioluminesce"
  trait_v_bioluminesce_desc:0 "§LThis species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out.§!"
