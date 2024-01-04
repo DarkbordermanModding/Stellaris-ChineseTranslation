@@ -292,14 +292,14 @@
  TRAIT_EMBRYONIC_DIAPAUSE_EFFECT:0 "有这个物种的行星可以使用滞育决议。决议生效時所有具§H滞育§!特质的人口: \n人口食物维护费: §G-10%§! \n£job£§Y岗位§!资源产出: §G+10%§! \n§R人口无法自然繁衍或组装§!"
 
  decision_v_000_diapause:0 "滞育"
- decision_v_000_diapause_desc:0 "Through hormonal manipulation the growth of certain species can be halted."
+ decision_v_000_diapause_desc:0 "通过激素操控，可以阻止某些物种的生长。"
 
  decision_v_000_diapause_remove:0 "停止滞育"
- decision_v_000_diapause_remove_desc:0 "Time to end the restrictions on growth."
+ decision_v_000_diapause_remove_desc:0 "是时候结束对生长的限制了。"
 
  v_diapause_modifier:0 "滞育"
- v_diapause_modifier_desc:0 "Through hormonal manipulation, the growth of certain species has been halted."
- v_diapause_modifier_tooltip:0 "Activates the effects of §HDelayed Implantation§!"
+ v_diapause_modifier_desc:0 "通过激素操控，某些物种的生长已经停止了。"
+ v_diapause_modifier_tooltip:0 "启用§H滞育§!特质效果"
 
  trait_v_fungus_farmer:0 "Leaf Cutter"
  trait_v_fungus_farmer_desc:0 "§LThis species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi.§!"
