@@ -321,7 +321,7 @@
 
  trait_v_weaver:0 "织工"
  trait_v_weaver_desc:0 "§L这个物种倾向于使用自然材料，比如树叶，来制作建筑和日常用品。§!"
- TRAIT_WEAVER_EFFECT:0 "作为£job_farmer£§Y农夫§!的非蜂巢人口將 1 £food£§Y食物§!维护费取代为 1 £consumer_goods£ §Y消费品§!维护费。\n每个£job_farmer£§Y农夫§!岗位建筑及区划花费及维护费: §G-2%§! \n每个£job_farmer£§Y农夫§!岗位人口住房使用: §Y-1§! \n£job_farmer£§Y农夫§!视为£job_artisan£§Y工匠§!。"
+ TRAIT_WEAVER_EFFECT:0 "作为£job_farmer£§Y农夫§!的非蜂巢人口将 1 £food£§Y食物§!维护费取代为 1 £consumer_goods£ §Y消费品§!维护费。\n每个£job_farmer£§Y农夫§!岗位建筑及区划花费及维护费: §G-2%§! \n每个£job_farmer£§Y农夫§!岗位人口住房使用: §Y-1§! \n£job_farmer£§Y农夫§!视为£job_artisan£§Y工匠§!。"
 
  trait_v_bioluminesce:0 "Bioluminesce"
  trait_v_bioluminesce_desc:0 "§LThis species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out.§!"
