@@ -59,7 +59,7 @@
 
  trait_v_lithoid_embryonic_diapause:0 "滞育"
  trait_v_lithoid_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。
- TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "有这个物种的行星可以使用滞育决议。决议生效時所有具§H滞育§!特质的人口: \n人口矿物维护费: §G-10%§! \n£job£§Y崗位§!资源产出: §G+10%§! \n§R人口无法自然繁衍或组装§!"
+ TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "有这个物种的行星可以使用滞育决议。决议生效時所有具§H滞育§!特质的人口: \n人口矿物维护费: §G-10%§! \n£job£§Y岗位§!资源产出: §G+10%§! \n§R人口无法自然繁衍或组装§!"
 
  trait_v_prismatic:0 "稜鏡散射"
  trait_v_prismatic_desc:0 "§L这个物种的身体能讓光散射，创造出美丽的颜色陈列。§!"
