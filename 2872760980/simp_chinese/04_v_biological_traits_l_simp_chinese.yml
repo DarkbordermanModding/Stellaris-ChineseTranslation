@@ -76,7 +76,7 @@
 
  trait_v_pseudocopulative:0 "拟态交配"
  trait_v_pseudocopulative_desc:0 "§L这个物种演化出模仿其他物种的能力，这种拟态的形式能够欺骗其他物种与其进行交配。§!"
- TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "担任£job_entertainer£§Y演艺人员§!岗位时人口成长速度: §G+2%§! \n每个无§H拟态交配§!特质人口成长速度: §G+1%§!"
+ TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "从事£job_entertainer£§Y演艺人员§!岗位时人口成长速度: §G+2%§! \n每个无§H拟态交配§!特质人口成长速度: §G+1%§!"
 
  trait_v_flying:0 "飞行"
  trait_v_flying_desc:0 "§L这个物种能够飞行。这个物种的迁移是快速，容易和自然的。§!"
@@ -198,10 +198,10 @@
  TRAIT_URBANOBIONT_EFFECT:0 "物种宜居性上限: §R-70%§! \n物种宜居性下限: §G+30%§! \n每§Y住房§!或§Y工业§!区划物种宜居性上限: §G+5%§! \n每§Y住房§!或§Y工业§!区划物种宜居性下限: §G+5%§!"
 
  trait_v_behavioral_sink:0 "行为沉积"
- trait_v_behavioral_sink_desc:0 "§LMembers of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse.§!"
- TRAIT_BEHAVIORAL_SINK_EFFECT:0 "This species is incapable of growing its population past 2 times the £planetsize£ §YPlanet Size§! \nLeaders from planets that have reached the limit have a §R75%§! chance to start with the ['concept_v_leader_backstabbing'] trait. \nHappiness on reaching the limit: §R-25%§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
+ trait_v_behavioral_sink_desc:0 "§L这个物种的成员在高人口密度时会出现行为崩溃的情况。反社会成为常见现象，导致繁殖停滞不前，迫使许多成员变得孤僻甚至更糟。§!"
+ TRAIT_BEHAVIORAL_SINK_EFFECT:0 "人口数不会超过 2 倍的£planetsize£§Y行星规模§! \n到达人口瓶颈时领袖有 §R75%§! 机率有 ['concept_v_leader_backstabbing'] 特质。 \n到达人口瓶颈时幸福度: §R-25%§! \n£job_criminal£§Y罪犯§!犯罪度: §R+5§!"
 
- TRAIT_BEHAVIORAL_SINK_EFFECT_OLD:0 "For each sentient pop above 1.5 £planetsize£ §YPlanet Size§!: \n£unity£ Unity from £job£ Jobs: §R-2%§! \nHappiness: §R-2%§! \nGoverning Ethics Attraction: §R-2%§! \nPop Growth Speed: §R-2%§!"
+ TRAIT_BEHAVIORAL_SINK_EFFECT_OLD:0 "每个超过 1.5 £planetsize£§Y行星规模§!的非格式塔意识人口: \n£job£岗位£unity£凝聚力产出: §R-2%§! \n幸福度: §R-2%§! \n主流思潮吸引力: §R-2%§! \n人口成长速度: §R-2%§!"
 
  trait_v_old_instincts:0 "先祖本能"
  trait_v_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
@@ -312,9 +312,9 @@
  trait_v_sensitive_chemoreceptors:0 "化学敏感受体"
  trait_v_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
 
- trait_v_creature_of_paradise:0 "Creature Of Paradise"
- trait_v_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
- TRAIT_CREATURE_OF_PARADISE_EFFECT:0 "Each pop working as a slave or better increases the £mod_planet_immigration_pull_add£ §YImmigration Pull§! by: §G+1§!"
+ trait_v_creature_of_paradise:0 "美若天仙"
+ trait_v_creature_of_paradise_desc:0 "§L这个物种以其美丽而闻名，其美貌被形容为好像是从天上降临于凡间。§!"
+ TRAIT_CREATURE_OF_PARADISE_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+1§!"
 
  trait_v_voice_box:0 "音乐盒"
  trait_v_voice_box_desc:0 "§L这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。§!"
@@ -323,23 +323,23 @@
  trait_v_weaver_desc:0 "§L这个物种倾向于使用自然材料，比如树叶，来制作建筑和日常用品。§!"
  TRAIT_WEAVER_EFFECT:0 "作为£job_farmer£§Y农夫§!的非蜂巢人口将 1 £food£§Y食物§!维护费取代为 1 £consumer_goods£ §Y消费品§!维护费。\n每个£job_farmer£§Y农夫§!岗位建筑及区划花费及维护费: §G-2%§! \n每个£job_farmer£§Y农夫§!岗位人口住房使用: §Y-1§! \n£job_farmer£§Y农夫§!视为£job_artisan£§Y工匠§!。"
 
- trait_v_bioluminesce:0 "Bioluminesce"
- trait_v_bioluminesce_desc:0 "§LThis species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out.§!"
- TRAIT_BIOLUMINESCENCE_EFFECT:0 "Pop Growth Speed per Bioluminescent pop working an £job_entertainer£ §YEntertainer§! Job: §G+2%§! \n£food£ Food from £job_farmer£ §YFarmers§! for every Naturally Occurring Blocker: §G+0.5§! (With Webbing §G+0.25§! instead)"
+ trait_v_bioluminesce:0 "发光"
+ trait_v_bioluminesce_desc:0 "§L这个物种能够自行产生光。无论是作为诱饵还是展示行为，它都能使这个物种脱颖而出。§!"
+ TRAIT_BIOLUMINESCENCE_EFFECT:0 "每个具发光特质£job_entertainer£§Y演艺人员§!岗位人口生长速度: §G+2%§! \n每个天然障碍对£job_farmer£§Y农夫§!£food£食物产出: §G+0.5§! (若具有织网特质则§G+0.25§!)"
 
- trait_v_rancher:0 "Ranchers"
+ trait_v_rancher:0 "牧场主"
  trait_v_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
  TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs provide 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] Jobs."
 
  OLD_TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs increase £job_livestock£ §YLivestock§! Resource Output by: §G+2.5%§!"
 
- trait_v_aggregation:0 "Aggregation"
- trait_v_aggregation_desc:0 "§LThis species tends to aggregate into large groups of individuals to save space and protect them from the elements.§!"
- TRAIT_AGGREGATION_EFFECT:0 "Pop Housing Usage per aggregative Pop: §G-1%§! (max: §G-75%§!)"
+ trait_v_aggregation:0 "群聚"
+ trait_v_aggregation_desc:0 "§L这个物种倾向于聚集成大型群体，以节省空间并保护它们免受环境的影响。§!"
+ TRAIT_AGGREGATION_EFFECT:0 "每个具群聚特质人口对人口住房使用: §G-1%§! (最高: §G-75%§!)"
 
- trait_v_filter_feeder:0 "Filter Feeder"
- trait_v_filter_feeder_desc:0 "§LThis species is adapted to filter food particles from the water.§!"
- TRAIT_FILTER_FEEDER_EFFECT:0 "Pop Food Upkeep per £planetsize£ §YPlanet Size§! on §YWet Worlds§!: §G-1%§!"
+ trait_v_filter_feeder:0 "滤食"
+ trait_v_filter_feeder_desc:0 "§L这个物种能够从水中过滤食物颗粒。§!"
+ TRAIT_FILTER_FEEDER_EFFECT:0 "在§Y潮湿§!星球每£planetsize£§Y行星规模§!人口食物维护费: §G-1%§!"
 
  trait_v_life_support:0 "Life Support"
  trait_v_life_support_desc:0 "§LThis species is generally weak and suffers from many ailments, therefore it needs to be constantly hooked up to a set of life support systems to function normally. This separation from their environment, however, grants them the ability to function in most environments without major problems.§!"
