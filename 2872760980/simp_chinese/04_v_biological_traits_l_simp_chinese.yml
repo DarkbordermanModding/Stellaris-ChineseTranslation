@@ -341,25 +341,25 @@
  trait_v_filter_feeder_desc:0 "§L这个物种能够从水中过滤食物颗粒。§!"
  TRAIT_FILTER_FEEDER_EFFECT:0 "在§Y潮湿§!星球每£planetsize£§Y行星规模§!人口食物维护费: §G-1%§!"
 
- trait_v_life_support:0 "Life Support"
- trait_v_life_support_desc:0 "§LThis species is generally weak and suffers from many ailments, therefore it needs to be constantly hooked up to a set of life support systems to function normally. This separation from their environment, however, grants them the ability to function in most environments without major problems.§!"
- TRAIT_LIFE_SUPPORT_EFFECT:0 "Species Minimum Habitability: §G+10%§! for each negative trait selected \nIncreases £energy£ §YEnergy Credits§! Upkeep by: §R+0.10§! for each negative trait selected"
+ trait_v_life_support:0 "生命维持器"
+ trait_v_life_support_desc:0 "§L这个物种比较脆弱，患有许多疾病，因此需要连接到一套生命维持器才能正常运作。然而，与环境的隔离使它们能够在大多数环境中生存良好。§!"
+ TRAIT_LIFE_SUPPORT_EFFECT:0 "每个负项特质物种宜居性下限: §G+10%§!\n每个负项特质£energy£§Y能量币§!维护费: §R+0.10§!"
 
- trait_v_pneumoconiosis:0 "Pneumoconiosis"
- trait_v_pneumoconiosis_desc:0 "§LThis species has a tendency to develop pneumoconiosis, which makes breathing more difficult.§!"
+ trait_v_pneumoconiosis:0 "硅肺病"
+ trait_v_pneumoconiosis_desc:0 "§L这个物种患有硅肺病，使得呼吸变得更加困难。§!"
 
- trait_v_polygynous:0 "Polygynous"
+ trait_v_polygynous:0 "多配偶"
  trait_v_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
  TRAIT_POLYGYNOUS_EFFECT:0 "Male Leaders start with the ['concept_v_leader_polygynous'] trait. \n£job_v_harem£ ['concept_v_harem'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nPop Growth Speed per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+4%§! \nRuler Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+2%§! \nWorker and Slave Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §R-2%§!"
 
- trait_v_courtship_displays:0 "Courtship Displays"
- trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
- TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness when a pop of this species is Growing: §G+5%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§! \n£society£ Society Research from £job_entertainer£ Entertainers when a pop of this species is Growing: §G+1§! \n£unity£ Unity from £job_entertainer£ Entertainers when a pop of this species is Growing: §G+1§!"
+ trait_v_courtship_displays:0 "求偶展示"
+ trait_v_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
+ TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "物种增长时幸福度: §G+5%§! \n物种增长时£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+25§! \n物种增长时£job_entertainer£演艺人员£society£社会学产出: §G+1§! \n物种增长时£job_entertainer£演艺人员£unity£凝聚力产出: §G+1§!"
 
  ###############################################################################################################################################################################################################
 
- trait_v_kleptoplasty:0 "Kleptoplasty"
- trait_v_kleptoplasty_desc:0 "§LThanks to chloroplasts taken from other organisms, this species is able to partially sustain itself on sunlight.§!"
+ trait_v_kleptoplasty:0 "叶绿体器官"
+ trait_v_kleptoplasty_desc:0 "§L这个物种由于从其他生物中获取了叶绿体，能够部分地依靠阳光维持自身生存。§!"
 
- trait_v_strobilation:0 "Strobilation"
- trait_v_strobilation_desc:0 "§LThis species has the ability to form polyps. These polyps start dividing just to turn into further individuals.§!"
+ trait_v_strobilation:0 "分节生殖"
+ trait_v_strobilation_desc:0 "§L这个物种有形成节肢体的能力。这些节肢体能够分裂，形成更多的个体。§!"
