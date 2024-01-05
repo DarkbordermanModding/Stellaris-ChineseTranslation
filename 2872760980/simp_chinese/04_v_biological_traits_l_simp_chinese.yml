@@ -328,10 +328,10 @@
  TRAIT_BIOLUMINESCENCE_EFFECT:0 "每个具发光特质£job_entertainer£§Y演艺人员§!岗位人口生长速度: §G+2%§! \n每个天然障碍对£job_farmer£§Y农夫§!£food£食物产出: §G+0.5§! (若具有织网特质则§G+0.25§!)"
 
  trait_v_rancher:0 "牧场主"
- trait_v_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
- TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs provide 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] Jobs."
+ trait_v_rancher_desc:0 "§L这个物种比起照料庄稼更擅长畜牧其他物种。§!"
+ TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位产生 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] 岗位。"
 
- OLD_TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs increase £job_livestock£ §YLivestock§! Resource Output by: §G+2.5%§!"
+ OLD_TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位对£job_livestock£§Y牲口§!产出: §G+2.5%§!"
 
  trait_v_aggregation:0 "群聚"
  trait_v_aggregation_desc:0 "§L这个物种倾向于聚集成大型群体，以节省空间并保护它们免受环境的影响。§!"
@@ -349,8 +349,8 @@
  trait_v_pneumoconiosis_desc:0 "§L这个物种患有硅肺病，使得呼吸变得更加困难。§!"
 
  trait_v_polygynous:0 "多配偶"
- trait_v_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
- TRAIT_POLYGYNOUS_EFFECT:0 "Male Leaders start with the ['concept_v_leader_polygynous'] trait. \n£job_v_harem£ ['concept_v_harem'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nPop Growth Speed per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+4%§! \nRuler Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+2%§! \nWorker and Slave Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §R-2%§!"
+ trait_v_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ TRAIT_POLYGYNOUS_EFFECT:0 "男性领袖带有 ['concept_v_leader_polygynous'] 特质。 \n每个£pop_cat_ruler£统治者岗位对£job_v_harem£ ['concept_v_harem'] 岗位数量: §G+0.5§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时人口增长速度: §G+4%§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时统治者幸福度: §G+2%§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时工人及奴隶幸福度: §R-2%§!"
 
  trait_v_courtship_displays:0 "求偶展示"
  trait_v_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
