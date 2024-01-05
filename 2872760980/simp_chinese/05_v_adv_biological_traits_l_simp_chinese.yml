@@ -1,19 +1,19 @@
 ﻿l_simp_chinese:
 
- trait_v_adv_social_parasite:0 "Social Parasite"
- trait_v_adv_social_parasite_desc:0 "§LThis species won't do any work that is beneath them. In their earlier days, this species performed slave raids against eusocial species in order to acquire workers.§!"
- 
+ trait_v_adv_social_parasite:0 "社会寄生虫"
+ trait_v_adv_social_parasite_desc:0 "§L该物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
+
  trait_v_adv_brood_parasite:0 "Brood Parasite"
  trait_v_adv_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
- 
+
  ###############################################################################################################################################################################################################
- 
+
  trait_v_adv_fertilising:0 "Fertilizing"
  trait_v_adv_fertilising_desc:0 "§LThis species has the ability to increase the habitability of any planet they find themselves on.§!"
- 
+
  trait_v_adv_infertilising:0 "Infertilizing"
  trait_v_adv_infertilising_desc:0 "§LThis species is detrimental to the environment of any world they find themselves on.§!"
- 
+
  trait_v_adv_allelopathy:0 "Allelopathy"
  trait_v_adv_allelopathy_desc:0 "§LThis species has developed a set of chemical defense mechanisms against predators. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns.§!"
 
