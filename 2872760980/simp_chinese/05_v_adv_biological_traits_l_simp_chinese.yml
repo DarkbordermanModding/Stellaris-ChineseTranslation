@@ -1,43 +1,43 @@
 ﻿l_simp_chinese:
 
  trait_v_adv_social_parasite:0 "社会寄生虫"
- trait_v_adv_social_parasite_desc:0 "§L该物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
+ trait_v_adv_social_parasite_desc:0 "§L这个物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
 
- trait_v_adv_brood_parasite:0 "Brood Parasite"
- trait_v_adv_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
+ trait_v_adv_brood_parasite:0 "育雏寄生虫"
+ trait_v_adv_brood_parasite_desc:0 "§L这个物种不会育儿，而是藉由其他物种帮其育儿。§!"
 
  ###############################################################################################################################################################################################################
 
- trait_v_adv_fertilising:0 "Fertilizing"
- trait_v_adv_fertilising_desc:0 "§LThis species has the ability to increase the habitability of any planet they find themselves on.§!"
+ trait_v_adv_fertilising:0 "肥沃化"
+ trait_v_adv_fertilising_desc:0 "§L这个物种能够提高居住行星的宜居性。§!"
 
- trait_v_adv_infertilising:0 "Infertilizing"
- trait_v_adv_infertilising_desc:0 "§LThis species is detrimental to the environment of any world they find themselves on.§!"
+ trait_v_adv_infertilising:0 "沙漠化"
+ trait_v_adv_infertilising_desc:0 "§L这个物种会伤害居住行星的宜居性。§!"
 
- trait_v_adv_allelopathy:0 "Allelopathy"
- trait_v_adv_allelopathy_desc:0 "§LThis species has developed a set of chemical defense mechanisms against predators. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns.§!"
+ trait_v_adv_allelopathy:0 "相克作用"
+ trait_v_adv_allelopathy_desc:0 "§L这个物种演化出了一套化学防御机制来对抗捕食者。虽然它们对自己的毒素免疫，但其他物种会遭受化学灼伤。§!"
 
- trait_v_adv_nectaries:0 "Nectaries"
- trait_v_adv_nectaries_desc:0 "§LThis species produces a sweet nectar to attract pollinators. Thanks to this they can increase their numbers faster.§!"
+ trait_v_adv_nectaries:0 "花蜜"
+ trait_v_adv_nectaries_desc:0 "§L这个物种会产生花蜜来吸引传粉媒介，因此他们可以繁衍地更快。§!"
 
- trait_v_adv_kairomones:0 "Kairomones"
- trait_v_adv_kairomones_desc:0 "§LThis species releases special signal chemicals that tend to attract animals when damaged. These signal chemicals attract predators of whatever species might have damaged them.§!"
+ trait_v_adv_kairomones:0 "诱导激素"
+ trait_v_adv_kairomones_desc:0 "§L这个物种受伤时能够释放出特殊的化学物质，这些物质能够吸引伤害它们的掠食者。§!"
 
- trait_v_adv_pest_sensitive:0 "Pest Sensitive"
- trait_v_adv_pest_sensitive_desc:0 "§LThis species is uniquely plagued by a number of pests. Being in proximity to large, uncontrolled swathes of territory can lead to them being extra prone to infestation.§!"
+ trait_v_adv_pest_sensitive:0 "害虫敏感"
+ trait_v_adv_pest_sensitive_desc:0 "§L这个物种受到许多害虫的困扰，未整理过的领地使它们更容易受到侵扰。§!"
 
- trait_v_adv_mycorrhizal:0 "Mycorrhizal"
- trait_v_adv_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
- 
+ trait_v_adv_mycorrhizal:0 "菌根"
+ trait_v_adv_mycorrhizal_desc:0 "§L这个物种发展出了菌根，为它们的发育提供了其他营养。§!"
+
  trait_v_adv_hyphae_network:0 "Hyphae Network"
  trait_v_adv_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
- 
+
  trait_v_adv_rhizobial:0 "Rhizobial"
  trait_v_adv_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen binding bacteria that help to make the soil more fertile.§!"
- 
+
  trait_v_adv_rooted:0 "扎根"
  trait_v_adv_rooted_desc:0 "§L这个物种物理上无法从居住地分离。它们的根部深入星球，使其不可能搬迁。§!"
- 
+
  trait_v_adv_ecotypic_a:0 "Alpha Ecotypic"
  trait_v_adv_ecotypic_a_desc:0 "§LThis species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression.§!"
  trait_v_adv_ecotypic_b:0 "Beta Ecotypic"
@@ -45,10 +45,10 @@
 
  trait_v_adv_spores:0 "Spores"
  trait_v_adv_spores_desc:0 "§LThis species releases large amounts of spores on death.§!"
- 
+
  trait_v_adv_pseudocopulative:0 "Pseudocopulative"
  trait_v_adv_pseudocopulative_desc:0 "§LThis species has evolved to mimic other species. This Mimicry has taken the form of tricking other species into copulation.§!"
- 
+
  ###############################################################################################################################################################################################################
 
  trait_v_adv_flying:0 "Flying"
@@ -56,10 +56,10 @@
 
  trait_v_adv_aeroplankton:0 "Aeroplankton"
  trait_v_adv_aeroplankton_desc:0 "§LThis species is known to move throughout the air in a less controlled fashion. Planets that have lower gravity or a denser atmosphere are preferable, due to a better ability to spread their offspring.§!"
- 
+
  trait_v_adv_double_respiration:0 "Double Respiration"
  trait_v_adv_double_respiration_desc:0 "§LThis species has evolved a highly efficient respiration system. Unfortunately, this makes the species more susceptible to air pollution.§!"
- 
+
  trait_v_adv_metalic_exoskeleton:0 "Metallic Exoskeleton"
  trait_v_adv_metalic_exoskeleton_desc:0 "§LThis species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill.§!"
 
@@ -68,13 +68,13 @@
 
  trait_v_adv_ectotherm:0 "Ectotherm"
  trait_v_adv_ectotherm_desc:0 "§LThis species is ectothermic and relies on environmental sources of heat instead of internal ones. Thanks to this, species needs less food to survive and have a higher life expectancy.§!"
- 
+
  trait_v_adv_fac_endotherm:0 "Facultative Endotherm"
  trait_v_adv_fac_endotherm_desc:0 "§LThis species is capable of facultative endothermy and is capable of using external heat sources, as well as creating their own heat.§!"
- 
+
  trait_v_adv_interceptor:0 "Natural Interceptor"
  trait_v_adv_interceptor_desc:0 "§LThis species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
- 
+
  trait_v_adv_fossorial:0 "Fossorial"
  trait_v_adv_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
 
@@ -83,16 +83,16 @@
 
  trait_v_adv_active_camouflage:0 "Camouflage"
  trait_v_adv_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
- 
+
  trait_v_adv_locust:0 "Locusts"
  trait_v_adv_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
- 
+
  trait_v_adv_repletes:0 "Repletes"
  trait_v_adv_repletes_desc:0 "§LCertain members of this species are able to function as repletes, and are able to function as resource storage.§!"
- 
+
  trait_v_adv_explosive_autothysis:0 "Explosive Autothysis"
  trait_v_adv_explosive_autothysis_desc:0 "§LThis species has developed a form of altruistic suicide, that ends up with an individual of this species exploding with significant force.§!"
- 
+
  trait_v_adv_mayfly:0 "Mayfly"
  trait_v_adv_mayfly_desc:0 "§LThis species is extremely short-lived for a sentient race. In return, they learn really fast.§!"
 
@@ -122,10 +122,10 @@
 
  trait_v_adv_electrogenesis:0 "Electrogenesis"
  trait_v_adv_electrogenesis_desc:0 "§LThis species developed a set of electric organs for defense and offense. Currently, they still use that ability for its intended purpose but also donating that power.§!"
- 
+
  trait_v_adv_plague:0 "Plagued"
  trait_v_adv_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
- 
+
  #trait_v_adv_urban_adaptation:0 "Urban Adaptation"
  #trait_v_adv_urban_adaptation_desc:0 "§LDespite not having evolved in a city, this species is excellently adapted to the urban environment.§!"
 
@@ -152,7 +152,7 @@
 
  trait_v_adv_engrams:0 "Biochemical Engrams"
  trait_v_adv_engrams_desc:0 "§LThis species is able to store memories in their genetic code and other forms of biochemical information storage. Over the years, it has been common for the younger generations to consume their elders to gain access to those memories.§!"
- 
+
  trait_v_adv_cecotrophy:0 "Cecotrophy"
  trait_v_adv_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
 

@@ -1,20 +1,20 @@
 ﻿l_simp_chinese:
 
  trait_v_social_parasite:0 "社会寄生虫"
- trait_v_social_parasite_desc:0 "§L该物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
+ trait_v_social_parasite_desc:0 "§L这个物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
  TRAIT_SOCIAL_PARASITE_EFFECT:0 "无法从事§Y劳工§!岗位"
 
  trait_v_brood_parasite:0 "育雏寄生虫"
- trait_v_brood_parasite_desc:0 "§L这个物种不太重视育儿，更倾向于寄生在其他物种的善意上。§!"
+ trait_v_brood_parasite_desc:0 "§L这个物种不会育儿，而是藉由其他物种帮其育儿。§!"
  TRAIT_BROOD_PARASITE_EFFECT:0 "每个无§H育雏寄生虫§!特质人口人口成长: §G+3%§! \n每个§H育雏寄生虫§!特质人口人口成长: §R-1%§!"
 
  ###############################################################################################################################################################################################################
 
- trait_v_fertilising:0 "施肥"
+ trait_v_fertilising:0 "肥沃化"
  trait_v_fertilising_desc:0 "§L这个物种能够提高居住行星的宜居性。§!"
  TRAIT_FERTILISING_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §G+1%§!"
 
- trait_v_infertilising:0 "荒化"
+ trait_v_infertilising:0 "沙漠化"
  trait_v_infertilising_desc:0 "§L这个物种会伤害居住行星的宜居性。§!"
  TRAIT_INFERTILISING_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-1%§!"
 
