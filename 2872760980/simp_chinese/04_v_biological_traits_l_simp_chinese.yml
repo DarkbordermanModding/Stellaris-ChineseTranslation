@@ -75,18 +75,18 @@
  v_spore_raider_army_desc:0 "由突袭者和劫匪组成的部队，反抗星球的统治者。"
 
  trait_v_pseudocopulative:0 "拟态交配"
- trait_v_pseudocopulative_desc:0 "§L这个物种演化出模仿其他物种的能力，这种拟态的形式能够欺骗其他物种与其进行交配。§!"
+ trait_v_pseudocopulative_desc:0 "§L这个物种演化出模仿其他物种的能力，能够欺骗其他物种与其进行交配。§!"
  TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "从事£job_entertainer£§Y演艺人员§!岗位时人口成长速度: §G+2%§! \n每个无§H拟态交配§!特质人口成长速度: §G+1%§!"
 
  trait_v_flying:0 "飞行"
- trait_v_flying_desc:0 "§L这个物种能够飞行。这个物种的迁移是快速，容易和自然的。§!"
+ trait_v_flying_desc:0 "§L这个物种能够飞行。迁移对他们来说快速和容易。§!"
 
  trait_v_aeroplankton:0 "空中浮游"
- trait_v_aeroplankton_desc:0 "§L这个物种以不受控制的方式在整个空气中移动，因此具有较低重力或大气浓度较高的行星能更好地传播其后代。§!"
+ trait_v_aeroplankton_desc:0 "§L这个物种以悬浮的方式在整个空气中移动，因此低重力或大气浓度高的行星能更好地传播其后代。§!"
  TRAIT_AEROPLANKTON_EFFECT:0 "人口成长速度每£planetsize£§Y行星规模§!與£planetsize£§Y18§!差值: §G+5%§!"
 
  trait_v_double_respiration:0 "双呼吸系统"
- trait_v_double_respiration_desc:0 "§L这个物种演化出了非常高效的呼吸系统，但也使得这个物种更容易受到空气污染的影响。§!"
+ trait_v_double_respiration_desc:0 "§L这个物种演化出了非常高效的呼吸系统，但也更容易受到空气污染的影响。§!"
  TRAIT_DOUBLE_RESPIRATION_EFFECT:0 "每§Y住房§!或§Y工业§!区划物种宜居性上限: §R-4%§! \n每个天然障碍区划物种宜居性上限: §G+2%§! \n具§H都市适应§!特质能使惩罚减半。"
 
  trait_v_metalic_exoskeleton:0 "金属外骨骼"
@@ -98,11 +98,11 @@
  TRAIT_FIRE_SPEWING_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §G+20%§!"
 
  trait_v_ectotherm:0 "变温"
- trait_v_ectotherm_desc:0 "§L这个物种是变温动物，依赖于环境的热源而非自体发热。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
+ trait_v_ectotherm_desc:0 "§L这个物种依赖于环境的热源而非自体发热。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
  TRAIT_COLD_ECTOTHERM_EFFECT:0 "在§Y寒冷气候§!及§Y死寂星球§!宜居性: §R-20%§!"
 
  trait_v_fac_endotherm:0 "选择性恒温"
- trait_v_fac_endotherm_desc:0 "§L这个物种是选择性恒温动物，能够在自体发热与环境热源间做切换。§!"
+ trait_v_fac_endotherm_desc:0 "§L这个物种能够在自体发热与环境热源间做切换。§!"
  TRAIT_COLD_FAC_ENDOTHERM_EFFECT:0 "在§Y干燥气候§!及§Y潮湿气候§!星球人口食物维护费: §G-25%§!"
 
  trait_v_interceptor:0 "天生拦截者"
