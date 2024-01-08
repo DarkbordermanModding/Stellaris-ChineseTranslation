@@ -18,6 +18,9 @@
  trait_rapid_breeders_assimilation:0 "快速繁殖同化"
  trait_traditional_assimilation:0 "传统同化"
  trait_conservational_assimilation:0 "保守主义同化"
+ trait_incubator_assimilation:0 "Incubators Assimilation"
+ trait_humanoid_existential_iteroparity_assimilation:0 "Existential Iteroparity Assimilation"
+
  trait_docile_assimilation:0 "温顺同化"
  trait_communal_assimilation:0 "合群同化"
  trait_v_precise_assimilation:0 "精确同化"

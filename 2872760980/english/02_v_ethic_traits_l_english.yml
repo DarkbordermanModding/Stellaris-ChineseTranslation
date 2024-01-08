@@ -20,6 +20,10 @@
  trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
  TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "Happiness if a different species is present: §R-10%§!"
 
+ trait_v_biophobia:0 "Biophobia"
+ trait_v_biophobia_desc:0 "§LThis species is afraid of the great outdoors. Killing something with fire is standard procedure for this species.§!"
+ TRAIT_BIOPHOBIA_EFFECT:0 "Xenophobe Ethics Attraction for every Naturally Occurring Blocker: §G+5%§! \nHappiness for every Naturally Occurring Blocker: §R-2.5%§!"
+
  trait_v_homely:0 "Homely"
  trait_v_homely_desc:0 "§LThis species isn't the most functional of them all. It has a lot of problems that make their lives difficult. But for some reason or another, other species find them charming.§!"
  TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases Xenophile Ethics Attraction by: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
@@ -27,6 +31,10 @@
  trait_v_ecological_naivete:0 "Ecological Naïveté"
  trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
  TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Happiness if a different species is present: §G+10%§!"
+
+ trait_v_biophilia:0 "Biophilia"
+ trait_v_biophilia_desc:0 "§LThis species is being drawn to the great outdoors.§!"
+ TRAIT_BIOPHILIA_EFFECT:0 "£society£ Society Research for every Naturally Occurring Blocker: §G+2.5%§! \nXenophile Ethics Attraction for every Naturally Occurring Blocker: §G+5%§! \nHappiness for every Naturally Occurring Blocker: §G+2.5%§!"
 
  trait_v_belligerent:0 "Belligerent"
  trait_v_belligerent_desc:0 "§LWar is the way of this species. Members of this species will do their part.§!"

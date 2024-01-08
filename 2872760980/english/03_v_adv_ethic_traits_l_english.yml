@@ -15,11 +15,17 @@
  trait_v_robot_ecological_cynicism:0 "Distrustful Programming"
  trait_v_robot_ecological_cynicism_desc:0 "§LThese machines are extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
 
+ trait_v_robot_biophobia:0 "Biophobic Programming"
+ trait_v_robot_biophobia_desc:0 "§LThese machines are avoidant to most forms of life.§!"
+
  trait_v_robot_homely:0 "Clanky Design"
  trait_v_robot_homely_desc:0 "§LThese machines weren't designed with a lot of functionality in mind, but no one can deny their unique clanky charm.§!"
 
  trait_v_robot_ecological_naivete:0 "Naïve Programming"
  trait_v_robot_ecological_naivete_desc:0 "§LTese machines have no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
+
+ trait_v_robot_biophilia:0 "Biophilic Programming"
+ trait_v_robot_biophilia_desc:0 "§LThese machines are attracted to most forms of life.§!"
 
  trait_v_robot_belligerent:0 "Patriot Protocols"
  trait_v_robot_belligerent_desc:0 "§LIn the case of conflict, these machines are capable of working beyond what could be considered their normal capabilities.§!"

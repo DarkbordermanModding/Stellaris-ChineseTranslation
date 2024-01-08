@@ -15,11 +15,17 @@
  trait_v_robot_ecological_cynicism:0 "排外编程"
  trait_v_robot_ecological_cynicism_desc:0 "§L这些机器对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。§!"
 
+ trait_v_robot_biophobia:0 "Biophobic Programming"
+ trait_v_robot_biophobia_desc:0 "§LThese machines are avoidant to most forms of life.§!"
+
  trait_v_robot_homely:0 "吵雜設計"
  trait_v_robot_homely_desc:0 "§L这些机器的设计并没有考虑到很多功能，但是没有人能否认其独特的吵杂声。§!"
 
  trait_v_robot_ecological_naivete:0 "亲外编程"
  trait_v_robot_ecological_naivete_desc:0 "§L这些机器没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
+
+ trait_v_robot_biophilia:0 "Biophilic Programming"
+ trait_v_robot_biophilia_desc:0 "§LThese machines are attracted to most forms of life.§!"
 
  trait_v_robot_belligerent:0 "爱国者协议"
  trait_v_robot_belligerent_desc:0 "§L这些机器在发生冲突的情况下，能够超越其正常能力的工作量。§!"

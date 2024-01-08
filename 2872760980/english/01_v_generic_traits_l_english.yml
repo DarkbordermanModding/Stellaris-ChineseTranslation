@@ -18,6 +18,9 @@
  trait_rapid_breeders_assimilation:0 "Rapid Breeders Assimilation"
  trait_traditional_assimilation:0 "Traditional Assimilation"
  trait_conservational_assimilation:0 "Conservationist Assimilation"
+ trait_incubator_assimilation:0 "Incubators Assimilation"
+ trait_humanoid_existential_iteroparity_assimilation:0 "Existential Iteroparity Assimilation"
+
  trait_docile_assimilation:0 "Docile Assimilation"
  trait_communal_assimilation:0 "Communal Assimilation"
  trait_v_precise_assimilation:0 "Precise Assimilation"

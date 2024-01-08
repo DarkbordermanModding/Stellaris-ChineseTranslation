@@ -76,3 +76,11 @@
  trait_v_machine_batteries:0 "Batteries"
  trait_v_machine_batteries_desc:0 "§LThese machines are equipped with a set of batteries that can hold great amounts of energy, it is possible to keep extra power for later use.§!"
  TRAIT_MACHINE_BATTERIES_EFFECT:0 "Each pop working as a £job_technician£ §YTechnician§! increases the £mod_resource_energy_mult£ §YEnergy Storage Capacity§! by: §G+100§!"
+
+ trait_v_clockwork_machine:0 "Clockworks"
+ trait_v_clockwork_machine_desc:0 "§LThese machines are designed with a large amount of moving parts, making them an interesting walking work of art. Unfortunately, they are high maintenance and easily break due to said amount of moving parts.§!"
+ TRAIT_MACHINE_CLOCKWORK_EFFECT:0 "Cannot be employed in §YWorker§! Jobs"
+
+ trait_v_wildlife_susceptible:0 "Wildlife Susceptibility"
+ trait_v_wildlife_susceptible_desc:0 "§LThese machines are not designed to deal with curious or aggressive wildlife. Their design features many openings through which an animal could enter and deal some damage from within by either building a nest there or chewing through some wires.§!"
+ TRAIT_WILDLIFE_SUCEPTIBLE_EFFECT:0 "Pop Amenities Usage for every Naturally Occurring Blocker: §R+10%§! \nResources from £job£ Jobs for every Naturally Occurring Blocker: §R-5%§!"

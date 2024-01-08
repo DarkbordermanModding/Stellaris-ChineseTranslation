@@ -83,6 +83,9 @@
 
  trait_v_adv_active_camouflage:0 "Camouflage"
  trait_v_adv_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
+
+ trait_v_adv_self_decoration:0 "Self Decoration"
+ trait_v_adv_self_decoration_desc:0 "§LThis species uses natural objects to create a camouflage for itself.§!"
  
  trait_v_adv_locust:0 "Locusts"
  trait_v_adv_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
@@ -233,6 +236,9 @@
 
  trait_v_adv_courtship_displays:0 "Courtship Displays"
  trait_v_adv_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
+
+ trait_v_adv_magpie:0 "Magpies"
+ trait_v_adv_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
 
  ################################################################################################################################
 

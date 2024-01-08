@@ -92,3 +92,7 @@ l_english:
 
  trait_v_cyborg_batteries:0 "Batteries"
  trait_v_cyborg_batteries_desc:0 "By equipping cybernetics with a set of batteries that can hold great amounts of energy, it is possible to keep extra power for later use."
+
+ trait_v_clockpunk:0 "Clockpunk"
+ trait_v_clockpunk_desc:0 "By using a combination of traditional cybernetics and clockworks, this species has embraced the unusual designs of clockpunk. Why they did this is a mystery to all of us."
+ TRAIT_CYBORG_CLOCKWORK_EFFECT:0 "$TRAIT_MACHINE_CLOCKWORK_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"

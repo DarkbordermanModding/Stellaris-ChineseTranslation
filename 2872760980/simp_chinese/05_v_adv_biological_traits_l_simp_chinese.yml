@@ -84,6 +84,9 @@
  trait_v_adv_active_camouflage:0 "匿踪"
  trait_v_adv_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
 
+ trait_v_adv_self_decoration:0 "Self Decoration"
+ trait_v_adv_self_decoration_desc:0 "§LThis species uses natural objects to create a camouflage for itself.§!"
+
  trait_v_adv_locust:0 "莲花绽放"
  trait_v_adv_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
 
@@ -233,6 +236,9 @@
 
  trait_v_adv_courtship_displays:0 "求偶展示"
  trait_v_adv_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
+
+ trait_v_adv_magpie:0 "Magpies"
+ trait_v_adv_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
 
  ################################################################################################################################
 

@@ -3,8 +3,8 @@ l_english:
 
  trait_v_overtuned_digestion:0 "Hyper Digestive"
  trait_v_overtuned_digestion_desc:0 "By increasing the activity of the digestive enzymes and increasing the diversity of the microbiome, this species is capable of digesting almost everything. Just make sure the enzymes or microorganisms don't leave the digestive tract and get where they shouldn't."
- trait_v_overtuned_digestion_tooltip:0 "$mod_planet_pops_organics_food_upkeep_mult$: §G-10§!"
+ trait_v_overtuned_digestion_tooltip:0 "$mod_planet_pops_organics_food_upkeep_mult$: §G-10%§!"
 
  trait_v_overtuned_digestion_l:0 "Hyper Digestive"
  trait_v_overtuned_digestion_l_desc:0 "By increasing the activity of the digestive enzymes and increasing the diversity of the microbiome, this species is capable of digesting almost everything. Just make sure the enzymes or microorganisms don't leave the digestive tract and get where they shouldn't."
- trait_v_overtuned_digestion_l_tooltip:0 "$mod_planet_pops_organics_minerals_upkeep_mult$: §G-10§!"
+ trait_v_overtuned_digestion_l_tooltip:0 "$mod_planet_pops_organics_minerals_upkeep_mult$: §G-10%§!"

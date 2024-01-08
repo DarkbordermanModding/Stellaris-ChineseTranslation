@@ -8,6 +8,7 @@
 
  mod_planet_entertainers_society_research_produces_add:0 "£job_entertainer£演艺人员£society_research£社会学产出"
  mod_planet_entertainers_physics_research_produces_add:0 "£job_entertainer£演艺人员£physics_research£物理学产出"
+ mod_planet_entertainers_engineering_research_produces_add:0 "£engineering_research£ Physics Research from £job_entertainer£ Entertainers"
 
  mod_planet_livestock_produces_mult:0 "牲口资源产出"
  mod_country_resource_max_energy_add:0 "能量币储存上限"

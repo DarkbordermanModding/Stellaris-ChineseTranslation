@@ -111,7 +111,7 @@
 
  trait_v_fossorial:0 "Fossorial"
  trait_v_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
- TRAIT_FOSSORIAL_EFFECT:0 "Species Minimum Habitability per Mining District: §G+4%§!"
+ TRAIT_FOSSORIAL_EFFECT:0 "Gain 1 £district£ §YMining District§! per 10 pops with §HFossorial§! on Non-Ecumenopolis and Non-Artificial Worlds \nSpecies Minimum Habitability per Mining District: §G+4%§!"
 
  trait_v_foragial_limbs:0 "Foragial Limbs"
  trait_v_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
@@ -119,6 +119,10 @@
  trait_v_active_camouflage:0 "Camouflage"
  trait_v_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
  TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs: §G-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§! \n§GPops can't be abducted.§!"
+
+ trait_v_self_decoration:0 "Self Decoration"
+ trait_v_self_decoration_desc:0 "§LThis species uses natural objects to create a camouflage for itself.§!"
+ TRAIT_SELF_DECORATION_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs for every Naturally Occurring Blocker: §G-1§! \nCrime Increase From £job_criminal£ §YCriminals§! for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
  
  trait_v_locust:0 "Locusts"
  trait_v_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
@@ -355,6 +359,10 @@
  trait_v_courtship_displays:0 "Courtship Displays"
  trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
  TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness when a pop of this species is Growing: §G+5%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§! \n£society£ Society Research from £job_entertainer£ Entertainers when a pop of this species is Growing: §G+1§! \n£unity£ Unity from £job_entertainer£ Entertainers when a pop of this species is Growing: §G+1§!"
+
+ trait_v_magpie:0 "Magpies"
+ trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
+ TRAIT_MAGPIE_EFFECT:0 "Pop Growth Speed per system £trade_value£ §YTrade Value§!: §G+0.25%§! (max: §G+100%§!)"
 
  ###############################################################################################################################################################################################################
 

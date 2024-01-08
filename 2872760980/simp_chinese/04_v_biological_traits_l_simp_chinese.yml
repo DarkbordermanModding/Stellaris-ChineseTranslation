@@ -111,7 +111,7 @@
 
  trait_v_fossorial:0 "穴居"
  trait_v_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
- TRAIT_FOSSORIAL_EFFECT:0 "每个采矿区划物种宜居性下限: §G+4%§!"
+ TRAIT_FOSSORIAL_EFFECT:0 "Gain 1 £district£ §YMining District§! per 10 pops with §HFossorial§! on Non-Ecumenopolis and Non-Artificial Worlds \nSpecies Minimum Habitability per Mining District: §G+4%§!"
 
  trait_v_foragial_limbs:0 "搜索肢"
  trait_v_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
@@ -119,6 +119,10 @@
  trait_v_active_camouflage:0 "匿踪"
  trait_v_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
  TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "£job_enforcer£§Y执法者§!岗位犯罪度降低: §G-5§! \n£job_criminal£§Y罪犯§!岗位犯罪度: §R+5§! \n§G人口无法被掠袭。§!"
+
+ trait_v_self_decoration:0 "Self Decoration"
+ trait_v_self_decoration_desc:0 "§LThis species uses natural objects to create a camouflage for itself.§!"
+ TRAIT_SELF_DECORATION_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs for every Naturally Occurring Blocker: §G-1§! \nCrime Increase From £job_criminal£ §YCriminals§! for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
 
  trait_v_locust:0 "莲花绽放"
  trait_v_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
@@ -355,6 +359,10 @@
  trait_v_courtship_displays:0 "求偶展示"
  trait_v_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
  TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "物种增长时幸福度: §G+5%§! \n物种增长时£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+25§! \n物种增长时£job_entertainer£演艺人员£society£社会学产出: §G+1§! \n物种增长时£job_entertainer£演艺人员£unity£凝聚力产出: §G+1§!"
+
+ trait_v_magpie:0 "Magpies"
+ trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
+ TRAIT_MAGPIE_EFFECT:0 "Pop Growth Speed per system £trade_value£ §YTrade Value§!: §G+0.25%§! (max: §G+100%§!)"
 
  ###############################################################################################################################################################################################################
 
