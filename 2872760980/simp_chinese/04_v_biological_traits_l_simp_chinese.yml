@@ -106,7 +106,7 @@
  TRAIT_COLD_FAC_ENDOTHERM_EFFECT:0 "在§Y干燥气候§!及§Y潮湿气候§!星球人口食物维护费: §G-25%§!"
 
  trait_v_interceptor:0 "天生拦截者"
- trait_v_interceptor_desc:0 "§L这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指§!"
+ trait_v_interceptor_desc:0 "§L这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指。§!"
  TRAIT_INTERCEPTOR_EFFECT:0 "§Y舰队司令§!会带有['concept_v_leader_interceptor']特质 \n§Y科学家§!会带有['concept_v_leader_evader']特质"
 
  trait_v_fossorial:0 "穴居"
@@ -147,8 +147,8 @@
  trait_v_ghoulish_desc:0 "§L这个物种因生理特征令其他物种不安，而不擅长社交。§!"
  TRAIT_GHOULISH_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+0.5§!"
 
- trait_v_pearl_makers:0 "珍珠制作"
- trait_v_pearl_makers_desc:0 "§L这个物种能够制造可以卖钱的珍珠。§!"
+ trait_v_pearl_makers:0 "珍珠生成"
+ trait_v_pearl_makers_desc:0 "§L这个物种能够制造有觀賞價值的珍珠。§!"
  TRAIT_PEARL_MAKERS_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 1 £trade_value£§Y贸易额§!"
 
  trait_v_nacre_shell:0 "珍珠质甲壳"

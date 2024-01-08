@@ -72,50 +72,50 @@
  trait_v_adv_fac_endotherm:0 "选择性恒温"
  trait_v_adv_fac_endotherm_desc:0 "§L这个物种能够在自体发热与环境热源间做切换。§!"
 
- trait_v_adv_interceptor:0 "Natural Interceptor"
- trait_v_adv_interceptor_desc:0 "§LThis species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
+ trait_v_adv_interceptor:0 "天生拦截者"
+ trait_v_adv_interceptor_desc:0 "§L这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指。§!"
 
- trait_v_adv_fossorial:0 "Fossorial"
- trait_v_adv_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
+ trait_v_adv_fossorial:0 "穴居"
+ trait_v_adv_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
 
- trait_v_adv_foragial_limbs:0 "Foragial Limbs"
- trait_v_adv_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
+ trait_v_adv_foragial_limbs:0 "搜索肢"
+ trait_v_adv_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
 
- trait_v_adv_active_camouflage:0 "Camouflage"
- trait_v_adv_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
+ trait_v_adv_active_camouflage:0 "匿踪"
+ trait_v_adv_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
 
- trait_v_adv_locust:0 "Locusts"
- trait_v_adv_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
+ trait_v_adv_locust:0 "莲花绽放"
+ trait_v_adv_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
 
- trait_v_adv_repletes:0 "Repletes"
- trait_v_adv_repletes_desc:0 "§LCertain members of this species are able to function as repletes, and are able to function as resource storage.§!"
+ trait_v_adv_repletes:0 "充实工蜂"
+ trait_v_adv_repletes_desc:0 "§L这个物种的成员能够充当充实工蜂，作为资源储存。§!"
 
- trait_v_adv_explosive_autothysis:0 "Explosive Autothysis"
- trait_v_adv_explosive_autothysis_desc:0 "§LThis species has developed a form of altruistic suicide, that ends up with an individual of this species exploding with significant force.§!"
+ trait_v_adv_explosive_autothysis:0 "自杀爆炸"
+ trait_v_adv_explosive_autothysis_desc:0 "§L这个物种演化出一种自杀方式，能使个体以显着的力量爆炸。§!"
 
- trait_v_adv_mayfly:0 "Mayfly"
- trait_v_adv_mayfly_desc:0 "§LThis species is extremely short-lived for a sentient race. In return, they learn really fast.§!"
+ trait_v_adv_mayfly:0 "蜉蝣"
+ trait_v_adv_mayfly_desc:0 "§L这个物种的寿命非常短暂。作为补偿，它们学习速度非常快。§!"
 
- trait_v_adv_biological_immortality:0 "Biological Immortality"
- trait_v_adv_biological_immortality_desc:0 "§LThis species is seemingly immortal and is capable of eternal regeneration unless killed by a disease, predator or weapon.§!"
+ trait_v_adv_biological_immortality:0 "生理不朽"
+ trait_v_adv_biological_immortality_desc:0 "§L这个物种似乎是不朽的。除非被疾病，捕食者或武器杀死，否则这个物种会不断再生。§!"
 
- trait_v_adv_reanimation:0 "Reanimation"
- trait_v_adv_reanimation_desc:0 "§LThis species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state.§!"
+ trait_v_adv_reanimation:0 "复活"
+ trait_v_adv_reanimation_desc:0 "§L这个物种因战斗而死后能够复活，但是处于高度认知减退的状态。§!"
 
- trait_v_adv_ghoulish:0 "Ghoulish"
- trait_v_adv_ghoulish_desc:0 "§LMembers of this species aren't very good at social interactions, as their behavior and physiology would be best described as unsettling, and when compared to other species, they seem to look sickly.§!"
+ trait_v_adv_ghoulish:0 "食尸鬼"
+ trait_v_adv_ghoulish_desc:0 "§L这个物种因生理特征令其他物种不安，而不擅长社交。§!"
 
- trait_v_adv_pearl_makers:0 "Pearl Makers"
- trait_v_adv_pearl_makers_desc:0 "§LThis species is capable of creating nacre and in consequence pearls that can be sold.§!"
+ trait_v_adv_pearl_makers:0 "珍珠生成"
+ trait_v_adv_pearl_makers_desc:0 "§L这个物种能够制造有觀賞價值的珍珠。§!"
 
- trait_v_adv_nacre_shell:0 "Nacre Shell"
- trait_v_adv_nacre_shell_desc:0 "§LThis species has a natural armor made from Nacre. Nacre is one of the most resilient organic substances in the known universe.§!"
+ trait_v_adv_nacre_shell:0 "珍珠质甲壳"
+ trait_v_adv_nacre_shell_desc:0 "§L该物种有由珍珠质制成的天然护甲，珍珠质是已知宇宙中最高强度的有机物质之一。§!"
 
- trait_v_adv_self_domesticated:0 "Self Domesticated"
- trait_v_adv_self_domesticated_desc:0 "§LThis species has lived in a society for such a long period of time, it has influenced their DNA. Members of this species tend to be much more docile than other species.§!"
+ trait_v_adv_self_domesticated:0 "自给自足"
+ trait_v_adv_self_domesticated_desc:0 "§L这个物种已经在社会中生活了长时间以至于影响了他们的本性，这个物种的成员比其他物种更温顺。§!"
 
- trait_v_adv_extremely_precise:0 "Extremely Precise"
- trait_v_adv_extremely_precise_desc:0 "§LBe that a more developed Cerebellum or a set of additional muscles under the skin, this species is capable of extremely precise movement.§!"
+ trait_v_adv_extremely_precise:0 "极度精确"
+ trait_v_adv_extremely_precise_desc:0 "§L这个物种在发展精良的小脑以及多组肌肉的辅助下能够做到极度精确的移动。§!"
 
  trait_v_adv_complex_digestive_system:0 "Complex Digestive System"
  trait_v_adv_complex_digestive_system_desc:0 "§LThe digestive system of this species is a masterwork of biochemistry. The complex digestive process is thanks to the advanced structure of the stomach and is aided by symbiotic microorganisms. Each calorie and each nutrient that can be gained from the food is gained.§!"
