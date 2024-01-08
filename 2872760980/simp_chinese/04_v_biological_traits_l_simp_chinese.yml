@@ -45,7 +45,7 @@
 
  trait_v_hyphae_network:0 "菌丝网络"
  trait_v_hyphae_network_desc:0 "§L这个物种通过复杂的菌丝网络与同类永久连接在一起。思想能够在个体之间迅速共享，从而推动文化和技术的巨大飞跃。§!"
- TRAIT_HYPHAE_NETWORK_EFFECT:0 "每个具§H菌丝网络§!或§H矿脉网络§!特质的人口£job£§Y岗位! £engineering£ £physics£ £society£研究及£unity£凝聚力产出: §G+0.5%§!"
+ TRAIT_HYPHAE_NETWORK_EFFECT:0 "每个具§H菌丝网络§!或§H矿脉网络§!特质的人口£job£§Y岗位§! £engineering£ £physics£ £society£研究及£unity£凝聚力产出: §G+0.5%§!"
 
  trait_v_rhizobial:0 "根瘤菌"
  trait_v_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
@@ -124,7 +124,7 @@
  trait_v_self_decoration_desc:0 "§LThis species uses natural objects to create a camouflage for itself.§!"
  TRAIT_SELF_DECORATION_EFFECT:0 "Crime Reduction From £job_enforcer£ §YEnforcer§! Jobs for every Naturally Occurring Blocker: §G-1§! \nCrime Increase From £job_criminal£ §YCriminals§! for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
 
- trait_v_locust:0 "莲花绽放"
+ trait_v_locust:0 "人口爆發"
  trait_v_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
  TRAIT_LOCUST_EFFECT:0 "當人口為£planetsize£§Y行星规模§!2倍以上时，获得以下效果: \n人口增长速度: §G+100%§! \n人口食物维护费: §R+1§! \n每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y遷出吸引力§!: §Y+0.5§! \n\n为降低§R食物缺乏§!影响: \n當宜居性§Y0%§!以上时食物短缺不影响幸福度 \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-2%§! \n每个做为奴隶或更高工作标准的人口£food£§Y食物§!产出: §R-2%§! \n\n§H这些效果在§Y人工§!，§Y盖亚§!及§Y都市§!星球无效§!。§!"
 
