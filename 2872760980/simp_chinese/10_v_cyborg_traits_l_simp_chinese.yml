@@ -93,6 +93,6 @@ l_simp_chinese:
  trait_v_cyborg_batteries:0 "电池"
  trait_v_cyborg_batteries_desc:0 "配置可以容纳大量能量的电池，可以保留额外的能量供后续使用。"
 
- trait_v_clockpunk:0 "Clockpunk"
- trait_v_clockpunk_desc:0 "By using a combination of traditional cybernetics and clockworks, this species has embraced the unusual designs of clockpunk. Why they did this is a mystery to all of us."
- TRAIT_CYBORG_CLOCKWORK_EFFECT:0 "$TRAIT_MACHINE_CLOCKWORK_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ trait_v_clockpunk:0 "钟表庞克"
+ trait_v_clockpunk_desc:0 "藉由义体植入物和无数零件，这些义体人实现了钟表朋克的不寻常设计。为什么他们这样做对我们所有人来说都是一个谜。"
+ TRAIT_CYBORG_CLOCKWORK_EFFECT:0 "$TRAIT_MACHINE_CLOCKWORK_EFFECT$ \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
