@@ -20,9 +20,9 @@
  trait_v_ecological_cynicism_desc:0 "§L这个物种对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。§!"
  TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "有不同物种共存时幸福度: §R-10%§!"
 
- trait_v_biophobia:0 "Biophobia"
- trait_v_biophobia_desc:0 "§LThis species is afraid of the great outdoors. Killing something with fire is standard procedure for this species.§!"
- TRAIT_BIOPHOBIA_EFFECT:0 "Xenophobe Ethics Attraction for every Naturally Occurring Blocker: §G+5%§! \nHappiness for every Naturally Occurring Blocker: §R-2.5%§!"
+ trait_v_biophobia:0 "自然恐惧"
+ trait_v_biophobia_desc:0 "§L这个物种对大自然感到畏惧。用火杀死生物对于这个物种是标准程序。§!"
+ TRAIT_BIOPHOBIA_EFFECT:0 "每个天然障碍排外主义思潮吸引力: §G+5%§! \n每个天然障碍幸福度: §R-2.5%§!"
 
  trait_v_homely:0 "平凡"
  trait_v_homely_desc:0 "§L这个物种不是所有物种中最有用的，它有很多问题使他们的生活变得困难。但由于某种原因，其他物种觉得它们迷人。§!"
@@ -32,9 +32,9 @@
  trait_v_ecological_naivete_desc:0 "§L这个物种没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
  TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "有不同物种共存时幸福度: §G+10%§!"
 
- trait_v_biophilia:0 "Biophilia"
- trait_v_biophilia_desc:0 "§LThis species is being drawn to the great outdoors.§!"
- TRAIT_BIOPHILIA_EFFECT:0 "£society£ Society Research for every Naturally Occurring Blocker: §G+2.5%§! \nXenophile Ethics Attraction for every Naturally Occurring Blocker: §G+5%§! \nHappiness for every Naturally Occurring Blocker: §G+2.5%§!"
+ trait_v_biophilia:0 "自然爱好"
+ trait_v_biophilia_desc:0 "§L这个物种被自然之美吸引。§!"
+ TRAIT_BIOPHILIA_EFFECT:0 "每个天然障碍£society_research£社会学产出: §G+2.5%§! \n每个天然障碍亲外主义思潮吸引力: §G+5%§! \n每个天然障碍幸福度: §G+2.5%§!"
 
  trait_v_belligerent:0 "好战"
  trait_v_belligerent_desc:0 "§L战争是这个物种的生活日常，他们会在战争期间各司其职。§!"
