@@ -144,59 +144,59 @@
  trait_v_adv_webbing:0 "织网"
  trait_v_adv_webbing_desc:0 "§L这个物种能够生产类似丝绸的网，可以在各种情况下使用。它们是一个优秀的躲藏地，可以遮挡来自环境的各种元素和其他东西。§!"
 
- trait_v_adv_parthenocarpy:0 "Parthenocarpy"
- trait_v_adv_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized fruit that can be reused as a source of food.§!"
+ trait_v_adv_parthenocarpy:0 "无精卵"
+ trait_v_adv_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"
 
- trait_v_adv_blooming:0 "Blooming"
- trait_v_adv_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
+ trait_v_adv_blooming:0 "农业绽放"
+ trait_v_adv_blooming_desc:0 "§L这个物种以农业引起的绽放而闻名。虽然生长迅速，但这个物种会释放毒素到周围的环境中。§!"
 
  trait_v_adv_engrams:0 "生物记忆"
  trait_v_adv_engrams_desc:0 "§L这个物种能够将记忆以遗传密码或其他方式存储。多年来，下一代人普遍藉由遗传上一代获得这些记忆。§!"
 
- trait_v_adv_cecotrophy:0 "Cecotrophy"
- trait_v_adv_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
+ trait_v_adv_cecotrophy:0 "食粪"
+ trait_v_adv_cecotrophy_desc:0 "§L这个物种会藉由食粪获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
 
- trait_v_adv_silken_birth:0 "Silken Birth"
- trait_v_adv_silken_birth_desc:0 "§LThe byproduct of reproduction of this species is the creation of a silklike thread.§!"
+ trait_v_adv_silken_birth:0 "絲中誕生"
+ trait_v_adv_silken_birth_desc:0 "§L这个物种繁殖的副产品是产生类似丝绸的线。§!"
 
- trait_v_adv_polyembryony:0 "Polyembryony"
- trait_v_adv_polyembryony_desc:0 "§LThe reproductive process of this species can result in multiple embryos developing from a singular zygote.§!"
+ trait_v_adv_polyembryony:0 "多胚胎"
+ trait_v_adv_polyembryony_desc:0 "§L这个物种的繁殖过程可以使一个子个体发育出多个胚胎。§!"
 
- trait_v_adv_living_building:0 "Living Building Material"
- trait_v_adv_living_building_desc:0 "§LThis species produces a material that can be used in construction. It is cheap and self repairing, making it perfect for infrastructure projects.§!"
+ trait_v_adv_living_building:0 "活体建材"
+ trait_v_adv_living_building_desc:0 "§LL这个物种能夠产生一种建材。它便宜且具有自我修复功能，非常适合基础建设。§!"
 
- trait_v_adv_hills_have_eyes:0 "Hills Have Eyes"
- trait_v_adv_hills_have_eyes_desc:0 "§LThis species is connected to its planet in a peculiar way, it is able to sense enemies that land on the planet, essentially always knowing where the enemy is.§!"
+ trait_v_adv_hills_have_eyes:0 "山丘之眼"
+ trait_v_adv_hills_have_eyes_desc:0 "§L这个物种与其行星有一种独特的联系，它能够感知着陆在行星上敌人的位置。§!"
 
- trait_v_adv_guardians:0 "Guardians"
- trait_v_adv_guardians_desc:0 "§LCertain members of this species take the form of towering giants with the purpose of protecting their people.§!"
+ trait_v_adv_guardians:0 "守卫者"
+ trait_v_adv_guardians_desc:0 "§L这个物种的某些成员以巍峨的巨人形态存在，目的是保护他们的族群。§!"
 
- trait_v_adv_explosive_birth:0 "Explosive Birth"
- trait_v_adv_explosive_birth_desc:0 "§LBecause of a desire to spread its offspring as far as possible, this species does it through propelling their offspring with the use of explosive shrapnel-like seeds.§!"
+ trait_v_adv_explosive_birth:0 "诞生爆炸"
+ trait_v_adv_explosive_birth_desc:0 "§L由于希望尽可能远地散播后代，这个物种通过利用类似爆炸破片的种子来推动它们。§!"
 
- trait_v_adv_prenatal_fratricide:0 "Prenatal Fratricide"
- trait_v_adv_prenatal_fratricide_desc:0 "§LWhile many young may develop in the womb at the same time, only one will see the light of day.§!"
+ trait_v_adv_prenatal_fratricide:0 "产前天择"
+ trait_v_adv_prenatal_fratricide_desc:0 "§L这个物种虽然许多子个体同时在子宫中发育，但只有一个会迎接第一缕阳光。§!"
 
- trait_v_adv_thorns:0 "Thorns"
- trait_v_adv_thorns_desc:0 "§LThis species developed thorns for defensive purposes. Unfortunately, these thorns also affect other species.§!"
+ trait_v_adv_thorns:0 "棘刺"
+ trait_v_adv_thorns_desc:0 "§L这个物种发展出了带有防御目的的刺。不幸的是，这些刺也对其他物种产生影响。§!"
 
- trait_v_adv_grafting:0 "Grafting"
- trait_v_adv_grafting_desc:0 "§LThe physiology of this species allows for the grafting of parts belonging to other species without any major side effects.§!"
+ trait_v_adv_grafting:0 "嫁接"
+ trait_v_adv_grafting_desc:0 "§L这个物种的生理结构允许移植其他物种的器官部分，而几乎没有副作用。§!"
 
- trait_v_adv_ecosystem_engineer:0 "Ecosystem Engineer"
- trait_v_adv_ecosystem_engineer_desc:0 "§LThis species dabbles in the process of ecosystem engineering. Because of this, they are capable of altering the environment by creating new living spaces for themselves.§!"
+ trait_v_adv_ecosystem_engineer:0 "生态系工程师"
+ trait_v_adv_ecosystem_engineer_desc:0 "§L这个物种在生态系工程上略有建树，它们有能力通过为自己创造新的生活空间来改变环境。§!"
 
- trait_v_adv_musk:0 "Appeasement Displays"
- trait_v_adv_musk_desc:0 "§LThis species uses scents and displays to show submission to member of their species that stand higher in their society.§!"
+ trait_v_adv_musk:0 "顺从展示"
+ trait_v_adv_musk_desc:0 "§L这个物种使用气味来表示对社会地位更高的同类的顺从。§!"
 
- trait_v_adv_modular_organism:0 "Modular Organism"
- trait_v_adv_modular_organism_desc:0 "§LMembers of this species take the form of zooids. Colonies specialize in one of few functions to maximize the good of the whole species.§!"
+ trait_v_adv_modular_organism:0 "模块化生物"
+ trait_v_adv_modular_organism_desc:0 "§L这个物种具模块化的行为模式。群体中的个体专门从事少数几种功能以促进整个物种的利益。§!"
 
- trait_v_adv_fungus_farmer:0 "Leaf Cutter"
- trait_v_adv_fungus_farmer_desc:0 "§LThis species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi.§!"
+ trait_v_adv_fungus_farmer:0 "树叶收获"
+ trait_v_adv_fungus_farmer_desc:0 "§L这个物种能利用地下空间，填充一种基质，上面生长可食用的真菌。§!"
 
- trait_v_adv_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
- trait_v_adv_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
+ trait_v_adv_sensitive_chemoreceptors:0 "化学敏感受体"
+ trait_v_adv_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
 
  trait_v_adv_embryonic_diapause:0 "Delayed Implantation"
  trait_v_adv_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"

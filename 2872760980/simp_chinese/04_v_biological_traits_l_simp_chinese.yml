@@ -251,7 +251,7 @@
  TRAIT_EXPLOSIVE_BIRTH_EFFECT:0 "人口出生时造成§R10§!点破坏度。\n人口出生时有§R10%§!机率造成无§H诞生爆炸§!的人口死亡。"
 
  trait_v_prenatal_fratricide:0 "产前天择"
- trait_v_prenatal_fratricide_desc:0 "§L这个物种虽然许多幼体同时在子宫中发育，但只有一个会迎接第一缕阳光。§!"
+ trait_v_prenatal_fratricide_desc:0 "§L这个物种虽然许多子个体同时在子宫中发育，但只有一个会迎接第一缕阳光。§!"
  TRAIT_PRENATAL_FRATRICIDE_EFFECT:0 "§Y领袖§!起始等级§G+1§!"
 
  trait_v_thorns:0 "棘刺"
