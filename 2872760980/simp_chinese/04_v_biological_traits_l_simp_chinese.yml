@@ -328,7 +328,7 @@
  TRAIT_BIOLUMINESCENCE_EFFECT:0 "每个具发光特质£job_entertainer£§Y演艺人员§!岗位人口生长速度: §G+2%§! \n每个天然障碍对£job_farmer£§Y农夫§!£food£食物产出: §G+0.5§! (若具有织网特质则§G+0.25§!)"
 
  trait_v_rancher:0 "牧场主"
- trait_v_rancher_desc:0 "§L这个物种比起照料庄稼更擅长畜牧其他物种。§!"
+ trait_v_rancher_desc:0 "§L这个物种比起照料庄稼更擅长豢养其他物种。§!"
  TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位产生 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] 岗位。"
 
  OLD_TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位对£job_livestock£§Y牲口§!产出: §G+2.5%§!"

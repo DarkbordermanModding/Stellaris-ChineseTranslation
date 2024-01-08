@@ -198,41 +198,41 @@
  trait_v_adv_sensitive_chemoreceptors:0 "化学敏感受体"
  trait_v_adv_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
 
- trait_v_adv_embryonic_diapause:0 "Delayed Implantation"
- trait_v_adv_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
+ trait_v_adv_embryonic_diapause:0 "滞育"
+ trait_v_adv_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。§!"
 
- trait_v_adv_creature_of_paradise:0 "Creature Of Paradise"
- trait_v_adv_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
+ trait_v_adv_creature_of_paradise:0 "美若天仙"
+ trait_v_adv_creature_of_paradise_desc:0 "§L这个物种以其美丽而闻名，其美貌被形容为好像是从天上降临于凡间。§!"
 
- trait_v_adv_voice_box:0 "Voice Box"
- trait_v_adv_voice_box_desc:0 "§LThis species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams.§!"
+ trait_v_adv_voice_box:0 "音乐盒"
+ trait_v_adv_voice_box_desc:0 "§L这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。§!"
 
- trait_v_adv_weaver:0 "Weavers"
- trait_v_adv_weaver_desc:0 "§LThis species tends to use natural materials such as leaves to produce buildings and everyday items.§!"
+ trait_v_adv_weaver:0 "织工"
+ trait_v_adv_weaver_desc:0 "§L这个物种倾向于使用自然材料，比如树叶，来制作建筑和日常用品。§!"
 
- trait_v_adv_bioluminesce:0 "Bioluminesce"
- trait_v_adv_bioluminesce_desc:0 "§LThis species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out.§!"
+ trait_v_adv_bioluminesce:0 "发光"
+ trait_v_adv_bioluminesce_desc:0 "§L这个物种能够自行产生光。无论是作为诱饵还是展示行为，它都能使这个物种脱颖而出。§!"
 
- trait_v_adv_rancher:0 "Ranchers"
- trait_v_adv_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
+ trait_v_adv_rancher:0 "牧场主"
+ trait_v_adv_rancher_desc:0 "§L这个物种比起照料庄稼更擅长豢养其他物种。§!"
 
- trait_v_adv_aggregation:0 "Aggregation"
- trait_v_adv_aggregation_desc:0 "§LThis species tends to aggregate into large groups of individuals to save space and protect them from the elements.§!"
+ trait_v_adv_aggregation:0 "群聚"
+ trait_v_adv_aggregation_desc:0 "§L这个物种倾向于聚集成大型群体，以节省空间并保护它们免受环境的影响。§!"
 
- trait_v_adv_filter_feeder:0 "Filter Feeder"
- trait_v_adv_filter_feeder_desc:0 "§LThis species is adapted to filter food particles from the water.§!"
+ trait_v_adv_filter_feeder:0 "滤食"
+ trait_v_adv_filter_feeder_desc:0 "§L这个物种能够从水中过滤食物颗粒。§!"
 
- trait_v_adv_life_support:0 "Life Support"
- trait_v_adv_life_support_desc:0 "§LThis species is generally weak and suffers from many ailments, therefore it needs to be constantly hooked up to a set of life support systems to function normally. This separation from their environment, however, grants them the ability to function in most environments without major problems.§!"
+ trait_v_adv_life_support:0 "生命维持器"
+ trait_v_adv_life_support_desc:0 "§L这个物种比较脆弱，患有许多疾病，因此需要连接到一套生命维持器才能正常运作。然而，与环境的隔离使它们能够在大多数环境中生存良好。§!"
 
- trait_v_adv_pneumoconiosis:0 "Pneumoconiosis"
- trait_v_adv_pneumoconiosis_desc:0 "§LThis species has a tendency to develop pneumoconiosis, which makes breathing more difficult.§!"
+ trait_v_adv_pneumoconiosis:0 "硅肺病"
+ trait_v_adv_pneumoconiosis_desc:0 "§L这个物种患有硅肺病，使得呼吸变得更加困难。§!"
 
- trait_v_adv_polygynous:0 "Polygynous"
- trait_v_adv_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
+ trait_v_adv_polygynous:0 "多配偶"
+ trait_v_adv_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
 
- trait_v_adv_courtship_displays:0 "Courtship Displays"
- trait_v_adv_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
+ trait_v_adv_courtship_displays:0 "求偶展示"
+ trait_v_adv_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
 
  ################################################################################################################################
 
