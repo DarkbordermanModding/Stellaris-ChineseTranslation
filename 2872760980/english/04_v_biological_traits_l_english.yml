@@ -368,10 +368,6 @@
  trait_v_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
  TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness to pops without Courtship Displays when a pop of this species is Growing: §R-10%§! \n£mod_planet_emigration_push_add£ §YEmigration Push§! when a pop of this species is Growing: §Y+25§!"
 
- trait_v_corner_cutting:0 "Corner Cutting"
- trait_v_corner_cutting_desc:0 "§LThese machines are build very fast. Unfortunately, their quality... is debatable.§!"
- TRAIT_CORNER_CUTTING_EFFECT:0 "Mechanical Pop Assembly Speed for each negative trait selected: §G+5%§!"
-
  ###############################################################################################################################################################################################################
 
  trait_v_kleptoplasty:0 "Kleptoplasty"

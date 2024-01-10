@@ -83,3 +83,7 @@
  trait_v_wildlife_susceptible:0 "野生动物感知"
  trait_v_wildlife_susceptible_desc:0 "§L这些机器并非设计用于应对好奇或具有攻击性的野生动物。它们的设计具有许多开口，动物可以通过这些开口进入并从内部造成损坏，无论是筑巢还是啃咬电线。§!"
  TRAIT_WILDLIFE_SUCEPTIBLE_EFFECT:0 "每个天然障碍对人口舒适度使用: §R+10%§! \n每个天然障碍对£job£岗位产出: §R-5%§!"
+
+ trait_v_corner_cutting:0 "批发机器"
+ trait_v_corner_cutting_desc:0 "§L这些机器建造得非常迅速。不幸的是，它们的质量... 是有争议的。§!"
+ TRAIT_CORNER_CUTTING_EFFECT:0 "每个负向特质机械人口组装速度: §G+5%§!"

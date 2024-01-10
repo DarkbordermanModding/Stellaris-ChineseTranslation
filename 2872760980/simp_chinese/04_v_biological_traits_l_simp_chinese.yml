@@ -368,10 +368,6 @@
  trait_v_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
  TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，无求偶展示特质幸福度: §R-10%§! \n物种增长时£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+25§!"
 
- trait_v_corner_cutting:0 "批发机器"
- trait_v_corner_cutting_desc:0 "§L这些机器建造得非常迅速。不幸的是，它们的质量... 是有争议的。§!"
- TRAIT_CORNER_CUTTING_EFFECT:0 "每个负项特质机械人口组装速度: §G+5%§!"
-
  ###############################################################################################################################################################################################################
 
  trait_v_kleptoplasty:0 "叶绿体器官"

@@ -84,3 +84,7 @@
  trait_v_wildlife_susceptible:0 "Wildlife Susceptibility"
  trait_v_wildlife_susceptible_desc:0 "§LThese machines are not designed to deal with curious or aggressive wildlife. Their design features many openings through which an animal could enter and deal some damage from within by either building a nest there or chewing through some wires.§!"
  TRAIT_WILDLIFE_SUCEPTIBLE_EFFECT:0 "Pop Amenities Usage for every Naturally Occurring Blocker: §R+10%§! \nResources from £job£ Jobs for every Naturally Occurring Blocker: §R-5%§!"
+
+ trait_v_corner_cutting:0 "Corner Cutting"
+ trait_v_corner_cutting_desc:0 "§LThese machines are build very fast. Unfortunately, their quality... is debatable.§!"
+ TRAIT_CORNER_CUTTING_EFFECT:0 "Mechanical Pop Assembly Speed for each negative trait selected: §G+5%§!"
