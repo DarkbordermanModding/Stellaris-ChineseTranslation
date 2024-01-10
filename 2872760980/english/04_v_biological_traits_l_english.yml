@@ -311,7 +311,7 @@
 
  trait_v_reed_cutter:0 "Reed Cutter"
  trait_v_reed_cutter_desc:0 "This species cuts aquatic plants with the goal of causing fungal infections, which they use as a source of food."
- TRAIT_REED_CUTTER_EFFECT:0 "£food£ Food from £job_farmer£ Farmers on §YWet Worlds§!: §G+1§! \n£food£ Food from £job_farmer£ Farmers on Non-§YWet Worlds§!: §R-2§!"
+ TRAIT_REED_CUTTER_EFFECT:0 "£food£ Food from £job_farmer£ Farmers on §YWet Worlds§!: §G+1§! \n£society£ Society Research from £job_farmer£ Farmers on §YWet Worlds§!: §G+0.1§! \n£food£ Food from £job_farmer£ Farmers on Non-§YWet Worlds§!: §R-2§!"
 
  trait_v_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
  trait_v_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
@@ -358,11 +358,19 @@
 
  trait_v_courtship_displays:0 "Courtship Displays"
  trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
- TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness when a pop of this species is Growing: §G+5%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§! \n£society£ Society Research from £job_entertainer£ Entertainers when a pop of this species is Growing: §G+1§! \n£unity£ Unity from £job_entertainer£ Entertainers when a pop of this species is Growing: §G+1§!"
+ TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Each pop working as a slave or better produces 0.25 £unity£ §YUnity§! and 0.25 £society£ §YSociety Research§! per month when this pop of this species is Growing. \nHappiness to pops without Courtship Displays when a pop of this species is Growing: §G+10%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§!"
 
  trait_v_magpie:0 "Magpies"
  trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
  TRAIT_MAGPIE_EFFECT:0 "Pop Growth Speed per system £trade_value£ §YTrade Value§!: §G+0.25%§! (max: §G+100%§!)"
+
+ trait_v_annoying_courtship_displays:0 "Annoying Courtship Displays"
+ trait_v_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
+ TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness to pops without Courtship Displays when a pop of this species is Growing: §R-10%§! \n£mod_planet_emigration_push_add£ §YEmigration Push§! when a pop of this species is Growing: §Y+25§!"
+
+ trait_v_corner_cutting:0 "Corner Cutting"
+ trait_v_corner_cutting_desc:0 "§LThese machines are build very fast. Unfortunately, their quality... is debatable.§!"
+ TRAIT_CORNER_CUTTING_EFFECT:0 "Mechanical Pop Assembly Speed for each negative trait selected: §G+5%§!"
 
  ###############################################################################################################################################################################################################
 

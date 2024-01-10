@@ -18,7 +18,7 @@
 
  trait_v_ecological_cynicism:0 "外星人警戒"
  trait_v_ecological_cynicism_desc:0 "§L这个物种对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。§!"
- TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "有不同物种共存时幸福度: §R-10%§!"
+ TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "有§Y相同物种§!共存时排外主义思潮吸引力: §G+10%§! \n有§Y相同物种§!共存时幸福度: §R-10%§! \n有§Y不同物种§!共存时效果加倍"
 
  trait_v_biophobia:0 "自然恐惧"
  trait_v_biophobia_desc:0 "§L这个物种对大自然感到畏惧。用火杀死生物对于这个物种是标准程序。§!"
@@ -30,7 +30,7 @@
 
  trait_v_ecological_naivete:0 "外星人天真"
  trait_v_ecological_naivete_desc:0 "§L这个物种没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
- TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "有不同物种共存时幸福度: §G+10%§!"
+ TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "有§Y相同物种§!共存时亲外主义思潮吸引力: §G+5%§! \n有§Y相同物种§!共存时幸福度: §G+10%§! \n有§Y不同物种§!共存时效果加倍"
 
  trait_v_biophilia:0 "自然爱好"
  trait_v_biophilia_desc:0 "§L这个物种被自然之美吸引。§!"
@@ -71,6 +71,14 @@
  trait_v_fleshcrafter:0 "躯体工匠"
  trait_v_fleshcrafter_desc:0 "§L这个物种认为有机与其他生物系统没有太大区别。它们像操纵钟表一样调整肉体和基因。§!"
  TRAIT_FLESHCRAFTER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 1 £society_research£ §Y社會學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £mod_pop_growth_speed£ §Y每月有机人口组装§!"
+
+ trait_v_astrology:0 "占星学"
+ trait_v_astrology_desc:0 "§L这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。§!"
+ TRAIT_ASTROLOGY_EFFECT:0 "星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对幸福度: §G+1%§! \n星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对唯心主义思潮吸引力: §G+2%§! \n£job_priest£ £job_death_priest£ §Y祭司§!视为£job_entertainer£§Y演艺人员§!"
+
+ trait_v_algorithmic_mind:0 "算法思维"
+ trait_v_algorithmic_mind_desc:0 "§L这个物种以分析的角度看待世界。§!"
+ TRAIT_ALGORITHMIC_MIND_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.5 £physics_research£§Y物理学§! \n£job_researcher£§Y研究人员§!视为£job_technician£§Y技工§!"
 
  ################################################################################################################################
 

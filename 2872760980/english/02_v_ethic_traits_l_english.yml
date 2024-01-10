@@ -18,7 +18,7 @@
 
  trait_v_ecological_cynicism:0 "Ecological Cynicism"
  trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
- TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "Happiness if a different species is present: §R-10%§!"
+ TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "Xenophobe Ethics Attraction while sharing a planet the same §YSpecies Class§!: §G+10%§! \nHappiness while sharing a planet with the same §YSpecies Class§!: §R-10%§! \nEffects doubled while sharing a planet with other §YSpecies Classes§!."
 
  trait_v_biophobia:0 "Biophobia"
  trait_v_biophobia_desc:0 "§LThis species is afraid of the great outdoors. Killing something with fire is standard procedure for this species.§!"
@@ -30,7 +30,7 @@
 
  trait_v_ecological_naivete:0 "Ecological Naïveté"
  trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
- TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Happiness if a different species is present: §G+10%§!"
+ TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Xenophile Ethics Attraction while sharing a planet the same §YSpecies Class§!: §G+5%§! \nHappiness while sharing a planet with the same §YSpecies Class§!: §G+10%§! \nEffects doubled while sharing a planet with other §YSpecies Classes§!."
 
  trait_v_biophilia:0 "Biophilia"
  trait_v_biophilia_desc:0 "§LThis species is being drawn to the great outdoors.§!"
@@ -71,6 +71,15 @@
  trait_v_fleshcrafter:0 "Fleshcrafter"
  trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
  TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
+
+ trait_v_astrology:0 "Astrology"
+ trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
+
+ TRAIT_ASTROLOGY_EFFECT:0 "Happiness for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+1%§! \nSpiritualist Ethics Attraction for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+2%§! \n£job_priest£ £job_death_priest£ Priest count as £job_entertainer£ §YEntertainers§!."
+
+ trait_v_algorithmic_mind:0 "Algorithmic Mind"
+ trait_v_algorithmic_mind_desc:0 "§LThis species sees the world in the most analytical way possible.§!"
+ TRAIT_ALGORITHMIC_MIND_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £physics_research£ §YPhysics Research§! per month. \n£job_researcher£ §YResearchers§! count as £job_technician£ §YTechnicians§!."
 
  ################################################################################################################################
 

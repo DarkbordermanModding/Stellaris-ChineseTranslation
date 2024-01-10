@@ -311,7 +311,7 @@
 
  trait_v_reed_cutter:0 "海带收获"
  trait_v_reed_cutter_desc:0 "这个物种切割水生植物使其被真菌感染，然后利用这些真菌作为食物来源。"
- TRAIT_REED_CUTTER_EFFECT:0 "在§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §G+1§! \n在非§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §R-2§!"
+ TRAIT_REED_CUTTER_EFFECT:0 "在§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §G+1§! \n在§Y潮湿§!星球£job_farmer£农夫£society£社会学产出: §G+0.1§! \n在非§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §R-2§!"
 
  trait_v_sensitive_chemoreceptors:0 "化学敏感受体"
  trait_v_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
@@ -358,11 +358,19 @@
 
  trait_v_courtship_displays:0 "求偶展示"
  trait_v_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
- TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "物种增长时幸福度: §G+5%§! \n物种增长时£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+25§! \n物种增长时£job_entertainer£演艺人员£society£社会学产出: §G+1§! \n物种增长时£job_entertainer£演艺人员£unity£凝聚力产出: §G+1§!"
+ TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，每个做为奴隶或更高工作标准的人口每月产生 0.25 £unity£§Y凝聚力§!及 0.25 £society£§Y社会学§! \n此物种增长时，无求偶展示特质幸福度: §G+10%§! \n此物种增长时£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+25§!"
 
  trait_v_magpie:0 "喜鹊"
  trait_v_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
  TRAIT_MAGPIE_EFFECT:0 "每个£trade_value£§Y贸易额§!人口成长速度: §G+0.25%§! (最高: §G+100%§!)"
+
+ trait_v_annoying_courtship_displays:0 "糟糕求偶展示"
+ trait_v_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
+ TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，无求偶展示特质幸福度: §R-10%§! \n物种增长时£mod_planet_emigration_push_add£§Y遷出吸引力§!: §Y+25§!"
+
+ trait_v_corner_cutting:0 "批发机器"
+ trait_v_corner_cutting_desc:0 "§L这些机器建造得非常迅速。不幸的是，它们的质量... 是有争议的。§!"
+ TRAIT_CORNER_CUTTING_EFFECT:0 "每个负项特质机械人口组装速度: §G+5%§!"
 
  ###############################################################################################################################################################################################################
 
