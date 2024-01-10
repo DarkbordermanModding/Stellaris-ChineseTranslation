@@ -41,7 +41,7 @@
 
  trait_v_rockust:0 "人口爆發"
  trait_v_rockust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
- TRAIT_ROCKUST_EFFECT:0 "當人口為£planetsize£§Y行星规模§!2倍以上时，获得以下效果: \n人口增长速度: §G+100%§! \n人口矿物维护费: §R+1§! \n每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y遷出吸引力§!: §Y+0.5§! \n\n为降低§R矿物缺乏§!影响: \n當宜居性§Y0%§!以上时矿物短缺不影响幸福度 \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-2%§! \n每个做为奴隶或更高工作标准的人口£minerals£§Y矿物§!产出: §R-2%§!  \n\n§H这些效果在§Y人工§!，§Y盖亚§!及§Y都市§!星球无效§!。"
+ TRAIT_ROCKUST_EFFECT:0 "當人口為£planetsize£§Y行星规模§!2倍以上时，获得以下效果: \n人口增长速度: §G+100%§! \n人口矿物维护费: §R+1§! \n每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+0.5§! \n\n为降低§R矿物缺乏§!影响: \n當宜居性§Y0%§!以上时矿物短缺不影响幸福度 \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-2%§! \n每个做为奴隶或更高工作标准的人口£minerals£§Y矿物§!产出: §R-2%§!  \n\n§H这些效果在§Y人工§!，§Y盖亚§!及§Y都市§!星球无效§!。"
 
  trait_v_lithoid_parthenocarpy:0 "晶蛋生產"
  trait_v_lithoid_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"

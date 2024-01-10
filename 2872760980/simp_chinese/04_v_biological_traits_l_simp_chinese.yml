@@ -126,7 +126,7 @@
 
  trait_v_locust:0 "人口爆發"
  trait_v_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
- TRAIT_LOCUST_EFFECT:0 "當人口為£planetsize£§Y行星规模§!2倍以上时，获得以下效果: \n人口增长速度: §G+100%§! \n人口食物维护费: §R+1§! \n每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y遷出吸引力§!: §Y+0.5§! \n\n为降低§R食物缺乏§!影响: \n當宜居性§Y0%§!以上时食物短缺不影响幸福度 \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-2%§! \n每个做为奴隶或更高工作标准的人口£food£§Y食物§!产出: §R-2%§! \n\n§H这些效果在§Y人工§!，§Y盖亚§!及§Y都市§!星球无效§!。§!"
+ TRAIT_LOCUST_EFFECT:0 "當人口為£planetsize£§Y行星规模§!2倍以上时，获得以下效果: \n人口增长速度: §G+100%§! \n人口食物维护费: §R+1§! \n每个做为奴隶或更高工作标准的人口£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+0.5§! \n\n为降低§R食物缺乏§!影响: \n當宜居性§Y0%§!以上时食物短缺不影响幸福度 \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£§Y宜居性§!: §R-2%§! \n每个做为奴隶或更高工作标准的人口£food£§Y食物§!产出: §R-2%§! \n\n§H这些效果在§Y人工§!，§Y盖亚§!及§Y都市§!星球无效§!。§!"
 
  trait_v_repletes:0 "充实工蜂"
  trait_v_repletes_desc:0 "§L这个物种的成员能够充当充实工蜂，作为资源储存。§!"
@@ -366,7 +366,7 @@
 
  trait_v_annoying_courtship_displays:0 "糟糕求偶展示"
  trait_v_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
- TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，无求偶展示特质幸福度: §R-10%§! \n物种增长时£mod_planet_emigration_push_add£§Y遷出吸引力§!: §Y+25§!"
+ TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，无求偶展示特质幸福度: §R-10%§! \n物种增长时£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+25§!"
 
  trait_v_corner_cutting:0 "批发机器"
  trait_v_corner_cutting_desc:0 "§L这些机器建造得非常迅速。不幸的是，它们的质量... 是有争议的。§!"
