@@ -48,11 +48,14 @@
  trait_v_robot_materialistic:0 "财富获取协议"
  trait_v_robot_materialistic_desc:0 "§L这些机器的人生目标便是获得尽可能多的物质财富。§!"
 
- trait_v_robot_tinkerer:0 "内省协议"
- trait_v_robot_tinkerer_desc:0 "§L这些机器本能地在机械层面上理解自己，他们试图通过這些知识結交朋友。§!"
+ trait_v_robot_algorithmic_mind:0 "演算协议"
+ trait_v_robot_algorithmic_mind_desc:0 "§L这些机器本能地驱使着它们研究物理学的各种形式。§!"
 
  trait_v_robot_fleshcrafter:0 "肉体编织协议"
  trait_v_robot_fleshcrafter_desc:0 "§L这些机器本能地对生物学有兴趣。对他们来说，大脑只是由碳和水制成的处理器。§!"
+
+ trait_v_robot_tinkerer:0 "内省协议"
+ trait_v_robot_tinkerer_desc:0 "§L这些机器本能地在机械层面上理解自己，他们试图通过這些知识結交朋友。§!"
 
  ################################################################
 

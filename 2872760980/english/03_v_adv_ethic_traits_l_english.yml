@@ -39,20 +39,26 @@
  trait_v_robot_scholastic:0 "Scholastic Executable"
  trait_v_robot_scholastic_desc:0 "§LThese machines consider both scientific data and religious texts with equal importance.§!"
 
- trait_v_robot_druidic:0 "DR00D5 Protocol"
+ trait_v_astrology:0 "DROC Protocol"
+ trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
+
+ trait_v_robot_druidic:0 "Heavenly Spheres Protocol"
  trait_v_robot_druidic_desc:0 "§LThese machines are designed to see the divine within nature itself.§!"
 
  trait_v_robot_machine_priests:0 "DTUHAS Protocol"
  trait_v_robot_machine_priests_desc:0 "§LThese machines are aware of their mechanical existence and believe that it is closer to the divine than a purely biological existence.§!" 
 
  trait_v_robot_materialistic:0 "Wealth Acquisition Protocols"
- trait_v_robot_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
+ trait_v_robot_materialistic_desc:0 "§LFor these machines, the acquisition of as much material wealth is the main goal in life.§!"
 
- trait_v_robot_tinkerer:0 "Introspection Protocol"
- trait_v_robot_tinkerer_desc:0 "§LThese machines instinctively try to understand themselves on a mechanical level. They often also try to build themselves friends with said acquired knowledge.§!"
+ trait_v_robot_algorithmic_mind:0 "Algorithmic Protocol"
+ trait_v_robot_algorithmic_mind_desc:0 "§LThese machines are instinctively driven to study physics in all of its forms.§!"
 
  trait_v_robot_fleshcrafter:0 "Fleshweaving Protocol"
  trait_v_robot_fleshcrafter_desc:0 "§LThese machines are instinctively driven to the study of biology. To them, a brain is just a processor made from carbon and water.§!"
+
+ trait_v_robot_tinkerer:0 "Introspection Protocol"
+ trait_v_robot_tinkerer_desc:0 "§LThese machines instinctively try to understand themselves on a mechanical level. They often also try to build themselves friends with said acquired knowledge.§!"
 
  ################################################################
 
