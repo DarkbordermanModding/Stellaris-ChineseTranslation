@@ -212,7 +212,7 @@
 
  trait_v_toxoplasmosis:0 "行为改变"
  trait_v_toxoplasmosis_desc:0 "§L这个物种是寄生虫的宿主，影响狩猎的行为。虽然对狩猎有帮助，但会影响到其他物种的幸福度。§!"
- TRAIT_TOXOPLASMOSIS_EFFECT:0 "无行为改变特质人口幸福度 (不含机械人口及不受幸福度影响人口): §G+1%§! (最高: §G+40%§!)"
+ TRAIT_TOXOPLASMOSIS_EFFECT:0 "无行为改变特质人口幸福度 (不含机械人口及不受幸福度影响人口): §G+1%§!"
 
  trait_v_webbing:0 "织网"
  trait_v_webbing_desc:0 "§L这个物种能够生产类似丝绸的网，可以在各种情况下使用。它们是一个优秀的躲藏地，可以遮挡来自环境的各种元素和其他东西。§!"
@@ -224,7 +224,7 @@
 
  trait_v_cecotrophy:0 "食粪"
  trait_v_cecotrophy_desc:0 "§L这个物种会藉由食粪获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
- TRAIT_CECOTROPHY_EFFECT:0 "对非食粪人口幸福度: §R-1%§!"
+ TRAIT_CECOTROPHY_EFFECT:0 "对非食粪人口幸福度 (不含机械人口及不受幸福度影响人口): §R-1%§!"
 
  trait_v_silken_birth:0 "絲中誕生"
  trait_v_silken_birth_desc:0 "§L这个物种繁殖的副产品是产生类似丝绸的线。§!"
@@ -260,7 +260,7 @@
 
  trait_v_thorns:0 "棘刺"
  trait_v_thorns_desc:0 "§L这个物种发展出了带有防御目的的刺。不幸的是，这些刺也对其他物种产生影响。§!"
- TRAIT_THORNS_EFFECT:0 "非棘刺人口住房使用: §R+2%§!"
+ TRAIT_THORNS_EFFECT:0 "非棘刺人口住房使用(不含机械人口): §R+2%§!"
 
  trait_v_grafting:0 "嫁接"
  trait_v_grafting_desc:0 "§L这个物种的生理结构允许移植其他物种的器官部分，而几乎没有副作用。§!"
@@ -320,6 +320,14 @@
  trait_v_creature_of_paradise_desc:0 "§L这个物种以其美丽而闻名，其美貌被形容为好像是从天上降临于凡间。§!"
  TRAIT_CREATURE_OF_PARADISE_EFFECT:0 "每个做为奴隶或更高工作标准的人口£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+1§!"
 
+ trait_v_courtship_displays:0 "求偶展示"
+ trait_v_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
+ TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，每个做为奴隶或更高工作标准的人口每月产生 0.25 £unity£§Y凝聚力§!及 0.25 £society£§Y社会学§! \n此物种增长时，无求偶展示特质幸福度: §G+10%§! \n此物种增长时£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+25§!"
+
+ trait_v_annoying_courtship_displays:0 "糟糕求偶展示"
+ trait_v_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
+ TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，无求偶展示特质幸福度: §R-10%§! \n物种增长时£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+25§!"
+
  trait_v_voice_box:0 "音乐盒"
  trait_v_voice_box_desc:0 "§L这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。§!"
 
@@ -335,7 +343,7 @@
  trait_v_rancher_desc:0 "§L这个物种比起照料庄稼更擅长豢养其他物种。§!"
  TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位产生 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] 岗位。"
 
- OLD_TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位对£job_livestock£§Y牲口§!产出: §G+2.5%§!"
+ #OLD_TRAIT_RANCHER_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位对£job_livestock£§Y牲口§!产出: §G+2.5%§!"
 
  trait_v_aggregation:0 "群聚"
  trait_v_aggregation_desc:0 "§L这个物种倾向于聚集成大型群体，以节省空间并保护它们免受环境的影响。§!"
@@ -356,17 +364,9 @@
  trait_v_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
  TRAIT_POLYGYNOUS_EFFECT:0 "男性领袖带有 ['concept_v_leader_polygynous'] 特质。 \n每个£pop_cat_ruler£统治者岗位对£job_v_harem£ ['concept_v_harem'] 岗位数量: §G+0.5§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时人口增长速度: §G+4%§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时统治者幸福度: §G+2%§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时工人及奴隶幸福度: §R-2%§!"
 
- trait_v_courtship_displays:0 "求偶展示"
- trait_v_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
- TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，每个做为奴隶或更高工作标准的人口每月产生 0.25 £unity£§Y凝聚力§!及 0.25 £society£§Y社会学§! \n此物种增长时，无求偶展示特质幸福度: §G+10%§! \n此物种增长时£mod_planet_immigration_pull_add£§Y迁入吸引力§!: §G+25§!"
-
  trait_v_magpie:0 "喜鹊"
  trait_v_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
  TRAIT_MAGPIE_EFFECT:0 "每个£trade_value£§Y贸易额§!人口成长速度: §G+0.25%§! (最高: §G+100%§!)"
-
- trait_v_annoying_courtship_displays:0 "糟糕求偶展示"
- trait_v_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
- TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "此物种增长时，无求偶展示特质幸福度: §R-10%§! \n物种增长时£mod_planet_emigration_push_add£§Y迁出推动力§!: §Y+25§!"
 
  ###############################################################################################################################################################################################################
 

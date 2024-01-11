@@ -212,7 +212,7 @@
 
  trait_v_toxoplasmosis:0 "Behavior Altering"
  trait_v_toxoplasmosis_desc:0 "§LThis species has a host to a parasite that can affect the behavior of its host's prey. While helpful in hunting, it also affects other species by increasing their happiness.§!"
- TRAIT_TOXOPLASMOSIS_EFFECT:0 "Happiness to non-Behavior Altering Pops (Not including Pops unaffected by Happiness and Machine Pops): §G+1%§! (Max: §G+40%§!)"
+ TRAIT_TOXOPLASMOSIS_EFFECT:0 "Happiness to non-Behavior Altering Pops (Not including Pops unaffected by Happiness and Machine Pops): §G+1%§!"
 
  trait_v_webbing:0 "Webbing"
  trait_v_webbing_desc:0 "§LThis species has developed silk-like webs that can be used in a variety of situations. They make an excellent hiding spot from the elements and whatever else the surrounding environment has to offer.§!"
@@ -224,7 +224,7 @@
 
  trait_v_cecotrophy:0 "Cecotrophy"
  trait_v_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
- TRAIT_CECOTROPHY_EFFECT:0 "Happiness to non-cecotrophic pops: §R-1%§!"
+ TRAIT_CECOTROPHY_EFFECT:0 "Happiness to non-cecotrophic pops (Not including Pops unaffected by Happiness and Machine Pops): §R-1%§!"
 
  trait_v_silken_birth:0 "Silken Birth"
  trait_v_silken_birth_desc:0 "§LThe byproduct of reproduction of this species is the creation of a silklike thread.§!"
@@ -260,7 +260,7 @@
 
  trait_v_thorns:0 "Thorns"
  trait_v_thorns_desc:0 "§LThis species developed thorns for defensive purposes. Unfortunately, these thorns also affect other species.§!"
- TRAIT_THORNS_EFFECT:0 "Pop Housing Usage to non-thorny Pops: §R+2%§!"
+ TRAIT_THORNS_EFFECT:0 "Pop Housing Usage to non-thorny Pops (Not including Robot and Machine Pops): §R+2%§!"
 
  trait_v_grafting:0 "Grafting"
  trait_v_grafting_desc:0 "§LThe physiology of this species allows for the grafting of parts belonging to other species without any major side effects.§!"
@@ -320,6 +320,14 @@
  trait_v_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
  TRAIT_CREATURE_OF_PARADISE_EFFECT:0 "Each pop working as a slave or better increases the £mod_planet_immigration_pull_add£ §YImmigration Pull§! by: §G+1§!"
 
+ trait_v_courtship_displays:0 "Courtship Displays"
+ trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
+ TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Each pop working as a slave or better produces 0.25 £unity£ §YUnity§! and 0.25 £society£ §YSociety Research§! per month when this pop of this species is Growing. \nHappiness to pops without Courtship Displays when a pop of this species is Growing: §G+10%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§!"
+
+ trait_v_annoying_courtship_displays:0 "Annoying Courtship Displays"
+ trait_v_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
+ TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness to pops without Courtship Displays when a pop of this species is Growing: §R-10%§! \n£mod_planet_emigration_push_add£ §YEmigration Push§! when a pop of this species is Growing: §Y+25§!"
+
  trait_v_voice_box:0 "Voice Box"
  trait_v_voice_box_desc:0 "§LThis species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams.§!"
 
@@ -335,7 +343,7 @@
  trait_v_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
  TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs provide 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] Jobs."
  
- OLD_TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs increase £job_livestock£ §YLivestock§! Resource Output by: §G+2.5%§!"
+ #OLD_TRAIT_RANCHER_EFFECT:0 "Pops working £job_farmer£ §YFarmer§! jobs increase £job_livestock£ §YLivestock§! Resource Output by: §G+2.5%§!"
 
  trait_v_aggregation:0 "Aggregation"
  trait_v_aggregation_desc:0 "§LThis species tends to aggregate into large groups of individuals to save space and protect them from the elements.§!"
@@ -356,17 +364,9 @@
  trait_v_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
  TRAIT_POLYGYNOUS_EFFECT:0 "Male Leaders start with the ['concept_v_leader_polygynous'] trait. \n£job_v_harem£ ['concept_v_harem'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nPop Growth Speed per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+4%§! \nRuler Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+2%§! \nWorker and Slave Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §R-2%§!"
 
- trait_v_courtship_displays:0 "Courtship Displays"
- trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
- TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Each pop working as a slave or better produces 0.25 £unity£ §YUnity§! and 0.25 £society£ §YSociety Research§! per month when this pop of this species is Growing. \nHappiness to pops without Courtship Displays when a pop of this species is Growing: §G+10%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§!"
-
  trait_v_magpie:0 "Magpies"
  trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
  TRAIT_MAGPIE_EFFECT:0 "Pop Growth Speed per system £trade_value£ §YTrade Value§!: §G+0.25%§! (max: §G+100%§!)"
-
- trait_v_annoying_courtship_displays:0 "Annoying Courtship Displays"
- trait_v_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
- TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness to pops without Courtship Displays when a pop of this species is Growing: §R-10%§! \n£mod_planet_emigration_push_add£ §YEmigration Push§! when a pop of this species is Growing: §Y+25§!"
 
  ###############################################################################################################################################################################################################
 
