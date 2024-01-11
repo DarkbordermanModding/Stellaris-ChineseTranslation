@@ -46,11 +46,15 @@
 
  trait_v_proselytizing:0 "Proselytizing"
  trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
- TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 1 £unity£ §YUnity§! per month."
+ TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 0.5 £unity£ §YUnity§! per month."
 
  trait_v_scholastic:0 "Scholastic"
  trait_v_scholastic_desc:0 "§LFor this species, there exists no difference between faith and science. In reality, they seem to consider both of those things to be the same thing.§!"
  TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_researcher£ §YResearchers§!."
+
+ trait_v_astrology:0 "Astrology"
+ trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
+ TRAIT_ASTROLOGY_EFFECT:0 "Happiness for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+1%§! \nSpiritualist Ethics Attraction for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+2%§! \n£job_priest£ £job_death_priest£ §YPriests§! count as £job_entertainer£ §YEntertainers§!."
 
  trait_v_druidic:0 "Druidic"
  trait_v_druidic_desc:0 "§LThis species sees the divine within nature itself.§!"
@@ -64,22 +68,17 @@
  trait_v_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
  TRAIT_MATERIALISTIC_EFFECT:0 "Each Materialist pop working as a slave or better increases Materialist Ethics Attraction by: §G+1%§! \nEach Materialist pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!. \nPop Consumer Goods Upkeep for Materialist pops: §R+10%§! \nPop Housing Usage for Materialist pops: §R+10%§!"
 
- trait_v_tinkerer:0 "Tinkerer"
- trait_v_tinkerer_desc:0 "§LFor this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects.§!"
- TRAIT_TINKERER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £engineering_research£ §YEngineering Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
-
- trait_v_fleshcrafter:0 "Fleshcrafter"
- trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
- TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 1 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
-
- trait_v_astrology:0 "Astrology"
- trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
-
- TRAIT_ASTROLOGY_EFFECT:0 "Happiness for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+1%§! \nSpiritualist Ethics Attraction for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+2%§! \n£job_priest£ £job_death_priest£ Priest count as £job_entertainer£ §YEntertainers§!."
-
  trait_v_algorithmic_mind:0 "Algorithmic Mind"
  trait_v_algorithmic_mind_desc:0 "§LThis species sees the world in the most analytical way possible.§!"
  TRAIT_ALGORITHMIC_MIND_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £physics_research£ §YPhysics Research§! per month. \n£job_researcher£ §YResearchers§! count as £job_technician£ §YTechnicians§!."
+
+ trait_v_fleshcrafter:0 "Fleshcrafter"
+ trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
+ TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
+
+ trait_v_tinkerer:0 "Tinkerer"
+ trait_v_tinkerer_desc:0 "§LFor this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects.§!"
+ TRAIT_TINKERER_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £engineering_research£ §YEngineering Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
 
  ################################################################################################################################
 
