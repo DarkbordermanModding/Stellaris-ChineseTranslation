@@ -129,8 +129,8 @@
  trait_v_adv_plague:0 "散播瘟疫"
  trait_v_adv_plague_desc:0 "§L这个物种的免疫系统学会了控制寄居在体内的病原体作为一种不寻常的自卫方式。§!"
 
- #trait_v_adv_urban_adaptation:0 "都市适应"
- #trait_v_adv_urban_adaptation_desc:0 "§L尽管这个物种并非在都市演化，但非常适合都市环境。§!"
+ trait_v_adv_urban_adaptation:0 "都市适应"
+ trait_v_adv_urban_adaptation_desc:0 "§L尽管这个物种并非在都市演化，但非常适合都市环境。§!"
 
  trait_v_adv_urbanobiont:0 "都市依赖"
  trait_v_adv_urbanobiont_desc:0 "§L这个物种依赖于都市才能生存，当离开他们习以为常的都市时发展得并不好。§!"
@@ -198,6 +198,9 @@
  trait_v_adv_fungus_farmer:0 "树叶收获"
  trait_v_adv_fungus_farmer_desc:0 "§L这个物种能利用地下空间，填充一种基质，上面生长可食用的真菌。§!"
 
+ trait_v_adv_reed_cutter:0 "海带收获"
+ trait_v_adv_reed_cutter_desc:0 "这个物种切割水生植物使其被真菌感染，然后利用这些真菌作为食物来源。"
+
  trait_v_adv_sensitive_chemoreceptors:0 "化学敏感受体"
  trait_v_adv_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
 
@@ -206,6 +209,12 @@
 
  trait_v_adv_creature_of_paradise:0 "美若天仙"
  trait_v_adv_creature_of_paradise_desc:0 "§L这个物种以其美丽而闻名，其美貌被形容为好像是从天上降临于凡间。§!"
+
+ trait_v_adv_annoying_courtship_displays:0 "糟糕求偶展示"
+ trait_v_adv_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
+
+ trait_v_adv_courtship_displays:0 "求偶展示"
+ trait_v_adv_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
 
  trait_v_adv_voice_box:0 "音乐盒"
  trait_v_adv_voice_box_desc:0 "§L这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。§!"
@@ -233,9 +242,6 @@
 
  trait_v_adv_polygynous:0 "多配偶"
  trait_v_adv_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
-
- trait_v_adv_courtship_displays:0 "求偶展示"
- trait_v_adv_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
 
  trait_v_adv_magpie:0 "喜鹊"
  trait_v_adv_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"

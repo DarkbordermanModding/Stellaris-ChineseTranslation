@@ -26,8 +26,6 @@
  trait_v_living_reactors_desc:0 "§L这个物种是行走的核反应堆。他们已经适应了体内大量的放射性同位素并利用核反应来获得好处。§!"
  TRAIT_LIVING_REACTOR_EFFECT:0 "每人口对核驱动特质宜居性: §G+1%§! \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£ §Y宜居性§! §R-1%§! \n每个做为奴隶或更高工作标准的人口每月產生 0.5 £energy£ §Y能量币§! per month。 \n每个陆军死亡及人口灭绝时造成§R5§!点破坏度。"
 
- #TRAIT_ASBESTOS_WEBBING_EFFECT:0 "Habitability from £job_miner£ §YMiner§! Jobs for Lithoid species: §G+2%§! \nHabitability from £job_miner£ §YMiner§! Jobs for non-Lithoid species: §R-2%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-1§!"
-
  trait_v_lithoid_old_instincts:0 "先祖本能"
  trait_v_lithoid_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
 

@@ -17,6 +17,8 @@
  mod_planet_priests_engineering_research_produces_add:0 "£engineering_research£ Engineering from £job_priest£ £job_death_priest£ Priests"
  mod_planet_priests_physics_research_produces_add:0 "£physics_research£ Physics from £job_priest£ £job_death_priest£ Priests"
 
+ mod_planet_researchers_energy_produces_add:0 "£energy£ Energy from £job_researcher£ Researchers"
+
  mod_planet_pops_cyborgs_energy_upkeep_mult:0 "Cyborg Energy Upkeep"
 
  mod_job_v_harem_add:0 "Harem Jobs"

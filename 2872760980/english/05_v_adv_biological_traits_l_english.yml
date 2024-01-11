@@ -129,8 +129,8 @@
  trait_v_adv_plague:0 "Plagued"
  trait_v_adv_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
  
- #trait_v_adv_urban_adaptation:0 "Urban Adaptation"
- #trait_v_adv_urban_adaptation_desc:0 "§LDespite not having evolved in a city, this species is excellently adapted to the urban environment.§!"
+ trait_v_adv_urban_adaptation:0 "Urban Adaptation"
+ trait_v_adv_urban_adaptation_desc:0 "§LDespite not having evolved in a city, this species is excellently adapted to the urban environment.§!"
 
  trait_v_adv_urbanobiont:0 "Urbanobiont"
  trait_v_adv_urbanobiont_desc:0 "§LThis species is dependent on cities to thrive. Once out of those cities they tend to, not do that well.§!"
@@ -198,6 +198,9 @@
  trait_v_adv_fungus_farmer:0 "Leaf Cutter"
  trait_v_adv_fungus_farmer_desc:0 "§LThis species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi.§!"
 
+ trait_v_adv_reed_cutter:0 "Reed Cutter"
+ trait_v_adv_reed_cutter_desc:0 "This species cuts aquatic plants with the goal of causing fungal infections, which they use as a source of food."
+
  trait_v_adv_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
  trait_v_adv_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
 
@@ -206,6 +209,12 @@
 
  trait_v_adv_creature_of_paradise:0 "Creature Of Paradise"
  trait_v_adv_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
+
+ trait_v_adv_annoying_courtship_displays:0 "Annoying Courtship Displays"
+ trait_v_adv_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
+
+ trait_v_adv_courtship_displays:0 "Courtship Displays"
+ trait_v_adv_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
 
  trait_v_adv_voice_box:0 "Voice Box"
  trait_v_adv_voice_box_desc:0 "§LThis species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams.§!"
@@ -233,9 +242,6 @@
 
  trait_v_adv_polygynous:0 "Polygynous"
  trait_v_adv_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
-
- trait_v_adv_courtship_displays:0 "Courtship Displays"
- trait_v_adv_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
 
  trait_v_adv_magpie:0 "Magpies"
  trait_v_adv_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"

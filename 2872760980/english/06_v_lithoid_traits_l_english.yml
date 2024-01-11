@@ -27,8 +27,6 @@
  trait_v_living_reactors_desc:0 "§LThis species is a walking nuclear reactor. Due to a large amount of radioactive isotopes, this species has adapted its organism to make use of those nuclear reactions for its own gain.§!"
  TRAIT_LIVING_REACTOR_EFFECT:0 "Habitability per Radiating Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§! \nEach pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. \nDestroyed armies and purged pops cause §R5§! planetary devastation."
 
- #TRAIT_ASBESTOS_WEBBING_EFFECT:0 "Habitability from £job_miner£ §YMiner§! Jobs for Lithoid species: §G+2%§! \nHabitability from £job_miner£ §YMiner§! Jobs for non-Lithoid species: §R-2%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-1§!"
-
  trait_v_lithoid_old_instincts:0 "Old Instincts"
  trait_v_lithoid_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
 
