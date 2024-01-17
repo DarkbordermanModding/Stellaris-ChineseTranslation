@@ -24,7 +24,7 @@
 
  trait_v_living_reactors:0 "核驱动"
  trait_v_living_reactors_desc:0 "§L这个物种是行走的核反应堆。他们已经适应了体内大量的放射性同位素并利用核反应来获得好处。§!"
- TRAIT_LIVING_REACTOR_EFFECT:0 "每人口对核驱动特质宜居性: §G+1%§! \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£ §Y宜居性§! §R-1%§! \n每个做为奴隶或更高工作标准的人口每月產生 0.5 £energy£ §Y能量币§! per month。 \n每个陆军死亡及人口灭绝时造成§R5§!点破坏度。"
+ TRAIT_LIVING_REACTOR_EFFECT:0 "每人口对核驱动特质宜居性: §G+1%§! \n每个做为奴隶或更高工作标准的人口£mod_pop_environment_tolerance£ §Y宜居性§! §R-1%§! \n每个做为奴隶或更高工作标准的人口每月產生 0.5 £energy£ §Y能量币§!。 \n每个陆军死亡及人口灭绝时造成§R5§!点破坏度。"
 
  trait_v_lithoid_old_instincts:0 "先祖本能"
  trait_v_lithoid_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
@@ -56,7 +56,7 @@
  trait_v_lithoid_foragial_limbs_desc:0 "§L这个物种发展出专门收集矿物的肢体。§!"
 
  trait_v_lithoid_embryonic_diapause:0 "滞育"
- trait_v_lithoid_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。
+ trait_v_lithoid_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。§!"
  TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "有这个物种的行星可以使用滞育决议。决议生效時所有具§H滞育§!特质的人口: \n人口矿物维护费: §G-10%§! \n£job£§Y岗位§!资源产出: §G+10%§! \n§R人口无法自然繁衍或组装§!"
 
  trait_v_prismatic:0 "稜鏡散射"
@@ -81,7 +81,7 @@
 
  trait_v_iron_shell:0 "铁壳"
  trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
- TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n当此物种正在生长或是被组装时£alloys£ $alloys$ from £job_foundry£ §YMetallurgists§! : §G+0.5§!"
+ TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n当此物种正在生长或是被组装时£job_foundry£§Y冶金師§!£alloys£合金产出: §G+0.5§!"
 
  trait_v_eroding:0 "易腐"
  trait_v_eroding_desc:0 "§L尽管身为石质生物，这个物种特别容易受到侵蚀影响。§!"
