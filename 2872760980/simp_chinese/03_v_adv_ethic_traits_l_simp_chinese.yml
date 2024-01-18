@@ -39,6 +39,9 @@
  trait_v_robot_scholastic:0 "学术执行"
  trait_v_robot_scholastic_desc:0 "§L这些机器认为科学数据和宗教文本都同样重要。§!"
 
+ trait_v_robot_astrology:0 "天体协议"
+ trait_v_robot_astrology_desc:0 "§L这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。§!"
+
  trait_v_robot_druidic:0 "DR00D5协议"
  trait_v_robot_druidic_desc:0 "§L这些机器视自然为众神。§!"
 
