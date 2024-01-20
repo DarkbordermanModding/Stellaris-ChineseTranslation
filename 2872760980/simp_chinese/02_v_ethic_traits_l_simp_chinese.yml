@@ -80,6 +80,10 @@
  trait_v_tinkerer_desc:0 "§L这个物种对机械系统相当着迷，他们平时喜欢跟机械打交道。§!"
  TRAIT_TINKERER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.5 £engineering_research£ §Y工程學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £job_roboticist£ §Y每月机械人口组装§!"
 
+ trait_v_tight_knit:0 "紧密结合"
+ trait_v_tight_knit_desc:0 "§L这个物种比其他物种更有组织性。§!"
+ TRAIT_TIGHT_KNIT_EFFECT:0 "非战争及危机期间帝国规模: §G-25%§!"
+
  ################################################################################################################################
 
  trait_v_hive_microclimate:0 "蜂巢气候"

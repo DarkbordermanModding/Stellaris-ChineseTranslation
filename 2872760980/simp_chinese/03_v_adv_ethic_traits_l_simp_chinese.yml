@@ -75,3 +75,12 @@
 
  trait_v_adv_hive_bivouac:0 "露营"
  trait_v_adv_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
+
+ trait_v_robbot_tight_knit:0 "和平时期协议"
+ trait_v_robbot_tight_knit_desc:0 "§L这些机器被设计得尽可能容易组织，但只在和平时期有效是个小缺陷。§!"
+
+ trait_v_robot_ascetic:0 "禁欲设计"
+ trait_v_robot_ascetic_desc:0 "§L这些机器对物质享受不感兴趣。§!"
+
+ trait_v_robot_sybaritic:0 "过度消费故障"
+ trait_v_robot_sybaritic_desc:0 "§L这些机器由于程序中的故障而喜欢奢侈品。§!"
