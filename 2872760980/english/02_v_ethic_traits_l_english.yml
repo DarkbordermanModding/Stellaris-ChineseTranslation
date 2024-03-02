@@ -30,7 +30,7 @@
 
  trait_v_ecological_naivete:0 "Ecological Naïveté"
  trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
- TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Xenophile Ethics Attraction while sharing a planet the same §YSpecies Class§!: §G+5%§! \nHappiness while sharing a planet with the same §YSpecies Class§!: §G+10%§! \nEffects doubled while sharing a planet with other §YSpecies Classes§!."
+ TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Xenophile Ethics Attraction while sharing a planet the same §YSpecies Class§!: §G+5%§! \nHappiness while sharing a planet with the same §YSpecies Class§!: §G+5%§! \nEffects doubled while sharing a planet with other §YSpecies Classes§!."
 
  trait_v_biophilia:0 "Biophilia"
  trait_v_biophilia_desc:0 "§LThis species is being drawn to the great outdoors.§!"
@@ -44,13 +44,20 @@
  trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
  TRAIT_COWARD_EFFECT:0 "Resources from £job£ Pop jobs During War and Crisis: §R-10%§! \nResettlement Cost During War and Crisis: §G-50%§!"
 
- trait_v_proselytizing:0 "Proselytizing"
- trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
- TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 0.5 £unity£ §YUnity§! per month."
+ trait_v_tight_knit:0 "Tight Knit"
+ trait_v_tight_knit_desc:0 "§LThis species is naturally inclined to be more organized than most others.§!"
+ TRAIT_TIGHT_KNIT_EFFECT:0 "Empire Size from Pops when at Peace: §G-25%§!"
+
+ trait_v_ascetic:0 "Ascetic"
+ trait_v_ascetic_desc:0 "§LThis species strains far from hedonistic pursuits. They tend to abstain from anything that can be considered unnecessary.§!"
 
  trait_v_scholastic:0 "Scholastic"
  trait_v_scholastic_desc:0 "§LFor this species, there exists no difference between faith and science. In reality, they seem to consider both of those things to be the same thing.§!"
  TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_researcher£ §YResearchers§!."
+
+ trait_v_proselytizing:0 "Proselytizing"
+ trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
+ TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 0.5 £unity£ §YUnity§! per month."
 
  trait_v_astrology:0 "Astrology"
  trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
@@ -62,7 +69,10 @@
 
  trait_v_machine_priests:0 "Machine Reverence"
  trait_v_machine_priests_desc:0 "§LFrom the moment this species understood the weakness of its flesh, it disgusted them. They craved the strength and certainty of steel. They aspired to the purity of the blessed machine.§!"
- TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
+ TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
+
+ trait_v_sybaritic:0 "Sybaritic"
+ trait_v_sybaritic_desc:0 "§LThis species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species.§!"
 
  trait_v_materialistic:0 "Materialistic"
  trait_v_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"

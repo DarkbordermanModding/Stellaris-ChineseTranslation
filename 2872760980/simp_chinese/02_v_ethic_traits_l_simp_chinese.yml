@@ -30,7 +30,7 @@
 
  trait_v_ecological_naivete:0 "外星人天真"
  trait_v_ecological_naivete_desc:0 "§L这个物种没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
- TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "有§Y相同物种§!共存时亲外主义思潮吸引力: §G+5%§! \n有§Y相同物种§!共存时幸福度: §G+10%§! \n有§Y不同物种§!共存时效果加倍"
+ TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "有§Y相同物种§!共存时亲外主义思潮吸引力: §G+5%§! \n有§Y相同物种§!共存时幸福度: §G+5%§! \n有§Y不同物种§!共存时效果加倍"
 
  trait_v_biophilia:0 "自然爱好"
  trait_v_biophilia_desc:0 "§L这个物种被自然之美吸引。§!"
@@ -62,7 +62,7 @@
 
  trait_v_machine_priests:0 "机械景仰"
  trait_v_machine_priests_desc:0 "§L这个物种厌恶肉体的脆弱。他们渴望躯体坚硬如钢，渴望心灵如机器的纯洁。§!"
- TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£祭司視為£job_foundry£§Y冶金师§!及£job_artisan£§Y工匠§!。 \n每个§H工业区划§!唯心主义思潮吸引力: §G+2%§!"
+ TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ §Y祭司§!視為£job_foundry£§Y冶金师§!及£job_artisan£§Y工匠§!。 \n每个§H工业区划§!唯心主义思潮吸引力: §G+2%§!"
 
  trait_v_materialistic:0 "物质主义"
  trait_v_materialistic_desc:0 "§L这个物种的人生目标便是获得尽可能多的物质财富。§!"
@@ -83,6 +83,12 @@
  trait_v_tight_knit:0 "紧密结合"
  trait_v_tight_knit_desc:0 "§L这个物种比其他物种更有组织性。§!"
  TRAIT_TIGHT_KNIT_EFFECT:0 "非战争及危机期间帝国规模: §G-25%§!"
+
+ trait_v_ascetic:0 "苦行者"
+ trait_v_ascetic_desc:0 "§L该物种远离享乐主义。他们倾向于避免任何可以认为是不必要的东西。§!"
+
+ trait_v_sybaritic:0 "奢侈"
+ trait_v_sybaritic_desc:0 "§L这个物种喜欢奢侈品。享乐主义和浪费时间不必要的消费是该物种的标志。§!"
 
  ################################################################################################################################
 
