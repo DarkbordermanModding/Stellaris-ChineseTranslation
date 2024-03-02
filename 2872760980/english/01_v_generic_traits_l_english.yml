@@ -24,9 +24,8 @@
  trait_docile_assimilation:0 "Docile Assimilation"
  trait_communal_assimilation:0 "Communal Assimilation"
  trait_v_precise_assimilation:0 "Precise Assimilation"
- trait_v_belligerent_assimilation:0 "Belligerent Assimilation"
  trait_v_efficient_digestion_assimilation:0 "Efficient Digestion Assimilation"
- trait_v_ascetic_assimilation:0 "Ascetic Assimilation"
+ trait_v_large_assimilation:0 "Large Assimilation"
 
  trait_v_precise:0 "Precise"
  trait_v_precise_desc:0 "§LThis species is capable of exceedingly precise movements which come in usefull in both manufacturing and combat.§!"
@@ -45,12 +44,6 @@
 
  trait_v_inefficient_digestion_l:0 "$trait_v_inefficient_digestion$"
  trait_v_inefficient_digestion_l_desc:0 "$trait_v_inefficient_digestion_desc$"
-
- trait_v_ascetic:0 "Ascetic"
- trait_v_ascetic_desc:0 "§LThis species strains far from hedonistic pursuits. They tend to abstain from anything that can be considered unnecessary.§!"
-
- trait_v_sybaritic:0 "Sybaritic"
- trait_v_sybaritic_desc:0 "§LThis species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species.§!"
 
  trait_v_pack_behaviour:0 "Pack Behavior"
  trait_v_pack_behaviour_desc:0 "§LThis species has a distinctive set of relationships between its members. They exhibit a extreme loyalty to anyone who is part of their "Pack". This isn't limited to members of their own species and anyone can become a part of it. And this fact isn't necesarily a good thing for them.§!"
@@ -116,3 +109,23 @@
 
  trait_v_sickly:0 "Sickly"
  trait_v_sickly_desc:0 "§LThis species is of weak health.§!"
+
+ trait_v_piezobiont:0 "Piezobiont"
+ trait_v_piezobiont_desc:0 "§LThis species excels at high pressures. Unfortunately, this species has a tendency of turning into mush when not under high pressure.§!"
+ TRAIT_PIEZOBIONT_EFFECT:0 "Habitability on non-§YOcean§! worlds for each §YOcean§! world trait selected: §R-20%§! \nEffect halved on other §YWet§! worlds."
+
+ trait_v_large:0 "Large"
+ trait_v_large_desc:0 "§LThis species is characterized by its large size.§!"
+ TRAIT_LARGE_EFFECT:0 "Pop Food Upkeep for each selected trait: §G-5%§! \nResettlement Cost for each selected trait: §R+10%§!"
+
+ trait_v_small:0 "Small"
+ trait_v_small_desc:0 "§LThis species is characterized by its small size.§!"
+ TRAIT_SMALL_EFFECT:0 "Pop Food Upkeep for each selected trait: §R+5%§! \nResettlement Cost for each selected trait: §G-10%§!"
+
+ trait_v_lithoid_large:0 "$trait_v_large$"
+ trait_v_lithoid_large_desc:0 "$trait_v_large_desc$"
+ TRAIT_LITHOID_LARGE_EFFECT:0 "Pop Mineral Upkeep for each selected trait: §G-5%§! \nResettlement Cost for each selected trait: §R+10%§!"
+
+ trait_v_lithoid_small:0 "$trait_v_small$"
+ trait_v_lithoid_small_desc:0 "$trait_v_small_desc$"
+ TRAIT_LITHOID_SMALL_EFFECT:0 "Pop Mineral Upkeep for each selected trait: §R+5%§! \nResettlement Cost for each selected trait: §G-10%§!"

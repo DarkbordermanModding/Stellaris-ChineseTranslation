@@ -24,9 +24,8 @@
  trait_docile_assimilation:0 "温顺同化"
  trait_communal_assimilation:0 "合群同化"
  trait_v_precise_assimilation:0 "精确同化"
- trait_v_belligerent_assimilation:0 "好战同化"
  trait_v_efficient_digestion_assimilation:0 "消化優良同化"
- trait_v_ascetic_assimilation:0 "苦行者同化"
+ trait_v_large_assimilation:0 "身形庞大同化"
 
  trait_v_precise:0 "精确"
  trait_v_precise_desc:0 "§L这个物种在制造和战斗中都能做到极为精确的动作。§!"
@@ -45,12 +44,6 @@
 
  trait_v_inefficient_digestion_l:0 "$trait_v_inefficient_digestion$"
  trait_v_inefficient_digestion_l_desc:0 "$trait_v_inefficient_digestion_desc$"
-
- trait_v_ascetic:0 "苦行者"
- trait_v_ascetic_desc:0 "§L该物种远离享乐主义。他们倾向于避免任何可以认为是不必要的东西。§!"
-
- trait_v_sybaritic:0 "奢侈"
- trait_v_sybaritic_desc:0 "§L这个物种喜欢奢侈品。享乐主义和浪费时间不必要的消费是该物种的标志。§!"
 
  trait_v_pack_behaviour:0 "集团行为"
  trait_v_pack_behaviour_desc:0 "§L这个物种在其成员之间具有独特的关系。他们对参加「集团」的任何人都表现出极大的忠诚。这不仅限于自己物种的成员，任何人都可以成为其中的一部分。这对他们来说是必需的。§!"
@@ -116,3 +109,23 @@
 
  trait_v_sickly:0 "体弱多病"
  trait_v_sickly_desc:0 "§L这个物种先天体质虚弱§!"
+
+ trait_v_piezobiont:0 "高压生长"
+ trait_v_piezobiont_desc:0 "§L这种物种擅长处于高压环境，如果不处于高压状态，这个物种会变得软绵绵的。§!"
+ TRAIT_PIEZOBIONT_EFFECT:0 "每个§Y海洋§!星球特质对非§Y海洋§!星球宜居性: §R-20%§! \n在§Y潮湿§!星球效果减半。"
+
+ trait_v_large:0 "身形庞大"
+ trait_v_large_desc:0 "§L这个物种因其庞大身躯而闻名。§!"
+ TRAIT_LARGE_EFFECT:0 "每个特质对人口食物维护费: §G-5%§! \n每个特质对强制搬迁费用: §R+10%§!"
+
+ trait_v_small:0 "身形娇小"
+ trait_v_small_desc:0 "§L这个物种因其娇小身躯而闻名。§!"
+ TRAIT_SMALL_EFFECT:0 "每个特质对人口食物维护费: §R+5%§! \n每个特质对强制搬迁费用: §G-10%§!"
+
+ trait_v_lithoid_large:0 "$trait_v_large$"
+ trait_v_lithoid_large_desc:0 "$trait_v_large_desc$"
+ TRAIT_LITHOID_LARGE_EFFECT:0 "每个特质对人口矿物维护费: §G-5%§! \n每个特质对强制搬迁费用: §R+10%§!"
+
+ trait_v_lithoid_small:0 "$trait_v_small$"
+ trait_v_lithoid_small_desc:0 "$trait_v_small_desc$"
+ TRAIT_LITHOID_SMALL_EFFECT:0 "每个特质对人口矿物维护费: §R+5%§! \n每个特质对强制搬迁费用: §G-10%§!"
