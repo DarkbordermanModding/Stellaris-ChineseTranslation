@@ -111,7 +111,7 @@
 
  trait_v_fossorial:0 "穴居"
  trait_v_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
- TRAIT_FOSSORIAL_EFFECT:0 "在非人工及非都市星球每 10 个具§H穴居§!人口获得 1 £district£§Y采矿区划§! \n每个采矿区划物种宜居性下限: §G+4%§!"
+ TRAIT_FOSSORIAL_EFFECT:0 "在非人工及非都市星球每 10 个具§H穴居§!人口获得 1 £district£§Y采矿区划§! \n每个采矿区划物种宜居性下限: §G+4%§! /n 从事£job_miner£ §Y矿工§!时人口住房使用: §Y-0.5§!"
 
  trait_v_foragial_limbs:0 "搜索肢"
  trait_v_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
@@ -311,7 +311,7 @@
 
  trait_v_reed_cutter:0 "海带收获"
  trait_v_reed_cutter_desc:0 "这个物种切割水生植物使其被真菌感染，然后利用这些真菌作为食物来源。"
- TRAIT_REED_CUTTER_EFFECT:0 "在§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §G+1§! \n在§Y潮湿§!星球£job_farmer£农夫£society£社会学产出: §G+0.1§! \n在非§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §R-2§!"
+ TRAIT_REED_CUTTER_EFFECT:0 "在§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §G+1§! \n在§Y潮湿§!星球£job_farmer£农夫£society£社会学产出: §G+0.25§! \n在非§Y潮湿§!星球£job_farmer£农夫£food£食物产出: §R-2§!"
 
  trait_v_sensitive_chemoreceptors:0 "化学敏感受体"
  trait_v_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
@@ -367,6 +367,10 @@
  trait_v_magpie:0 "喜鹊"
  trait_v_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
  TRAIT_MAGPIE_EFFECT:0 "每个£trade_value£§Y贸易额§!人口成长速度: §G+0.25%§! (最高: §G+100%§!)"
+
+ trait_v_stygiobiont:0 "深穴生物"
+ trait_v_stygiobiont_desc:0 "§L这个物种适应了生活在被洪水淹没的洞穴中，失去了大部分视力。§!"
+ TRAIT_STYGIOBIONT_EFFECT:0 "在§Y海洋§!星球从事£job_miner£§Y矿工§!时人口住房使用: §Y-1§! \n在§Y潮湿§!星球效果减半。"
 
  ###############################################################################################################################################################################################################
 

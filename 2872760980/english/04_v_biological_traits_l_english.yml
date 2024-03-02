@@ -111,7 +111,7 @@
 
  trait_v_fossorial:0 "Fossorial"
  trait_v_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
- TRAIT_FOSSORIAL_EFFECT:0 "Gain 1 £district£ §YMining District§! per 10 pops with §HFossorial§! on Non-Ecumenopolis and Non-Artificial Worlds \nSpecies Minimum Habitability per Mining District: §G+4%§!"
+ TRAIT_FOSSORIAL_EFFECT:0 "Gain 1 £district£ §YMining District§! per 10 pops with §HFossorial§! on Non-Ecumenopolis and Non-Artificial Worlds \nSpecies Minimum Habitability per Mining District: §G+4%§! /nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-0.5§!"
 
  trait_v_foragial_limbs:0 "Foragial Limbs"
  trait_v_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
@@ -311,7 +311,7 @@
 
  trait_v_reed_cutter:0 "Reed Cutter"
  trait_v_reed_cutter_desc:0 "This species cuts aquatic plants with the goal of causing fungal infections, which they use as a source of food."
- TRAIT_REED_CUTTER_EFFECT:0 "£food£ Food from £job_farmer£ Farmers on §YWet Worlds§!: §G+1§! \n£society£ Society Research from £job_farmer£ Farmers on §YWet Worlds§!: §G+0.1§! \n£food£ Food from £job_farmer£ Farmers on Non-§YWet Worlds§!: §R-2§!"
+ TRAIT_REED_CUTTER_EFFECT:0 "£food£ Food from £job_farmer£ Farmers on §YWet Worlds§!: §G+1§! \n£society£ Society Research from £job_farmer£ Farmers on §YWet Worlds§!: §G+0.25§! \n£food£ Food from £job_farmer£ Farmers on Non-§YWet Worlds§!: §R-2§!"
 
  trait_v_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
  trait_v_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
@@ -322,7 +322,7 @@
 
  trait_v_courtship_displays:0 "Courtship Displays"
  trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
- TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Each pop working as a slave or better produces 0.25 £unity£ §YUnity§! and 0.25 £society£ §YSociety Research§! per month when this pop of this species is Growing. \nHappiness to pops without Courtship Displays when a pop of this species is Growing: §G+10%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§!"
+ TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Each pop working as a slave or better produces 0.25 £unity£ §YUnity§! and 0.25 £society£ §YSociety Research§! per month when a pop of this species is Growing. \nHappiness to pops without Courtship Displays when a pop of this species is Growing: §G+10%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§!"
 
  trait_v_annoying_courtship_displays:0 "Annoying Courtship Displays"
  trait_v_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
@@ -367,6 +367,10 @@
  trait_v_magpie:0 "Magpies"
  trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
  TRAIT_MAGPIE_EFFECT:0 "Pop Growth Speed per system £trade_value£ §YTrade Value§!: §G+0.25%§! (max: §G+100%§!)"
+
+ trait_v_stygiobiont:0 "Stygiobiont"
+ trait_v_stygiobiont_desc:0 "§LThis species is perfectly adapted to live in flooded caves, having lost much of what was once their eyesight.§!"
+ TRAIT_STYGIOBIONT_EFFECT:0 "Pop Housing Usage when working £job_miner£ §YMiner§! Jobs on §YOcean§! worlds: §Y-1§! \nEffect halved on other §YWet§! worlds."
 
  ###############################################################################################################################################################################################################
 
