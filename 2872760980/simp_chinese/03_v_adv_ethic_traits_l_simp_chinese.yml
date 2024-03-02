@@ -36,6 +36,12 @@
  trait_v_robot_proselytizing:0 "传教协议"
  trait_v_robot_proselytizing_desc:0 "§L这些机器信仰神明，尽管他们的本性应当不会的。§!"
 
+ trait_v_robot_tight_knit:0 "和平时期协议"
+ trait_v_robot_tight_knit_desc:0 "§L这些机器被设计成尽可能容易组织，然而只在和平时期生效。§!"
+
+ trait_v_robot_ascetic:0 "简朴设计"
+ trait_v_robot_ascetic_desc:0 "§L这些机器对物质享受并不感兴趣。§!"
+
  trait_v_robot_scholastic:0 "学术执行"
  trait_v_robot_scholastic_desc:0 "§L这些机器认为科学数据和宗教文本都同样重要。§!"
 
@@ -47,6 +53,9 @@
 
  trait_v_robot_machine_priests:0 "DTUHAS协议"
  trait_v_robot_machine_priests_desc:0 "§L这些机器意识到机械之神的存在，并认为它们比其他生物更接近神。§!"
+
+ trait_v_robot_sybaritic:0 "过度消费故障"
+ trait_v_robot_sybaritic_desc:0 "§L由于程序中的故障，这些机器喜爱奢侈行为。§!"
 
  trait_v_robot_materialistic:0 "财富获取协议"
  trait_v_robot_materialistic_desc:0 "§L这些机器的人生目标便是获得尽可能多的物质财富。§!"

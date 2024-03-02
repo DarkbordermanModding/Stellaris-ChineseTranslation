@@ -33,20 +33,29 @@
  trait_v_robot_cowardly:0 "Self Preservation Protocols"
  trait_v_robot_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, these machines simply doesn't care. They will preserve their own existence.§!"
 
- trait_v_robot_proselytizing:0 "Proselytizing Protocols"
- trait_v_robot_proselytizing_desc:0 "§LThese machines yearn for the divine despite their seemingly soulless nature.§!"
+ trait_v_robot_tight_knit:0 "Peace Time Protocols "
+ trait_v_robot_tight_knit_desc:0 "§LThese machines were designed to be as easily organized as possible. The fact that this only works during times of peace is a small drawback in the large scale of things.§!"
+
+ trait_v_robot_ascetic:0 "Ascetic Design"
+ trait_v_robot_ascetic_desc:0 "§LFor some reason, these machines aren't really interested in material pleasures.§!"
 
  trait_v_robot_scholastic:0 "Scholastic Executable"
  trait_v_robot_scholastic_desc:0 "§LThese machines consider both scientific data and religious texts with equal importance.§!"
 
- trait_v_astrology:0 "DROC Protocol"
- trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
+ trait_v_robot_proselytizing:0 "Proselytizing Protocols"
+ trait_v_robot_proselytizing_desc:0 "§LThese machines yearn for the divine despite their seemingly soulless nature.§!"
 
- trait_v_robot_druidic:0 "Heavenly Spheres Protocol"
+ trait_v_robot_astrology:0 "Heavenly Spheres Protocol"
+ trait_v_robot_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
+
+ trait_v_robot_druidic:0 "DR00D Protocol"
  trait_v_robot_druidic_desc:0 "§LThese machines are designed to see the divine within nature itself.§!"
 
  trait_v_robot_machine_priests:0 "DTUHAS Protocol"
  trait_v_robot_machine_priests_desc:0 "§LThese machines are aware of their mechanical existence and believe that it is closer to the divine than a purely biological existence.§!" 
+
+ trait_v_robot_sybaritic:0 "Overconsumption Glitch"
+ trait_v_robot_sybaritic_desc:0 "§LThese machines love luxury due to a glitch in their programming.§!"
 
  trait_v_robot_materialistic:0 "Wealth Acquisition Protocols"
  trait_v_robot_materialistic_desc:0 "§LFor these machines, the acquisition of as much material wealth is the main goal in life.§!"
