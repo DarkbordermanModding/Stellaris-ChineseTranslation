@@ -2,6 +2,10 @@
  trait_v_rapid_mutation:0 "快速突变"
  trait_v_rapid_mutation_desc:0 "§L该物种突变迅速，使其得以适应各种环境。对于他们来说，不幸的是，这个特质在健康方面有许多缺点。§!"
 
+ trait_v_gravitational_assist:0 "重力辅助"
+ trait_v_gravitational_assist_desc:0 "该物种出生于虚空中，非常熟悉利用重力来发挥自己的优势。"
+ TRAIT_GRAVITATIONAL_ASSIST_EFFECT:0 "§Y指挥官§!与§Y科学家§!获得['concept_v_gravitational_assist']特质"
+
  trait_v_symbiont_a:0 "两仪阳体"
  trait_v_symbiont_a_desc:0 "§L该物种与其他物种存在着牢固的相互关系。没有上述物种的存在，它们就无法繁殖。§!"
  TRAIT_SYMBIONT_A_EFFECT:0 "具§H两仪阳体§!特质人口若超过具§H两仪阴体§!特质人口则停止增长"
