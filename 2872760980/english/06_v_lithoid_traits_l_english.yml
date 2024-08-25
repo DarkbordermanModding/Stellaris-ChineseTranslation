@@ -11,7 +11,9 @@
 
  trait_v_litholytic_enzymes:0 "Litholytic Enzymes"
  trait_v_litholytic_enzymes_desc:0 "§LThis species has developed litholytic enzymes for the purpose of easier access to minerals.§!"
- TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a slave or better increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by §G+1%§!"
+ TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a £job_miner£ §YMiner§! increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by: §G+1%§!"
+
+ #TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a slave or better increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by §G+1%§!"
 
  trait_v_gems:0 "Gems"
  trait_v_gems_desc:0 "§LThis species is shedding gems. While these gems aren't of much value for industry, they are sought after by the wider public, both due to their aesthetic value and as a symbol of status.§!"
@@ -68,7 +70,7 @@
  trait_v_crucible_desc:0 "§LThis species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up.§!"
  TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §YMiners§! count as £job_foundry£ §YMetallurgists§!. \nHabitability on §YDry§! Worlds: §G+50%§!"
 
- trait_v_lithoid_mycorrhizal:0 "Mycorrhizal"
+ trait_v_lithoid_mycorrhizal:0 "Lithorrhizal"
  trait_v_lithoid_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
  TRAIT_LITHOID_MYCORRHIZA_EFFECT:0 "Pop Minerals Upkeep per Naturally Occurring Blocker: §G-5%§!"
 
@@ -78,7 +80,6 @@
 
  trait_v_conductive:0 "Conductive"
  trait_v_conductive_desc:0 "§LDue to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries.§!"
- TRAIT_BATTERY_EFFECT: "Each pop working as a £job_technician£ §YTechnician§! increases the £mod_resource_energy_mult£ §YEnergy Storage Capacity§! by: §G+100§!"
 
  trait_v_iron_shell:0 "Iron Shells"
  trait_v_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
@@ -90,4 +91,12 @@
 
  trait_v_overgrown:0 "Overgrown"
  trait_v_overgrown_desc:0 "§LThis species is covered in a series of plants that hide their true form. As a bonus, those plants make for an excellent source of nutrition for carbon based species.§!"
- TRAIT_OVERGROWN_EFFECT:0 "Each pop working as a slave or better produces 0.1 £food£ §YFood§! for every Naturally Occurring Blocker per month. \nCrime Reduction From £job_enforcer£ §YEnforcer§! Jobs for every Naturally Occurring Blocker: §G-1§! \nCrime Increase From £job_criminal£ §YCriminals§! for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
+ TRAIT_OVERGROWN_EFFECT:0 "Each pop working as a slave or better produces 0.1 £food£ §YFood§! for every Naturally Occurring Blocker per month. \n£job_enforcer£ Enforcer Crime Reduction for every Naturally Occurring Blocker: §G+1§! \n£job_criminal£ Criminal Crime Increase for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
+
+ trait_v_porous_respiration:0 "Porous Respiration"
+ trait_v_porous_respiration_desc:0 "§LThis species has pores all across their bodies. A higher concentration of oxygen allows this species to reach larger sizes.§!"
+ TRAIT_POROUS_RESPIRATION_EFFECT:0 "For each for each level of £planetsize£ §YPlanet Size§! above 18: \nPop Mineral Upkeep: §G-2.5%§! \nResettlement Cost: §R+2.5%§! \nSpecialist Pop Resource Output: §R-2.5%§!  \nWorker Pop Resource Output: §G+2.5%§! \n\nFor each for each level of £planetsize£ §YPlanet Size§! below 18: \nPop Mineral Upkeep: §R+2.5%§! \nResettlement Cost: §G-2.5%§! \nSpecialist Pop Resource Output: §G+2.5%§!  \nWorker Pop Resource Output: §R-2.5%§!"
+
+ trait_v_lithology:0 "Lithology"
+ trait_v_lithology_desc:0 "§LThis species is extremely well acquainted with all sorts of minerals, always finding new and innovative ways to use them.§!"
+ TRAIT_LITHOLOGY_EFFECT:0 "Multiplicative £minerals£ §YMineral§! production modifiers count as £engineering£ §YEngineering Research§! modifiers."

@@ -10,7 +10,7 @@
 
  trait_v_litholytic_enzymes:0 "石质酶"
  trait_v_litholytic_enzymes_desc:0 "§L這個物种發展出了石质酶，以便于更容易攝取矿物质。§!"
- TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "每个做为奴隶或更高工作标准的人口£job_miner£§Y矿工§!£minerals£§Y矿物§!产出§G+1%§!"
+ TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "每个£job_miner£§Y矿工人口§!£minerals£§Y矿物§!产出§G+1%§!"
 
  trait_v_gems:0 "宝石外壳"
  trait_v_gems_desc:0 "§L这个物种外壳会脱落宝石。尽管这些宝石的工业价值不大，但由于它们的美学价值和地位象征而受到更广泛的公众追求。§!"
@@ -77,7 +77,6 @@
 
  trait_v_conductive:0 "导體"
  trait_v_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。这个物种非常适合电力工作和作为活电池。§!"
- TRAIT_BATTERY_EFFECT: "每个£job_technician£§Y技工§!崗位£mod_resource_energy_mult£§Y能量币储存上限§!: §G+100§!"
 
  trait_v_iron_shell:0 "铁壳"
  trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
@@ -89,4 +88,12 @@
 
  trait_v_overgrown:0 "植物伪装"
  trait_v_overgrown_desc:0 "§L这个物种覆盖着一系列的植物，掩盖了它们的真实形态。除此之外，这些植物对碳基生物来说是一种极好的营养来源。§!"
- TRAIT_OVERGROWN_EFFECT:0 "每个天然障碍对每个做为奴隶或更高工作标准的人口产生 0.1 £food£§Y食物§!。\n每个天然障碍对£job_enforcer£§Y执法者§!岗位犯罪度降低: §G-1§! \n每个天然障碍对£job_criminal£§Y罪犯§!岗位犯罪度: §R+1§! \n§G人口无法被掠袭。§!"
+ TRAIT_OVERGROWN_EFFECT:0 "每个天然障碍对每个做为奴隶或更高工作标准的人口产生 0.1 £food£§Y食物§!。\n每个天然障碍对£job_enforcer£§Y执法者§!岗位犯罪度降低: §G+1§! \n每个天然障碍对£job_criminal£§Y罪犯§!岗位犯罪度: §R+1§! \n§G人口无法被掠袭。§!"
+
+ trait_v_porous_respiration:0 "气孔呼吸"
+ trait_v_porous_respiration_desc:0 "§L这个物种气孔遍布整个身体。较高的氧气浓度使这个物种达到更大的尺寸。§!"
+ TRAIT_POROUS_RESPIRATION_EFFECT:0 "每£planetsize£§Y行星规模§!与大于£planetsize£§Y18§!差值: \n人口矿物维护费: §G-2.5%§! \n强制迁徙花费: §R+2.5%§! \n专家产出: §R-2.5%§!  \n劳工产出: §G+2.5%§! \n\n每£planetsize£§Y行星规模§!与小于£planetsize£§Y18§!差值: \n人口矿物维护费: §R+2.5%§! \n强制迁徙花费: §G-2.5%§! \n专家产出: §G+2.5%§!  \n劳工产出: §R-2.5%§!"
+
+ trait_v_lithology:0 "岩石学"
+ trait_v_lithology_desc:0 "§L这个物种非常熟悉各种矿物质，总是能够找到使用它们的新方法。§!"
+ TRAIT_LITHOLOGY_EFFECT:0 "£minerals£§Y矿物§!产出加成可套用于£engineering£§Y工程学§!加成。"
