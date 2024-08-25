@@ -37,3 +37,6 @@
 
  trait_v_adv_eroding:0 "Eroding"
  trait_v_adv_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"
+
+ trait_v_adv_lithology:0 "Lithology"
+ trait_v_adv_lithology_desc:0 "§LThis species is extremely well acquainted with all sorts of minerals, always finding new and innovative ways to use them.§!"

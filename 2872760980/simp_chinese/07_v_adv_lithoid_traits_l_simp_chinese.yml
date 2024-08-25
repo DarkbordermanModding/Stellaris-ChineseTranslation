@@ -37,3 +37,6 @@
 
  trait_v_adv_eroding:0 "易腐"
  trait_v_adv_eroding_desc:0 "§L尽管身为石质生物，这个物种特别容易受到侵蚀影响。§!"
+
+ trait_v_adv_lithology:0 "岩石学"
+ trait_v_adv_lithology_desc:0 "§L这个物种非常熟悉各种矿物质，总是能够找到使用它们的新方法。§!"
