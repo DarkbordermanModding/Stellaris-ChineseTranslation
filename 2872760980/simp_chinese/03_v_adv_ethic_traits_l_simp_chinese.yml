@@ -1,13 +1,37 @@
 ﻿l_simp_chinese:
 
+ trait_v_robot_true_belivers:0 "Ascended Programming"
+ trait_v_robot_true_belivers_desc:0 "§LThese machines were programmed to focus on greater ideas.§!"
+
  trait_v_robot_organizational:0 "组织编程"
  trait_v_robot_organizational_desc:0 "§L这些机器是为防止可能损害集体的不良行为而设计。§!"
+
+ trait_v_robot_parasocial:0 "Parasocial Programming"
+ trait_v_robot_parasocial_desc:0 "§LThese machines are designed to have a parasocial attachment towards their ruler.§!"
+
+ trait_v_robot_lawful:0 "Justiciary Programming"
+ trait_v_robot_lawful_desc:0 "§LThese machines are capable of dispensing justice on the spot.§!"
+
+ trait_v_robot_forensic_specialty:0 "Forensic Algorithm"
+ trait_v_robot_forensic_specialty_desc:0 "§LThese machines are capable of predicting the root cause of criminal behavior.§!"
+
+ trait_v_robot_hard_workers:0 "Overdrive Protocols"
+ trait_v_robot_hard_workers_desc:0 "§LThese machines work hard.§!"
+
+ trait_v_robot_masterful_rulers:0 "Governance Driven Design"
+ trait_v_robot_masterful_rulers_desc:0 "§LThese machines have a ruler class that outperforms in the realm of governance.§!"
 
  trait_v_robot_competetive:0 "竞争编程"
  trait_v_robot_competetive_desc:0 "§L这些机器是为相互竞争而设计。§!"
 
  trait_v_robot_autolatry:0 "自动监督"
  trait_v_robot_autolatry_desc:0 "§L这些机器将自己优先于任何其他实体。他们极端的自我中心主义与对自我的崇拜接壤。§!"
+
+ trait_v_robot_socially_flexible:0 "Social Rearrangement Protocols"
+ trait_v_robot_socially_flexible_desc:0 "§LThese machines quickly adapt to changes in social strata.§!"
+
+ trait_v_robot_smart_workers:0 "Shortcut Protocols"
+ trait_v_robot_smart_workers_desc:0 "§LThese machines work smart.§!"
 
  trait_v_robot_arrogance:0 "互连设计"
  trait_v_robot_arrogance_desc:0 "§L这些机器的设计基于彼此衔接的组件以提高整体性能及自我价值。§!"
@@ -18,6 +42,9 @@
  trait_v_robot_biophobia:0 "自然恐惧编程"
  trait_v_robot_biophobia_desc:0 "§L这些机器对大自然感到畏惧。§!"
 
+ trait_v_robot_supremacy_complex:0 "Supremacy of Steel"
+ trait_v_robot_supremacy_complex_desc:0 "Through understanding the weaknesses of biology, these machines reassure their superiority."
+
  trait_v_robot_homely:0 "吵雜設計"
  trait_v_robot_homely_desc:0 "§L这些机器的设计并没有考虑到很多功能，但是没有人能否认其独特的吵杂声。§!"
 
@@ -27,14 +54,26 @@
  trait_v_robot_biophilia:0 "自然爱好编程"
  trait_v_robot_biophilia_desc:0 "§L这些机器被自然之美吸引。§!"
 
+ trait_v_robot_born_sociologists:0 "Sociology Computing Algorithm"
+ trait_v_robot_born_sociologists_desc:0 "These machines are designed for the express purpose of understanding the societal processes going on at the time."
+
  trait_v_robot_belligerent:0 "爱国者协议"
  trait_v_robot_belligerent_desc:0 "§L这些机器在发生冲突的情况下，能够超越其正常能力的工作量。§!"
+
+ trait_v_robot_war_ingenuity:0 "Wartime Streamlining Protocols"
+ trait_v_robot_war_ingenuity_desc:0 "§LThese Machines are capable of streamlining their research capabilities during wartimes.§!"
+
+ trait_v_robot_militaristic_mindset:0 "Militaristic Directives"
+ trait_v_robot_militaristic_mindset_desc:0 "§LThese machines are highly inclined towards militaristic skills.§!"
 
  trait_v_robot_cowardly:0 "自我保护协议"
  trait_v_robot_cowardly_desc:0 "§L这些机器不在乎国家的存亡，他们寧願保全自己的存在。§!"
 
  trait_v_robot_tight_knit:0 "和平时期协议"
  trait_v_robot_tight_knit_desc:0 "§L这些机器被设计成尽可能容易组织，然而只在和平时期生效。§!"
+
+ trait_v_robot_administrative_mindset:0 "Administrative Directives"
+ trait_v_robot_administrative_mindset_desc:0 "§LThese machines are highly inclined towards administrative skills.§!"
 
  trait_v_robot_ascetic:0 "简朴设计"
  trait_v_robot_ascetic_desc:0 "§L这些机器对物质享受并不感兴趣。§!"
@@ -68,6 +107,12 @@
 
  trait_v_robot_tinkerer:0 "内省协议"
  trait_v_robot_tinkerer_desc:0 "§L这些机器本能地在机械层面上理解自己，他们试图通过這些知识結交朋友。§!"
+
+ trait_v_robot_alchemists:0 "Alchemy Protocols"
+ trait_v_robot_alchemists_desc:0 "§LThese machines were designed for the purpose of performing chemistry, be that to uncover a higher truth or simply to understand reality.§!"
+
+ trait_v_robot_scholarly_mindset:0 "Scholarly Directives"
+ trait_v_robot_scholarly_mindset_desc:0 "§LThese machines are highly inclined towards academic skills.§!"
 
  ################################################################
 
