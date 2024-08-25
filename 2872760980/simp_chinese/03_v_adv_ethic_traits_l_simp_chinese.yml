@@ -109,10 +109,10 @@
  trait_v_robot_tinkerer_desc:0 "§L这些机器本能地在机械层面上理解自己，他们试图通过這些知识結交朋友。§!"
 
  trait_v_robot_alchemists:0 "化学协议"
- trait_v_robot_alchemists_desc:0 "§L这些机器是为化学实验而设计，是要揭露更高的真理或仅仅是为了理解现实。§!"
+ trait_v_robot_alchemists_desc:0 "§L这些机器对化学的本质感兴趣，无论是为了揭示更高的真理，还是只是为了理解现实。§!"
 
  trait_v_robot_scholarly_mindset:0 "学术协议"
- trait_v_robot_scholarly_mindset_desc:0 "§L这些机器在学术方面上有高度造诣§!"
+ trait_v_robot_scholarly_mindset_desc:0 "§L这些机器在学术方面上有高度造诣。§!"
 
  ################################################################
 

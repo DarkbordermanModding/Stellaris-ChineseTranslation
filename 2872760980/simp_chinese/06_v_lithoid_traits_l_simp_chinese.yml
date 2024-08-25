@@ -96,4 +96,4 @@
 
  trait_v_lithology:0 "岩石学"
  trait_v_lithology_desc:0 "§L这个物种非常熟悉各种矿物质，总是能够找到使用它们的新方法。§!"
- TRAIT_LITHOLOGY_EFFECT:0 "£minerals£§Y矿物§!产出加成可套用于£engineering£§Y工程学§!加成。"
+ TRAIT_LITHOLOGY_EFFECT:0 "£minerals£§Y矿物§!倍率相关产出加成可套用于£engineering£§Y工程学§!加成。"
