@@ -1,0 +1,4 @@
+﻿l_english:
+ trait_v_history_dense_body_cover:0 "Dense Body Cover"
+ trait_v_history_dense_body_cover_desc:0 "§LThis species has a natural isolating body cover, isolating them from the elements.§!"
+ TRAIT_DENSE_BODY_COVER_EFFECT:0 "$mod_planet_livestock_consumer_goods_produces_add$ when enslaved: §G+1§!"

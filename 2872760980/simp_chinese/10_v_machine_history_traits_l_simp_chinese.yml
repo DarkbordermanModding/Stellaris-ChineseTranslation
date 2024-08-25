@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ trait_v_robot_history_flower_pots:0 "Flower Pots"
+ trait_v_robot_history_flower_pots_desc:0 "§LInitially designed to serve as highly elaborate flowerpots, these machines still keep a plant as a core part of their design.§!"
+ TRAIT_FLOWER_POT_EFFECT:0 "Each pop working as a slave or better produces 0.05 £food£ §YFood§! per month."
+
+ trait_v_robot_history_companion_bots:0 "Companion Bots"
+ trait_v_robot_history_companion_bots_desc:0 "§LInitially designed for the purpose of companionship, these machines are still capable of performing their ancient duties.§!"
+ TRAIT_COMPANION_BOTS_EFFECT:0 "Pop Growth when working £job_entertainer£ §YEntertainer§! Jobs: §G+1%§!"
