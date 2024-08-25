@@ -378,49 +378,49 @@
 
  trait_v_ethylene:0 "乙烯释放"
  trait_v_ethylene_desc:0 "§L这个物种会释放乙烯，加速了周围植物的发展但降低了自己的寿命。§!"
- TRAIT_ETHYLENE_EFFECT:0 "$MOD_LEADER_LIFESPAN_MULT$: §R-10%§! \n每個乙烯釋放特質對§l真菌类§!及§l植物类§!成长速度: §G+1%§!"
+ TRAIT_ETHYLENE_EFFECT:0 "$MOD_LEADER_LIFESPAN_MULT$: §R-10%§! \n每个具乙烯释放特质对§l真菌类§!及§l植物类§!成长速度: §G+1%§!"
 
- trait_v_agro_botanic:0 "Agro-Botanic"
- trait_v_agro_botanic_desc:0 "§LThis species has a unique connection with agricultural production. Any technological advancements in agriculture also seem to be applicable to them.§!"
- TRAIT_AGRO_BOTANIC_EFFECT:0 "Empire and Planetary £food£ §YFood§! output modifiers count as Pop Growth Speed and Pop Assembly Speed Modifiers."
+ trait_v_agro_botanic:0 "农业联系"
+ trait_v_agro_botanic_desc:0 "§L这个物种与农业生产有着独特的联系。农业中的任何技术进步似乎也能适用于它们。§!"
+ TRAIT_AGRO_BOTANIC_EFFECT:0 "帝国及星球£food£§Y食物§!产出加成可套用于人口成长速度及人口组装速度"
 
  #TRAIT_AGRO_BOTANIC_EFFECT:0 "Empire and Planetary £job_farmer£ §YFarmers§! £food£ §YFood§! output modifiers count as Pop Growth Speed and Pop Assembly Speed Modifiers."
 
- trait_v_tracheal_respiration:0 "Tracheal Respiration"
- trait_v_tracheal_respiration_desc:0 "§LThis species has tracheal tubes all across their bodies. A higher concentration of oxygen allows this species to reach larger sizes.§!"
+ trait_v_tracheal_respiration:0 "气管呼吸"
+ trait_v_tracheal_respiration_desc:0 "§L这个物种气管遍布整个身体。较高的氧气浓度使这个物种达到更大的尺寸。§!"
 
- TRAIT_TRACHEAL_RESPIRATION_EFFECT:0 "For each for each level of £planetsize£ §YPlanet Size§! above 18: \nPop Food Upkeep: §G-2.5%§! \nResettlement Cost: §R+2.5%§! \nSpecialist Pop Resource Output: §R-2.5%§!  \nWorker Pop Resource Output: §G+2.5%§! \n\nFor each for each level of £planetsize£ §YPlanet Size§! below 18: \nPop Food Upkeep: §R+2.5%§! \nResettlement Cost: §G-2.5%§! \nSpecialist Pop Resource Output: §G+2.5%§!  \nWorker Pop Resource Output: §R-2.5%§!"
+ TRAIT_TRACHEAL_RESPIRATION_EFFECT:0 "每£planetsize£§Y行星规模§!与大于£planetsize£§Y18§!差值: \n人口食物维护费: §G-2.5%§! \n强制迁徙花费: §R+2.5%§! \n专家产出: §R-2.5%§!  \n劳工产出: §G+2.5%§! \n\n每£planetsize£§Y行星规模§!与小于£planetsize£§Y18§!差值: \n人口食物维护费: §R+2.5%§! \n强制迁徙花费: §G-2.5%§! \n专家产出: §G+2.5%§!  \n劳工产出: §R-2.5%§!"
 
- trait_v_cryptobiosis:0 "Cryptobiosis"
- trait_v_cryptobiosis_desc:0 "This species is capable of entering a state of suspended animation when the environmental conditions aren't optimal."
- TRAIT_CRYPTOBIOSIS_EFFECT:0 "If the habitability for this species is below §Y80%§! instead of growing a pop it will instead create a §YCryptobiont§! Blocker."
- d_v_cryptobiont:0 "£blocker£ Cryptobiont"
- d_v_cryptobiont_desc:0 "Life in a state of suspended animation."
+ trait_v_cryptobiosis:0 "休眠状态"
+ trait_v_cryptobiosis_desc:0 "这个物种能够在环境条件不理想时进入休眠状态。"
+ TRAIT_CRYPTOBIOSIS_EFFECT:0 "当这个物种宜居性低于§Y80%§!时人口成长时会生成§Y休眠生物§!障碍。"
+ d_v_cryptobiont:0 "£blocker£ 休眠生物"
+ d_v_cryptobiont_desc:0 "在休眠状态的生物。"
  d_v_cryptobiont_custom_tooltip:0 ""
 
- trait_v_negligible_senescence:0 "Negligible Senescence"
- trait_v_negligible_senescence_desc:0 "§LThis species retains much of their biological capabilities as they get older.§!"
- TRAIT_NEGLIGIBLE_SENESCENCE_EFFECT:0 "Pop Growth Speed for every Year of Lifespan added: §G+0.5%§!"
+ trait_v_negligible_senescence:0 "无视衰老"
+ trait_v_negligible_senescence_desc:0 "§L这个物种在年老时仍能保留大部分生物功能。§!"
+ TRAIT_NEGLIGIBLE_SENESCENCE_EFFECT:0 "每年寿命对人口成长速度: §G+0.5%§!"
 
- trait_v_phytoextraction:0 "Phytoextraction"
- trait_v_phytoextraction_desc:0 "§LThis species is capable of extracting rare resources from the very soil.§!"
- TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_farmer£ §YFarmers§! per potential resource extraction building: §G+0.1§! \n£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_livestock£ §YLivestock§! per potential resource extraction building: §G+0.5§!"
+ trait_v_phytoextraction:0 "萃取"
+ trait_v_phytoextraction_desc:0 "§L这个物种能够从土壤中提取稀有资源。§!"
+ TRAIT_PHYTOEXTRACTION_EFFECT:0 "£job_farmer£§Y农夫§!對£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!建物产出: §G+0.1§! \n£job_livestock£§Y牲口§!对£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!建物产出: §G+0.5§!"
 
- trait_v_hysterical_strength:0 "Hysterical Strength"
- trait_v_hysterical_strength_desc:0 "§LThis species has a neuro-hormonal mechanism limiting their true strength, as their muscles could destroy their bodies.§!"
- TRAIT_HYSTERICAL_STRENGHT_EFFECT:0 "Worker Pop Resource Output During War and Crisis: §G+20%§! \nPop Consumer Goods Upkeep During War and Crisis: §R+20%§!"
+ trait_v_hysterical_strength:0 "力量抑制"
+ trait_v_hysterical_strength_desc:0 "§L这个物种有一种神经激素机制限制其真正的力量，因为它们的肌肉可能会摧毁它们的身体。§!"
+ TRAIT_HYSTERICAL_STRENGHT_EFFECT:0 "在战争和危机期间劳工产出: §G+20%§! \n在战争和危机期间人口消费品维护费: §R+20%§!"
 
- trait_v_pyriscence:0 "Pyriscence"
- trait_v_pyriscence_desc:0 "§LThis species requires the presence of fire to reproduce.§!"
- TRAIT_PYROPHYTE_EFFECT:0 "Pop Growth Speed per planetary devastation: §G+5%§! \nHabitability on §YDry§! Worlds: §G+20%§!"
+ trait_v_pyriscence:0 "烈焰繁衍"
+ trait_v_pyriscence_desc:0 "§L这个物种需要火的存在才能繁殖。§!"
+ TRAIT_PYROPHYTE_EFFECT:0 "每行星破坏度对人口成长: §G+5%§! \n在§Y干旱§!星球宜居性: §G+20%§!"
 
- trait_v_polyextremophile:0 "Polyextremophile"
- trait_v_polyextremophile_desc:0 "§LThis species likes to exist in the presence of substances other species would have considered toxic.§!"
- TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£mod_pop_environment_tolerance£ §YHabitability§! per potential £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resource§! extraction building: §G+15%§!"
+ trait_v_polyextremophile:0 "极端环境嗜好"
+ trait_v_polyextremophile_desc:0 "§L这个物种喜欢存在于其他物种认为有毒的物质中。§!"
+ TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£mod_pop_environment_tolerance£ §Y宜居性§!对£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!建物产出: §G+15%§!"
 
- trait_v_complex_eyes:0 "Complex Eyes"
- trait_v_complex_eyes_desc:0 "§LThis species is gifted with the ability to see more, be that colors or details.§!"
- TRAIT_COMPLEX_EYES_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§!"
+ trait_v_complex_eyes:0 "复眼"
+ trait_v_complex_eyes_desc:0 "§L这个物种能夠看到更多的颜色或细节。§!"
+ TRAIT_COMPLEX_EYES_EFFECT:0 "£job_enforcer£执法者犯罪度降低: §G+5§!"
 
  ###############################################################################################################################################################################################################
 
