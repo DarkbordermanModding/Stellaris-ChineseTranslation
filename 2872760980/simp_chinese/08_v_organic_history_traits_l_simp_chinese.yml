@@ -1,4 +1,4 @@
 ﻿l_simp_chinese:
- trait_v_history_dense_body_cover:0 "Dense Body Cover"
- trait_v_history_dense_body_cover_desc:0 "§LThis species has a natural isolating body cover, isolating them from the elements.§!"
- TRAIT_DENSE_BODY_COVER_EFFECT:0 "$mod_planet_livestock_consumer_goods_produces_add$ when enslaved: §G+1§!"
+ trait_v_history_dense_body_cover:0 "体表隔离"
+ trait_v_history_dense_body_cover_desc:0 "§L这个物种拥有天然而厚重的体表覆盖物，使它们免於外在的影响。§!"
+ TRAIT_DENSE_BODY_COVER_EFFECT:0 "被奴役时$mod_planet_livestock_consumer_goods_produces_add$: §G+1§!"
