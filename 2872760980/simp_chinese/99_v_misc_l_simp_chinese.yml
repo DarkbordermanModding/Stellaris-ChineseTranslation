@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
  mod_planet_livestock_consumer_goods_produces_add:0 "£job_livestock£§Y牲口§!产出的£consumer_goods£消費品"
  mod_planet_livestock_alloys_produces_add:0 "£job_livestock£§Y牲口§!产出的£alloys£合金"
 
@@ -10,6 +11,10 @@
  mod_planet_entertainers_physics_research_produces_add:0 "£job_entertainer£§Y演艺人员§!产出的£physics_research£物理学"
  mod_planet_entertainers_engineering_research_produces_add:0 "£job_entertainer£§Y演艺人员§!产出的£engineering_research£工程学"
 
+ mod_planet_enforcers_upkeep_mult:0 "£job_enforcer£执法者维护费"
+
+ mod_planet_doctors_society_research_produces_add:0 "£job_healthcare£医务工作者产出的£society_research£社会学"
+
  mod_planet_livestock_produces_mult:0 "牲口资源产出"
  mod_country_resource_max_energy_add:0 "能量币储存上限"
 
@@ -18,7 +23,19 @@
 
  mod_planet_researchers_energy_produces_add:0 "£job_researcher£研究人员产出的£energy£能量币"
 
+ mod_planet_researchers_volatile_motes_produces_add:0 "£job_researcher£研究人员产出的£volatile_motes£易爆微粒"
+ mod_planet_researchers_rare_crystals_produces_add:0 "£job_researcher£研究人员产出的£rare_crystals£稀有水晶"
+ mod_planet_researchers_exotic_gases_produces_add:0 "£job_researcher£研究人员产出的£exotic_gases£異星天然氣"
+
  mod_planet_pops_cyborgs_energy_upkeep_mult:0 "义体人能量币维护费"
 
  mod_job_v_harem_add:0 "后宫岗位"
  mod_job_v_ranch_livestock_add:0 "牧場牲口崗位"
+
+ planet_criminals:0 "罪犯"
+
+ mod_planet_criminals_food_upkeep_add:0 "罪犯食物维护费"
+ mod_planet_criminals_minerals_upkeep_add:0 "罪犯矿物维护费"
+ mod_planet_criminals_energy_upkeep_add:0 "罪犯能量币维护费"
+
+ WEAK_IMMUNE_SYSTEM_FORCE_DECLINE:0 "由于他们的§Y$trait_v_weak_immune_system$§!特质§R物种正在减少§!"

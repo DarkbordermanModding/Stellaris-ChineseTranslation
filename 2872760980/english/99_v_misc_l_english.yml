@@ -11,6 +11,10 @@
  mod_planet_entertainers_physics_research_produces_add:0 "£physics_research£ Physics Research from £job_entertainer£ Entertainers"
  mod_planet_entertainers_engineering_research_produces_add:0 "£engineering_research£ Physics Research from £job_entertainer£ Entertainers"
 
+ mod_planet_enforcers_upkeep_mult:0 "£job_enforcer£ Enforcer Upkeep"
+
+ mod_planet_doctors_society_research_produces_add:0 "£society_research£ Society Research from £job_healthcare£ Medical Workers"
+
  mod_planet_livestock_produces_mult:0 "Livestock Resource Output"
  mod_country_resource_max_energy_add:0 "Energy Storage Capacity"
 
@@ -19,7 +23,19 @@
 
  mod_planet_researchers_energy_produces_add:0 "£energy£ Energy from £job_researcher£ Researchers"
 
+ mod_planet_researchers_volatile_motes_produces_add:0 "£volatile_motes£ Volatile Motes from £job_researcher£ Researchers"
+ mod_planet_researchers_rare_crystals_produces_add:0 "£rare_crystals£ Rare Crystals from £job_researcher£ Researchers"
+ mod_planet_researchers_exotic_gases_produces_add:0 "£exotic_gases£ Exotic Gases from £job_researcher£ Researchers"
+
  mod_planet_pops_cyborgs_energy_upkeep_mult:0 "Cyborg Energy Upkeep"
 
  mod_job_v_harem_add:0 "Harem Jobs"
  mod_job_v_ranch_livestock_add:0 "Ranch Livestock Jobs"
+
+ planet_criminals:0 "Criminals"
+
+ mod_planet_criminals_food_upkeep_add:0 "Criminal Food Upkeep"
+ mod_planet_criminals_minerals_upkeep_add:0 "Criminal Mineral Upkeep"
+ mod_planet_criminals_energy_upkeep_add:0 "Criminal Energy Upkeep"
+
+ WEAK_IMMUNE_SYSTEM_FORCE_DECLINE:0 "§RSpecies is in decline§! due to their §Y$trait_v_weak_immune_system$§!"
