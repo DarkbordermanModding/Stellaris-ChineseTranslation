@@ -39,6 +39,9 @@
  trait_v_flying_machine:0 "航天机具"
  trait_v_flying_machine_desc:0 "§L这些机器能够飞行，使他们机动性优良。§!"
 
+ trait_v_fabricators:0 "工业制造"
+ trait_v_fabricators_desc:0 "§L这些机器广泛用于在重工业和冶金中。§!"
+
  trait_v_stationary: "锚定"
  trait_v_stationary_desc: "§L由于设计，这些机器无法搬迁到其他星球。§!"
  TRAIT_STATIONARY_EFFECT:0 "§R这些机器不会搬迁并且无法强制迁徙§!"
