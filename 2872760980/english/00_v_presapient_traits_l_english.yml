@@ -30,13 +30,13 @@
  trait_v_cosmopolitan:0 "Cosmopolitan"
  trait_v_cosmopolitan_desc:0 "§LThis species has spread far and wide across its homeworld, and it managed to thrive anywhere on it.§!"
 
- trait_v_soil_maker:0 "Soil Maker"
- trait_v_soil_maker_desc:0 "§LThis species is capable of producing soil. This ability makes this species able to turn barren planets habitable.§!"
- TRAIT_SOIL_MAKER_EFFECT:0 "Each pop working as a slave or better increases the £mod_pop_environment_tolerance£ §YHabitability§! by §G+0.5%§! \nEach pop working as a slave or better increases £food£ §YFood§! From £job£ Jobs by: §G+1%§! \nEach pop working as a slave or better decreases £minerals£ §YMinerals§! From £job£ Jobs by: §R-1%§!"
-
  trait_v_party_animal:0 "Party Animal"
  trait_v_party_animal_desc:0 "§LThis species likes to party. Their parties require a lot of resources, but at the same time are far wilder than the parties of any other species.§!"
 
  trait_v_heterogamous_reproduction:0 "Heterogamous Reproduction"
  trait_v_heterogamous_reproduction_desc:0 "§LThis species alternates between sexual and asexual reproduction depending on the environment it finds itself in. Reproducing sexually during difficult environmental conditions and asexually during beneficial environmental conditions.§!"
  TRAIT_HETEROGAMOUS_REPRODUCTION_EFFECT:0 "Species can't procreate if the planet habitability is above §Y80%§! \nWhen habitability is above §Y60%§! each pop working as a slave or better produces 0.02 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!.§!"
+
+ trait_v_soil_maker:0 "Soil Maker"
+ trait_v_soil_maker_desc:0 "§LThis species is capable of producing soil. This ability makes this species able to turn barren planets habitable.§!"
+ TRAIT_SOIL_MAKER_EFFECT:0 "Each pop working as a slave or better increases the £mod_pop_environment_tolerance£ §YHabitability§! by §G+0.5%§! \nEach pop working as a slave or better increases £food£ §YFood§! From £job£ Jobs by: §G+1%§! \nEach pop working as a slave or better decreases £minerals£ §YMinerals§! From £job£ Jobs by: §R-1%§!"
