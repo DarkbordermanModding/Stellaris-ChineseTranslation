@@ -13,18 +13,21 @@
 
  #GENERIC#
 
+ leader_trait_v_gravitational_assist:0 "重力辅助"
+ leader_trait_v_gravitational_assist_desc:0 "这位领袖出生于虚空中，非常熟悉利用重力来发挥自己的优势。"
+
  #HAREM#
  leader_trait_v_polygynous:0 "一夫多妻"
- leader_trait_v_polygynous_desc:0 "这个领袖有自己的后宫"
+ leader_trait_v_polygynous_desc:0 "这位领袖有自己的后宫"
 
  #BACKSTABBING#
  leader_trait_v_backstabbing:0 "背刺"
- leader_trait_v_backstabbing_desc:0 "这个领袖不能信任。与它们互动时，应始终牢记这一点。"
+ leader_trait_v_backstabbing_desc:0 "这位领袖不能信任。与它们互动时，应始终牢记这一点。"
  LEADER_TRAIT_BACKSTABBING_EFFECT:0 "随机领袖死亡机率: §R+1%§! \n领袖死亡时时等级: §G+1§!"
 
  #GANG LEADER#
  leader_trait_v_gang_leader:0 "劫匪领袖"
- leader_trait_v_gang_leader_desc:0 "该领袖曾经有犯罪背景。事实上他曾是犯罪组织的领导者。"
+ leader_trait_v_gang_leader_desc:0 "这位领袖曾经有犯罪背景。事实上他曾是犯罪组织的领导者。"
 
  #CAUTION TO THE WIND#
  leader_trait_v_caution_to_the_wind:0 "鲁莽行事"

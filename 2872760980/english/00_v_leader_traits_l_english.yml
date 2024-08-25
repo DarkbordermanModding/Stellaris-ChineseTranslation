@@ -17,6 +17,9 @@
 
 
  #GENERIC#
+
+ leader_trait_v_gravitational_assist:0 "Gravitational Assist"
+ leader_trait_v_gravitational_assist_desc:0 "Born in the void, this leader is well acquainted with using gravity to their advantage."
  
  #HAREM#
 
