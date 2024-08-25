@@ -1,0 +1,91 @@
+﻿
+l_english:
+
+ trait_v_cyborg_servitor:0 "Servitor"
+ trait_v_cyborg_servitor_desc:0 "§LWith a combination of implanting cybernetics and lobotomizing a part of the population, it is possible to create a loyal workforce for the most tedious of jobs.§!"
+ CYBORG_SERVITOR_EFFECT:0 "Cannot generate §YLeaders§!\nCannot be employed in §Y$pop_cat_ruler$§! or §Y$pop_cat_specialist$§! Jobs \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_nails:0 "Neural Nails"
+ trait_v_cyborg_nails_desc:0 "§LBy implanting neural nails into the brain that cause discomfort while not in combat, it allows for a terrifyingly brutal and effective army.§!"
+
+ trait_v_cyborg_weapons:0 "Weapon Implants"
+ trait_v_cyborg_weapons_desc:0 "§LImplanting weapons is a great way of increasing the combat performance of the average soldier. Everything from aim assistance through hand canons and ending on blades can be implanted."
+
+ trait_v_cyborg_blue_beam:0 "Blue Beam Implant"
+ trait_v_cyborg_blue_beam_desc:0 "§LMany cultures have previously talked about the connection with the divine. By attaching this program into the base cybernetics, it is possible to replicate this effect under our control.§!"
+
+ trait_v_cyborg_reproduction:0 "Reproductive Control"
+ trait_v_cyborg_reproduction_desc:0 "§LBy allowing the state to control the reproductive drive of its citizens it allows for much easier population controls in comparison to just using the law or suggestion.§!"
+
+ trait_v_cyborg_lungs:0 "Cybernetic Lungs"
+ trait_v_cyborg_lungs_desc:0 "§LBy replacing the respiratory system with a cybernetic analogue, it is much easier for our people to live in more inhospitable environments.§!"
+
+ trait_v_cyborg_nanomachines:0 "Nanite Enhancement"
+ trait_v_cyborg_nanomachines_desc:0 "§LThese Nanites harden in response to physical trauma, allowing for more resilient troops and for repairs on the celular level, greatly increasing life expectancy.§!"
+ CYBORG_NANOMACHINE_UPKEEP_EFFECT:0 "Increases £nanites£ §YNanites§! Upkeep by §R+0.125§!"
+
+ trait_v_cyborg_autodoc:0 "Autodoc"
+ trait_v_cyborg_autodoc_desc:0 "§LBy implanting a health monitoring system, the risks of contracting any illness is greatly reduced.§!"
+
+ trait_v_cyborg_fractal_limbs:0 "Fractal Limbs"
+ trait_v_cyborg_fractal_limbs_desc:0 "§LThe Limbs of this species have been enhanced allowing them to split in a fractal like fashion, allowing for great precision and overall ability to manipulate objects§!"
+
+ trait_v_chem_skin:0 "Chemical Resistant Skin"
+ trait_v_chem_skin_desc:0 "§LReplacing the natural epidermis with a synthetic chemical resistant one.§!"
+
+ trait_v_cyborg_stealth:0 "Stealth Skin"
+ trait_v_cyborg_stealth_desc:0 "§LBy placing a set of stealth systems within and below the skin, the chances of being detected are drastically reduced.§!"
+ CYBORG_STEALTH_EFFECT:0 "$TRAIT_ACTIVE_CAMOUFLAGE_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
+
+ trait_v_solar_skin_b:0 "Solar Skin"
+ trait_v_solar_skin_b_desc:0 "§LTransfering a part of the metabolic processes away from chemical energy to the solar energy, allows to offload the upkeep cost from planets offworld.§!"
+ trait_v_solar_skin_l:0 "$trait_v_solar_skin_b$"
+ trait_v_solar_skin_l_desc:0 "$trait_v_solar_skin_b_desc$"
+ TRAIT_LITHOID_PHOTOTROPHIC_EFFECT:0 "Replaces §Y50%§! of Base £minerals£ §YMineral§! Upkeep with £energy£ §YEnergy§! Upkeep."
+
+ trait_v_soft_augmentations:0 "Soft Augmentations"
+ trait_v_soft_augmentations_desc:0 "§LA combination of extremely flexible materials and a set of extremely precise motors and artificial muscles allows for never-before-seen advancements in surgery and biological research.§!"
+ TRAIT_CYBORG_SOFT_ROBOTICS_EFFECT:0 "$TRAIT_SOFT_ROBOTICS_EFFECT$ \n$CYBORG_ENERGY_UPKEEP_EFFECT$"
+
+ trait_v_cyborg_internet:0 "Galactic Internet Access"
+ trait_v_cyborg_internet_desc:0 "§LHaving direct access to all the knowledge of the galaxy has its upsides.§!"
+ CYBORG_INTERNET_EFFECT:0 "Each Ruler or Specialist pop in the empire with §HGalactic Internet Access§! increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by §G+0.125%§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_motoric:0 "Motoric Upgrades"
+ trait_v_cyborg_motoric_desc:0 "§LHaving replaced certain parts of the brain and central nervous system, greatly reducing reaction time.§!"
+
+ trait_v_cyborg_mobility:0 "Augmented Mobility"
+ trait_v_cyborg_mobility_desc:0 "§LImplanting artificial muscles, additional joints, or built in repulsors, will greatly increase both movement speed and our combat performance.§!"
+
+ trait_v_cyborg_bulletproofing:0 "Bulletproofing"
+ trait_v_cyborg_bulletproofing_desc:0 "§LImplanting subdermal layers of carbon nanofibers combined with artificial bones can make our troops exceedingly resistant to physical damage.§!"
+
+ trait_v_cyborg_exotic_augments:0 "Exotic Augments"
+ trait_v_cyborg_exotic_augments_desc:0 "§LThese individuals seem to be very fond of augmenting their bodies in unexpected ways to show their individuality.§!"
+ TRAIT_EXOTIC_AUGMENTS_EFFECT:0 "Each pop working as a slave or better produces 1 £trade_value£ §YTrade Value§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_polluting:0 "Polluting"
+ trait_v_cyborg_polluting_desc:0 "§LThese cybernetics have an extremely negative impact on the environment.§!"
+
+ trait_v_cyborg_mobile_platform:0 "Mobile Platform"
+ trait_v_cyborg_mobile_platform_desc:0 "§LBy adding a cybernetic mobility platform, this species can finally become mobile.§!"
+ TRAIT_MOBILE_PLATFORM_EFFECT:0 "§GNegates the effects of immobilising traits.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_bubble:0 "Cyber Sterility"
+ trait_v_cyborg_bubble_desc:0 "§LBy lining every orifice of the body with artificial epidermis, installing sterilizing implants and other augmentation it is possible to mitigate the effects of spending time around some of the more toxic individuals.§!"
+ TRAIT_BUBBLE_EFFECT:0 "Negates the habitability effects of §HWeak Immune System§!, §HAllelopathy§!, §HPlagued§! and §HDust Reproduction§! on this species. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_no_crime:0 "Guardian Sibling Protocols"
+ trait_v_cyborg_no_crime_desc:0 "§LIf everyone listened to their guardian angel on their shoulder, the galaxy would be a better place. Thanks to advancements in technology, we can now prevent criminal thoughts from occurring by tapping into a potential criminal's nervous system.§!"
+ TRAIT_NO_CRIME_EFFECT:0 "§GSpecies doesn't generate any crime.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_engram:0 "Engram Recorder"
+ trait_v_cyborg_engram_desc:0 "§LBy recording the engrams of our leaders that died, we might salvage all that experience to train new leaders.§!"
+ TRAIT_CYBORG_ENGRAMS_EFFECT:0 "$TRAIT_MACHINE_ENGRAMS_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_economies_of_scale:0 "Economies of Scale"
+ trait_v_cyborg_economies_of_scale_desc:0 "§LBy using advanced algorithms and specially designed cybernetics, it is possible to reduce operating costs and improve efficiency with increasing levels of production.§!"
+ 
+ trait_v_cyborg_wide_range_sensors:0 "Wide Range Optical Sensors"
+ trait_v_cyborg_wide_range_sensors_desc:0 "Through the application of wide range optical sensors, it is possible to see what others can't."
+ TRAIT_CYBORG_COMPLEX_EYES_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
