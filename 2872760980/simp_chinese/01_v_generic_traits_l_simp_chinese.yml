@@ -1,31 +1,16 @@
 ﻿l_simp_chinese:
 
+ trait_v_parasitised:0 "寄生宿主"
+ trait_v_parasitised_desc:0 "§L这个物种被脑部寄生虫感染，寄生虫能夠操作宿主運作。不幸的是他們的智力是跟隨宿主的。§!"
+ TRAIT_PARASITISED_EFFECT: "物种随时间成为被寄生的子物种 \n击败陆军时感染人口机率: §Y+33%§! \n有任何寄生宿主存在时幸福度: §R-10%§! \n信任度增长: §R-20%§! \n\n由于游戏设计，如果要避免原生物种变成子物种的话要在物种前面加上§Y空白§!"
+
+ trait_v_parasite_immunity:0 "寄生免疫"
+ trait_v_parasite_immunity_desc:0 "§L基于物种进化，这个物种对各种寄生虫感染有极有效的免疫反应。§!"
+ TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§G这个物种不会被寄生物种感染§!"
+
  trait_v_horizontal_gene_transfer:0 "遗传同化"
  trait_v_horizontal_gene_transfer_desc:0 "§L这个物种具有从周遭环境获得正向特质的能力。尽管这种能力一般只有单细胞生物具有，但这个物种似乎是少数例外。§!"
- TRAIT_HGT_EFFECT: "当这个物种和其他物种共存时，可以获得其正向同化特质。\n§H起源§!，§H未開智§!及种族特定特质无法获得。\n已有类似特质时则不会再获得。"
-
- trait_agrarian_assimilation:0 "农民同化"
- trait_industrious_assimilation:0 "勤勉同化"
- trait_ingenious_assimilation:0 "足智多谋同化"
- trait_intelligent_assimilation:0 "聪慧同化"
- trait_natural_engineers_assimilation:0 "天生工程师同化"
- trait_natural_physicists_assimilation:0 "天生物理学家同化"
- trait_natural_sociologists_assimilation:0 "天生社会学家同化"
- trait_strong_assimilation:0 "强壮同化"
- trait_very_strong_assimilation:0 "非常强壮同化"
- trait_adaptive_assimilation:0 "善于适应同化"
- trait_extremely_adaptive_assimilation:0 "极易适应同化"
- trait_rapid_breeders_assimilation:0 "快速繁殖同化"
- trait_traditional_assimilation:0 "传统同化"
- trait_conservational_assimilation:0 "保守主义同化"
- trait_incubator_assimilation:0 "孵化者同化"
- trait_humanoid_existential_iteroparity_assimilation:0 "续存增殖同化"
-
- trait_docile_assimilation:0 "温顺同化"
- trait_communal_assimilation:0 "合群同化"
- trait_v_precise_assimilation:0 "精确同化"
- trait_v_efficient_digestion_assimilation:0 "消化優良同化"
- trait_v_large_assimilation:0 "身形庞大同化"
+ TRAIT_HGT_EFFECT: "每个做为奴隶或更高工作标准的人口每月产生 0.5 £society_research£§Y社会学§!。\n这个物种能够藉由基因修改添加§Y种族限制§!的基因，只要帝国内有此基因的种族存在(起源，未开智及进阶负向特质无法添加)。"
 
  trait_v_precise:0 "精确"
  trait_v_precise_desc:0 "§L这个物种在制造和战斗中都能做到极为精确的动作。§!"
@@ -47,26 +32,6 @@
 
  trait_v_pack_behaviour:0 "集团行为"
  trait_v_pack_behaviour_desc:0 "§L这个物种在其成员之间具有独特的关系。他们对参加「集团」的任何人都表现出极大的忠诚。这不仅限于自己物种的成员，任何人都可以成为其中的一部分。这对他们来说是必需的。§!"
-
- trait_v_lithotrophic:0 "碳硅基生物"
- trait_v_lithotrophic_desc:0 "§L这个物种的胺基酸部分基于碳和硅。这使它们成为碳基和硅基的生物体之间的中间点。§!"
- TRAIT_LITHOTROPHIC_EFFECT:0 "将§Y50%§!的基础£food£§Y食物§!维护费替换为£minerals£§Y矿物§!维护费。 \n\n人口增长速度: §R-12.5%§! \n人口组装速度: §R-12.5%§! \n宜居性: §G+25%§! \n陆军生命值: §G+25%§! \n领袖寿命: §G+25§!年"
-
- trait_v_parasitised:0 "寄生宿主"
- trait_v_parasitised_desc:0 "§L这个物种被脑部寄生虫感染，寄生虫能夠操作宿主運作。不幸的是他們的智力是跟隨宿主的。§!"
- TRAIT_PARASITISED_EFFECT: "物种随时间成为被寄生的子物种 \n击败陆军时感染人口机率: §Y+33%§! \n有任何寄生宿主存在时幸福度: §R-10%§! \n信任度增长: §R-20%§! \n\n由于游戏设计，如果要避免原生物种变成子物种的话要在物种前面加上§Y空白§!"
-
- trait_v_parasitic_castration:0 "寄生阉割"
- trait_v_parasitic_castration_desc:0 "§L这个物种被脑部寄生虫感染。感染过程需要对宿主进行阉割，这使得宿主人口不会比原人口高。§!"
- TRAIT_PARASITIC_CASTRATION_EFFECT: "物种随时间成为被寄生的子物种 \n击败陆军时感染人口机率: §Y+33%§! \n有任何寄生宿主存在时幸福度: §R-10%§! \n信任度增长: §R-20%§! \n\n由于游戏设计，如果要避免原生物种变成子物种的话要在物种前面加上§Y空白§!"
-
- trait_v_parasite_immunity:0 "寄生免疫"
- trait_v_parasite_immunity_desc:0 "§L基于物种进化，这个物种对各种寄生虫感染有极有效的免疫反应。§!"
- TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§G这个物种不会被寄生物种感染§!"
-
- trait_v_hypermetabolic:0 "高代谢"
- trait_v_hypermetabolic_desc:0 "§L这个物种的代谢相当活跃。这个物种有大量的精力花在琐碎的任务上，但在较高的温度下效率较差。§!"
- TRAIT_HYPERMETABOLIC_EFFECT:0 "§Y寒冷§!星球人口消费品维护费: §G-10%§! \n§Y寒冷§!星球食物，能量币，矿物产出: §G+10%§! \n非§Y寒冷§!星球人口消费品维护费: §R-20%§! \n非§Y寒冷§!星球食物，能量币，矿物产出: §R+20%§! \n非§Y寒冷§!星球宜居性: §R-40%§!"
 
  trait_v_weak_immune_system:0 "弱免疫系统"
  trait_v_weak_immune_system_desc:0 "§L这个物种的免疫系统极弱，其他物种的小病可以要了他們的命。因此这个物种必须永久隔离以防止患病。§!"
@@ -129,3 +94,15 @@
  trait_v_lithoid_small:0 "$trait_v_small$"
  trait_v_lithoid_small_desc:0 "$trait_v_small_desc$"
  TRAIT_LITHOID_SMALL_EFFECT:0 "每个特质对人口矿物维护费: §R+5%§! \n每个特质对强制搬迁费用: §G-10%§!"
+
+ trait_v_gigantic:0 "利維坦"
+ trait_v_gigantic_desc:0 "§L这个物种因其如同神话巨兽般的身躯而闻名§!"
+ TRAIT_GIGANTIC_EFFECT:0 "每个特质对人口食物维护费: §G-7.5%§! \n每个特质对强制搬迁费用: §R+15%§!"
+
+ trait_v_lithoid_gigantic:0 "利維坦"
+ trait_v_lithoid_gigantic_desc:0 "§L这个物种因其如同神话巨兽般的身躯而闻名§!"
+ TRAIT_LITHOID_GIGANTIC_EFFECT:0 "每个特质对人口矿物维护费: §G-7.5%§! \n每个特质对强制搬迁费用: §R+15%§!"
+
+ trait_v_extremophile:0 "环境弹性"
+ trait_v_extremophile_desc:0 "§L这个物种与类似的物种在环境上具有极高的弹性。§!"
+ TRAIT_EXTREMOPHILE_EFFECT:0 "物种£mod_pop_environment_tolerance£§Y宜居性§!效果翻倍。"
