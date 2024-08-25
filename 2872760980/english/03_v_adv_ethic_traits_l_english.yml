@@ -59,10 +59,10 @@
 
  trait_v_robot_belligerent:0 "Patriot Protocols"
  trait_v_robot_belligerent_desc:0 "§LIn the case of conflict, these machines are capable of working beyond what could be considered their normal capabilities.§!"
- 
+
  trait_v_robot_war_ingenuity:0 "Wartime Streamlining Protocols"
  trait_v_robot_war_ingenuity_desc:0 "§LThese Machines are capable of streamlining their research capabilities during wartimes.§!"
-
+ 
  trait_v_robot_militaristic_mindset:0 "Militaristic Directives"
  trait_v_robot_militaristic_mindset_desc:0 "§LThese machines are highly inclined towards militaristic skills.§!"
 
@@ -71,7 +71,7 @@
 
  trait_v_robot_tight_knit:0 "Peace Time Protocols "
  trait_v_robot_tight_knit_desc:0 "§LThese machines were designed to be as easily organized as possible. The fact that this only works during times of peace is a small drawback in the large scale of things.§!"
-
+ 
  trait_v_robot_administrative_mindset:0 "Administrative Directives"
  trait_v_robot_administrative_mindset_desc:0 "§LThese machines are highly inclined towards administrative skills.§!"
 
