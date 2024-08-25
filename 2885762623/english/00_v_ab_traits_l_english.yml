@@ -1,29 +1,53 @@
 ﻿l_english:
 
- trait_v_abspecies_a:0 "§GAlpha Abspecies§!"
+ trait_v_abspecies_a:0 "§RAlpha§! Abspecies"
  trait_v_abspecies_a_desc:0 "§LThis species has relatives somwhere in space, that might look drastically different to what they look like but still can be considered as related.§!"
  TRAIT_ABSPECIES_EFFECT:0 "If this species and another has both the same species class and same Abspecies trait, it will make both species subspecies of eachother. Species with other Abspecies traits won't be merged with eachother. \n\n§HThis trait will be removed after game start.§!"
 
- trait_v_abspecies_b:0 "§BBeta Abspecies§!"
+ trait_v_abspecies_b:0 "§HBeta§! Abspecies"
  trait_v_abspecies_b_desc:0 "$trait_v_abspecies_a_desc$"
 
- trait_v_abspecies_c:0 "§EGamma Abspecies§!"
+ trait_v_abspecies_c:0 "§YGamma§! Abspecies"
  trait_v_abspecies_c_desc:0 "$trait_v_abspecies_a_desc$"
 
- trait_v_abspecies_d:0 "§MDelta Abspecies§!"
+ trait_v_abspecies_d:0 "§lDelta§! Abspecies"
  trait_v_abspecies_d_desc:0 "$trait_v_abspecies_a_desc$"
+
+ trait_v_abspecies_e:0 "§GEpsilon§! Abspecies"
+ trait_v_abspecies_e_desc:0 "$trait_v_abspecies_a_desc$"
+
+ trait_v_abspecies_f:0 "§cZeta§! Abspecies"
+ trait_v_abspecies_f_desc:0 "$trait_v_abspecies_a_desc$"
+
+ trait_v_abspecies_g:0 "§BEta§! Abspecies"
+ trait_v_abspecies_g_desc:0 "$trait_v_abspecies_a_desc$"
+
+ trait_v_abspecies_h:0 "§rTheta§! Abspecies"
+ trait_v_abspecies_h_desc:0 "$trait_v_abspecies_a_desc$"
 
  ################################################################################################################################
 
- trait_v_abspecies_universal_a:0 "§YAlpha Universal Abspecies§!"
+ trait_v_abspecies_universal_a:0 "§RAlpha§! Universal Abspecies"
  trait_v_abspecies_universal_a_desc:0 "§LThis species has relatives somwhere in space, that might look drastically different to what they look like and even have a drastically different physiology, but they still can be considered as related.§!"
  TRAIT_ABSPECIES_UNIVERSAL_EFFECT:0 "If this species and another has the same Abspecies trait, it will make both species subspecies of eachother. Species with other Abspecies traits won't be merged with eachother. \n\n§HThis trait will be removed after game start.§!"
 
- trait_v_abspecies_universal_b:0 "§HBeta Universal Abspecies§!"
+ trait_v_abspecies_universal_b:0 "§HBeta§! Universal Abspecies"
  trait_v_abspecies_universal_b_desc:0 "$trait_v_abspecies_universal_a_desc$"
 
- trait_v_abspecies_universal_c:0 "§PGamma Universal Abspecies§!"
+ trait_v_abspecies_universal_c:0 "§YGamma§! Universal Abspecies"
  trait_v_abspecies_universal_c_desc:0 "$trait_v_abspecies_universal_a_desc$"
 
- trait_v_abspecies_universal_d:0 "§RDelta Universal Abspecies§!"
+ trait_v_abspecies_universal_d:0 "§lDelta§! Universal Abspecies"
  trait_v_abspecies_universal_d_desc:0 "$trait_v_abspecies_universal_a_desc$"
+
+ trait_v_abspecies_universal_e:0 "§GEpsilon§! Universal Abspecies"
+ trait_v_abspecies_universal_e_desc:0 "$trait_v_abspecies_universal_a_desc$"
+
+ trait_v_abspecies_universal_f:0 "§cZeta§! Universal Abspecies"
+ trait_v_abspecies_universal_f_desc:0 "$trait_v_abspecies_universal_a_desc$"
+
+ trait_v_abspecies_universal_g:0 "§BEta§! Universal Abspecies"
+ trait_v_abspecies_universal_g_desc:0 "$trait_v_abspecies_universal_a_desc$"
+
+ trait_v_abspecies_universal_h:0 "§rTheta§! Universal Abspecies"
+ trait_v_abspecies_universal_h_desc:0 "$trait_v_abspecies_universal_a_desc$"
