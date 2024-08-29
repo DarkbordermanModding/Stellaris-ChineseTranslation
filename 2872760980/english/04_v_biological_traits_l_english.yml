@@ -424,6 +424,18 @@
  trait_v_complex_eyes_desc:0 "§LThis species is gifted with the ability to see more, be that colors or details.§!"
  TRAIT_COMPLEX_EYES_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§!"
 
+ trait_v_selective_caste:0 "Selective Caste"
+ trait_v_selective_caste_desc:0 "§LMembers of this species are born in extreme numbers. The numbers are so extreme, there wouldn't be enough sustenance for them all. Due to this, this species has a specific caste of young, specifically destined to kill as many of their siblings as possible.§!"
+ TRAIT_SELECTIVE_CASTE_EFFECT:0 "When a pop of this species grows, there is a §R33%§! chance that between §Y2§! and §Y4§! hostile armies are spawned. If the hostile armies win, they will kill a random pop and disappear."
+
+ v_selective_caste_army:0 "Fratricidal Siblings"
+ v_selective_caste_army_desc:0 "Fratricidal Siblings"
+ NAME_v_guardian:0 "Fratricidal Siblings"
+
+ trait_v_petrol_habitat:0 "Petrol Habitat"
+ trait_v_petrol_habitat_desc:0 "§LThis species likes to inhabit environments that most other species would consider toxic.§!"
+ TRAIT_PETROL_HABITAT_EFFECT:0 "Housing Usage per potential £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resource§! extraction building: §G-15%§!"
+
  ###############################################################################################################################################################################################################
 
  trait_v_kleptoplasty:0 "Kleptoplasty"

@@ -404,7 +404,7 @@
 
  trait_v_phytoextraction:0 "萃取"
  trait_v_phytoextraction_desc:0 "§L这个物种能够从土壤中提取稀有资源。§!"
- TRAIT_PHYTOEXTRACTION_EFFECT:0 "£job_farmer£§Y农夫§!對£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!建物产出: §G+0.1§! \n£job_livestock£§Y牲口§!对£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!建物产出: §G+0.5§!"
+ TRAIT_PHYTOEXTRACTION_EFFECT:0 "每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对£job_farmer£§Y农夫§!§Y战略资源§!产出: §G+0.1§! \n每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对£job_livestock£§Y牲口§!§Y战略资源§!产出: §G+0.5§!"
 
  trait_v_hysterical_strength:0 "力量抑制"
  trait_v_hysterical_strength_desc:0 "§L这个物种有一种神经激素机制限制其真正的力量，因为它们的肌肉可能会摧毁它们的身体。§!"
@@ -416,11 +416,23 @@
 
  trait_v_polyextremophile:0 "极端环境嗜好"
  trait_v_polyextremophile_desc:0 "§L这个物种喜欢存在于其他物种认为有毒的物质中。§!"
- TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£mod_pop_environment_tolerance£ §Y宜居性§!对£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!建物产出: §G+15%§!"
+ TRAIT_POLYEXTREMOPHILE_EFFECT:0 "每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对 £mod_pop_environment_tolerance£ §Y宜居性§!: §G+15%§!"
 
  trait_v_complex_eyes:0 "复眼"
  trait_v_complex_eyes_desc:0 "§L这个物种能夠看到更多的颜色或细节。§!"
  TRAIT_COMPLEX_EYES_EFFECT:0 "£job_enforcer£执法者犯罪度降低: §G+5§!"
+
+ trait_v_selective_caste:0 "手足相殘"
+ trait_v_selective_caste_desc:0 "§L这个物种的出生数量极其庞大，无法为它们提供足够的食物。因此，这个物种存在一种特殊的年轻阶级，尽可能多地杀死它们的兄弟姐妹。§!"
+ TRAIT_SELECTIVE_CASTE_EFFECT:0 "当人口成长时有§R33%§!机率生成§Y2§!至§Y4§!组敌对陆军。若敌对陆军胜利他们会杀死随机一人口并消失。"
+
+ v_selective_caste_army:0 "相残幼体"
+ v_selective_caste_army_desc:0 "相残幼体"
+ NAME_v_guardian:0 "相残幼体"
+
+ trait_v_petrol_habitat:0 "毒中栖息"
+ trait_v_petrol_habitat_desc:0 "§L这个物种喜欢栖息在大多数其他物种认为有毒的环境中。§!"
+ TRAIT_PETROL_HABITAT_EFFECT:0 "每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对人口住房使用: §G-15%§!"
 
  ###############################################################################################################################################################################################################
 

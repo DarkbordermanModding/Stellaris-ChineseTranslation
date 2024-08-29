@@ -83,7 +83,7 @@
 
  trait_v_spaghetti_code:0 "糟糕代码"
  trait_v_spaghetti_code_desc:0 "§L这些机器的代码……能运行……但要理解它却是噩梦般的困难。§!"
- TRAIT_SPAGHETTI_CODE_EFFECT:0 "Empire Size from Pops for each positive trait selected: §R+5%§!"
+ TRAIT_SPAGHETTI_CODE_EFFECT:0 "每个正向特质对人口帝国规模: §R+5%§!"
 
  trait_v_wide_range_sensors:0 "广域传感器"
  trait_v_wide_range_sensors_desc:0 "通过广域光学传感器，可以看到别人无法看到的东西。"
