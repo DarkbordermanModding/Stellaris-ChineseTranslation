@@ -86,4 +86,7 @@
  TRAIT_SPAGHETTI_CODE_EFFECT:0 "每个正向特质对人口帝国规模: §R+5%§!"
 
  trait_v_wide_range_sensors:0 "广域传感器"
- trait_v_wide_range_sensors_desc:0 "通过广域光学传感器，可以看到别人无法看到的东西。"
+ trait_v_wide_range_sensors_desc:0 "§L通过广域光学传感器，可以看到别人无法看到的东西。§!"
+
+ trait_v_unreliable:0 "不可靠"
+ trait_v_unreliable_desc:0 "§L这些机器并不可靠，可能会随机故障。§!"

@@ -86,4 +86,7 @@
  TRAIT_SPAGHETTI_CODE_EFFECT:0 "Empire Size from Pops for each positive trait selected: §R+5%§!"
 
  trait_v_wide_range_sensors:0 "Wide Range Optical Sensors"
- trait_v_wide_range_sensors_desc:0 "Through the application of wide range optical sensors, it is possible to see what others can't."
+ trait_v_wide_range_sensors_desc:0 "§LThrough the application of wide range optical sensors, it is possible to see what others can't.§!"
+
+ trait_v_unreliable:0 "Unreliable"
+ trait_v_unreliable_desc:0 "§LThese machines aren't the most reliable, having a random tendency to break.§!"
