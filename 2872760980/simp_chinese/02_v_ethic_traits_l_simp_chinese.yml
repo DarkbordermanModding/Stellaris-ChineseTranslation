@@ -26,7 +26,7 @@
 
  trait_v_masterful_rulers:0 "治理大师"
  trait_v_masterful_rulers_desc:0 "§L这个物种在治理领域都胜过其他物种。§!"
- TRAIT_MASTERFUL_RULERS_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \n每飞升阶级对统治者产出: §G+10%§!"
+ TRAIT_MASTERFUL_RULERS_EFFECT:0 "每飞升阶级对统治者产出: §G+10%§! \n$MOD_LEADER_INITIAL_SKILL$: §G+1§!"
 
  trait_v_competetive:0 "爱好竞争"
  trait_v_competetive_desc:0 "§L这个物种天性喜欢竞争。§!"
@@ -87,6 +87,10 @@
  trait_v_militaristic_mindset_desc:0 "§L这个物种在军事方面上有高度造诣。§!"
  TRAIT_MILITARISTIC_MINDSET_EFFECT:0 "$mod_commander_initial_skill$: §G+1§!"
 
+ trait_v_rage_prone:0 "暴怒"
+ trait_v_rage_prone_desc:0 "§L这个物种经常表现出攻击性行为。§!"
+ TRAIT_RAGE_PRONE_EFFECT:0 "每月 $commander_with_icon$ 死亡机率: §R+1%§!"
+
  trait_v_cowardly:0 "胆小"
  trait_v_cowardly_desc:0 "§L這個物種不在乎保家衛國，发生战争时他们宁愿打包离开国家。§!"
  TRAIT_COWARD_EFFECT:0 "在战争和危机期间£unity£凝聚力产出: §R-25%§! \n在战争和危机期间强制迁徙花费: §G-50%§!"
@@ -110,6 +114,10 @@
  trait_v_proselytizing_desc:0 "§L宗教对这个物种不仅仅是个人事物。对他们而言信教是本能驱使的，并深深植根于他们的伦理学。§!"
  TRAIT_PROSELYTIZING_EFFECT:0 "每个做为奴隶或更高工作标准的唯心主义人口唯心主义思潮吸引力: §G+1%§! \n每个做为奴隶或更高工作标准的唯心主义人口每月产生 0.5 £unity£§Y凝聚力§!"
 
+ trait_v_intelligent_design_spiritualist:0 "灵性设计"
+ trait_v_intelligent_design_spiritualist_desc:0 "§L这个物种在其生理中具有灵性的图样及印记。§!"
+ TRAIT_ID_SPIRITUALIST_EFFECT:0 "每个正面特质对唯心主义思潮吸引力: §G+5%§! \n每个正面特质对人口消费品维护费: §G-2%§!"
+
  trait_v_astrology:0 "占星学"
  trait_v_astrology_desc:0 "§L这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。§!"
  TRAIT_ASTROLOGY_EFFECT:0 "星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对幸福度: §G+1%§! \n星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对唯心主义思潮吸引力: §G+2%§! \n£job_priest£ £job_death_priest£ §Y祭司§!视为£job_entertainer£§Y演艺人员§!"
@@ -128,6 +136,14 @@
  trait_v_materialistic:0 "物质主义"
  trait_v_materialistic_desc:0 "§L这个物种的人生目标便是获得尽可能多的物质财富。§!"
  TRAIT_MATERIALISTIC_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口唯物主义思潮吸引力: §G+1%§! \n每个做为奴隶或更高工作标准的唯物主义人口產生 1 £trade_value£ §Y贸易额§!。 \n唯物主义人口消费品维护费: §R+10%§! \n唯物主义人口住房使用: §R+10%§!"
+
+ trait_v_intelligent_design_materialist:0 "物质性设计"
+ trait_v_intelligent_design_materialist_desc:0 "§L这个物种在其生理中看不到任何灵性，只看到层出不穷的缺陷。§!"
+ TRAIT_ID_MATERIALIST_EFFECT:0 "每个负面特质对唯物主义思潮吸引力: §G+5%§! \n每个負面特质对人口消费品维护费: §R+2%§!"
+
+ trait_v_irresponsible:0 "不负责任"
+ trait_v_irresponsible_desc:0 "§L对这个物种来说，健康和安全是次要的考虑。§!"
+ TRAIT_IRRESPONSIBLE_EFFECT:0 "每月 $scientist_with_icon$ 死亡机率: §R+1%§!"
 
  trait_v_algorithmic_mind:0 "算法思维"
  trait_v_algorithmic_mind_desc:0 "§L这个物种以分析的角度看待世界。§!"

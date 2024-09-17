@@ -26,7 +26,7 @@
 
  trait_v_masterful_rulers:0 "Masterful Rulers"
  trait_v_masterful_rulers_desc:0 "§LThis species has a ruler class that outperforms in the realm of governance.§!"
- TRAIT_MASTERFUL_RULERS_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \nRuler Pop Resource Output per per Ascention Tier: §G+10%§!"
+ TRAIT_MASTERFUL_RULERS_EFFECT:0 "Ruler Pop Resource Output per per Ascention Tier: §G+10%§! \n$MOD_LEADER_INITIAL_SKILL$: §G+1§!"
 
  trait_v_competetive:0 "Competetive"
  trait_v_competetive_desc:0 "§LThis species has a very competetive nature.§!"
@@ -87,6 +87,10 @@
  trait_v_militaristic_mindset_desc:0 "§LThis species is highly inclined towards militaristic skills.§!"
  TRAIT_MILITARISTIC_MINDSET_EFFECT:0 "$mod_commander_initial_skill$: §G+1§!"
 
+ trait_v_rage_prone:0 "Raging"
+ trait_v_rage_prone_desc:0 "§LThis species often acts out aggressively.§!"
+ TRAIT_RAGE_PRONE_EFFECT:0 "Monthly $commander_with_icon$ Death Chance: §R+1%§!"
+
  trait_v_cowardly:0 "Cowardly"
  trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
  TRAIT_COWARD_EFFECT:0 "£unity£ Unity from £job£ Jobs During War and Crisis: §R-25%§! \nResettlement Cost During War and Crisis: §G-50%§!"
@@ -110,6 +114,10 @@
  trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
  TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 0.5 £unity£ §YUnity§! per month."
 
+ trait_v_intelligent_design_spiritualist:0 "Intelligent Design"
+ trait_v_intelligent_design_spiritualist_desc:0 "§LThis species, sees the origin of their species as a sign of divinity reflected in their biology.§!"
+ TRAIT_ID_SPIRITUALIST_EFFECT:0 "Spiritualist Ethics Attraction for each positive trait selected: §G+5%§! \nPop Consumer Goods Upkeep for each positive trait selected: §G-2%§!"
+
  trait_v_astrology:0 "Astrology"
  trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
  TRAIT_ASTROLOGY_EFFECT:0 "Happiness for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+1%§! \nSpiritualist Ethics Attraction for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+2%§! \n£job_priest£ £job_death_priest£ §YPriests§! count as £job_entertainer£ §YEntertainers§!."
@@ -128,6 +136,14 @@
  trait_v_materialistic:0 "Materialistic"
  trait_v_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
  TRAIT_MATERIALISTIC_EFFECT:0 "Each Materialist pop working as a slave or better increases Materialist Ethics Attraction by: §G+1%§! \nEach Materialist pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!. \nPop Consumer Goods Upkeep for Materialist pops: §R+10%§! \nPop Housing Usage for Materialist pops: §R+10%§!"
+
+ trait_v_intelligent_design_materialist:0 ""Intelligent" Design"
+ trait_v_intelligent_design_materialist_desc:0 "§LThis species, sees no divinity in its biology, only flaws upon flaws.§!"
+ TRAIT_ID_MATERIALIST_EFFECT:0 "Materialist Ethics Attraction for each negative trait selected: §G+5%§! \nPop Consumer Goods Upkeep for each negative trait selected: §R+2%§!"
+
+ trait_v_irresponsible:0 "Irresponsible"
+ trait_v_irresponsible_desc:0 "§LHealth and safety are secondary concerns for this species.§!"
+ TRAIT_IRRESPONSIBLE_EFFECT:0 "Monthly $scientist_with_icon$ Death Chance: §R+1%§!"
 
  trait_v_algorithmic_mind:0 "Algorithmic Mind"
  trait_v_algorithmic_mind_desc:0 "§LThis species sees the world in the most analytical way possible.§!"
