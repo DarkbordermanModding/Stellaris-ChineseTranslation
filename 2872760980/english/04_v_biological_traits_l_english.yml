@@ -406,7 +406,7 @@
 
  trait_v_phytoextraction:0 "Phytoextraction"
  trait_v_phytoextraction_desc:0 "§LThis species is capable of extracting rare resources from the very soil.§!"
- TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_farmer£ §YFarmers§! per potential resource extraction building: §G+0.1§! \n£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_livestock£ §YLivestock§! per potential resource extraction building: §G+0.5§!"
+ TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers are applied to £job_farmer£ §YFarmers§! at §G50%§! of their strenght, and £job_livestock£ §YLivestock§! at §G100%§! of their strenght"
 
  trait_v_hysterical_strength:0 "Hysterical Strength"
  trait_v_hysterical_strength_desc:0 "§LThis species has a neuro-hormonal mechanism limiting their true strength, as their muscles could destroy their bodies.§!"
@@ -418,7 +418,7 @@
 
  trait_v_polyextremophile:0 "Polyextremophile"
  trait_v_polyextremophile_desc:0 "§LThis species likes to exist in the presence of substances other species would have considered toxic.§!"
- TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£mod_pop_environment_tolerance£ §YHabitability§! per potential £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resource§! extraction building: §G+15%§!"
+ TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers, count as £mod_pop_environment_tolerance£ §YHabitability§! modifiers."
 
  trait_v_complex_eyes:0 "Complex Eyes"
  trait_v_complex_eyes_desc:0 "§LThis species is gifted with the ability to see more, be that colors or details.§!"
@@ -434,7 +434,11 @@
 
  trait_v_petrol_habitat:0 "Petrol Habitat"
  trait_v_petrol_habitat_desc:0 "§LThis species likes to inhabit environments that most other species would consider toxic.§!"
- TRAIT_PETROL_HABITAT_EFFECT:0 "Housing Usage per potential £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resource§! extraction building: §G-15%§!"
+ TRAIT_PETROL_HABITAT_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers, count as Housing Usage modifiers."
+
+ trait_v_ring_shaped_brain:0 "Ring-Shaped Brain"
+ trait_v_ring_shaped_brain_desc:0 "§LThis species has a ring-shaped brain, through which their digestive system runs. Not being careful about eating might cause brain damage or death for them.§!"
+ TRAIT_RING_SHAPED_BRAIN_EFFECT:0 "Monthly Death Chance: §R+1%§!"
 
  ###############################################################################################################################################################################################################
 

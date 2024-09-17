@@ -50,6 +50,8 @@
  trait_v_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
  TRAIT_RHIZOBIAL_EFFECT:0 "每10个具根瘤菌特质人口在非都市及人造星球获得1£district£§Y农业区划§!"
 
+ #TRAIT_RHIZOBIAL_EFFECT:0 "Each pop working as a slave or better increases £food£ §YFood§! from £job_farmer£ §YFarmers§! by: §G+1%§!"
+
  trait_v_olotonic:0 "固氮"
  trait_v_olotonic_desc:0 "§L这个物种能够产生具固氮细菌的粘液，这些粘液能够对其下的土壤施肥。§!"
  TRAIT_OLOTONIC_EFFECT:0 "每个£job_farmer£§Y农夫§!岗位对£job_farmer£§Y农夫§!£food£§Y食物§!产出: §G+1%§!"
@@ -404,7 +406,7 @@
 
  trait_v_phytoextraction:0 "萃取"
  trait_v_phytoextraction_desc:0 "§L这个物种能够从土壤中提取稀有资源。§!"
- TRAIT_PHYTOEXTRACTION_EFFECT:0 "每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对£job_farmer£§Y农夫§!§Y战略资源§!产出: §G+0.1§! \n每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对£job_livestock£§Y牲口§!§Y战略资源§!产出: §G+0.5§!"
+ TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!对£job_miner£§Y矿工§!产出对£job_farmer£ §Y农夫§!有§G50%§!效果，对£job_livestock£§Y牲口§!有§G100%§!效果"
 
  trait_v_hysterical_strength:0 "力量抑制"
  trait_v_hysterical_strength_desc:0 "§L这个物种有一种神经激素机制限制其真正的力量，因为它们的肌肉可能会摧毁它们的身体。§!"
@@ -416,7 +418,7 @@
 
  trait_v_polyextremophile:0 "极端环境嗜好"
  trait_v_polyextremophile_desc:0 "§L这个物种喜欢存在于其他物种认为有毒的物质中。§!"
- TRAIT_POLYEXTREMOPHILE_EFFECT:0 "每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对 £mod_pop_environment_tolerance£ §Y宜居性§!: §G+15%§!"
+ TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!对£job_miner£§Y矿工§!效果视为£mod_pop_environment_tolerance£§Y宜居性§!效果"
 
  trait_v_complex_eyes:0 "复眼"
  trait_v_complex_eyes_desc:0 "§L这个物种能夠看到更多的颜色或细节。§!"
@@ -432,7 +434,11 @@
 
  trait_v_petrol_habitat:0 "毒中栖息"
  trait_v_petrol_habitat_desc:0 "§L这个物种喜欢栖息在大多数其他物种认为有毒的环境中。§!"
- TRAIT_PETROL_HABITAT_EFFECT:0 "每座潜在的£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!开采建物对人口住房使用: §G-15%§!"
+ TRAIT_PETROL_HABITAT_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!对£job_miner£§Y矿工§!效果视为人口住房使用效果"
+
+ trait_v_ring_shaped_brain:0 "环状大脑"
+ trait_v_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
+ TRAIT_RING_SHAPED_BRAIN_EFFECT:0 "每月死亡机率: §R+1%§!"
 
  ###############################################################################################################################################################################################################
 
