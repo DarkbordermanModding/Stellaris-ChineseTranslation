@@ -87,8 +87,8 @@
  trait_v_robot_proselytizing:0 "传教协议"
  trait_v_robot_proselytizing_desc:0 "§L这些机器信仰神明，尽管他们的本性应当不会的。§!"
 
- trait_v_robot_intelligent_design_spiritualist:0 "宗教性设计"
- trait_v_robot_intelligent_design_spiritualist_desc:0 "§L这些机器其设计中具有宗教性的图样及印记。§!"
+ trait_v_robot_intelligent_design_spiritualist:0 "灵性设计"
+ trait_v_robot_intelligent_design_spiritualist_desc:0 "§L这些机器其设计中具有灵性的图样及印记。§!"
 
  trait_v_robot_astrology:0 "天体协议"
  trait_v_robot_astrology_desc:0 "§L这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。§!"
@@ -106,7 +106,7 @@
  trait_v_robot_materialistic_desc:0 "§L这些机器的人生目标便是获得尽可能多的物质财富。§!"
 
  trait_v_robot_intelligent_design_materialist:0 "物质性设计"
- trait_v_robot_intelligent_design_materialist_desc:0 "§L这些机器在其设计中看不到任何宗教性，只看到层出不穷的缺陷。§!"
+ trait_v_robot_intelligent_design_materialist_desc:0 "§L这些机器在其设计中看不到任何灵性，只看到层出不穷的缺陷。§!"
 
  trait_v_robot_irresponsible:0 "无自保协议"
  trait_v_robot_irresponsible_desc:0 "§L这些机器将自保协议视为较低优先级§!"
