@@ -67,10 +67,6 @@ l_english:
  trait_v_cyborg_polluting:0 "Polluting"
  trait_v_cyborg_polluting_desc:0 "§LThese cybernetics have an extremely negative impact on the environment.§!"
 
- trait_v_cyborg_mobile_platform:0 "Mobile Platform"
- trait_v_cyborg_mobile_platform_desc:0 "§LBy adding a cybernetic mobility platform, this species can finally become mobile.§!"
- TRAIT_MOBILE_PLATFORM_EFFECT:0 "§GNegates the effects of immobilising traits.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
-
  trait_v_cyborg_bubble:0 "Cyber Sterility"
  trait_v_cyborg_bubble_desc:0 "§LBy lining every orifice of the body with artificial epidermis, installing sterilizing implants and other augmentation it is possible to mitigate the effects of spending time around some of the more toxic individuals.§!"
  TRAIT_BUBBLE_EFFECT:0 "Negates the habitability effects of §HWeak Immune System§!, §HAllelopathy§!, §HPlagued§! and §HDust Reproduction§! on this species. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
@@ -87,5 +83,8 @@ l_english:
  trait_v_cyborg_economies_of_scale_desc:0 "§LBy using advanced algorithms and specially designed cybernetics, it is possible to reduce operating costs and improve efficiency with increasing levels of production.§!"
  
  trait_v_cyborg_wide_range_sensors:0 "Wide Range Optical Sensors"
- trait_v_cyborg_wide_range_sensors_desc:0 "Through the application of wide range optical sensors, it is possible to see what others can't."
+ trait_v_cyborg_wide_range_sensors_desc:0 "§LThrough the application of wide range optical sensors, it is possible to see what others can't.§!"
  TRAIT_CYBORG_COMPLEX_EYES_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_unreliable:0 "Unreliable Cybernetics"
+ trait_v_cyborg_unreliable_desc:0 "§LThese cybernetics are extremely unreliable, which can result in the death of the user.§!"

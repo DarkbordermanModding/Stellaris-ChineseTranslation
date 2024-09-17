@@ -86,5 +86,8 @@
  trait_v_cyborg_economies_of_scale_desc:0 "§L通过使用专门为义体人设计的先进演算法，可以降低运营成本并提高生产水平及效率。§!"
 
  trait_v_cyborg_wide_range_sensors:0 "广域传感器"
- trait_v_cyborg_wide_range_sensors_desc:0 "通过广域光学传感器，可以看到别人无法看到的东西。"
+ trait_v_cyborg_wide_range_sensors_desc:0 "§L通过广域光学传感器，可以看到别人无法看到的东西。§!"
  TRAIT_CYBORG_COMPLEX_EYES_EFFECT:0 "£job_enforcer£执法者犯罪率降低: §G+5§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
+
+ trait_v_cyborg_unreliable:0 "脆弱植入物"
+ trait_v_cyborg_unreliable_desc:0 "§L这些植入物非常不可靠，可能导致植入者死亡。§!"
