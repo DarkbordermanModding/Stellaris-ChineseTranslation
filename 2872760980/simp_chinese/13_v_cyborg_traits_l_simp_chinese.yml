@@ -66,10 +66,6 @@
  trait_v_cyborg_polluting:0 "污染"
  trait_v_cyborg_polluting_desc:0 "§L这些义体人对环境产生了极大的负面影响。§!"
 
- trait_v_cyborg_mobile_platform:0 "移动平台"
- trait_v_cyborg_mobile_platform_desc:0 "§L通过添加义体活动平台，这些义体人终于可以自由移动。§!"
- TRAIT_MOBILE_PLATFORM_EFFECT:0 "§G使不可移动相关特质无效。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
-
  trait_v_cyborg_bubble:0 "义体清洁"
  trait_v_cyborg_bubble_desc:0 "§在身体的毛孔与人工表皮里安装灭菌和其他植入物，可以减轻有毒个体对周围环境的影响。§!"
  TRAIT_BUBBLE_EFFECT:0 "使§H弱免疫系统§!，§H相克作用§!，§H散播瘟疫§!，§H粉尘复制§!特质的宜居性减损无效。 \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"

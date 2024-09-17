@@ -34,7 +34,7 @@
 
  trait_v_cyborg_concrete:0 "Concrete Armor"
  trait_v_cyborg_concrete_desc:0 "§LA thick layer of reinforced concrete and hydraulics to provide adequate protection from both enemy fire and radiation. Even if the end result can be considered somewhat bulky.§!"
- TRAIT_CYBORG_CONCRETE_EFFECT:0 "Increases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep_half$§! \nIncreases $r_minerals$ Upkeep by §R+$@cyborg_energy_upkeep_half$§!"
+ TRAIT_CYBORG_CONCRETE_EFFECT:0 "Negates the negative environmental effects of the §cRadiating§! trait. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep_half$§! (No energy upkeep with the §cRadiating§! trait.) \nIncreases $r_minerals$ Upkeep by §R+$@cyborg_energy_upkeep_half$§!"
 
  trait_v_cyborg_necrobionics:0 "Necrobionics"
  trait_v_cyborg_necrobionics_desc:0 "§LThrough the use of special preservatives and artificial tissue replacements, it is possible to push old, aging, and damaged organs to new heights.§!"
@@ -42,3 +42,7 @@
  trait_v_cyborg_ghoul_protocol:0 "Ghoul Protocol"
  trait_v_cyborg_ghoul_protocol_desc:0 "§LBy using a combination of micro-defibrillators and redundant artificial neural pathways, it becomes possible to cheat death, to an extent…§!"
  TRAIT_CYBORG_GHOUL_PROTOCOL_EFFECT:0 "Destroyed armies of this species return as §YUndead Armies§!. \nEach destroyed army costs §R100§! £energy£ §YEnergy§! to bring back."
+
+ trait_v_cyborg_mobile_platform:0 "Mobile Platform"
+ trait_v_cyborg_mobile_platform_desc:0 "§LBy adding a cybernetic mobility platform, this species can finally become mobile.§!"
+ TRAIT_MOBILE_PLATFORM_EFFECT:0 "§GNegates the effects of immobilising traits.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"

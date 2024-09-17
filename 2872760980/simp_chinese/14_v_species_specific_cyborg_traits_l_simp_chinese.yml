@@ -42,3 +42,7 @@
  trait_v_cyborg_ghoul_protocol:0 "尸鬼协议"
  trait_v_cyborg_ghoul_protocol_desc:0 "§L通过微型除颤器和冗余人工神经电路，可以在一定程度上欺骗死亡……§!"
  TRAIT_CYBORG_GHOUL_PROTOCOL_EFFECT:0 "被击败的陆军会转变为§Y不死军§!。\n每个陆军需花费§R100§!£energy£§Y能量币§!来复活。"
+
+ trait_v_cyborg_mobile_platform:0 "移动平台"
+ trait_v_cyborg_mobile_platform_desc:0 "§L通过添加义体活动平台，这些义体人终于可以自由移动。§!"
+ TRAIT_MOBILE_PLATFORM_EFFECT:0 "§G使不可移动相关特质无效。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
