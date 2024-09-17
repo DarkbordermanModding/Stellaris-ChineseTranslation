@@ -33,7 +33,7 @@
  trait_v_adv_conductive_desc:0 "§LDue to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries.§!"
 
  trait_v_adv_iron_shell:0 "Iron Shells"
- trait_v_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
+ trait_v_adv_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
 
  trait_v_adv_eroding:0 "Eroding"
  trait_v_adv_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"

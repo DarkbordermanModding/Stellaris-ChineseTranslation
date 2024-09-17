@@ -33,7 +33,7 @@
  trait_v_adv_conductive_desc:0 "§L这个物种因体内的导电金属浓度较高而可以导电。这个物种非常适合电力工作和作为活电池。§!"
 
  trait_v_adv_iron_shell:0 "铁壳"
- trait_v_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
+ trait_v_adv_iron_shell_desc:0 "§L这个物种是从炮弹壳中孵化的。§!"
 
  trait_v_adv_eroding:0 "易腐"
  trait_v_adv_eroding_desc:0 "§L尽管身为石质生物，这个物种特别容易受到侵蚀影响。§!"
