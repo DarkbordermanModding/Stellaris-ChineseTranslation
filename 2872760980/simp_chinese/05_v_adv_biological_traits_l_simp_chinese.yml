@@ -273,8 +273,8 @@
  trait_v_adv_hysterical_strength:0 "力量抑制"
  trait_v_adv_hysterical_strength_desc:0 "§L这个物种有一种神经激素机制限制其真正的力量，因为它们的肌肉可能会摧毁它们的身体。§!"
 
- trait_v_adv_pyrophyte:0 "烈焰繁衍"
- trait_v_adv_pyrophyte_desc:0 "§L这个物种需要火的存在才能繁殖。§!"
+ trait_v_adv_pyriscence:0 "烈焰繁衍"
+ trait_v_adv_pyriscence_desc:0 "§L这个物种需要火的存在才能繁殖。§!"
 
  trait_v_adv_polyextremophile:0 "极端环境嗜好"
  trait_v_adv_polyextremophile_desc:0 "§L这个物种喜欢存在于其他物种认为有毒的物质中。§!"
@@ -284,6 +284,9 @@
 
  trait_v_adv_selective_caste:0 "手足相殘"
  trait_v_adv_selective_caste_desc:0 "§L这个物种的出生数量极其庞大，无法为它们提供足够的食物。因此，这个物种存在一种特殊的年轻阶级，尽可能多地杀死它们的兄弟姐妹。§!"
+
+ trait_v_adv_ring_shaped_brain:0 "环状大脑"
+ trait_v_adv_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
 
  ################################################################################################################################
 
