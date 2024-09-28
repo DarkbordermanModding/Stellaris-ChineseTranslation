@@ -3,6 +3,12 @@
  trait_v_robot_true_belivers:0 "飛升编程"
  trait_v_robot_true_belivers_desc:0 "§L这些机器被設計为专注于更偉大的想法。§!"
 
+ trait_v_robot_useful_idiots:0 "逻辑漏洞"
+ trait_v_robot_useful_idiots_desc:0 "§L这些机器认为自己对宣传免疫，实际上并非如此。§!"
+
+ trait_v_robot_dogmatic_mindset:0 "嵌入编程"
+ trait_v_robot_dogmatic_mindset_desc:0 "§L这些机器固守其意识形态，很难改变或接受新的行为方式。§!"
+
  trait_v_robot_organizational:0 "组织编程"
  trait_v_robot_organizational_desc:0 "§L这些机器是为防止可能损害集体的不良行为而设计。§!"
 
@@ -141,3 +147,9 @@
 
  trait_v_adv_hive_bivouac:0 "露营"
  trait_v_adv_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
+
+ trait_v_adv_hive_foragial_limbs:0 "搜索肢"
+ trait_v_adv_hive_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
+
+ trait_v_adv_hive_foragial_limbs_l:0 "搜索肢"
+ trait_v_adv_hive_foragial_limbs_l_desc:0 "§L这个物种发展出专门收集矿物的肢体。§!"

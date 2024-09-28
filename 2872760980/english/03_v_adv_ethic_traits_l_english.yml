@@ -3,6 +3,12 @@
  trait_v_robot_true_belivers:0 "Ascended Programming"
  trait_v_robot_true_belivers_desc:0 "§LThese machines were programmed to focus on greater ideas.§!"
 
+ trait_v_robot_useful_idiots:0 "Logic Exploits"
+ trait_v_robot_useful_idiots_desc:0 "§LThese machines like to think that they are immune to propaganda.§!"
+
+ trait_v_robot_dogmatic_mindset:0 "Hardcoded Paradigms"
+ trait_v_robot_dogmatic_mindset_desc:0 "§LThese machines are stuck up in their ideological ways. It is very difficult for them to change their ways or accept a new paradigm.§!"
+
  trait_v_robot_organizational:0 "Organizational Programming"
  trait_v_robot_organizational_desc:0 "§LThese machines were designed with the purpose of preventing undesirable behavior that could potentially harm the collective.§!"
 
@@ -65,7 +71,7 @@
  
  trait_v_robot_militaristic_mindset:0 "Militaristic Directives"
  trait_v_robot_militaristic_mindset_desc:0 "§LThese machines are highly inclined towards militaristic skills.§!"
-
+ 
  trait_v_robot_rage_prone:0 "Rampant"
  trait_v_robot_rage_prone_desc:0 "§LThese machines often go rampant.§!"
 
@@ -141,3 +147,9 @@
 
  trait_v_adv_hive_bivouac:0 "Bivouac"
  trait_v_adv_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"
+
+ trait_v_adv_hive_foragial_limbs:0 "Foragial Limbs"
+ trait_v_adv_hive_foragial_limbs_desc:0 "§LThis species has limbs specifically for the purpose of collecting food.§!"
+
+ trait_v_adv_hive_foragial_limbs_l:0 "Foragial Limbs"
+ trait_v_adv_hive_foragial_limbs_l_desc:0 "§LThis species has limbs specifically for the purpose of collecting minerals.§!"
