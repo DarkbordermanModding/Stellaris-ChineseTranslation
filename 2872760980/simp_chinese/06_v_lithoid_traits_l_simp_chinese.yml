@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
  trait_v_silicon_brain: "硅晶大脑"
  trait_v_silicon_brain_desc:0 "§L這個物种的大脑比起一般大脑更像是计算机。§!"
 
@@ -12,11 +13,14 @@
  trait_v_litholytic_enzymes_desc:0 "§L這個物种發展出了石质酶，以便于更容易攝取矿物质。§!"
  TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "每个£job_miner£§Y矿工人口§!£minerals£§Y矿物§!产出§G+1%§!"
 
+ #TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a slave or better increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by §G+1%§!"
+
  trait_v_gems:0 "宝石外壳"
  trait_v_gems_desc:0 "§L这个物种外壳会脱落宝石。尽管这些宝石的工业价值不大，但由于它们的美学价值和地位象征而受到更广泛的公众追求。§!"
 
  trait_v_vein_network:0 "矿脉网络"
  trait_v_vein_network_desc:0 "§这个物种具有复杂的矿脉和人造网络，与物种的其他成员建立了永久连接。个人可以在个人之间迅速共享想法，从而允许文化和技术方面突飞猛进。§!"
+ TRAIT_VEIN_NETWORK_EFFECT:0 "每 £planetsize£ §Y行星规模§! £job£ §Y岗位§! £engineering£ £physics£ £society£ 研究及 £unity£ 凝聚力产出: §G+1%§!"
 
  trait_v_living_mountain:0 "活体山脉"
  trait_v_living_mountain_desc:0 "§L由于基本上不可能移动它们，这个物种被认为是山的山体。§!"
@@ -51,9 +55,6 @@
  trait_v_pumice_raft:0 "浮石"
  trait_v_pumice_raft_desc:0 "§L与大多数岩石不同，浮石能漂浮在水上。这个物种充分利用这个特质来改变其环境。§!"
  TRAIT_PUMICE_RAFT_EFFECT:0 "在§Y海洋§!星球上时，每10个具§H浮石§!特质人口获得额外1£district£§Y區劃§!"
-
- trait_v_lithoid_foragial_limbs:0 "搜索肢"
- trait_v_lithoid_foragial_limbs_desc:0 "§L这个物种发展出专门收集矿物的肢体。§!"
 
  trait_v_lithoid_embryonic_diapause:0 "滞育"
  trait_v_lithoid_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。§!"

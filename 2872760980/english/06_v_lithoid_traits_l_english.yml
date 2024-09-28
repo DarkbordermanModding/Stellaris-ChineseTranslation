@@ -20,6 +20,7 @@
 
  trait_v_vein_network:0 "Ore Vein Network"
  trait_v_vein_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex network of ore veins and artificial wires. Ideas can be quickly shared between individuals, allowing for great leaps in culture and technology.§!"
+ TRAIT_VEIN_NETWORK_EFFECT:0 "£engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! per £planetsize£ §YPlanet Size§!: §G+1%§!"
 
  trait_v_living_mountain:0 "Living Mountains"
  trait_v_living_mountain_desc:0 "§LThis species might be considered a mountain, considering the fact that it is basically impossible to move them.§!"
@@ -54,9 +55,6 @@
  trait_v_pumice_raft:0 "Pumice Raft"
  trait_v_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
  TRAIT_PUMICE_RAFT_EFFECT:0 "On §YOcean Worlds§! Gain 1 £district£ §YDistrict§! per 10 pops with §HPumice Raft§!"
-
- trait_v_lithoid_foragial_limbs:0 "Foragial Limbs"
- trait_v_lithoid_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting minerals.§!"
 
  trait_v_lithoid_embryonic_diapause:0 "Delayed Implantation"
  trait_v_lithoid_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
