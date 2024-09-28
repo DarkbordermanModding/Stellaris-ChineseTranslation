@@ -44,7 +44,7 @@
 
  trait_v_hyphae_network:0 "Hyphae Network"
  trait_v_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
- TRAIT_HYPHAE_NETWORK_EFFECT:0 "Each pop with Hyphae Network or Ore Vein Network increases the £engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! by: §G+0.5%§!"
+ TRAIT_HYPHAE_NETWORK_EFFECT:0 "£engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! per Naturally Occurring Blockers: §G+5%§!"
 
  trait_v_rhizobial:0 "Rhizobial"
  trait_v_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen fixing bacteria that help to make the soil more fertile.§!"
@@ -117,9 +117,6 @@
  trait_v_fossorial:0 "Fossorial"
  trait_v_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
  TRAIT_FOSSORIAL_EFFECT:0 "Gain 1 £district£ §YMining District§! per 10 pops with Fossorial on Non-Ecumenopolis and Non-Artificial Worlds \nSpecies Minimum Habitability per Mining District: §G+4%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-0.5§!"
-
- trait_v_foragial_limbs:0 "Foragial Limbs"
- trait_v_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
 
  trait_v_active_camouflage:0 "Camouflage"
  trait_v_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
@@ -271,6 +268,7 @@
  trait_v_grafting_desc:0 "§LThe physiology of this species allows for the grafting of parts belonging to other species without any major side effects.§!"
  TRAIT_PLANTOID_GRAFTING_EFFECT: "If this species shares the planet with another species that has a positive Plantoid or Lithoid trait, with a few exceptions, it will also gain its benefits."
  trait_hyphae_grafting:0 "Hyphae Network Graft"
+ trait_vein_network_grafting:0 "Ore Vein Network Graft"
  trait_pseudocopulative_grafting:0 "Pseudocopulative Graft"
  trait_detritivore_grafting:0 "Detritivore Graft"
  trait_ecotypic_grafting:0 "Ecotypic Graft"
@@ -406,7 +404,7 @@
 
  trait_v_phytoextraction:0 "Phytoextraction"
  trait_v_phytoextraction_desc:0 "§LThis species is capable of extracting rare resources from the very soil.§!"
- TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers are applied to £job_farmer£ §YFarmers§! at §G50%§! of their strenght, and £job_livestock£ §YLivestock§! at §G100%§! of their strenght"
+ TRAIT_PHYTOEXTRACTION_EFFECT:0 " £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers are applied to £job_farmer£ §YFarmers§! at §G50%§! of their strenght, and £job_livestock£ §YLivestock§! at §G100%§! of their strenght"
 
  trait_v_hysterical_strength:0 "Hysterical Strength"
  trait_v_hysterical_strength_desc:0 "§LThis species has a neuro-hormonal mechanism limiting their true strength, as their muscles could destroy their bodies.§!"
