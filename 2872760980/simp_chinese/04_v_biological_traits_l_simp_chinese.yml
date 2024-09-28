@@ -434,7 +434,7 @@
 
  trait_v_petrol_habitat:0 "毒中栖息"
  trait_v_petrol_habitat_desc:0 "§L这个物种喜欢栖息在大多数其他物种认为有毒的环境中。§!"
- TRAIT_PETROL_HABITAT_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!对£job_miner£§Y矿工§!效果视为人口住房使用效果"
+ TRAIT_PETROL_HABITAT_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!对£job_miner£§Y矿工§!效果可套用于人口住房使用"
 
  trait_v_ring_shaped_brain:0 "环状大脑"
  trait_v_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
