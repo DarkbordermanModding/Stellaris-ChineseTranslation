@@ -4,6 +4,13 @@
  trait_v_true_belivers_desc:0 "§L这个物种忠于自己的世界，它们越光荣，它们越敬业。§!"
  TRAIT_TRUE_BELIVERS_EFFECT:0 "每飞升阶级对政府思潮吸引力: §G+2.5%§! \n每飞升阶级对£job£岗位产出: §G+2.5%§! \n每飞升阶级对强制迁徙花费: §R+10%§!"
 
+ trait_v_useful_idiots:0 "随波逐流"
+ trait_v_useful_idiots_desc:0 "§L这个物种认为自己对宣传免疫，实际上并非如此。§!"
+ TRAIT_USEFUL_IDIOTS_EFFECT:0 "每个宿敌对思潮转换机率: §G+5%§! \n每个宿敌对主流思潮吸引率: §R-5%§!"
+
+ trait_v_dogmatic_mindset:0 "教条心态"
+ trait_v_dogmatic_mindset_desc:0 "§L这个物种固守其意识形态，很难改变或接受新的行为方式。§!"
+
  trait_v_organizational:0 "组织文化"
  trait_v_organizational_desc:0 "§L这个物种发展出了一种社会结构，能够预防这个物种的不良行为发生。§!"
  TRAIT_ORGANIZATIONAL_EFFECT:0 "威权主义人口不产生犯罪度"
@@ -196,3 +203,9 @@
  trait_v_hive_bivouac:0 "露营"
  trait_v_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
  TRAIT_HIVE_BIVOUAC_EFFECT:0 "每个天然障碍对人口住房使用: §G-5%§!"
+
+ trait_v_hive_foragial_limbs:0 "搜索肢"
+ trait_v_hive_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
+
+ trait_v_hive_foragial_limbs_l:0 "搜索肢"
+ trait_v_hive_foragial_limbs_l_desc:0 "§L这个物种发展出专门收集矿物的肢体。§!"

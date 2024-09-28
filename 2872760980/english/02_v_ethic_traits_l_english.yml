@@ -4,6 +4,13 @@
  trait_v_true_belivers_desc:0 "§LThis species is loyal to their worlds and the more glorious they are, the more dedicated they are.§!"
  TRAIT_TRUE_BELIVERS_EFFECT:0 "Government Ethics Attraction per Ascention Tier: §G+2.5%§! \nResources from £job£ Jobs per Ascention Tier: §G+2.5%§! \nResettlement Cost per Ascention Tier: §R+10%§!"
 
+ trait_v_useful_idiots:0 "Useful Idiots"
+ trait_v_useful_idiots_desc:0 "§LMembers of this species like to think that they are immune to propaganda.§!"
+ TRAIT_USEFUL_IDIOTS_EFFECT:0 "Ethics Shift Chance per Rival: §G+5%§! \nGoverning Ethics Attraction per Rival: §R-5%§!"
+
+ trait_v_dogmatic_mindset:0 "Dogmatic Mindset"
+ trait_v_dogmatic_mindset_desc:0 "§LThis species is stuck up in its ideological ways. It is very difficult for them to change their ways or accept a new paradigm.§!"
+
  trait_v_organizational:0 "Organizational Culture"
  trait_v_organizational_desc:0 "§LThis species developed a societal structure that exists to prevent undesirable behavior that could potentially harm the group.§!"
  TRAIT_ORGANIZATIONAL_EFFECT:0 "Authoritarian pops generate no Crime."
@@ -196,3 +203,9 @@
  trait_v_hive_bivouac:0 "Bivouac"
  trait_v_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"
  TRAIT_HIVE_BIVOUAC_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!" 
+ 
+ trait_v_hive_foragial_limbs:0 "Foragial Limbs"
+ trait_v_hive_foragial_limbs_desc:0 "§LThis species has limbs specifically for the purpose of collecting food.§!"
+
+ trait_v_hive_foragial_limbs_l:0 "Foragial Limbs"
+ trait_v_hive_foragial_limbs_l_desc:0 "§LThis species has limbs specifically for the purpose of collecting minerals.§!"
