@@ -81,9 +81,6 @@
  trait_v_adv_fossorial:0 "Fossorial"
  trait_v_adv_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
 
- trait_v_adv_foragial_limbs:0 "Foragial Limbs"
- trait_v_adv_foragial_limbs_desc:0 "§LThis species developed limbs specifically for the purpose of collecting food.§!"
-
  trait_v_adv_active_camouflage:0 "Camouflage"
  trait_v_adv_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
 
@@ -284,6 +281,9 @@
 
  trait_v_adv_selective_caste:0 "Selective Caste"
  trait_v_adv_selective_caste_desc:0 "§LMembers of this species are born in extreme numbers. The numbers are so extreme, there wouldn't be enough sustenance for them all. Due to this, this species has a specific caste of young, specifically destined to kill as many of their siblings as possible.§!"
+
+ trait_v_adv_petrol_habitat:0 "Petrol Habitat"
+ trait_v_adv_petrol_habitat_desc:0 "§LThis species likes to inhabit environments that most other species would consider toxic.§!"
 
  trait_v_adv_ring_shaped_brain:0 "Ring-Shaped Brain"
  trait_v_adv_ring_shaped_brain_desc:0 "§LThis species has a ring-shaped brain, through which their digestive system runs. Not being careful about eating might cause brain damage or death for them.§!"

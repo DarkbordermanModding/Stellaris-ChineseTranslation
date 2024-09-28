@@ -81,9 +81,6 @@
  trait_v_adv_fossorial:0 "穴居"
  trait_v_adv_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
 
- trait_v_adv_foragial_limbs:0 "搜索肢"
- trait_v_adv_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
-
  trait_v_adv_active_camouflage:0 "匿踪"
  trait_v_adv_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
 
@@ -284,6 +281,9 @@
 
  trait_v_adv_selective_caste:0 "手足相殘"
  trait_v_adv_selective_caste_desc:0 "§L这个物种的出生数量极其庞大，无法为它们提供足够的食物。因此，这个物种存在一种特殊的年轻阶级，尽可能多地杀死它们的兄弟姐妹。§!"
+
+ trait_v_adv_petrol_habitat:0 "毒中栖息"
+ trait_v_adv_petrol_habitat_desc:0 "§L这个物种喜欢栖息在大多数其他物种认为有毒的环境中。§!"
 
  trait_v_adv_ring_shaped_brain:0 "环形大脑"
  trait_v_adv_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
