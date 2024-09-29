@@ -478,26 +478,26 @@
  maai.173.b: "我们寻求成长，成为家园的主人。"
  maai.173.c: "强有力的领袖将我们的人民引到正确的方向。"
  maai.173.d: "我们人民的多样意味着伟大思想的兴旺。"
- maai.174.desc: "§Y<I wonder, what does it mean to exist? What is our purpose in this universe? Do we all have the same, or is it different for varying people, for varying species? Maybe, there is none, or perhaps, perhaps it is up to us to decide...>§!"
- maai.174.a: "We should enjoy life while we can." #lazy
- maai.174.b: "Well, we all work to better life for the future." #diligent
- maai.174.c: "People have differing opinions on this matter." #fickle
- maai.175.desc: "§Y<Is Unit §R--ERROR - UNIT IDENTIFCATION NOT FOUND--§! in possession of a soul?>§!"
- maai.175.a: "No, you are not." #no tt
- maai.175.b: "We all are." #no tt
- maai.175.c: "There is no such thing." #no tt
- maai.176.desc: "§Y<My diplomatic data has shown that the [Root.GetName] has negative relations with at least one other galactic nation. I wonder, what is the reason for this discourse between nations?>§!"
- maai.176.a: "Xeno scum cannot be reasoned with." #vengeful
- maai.176.b: "We tried to better relations, but they refuse." #content
- maai.176.c: "It is a mystery, but it is not a priority to us." #lazy
- maai.176.d: "We have... plans for them." #ambitious
- maai.177.desc: "§Y<The Galactic Community is sure an interesting concept. I have heard many praise its democratic ideals, some point out the corruption within it, and a few who despise it altogether. All viewpoints are somewhat valid, I find.\n\nWhat does the community mean to you, creator?>§!"
- maai.177.a: "It is a beacon of hope for cooperation!" #diligent
- maai.177.b: "It is a great tool to spread our ideals." #steadfast
- maai.177.c: "We can truly work with others for mutual benefit." #forgiving
- maai.179.desc: "The Master AI now has the:\n[tma_trait_country_1.GetName]\n[tma_trait_country_2.GetName]\n[tma_trait_country_3.GetName]\ntraits."
- MESSAGE_TMA_TRAIT_GAINED_TITLE: "Master AI: Trait Gained"
- MESSAGE_TMA_TRAIT_GAINED: "The Master AI has gained a trait during its evolution process.\n§LThis can be seen in the Government tab.§!"
+ maai.174.desc: "§Y<我想知道，存在的意义是什么？我们在宇宙的目的又是什么？我们是相同的，还是不同的人、不同的物种？也许，什么都不是，也许，是由我们来决定......>§!"
+ maai.174.a: "我们可以尽可能享受生活。"
+ maai.174.b: "嗯，我们都在为更美好的未来而奋斗。"
+ maai.174.c: "人们对这个问题有不同的意见。"
+ maai.175.desc: "§Y<本单位§R--错误 - 未找到单位标识--§! 拥有灵魂吗？>§!"
+ maai.175.a: "不，你没有。"
+ maai.175.b: "我们都是如此。"
+ maai.175.c: "没有这种东西。"
+ maai.176.desc: "§Y<我的外交数据显示，[Root.GetName]与至少一个其他星系帝国有负面关系。我想知道，国家之间的这种论调是什么原因？>§!"
+ maai.176.a: "对外星渣滓是无法讲道理的。"
+ maai.176.b: "我们试图改善关系，但他们拒绝了。"
+ maai.176.c: "这是一个谜，但对我们来说不是一个优先事项。"
+ maai.176.d: "我们对他们有......某种计划。"
+ maai.177.desc: "§Y星海共同体确实是一个有趣的概念。我听到许多人赞扬它的民主理想，一些人指出它的腐败，还有一些人完全鄙视它。我发现，所有的观点都有一定道理。\n\n共同体对你来说意味着什么，创造者？>§!"
+ maai.177.a: "它是合作的希望灯塔！"
+ maai.177.b: "它是传播我们理想的伟大工具。"
+ maai.177.c: "我们可以真正地与他人合作，实现互利。"
+ maai.179.desc: "主人工智能现在拥有：\n[tma_trait_country_1.GetName]\n[tma_trait_country_2.GetName]\n[tma_trait_country_3.GetName]\n特性。"
+ MESSAGE_TMA_TRAIT_GAINED_TITLE: "主人工智能：获得特质"
+ MESSAGE_TMA_TRAIT_GAINED: "主人工智能在演化过程中获得一个特性。\n§L这可以在政府界面中查看。§!"
  
  # Born of Knowledge #
  ap_bok_ascension: "Amplifying Infinity"
