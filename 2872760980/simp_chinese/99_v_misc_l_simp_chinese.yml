@@ -30,6 +30,7 @@
  mod_planet_pops_cyborgs_energy_upkeep_mult:0 "义体人能量币维护费"
 
  mod_job_v_harem_add:0 "后宫岗位"
+ mod_job_v_consort_add:0 "配偶岗位"
  mod_job_v_ranch_livestock_add:0 "牧場牲口崗位"
 
  planet_criminals:0 "罪犯"

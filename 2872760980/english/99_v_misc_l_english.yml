@@ -30,6 +30,7 @@
  mod_planet_pops_cyborgs_energy_upkeep_mult:0 "Cyborg Energy Upkeep"
 
  mod_job_v_harem_add:0 "Harem Jobs"
+ mod_job_v_consort_add:0 "Consort Jobs"
  mod_job_v_ranch_livestock_add:0 "Ranch Livestock Jobs"
 
  planet_criminals:0 "Criminals"
