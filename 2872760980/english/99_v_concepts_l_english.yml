@@ -12,8 +12,20 @@
  concept_v_leader_polygynous:0 "$leader_trait_v_polygynous$"
  concept_v_leader_polygynous_desc:0 "$BACKGROUND_PLANET_EFFECTS_TXT$: \n-$mod_job_v_harem_add$: §G+1§! \n\n§L$leader_trait_v_polygynous_desc$§!"
 
+ concept_v_leader_polyandrous:0 "$leader_trait_v_polyandrous$"
+ concept_v_leader_polyandrous_desc:0 "$BACKGROUND_PLANET_EFFECTS_TXT$: \n-$mod_job_v_consort_add$: §G+1§! \n\n§L$leader_trait_v_polyandrous_desc$§!"
+
  concept_v_leader_backstabbing:0 "$leader_trait_v_backstabbing$"
  concept_v_leader_backstabbing_desc:0 "-Chance to kill a random Leader: §R+1%§! \n-On Kill Change Skill Level by: §G+1§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
+
+ concept_v_leader_commander_dulotic:0 "$leader_trait_v_commander_dulotic$"
+ concept_v_leader_commander_dulotic_desc:0 "$LEADER_TRAIT_COMMANDER_DULOTIC_EFFECT$"
+
+ concept_v_leader_official_dulotic:0 "$leader_trait_v_official_dulotic$"
+ concept_v_leader_official_dulotic_desc:0 "$PLANET_EFFECTS_TXT$: \n$t$-Slave Pop Resource Output: §G+2%§! \n\n$SECTOR_EFFECTS_TXT$: \n$t$-Slave Pop Resource Output: §G+1%§!"
+
+ concept_v_leader_hacker:0 "$leader_trait_v_hacker$"
+ concept_v_leader_hacker_desc:0 "$LEADER_TRAIT_HACKER_EFFECT$"
 
  leader_trait_v_caution_to_the_wind:0 "$leader_trait_v_caution_to_the_wind$"
  leader_trait_v_caution_to_the_wind_desc:0 "-Monthly Death Chance: §R+1%§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
@@ -26,6 +38,9 @@
 
  concept_v_harem:0 "$job_v_harem$"
  concept_v_harem_desc:0 "$job_v_harem$ Jobs produce £unity£ §YUnity§! and £amenities£ §YAmenities§! \n\n§L$job_v_harem_desc$§!"
+
+ concept_v_consort:0 "$job_v_consort$"
+ concept_v_consort_desc:0 "$job_v_consort$ Jobs produce £unity£ §YUnity§! and £amenities£ §YAmenities§! \n\n§L$job_v_consort_desc$§!"
  
  concept_v_ranch_livestock:0 "$job_v_ranch_livestock_plural$"
  concept_v_ranch_livestock_desc:0 "$job_v_ranch_livestock_plural$ produce £food£ §YFood§!, £consumer_goods£ §YConsumer Goods§!, £trade_value£ §YTrade Value§! and generate no £crime£ §YCrime§! \n\nLithoid $job_v_ranch_livestock_plural$ produce £minerals£ §YMinerals§! instead of £food£ §YFood§! \n\nGestalt Empires produce extra £food£ §YFood§! or £minerals£ §YMinerals§! instead of £consumer_goods£ §YConsumer Goods§! and £trade_value£ §YTrade Value§! \n\n§L$job_v_ranch_livestock_desc$§!"
