@@ -112,7 +112,7 @@
 
  trait_v_interceptor:0 "天生拦截者"
  trait_v_interceptor_desc:0 "§L这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指。§!"
- TRAIT_INTERCEPTOR_EFFECT:0 "§Y舰队司令§!会带有['concept_v_leader_interceptor']特质 \n§Y科学家§!会带有['concept_v_leader_evader']特质"
+ TRAIT_INTERCEPTOR_EFFECT:0 "£commander£ §Y舰队司令§!会带有['concept_v_leader_interceptor']特质 \n £scientist£ §Y科学家§!会带有['concept_v_leader_evader']特质"
 
  trait_v_fossorial:0 "穴居"
  trait_v_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
@@ -364,9 +364,13 @@
  trait_v_pneumoconiosis:0 "硅肺病"
  trait_v_pneumoconiosis_desc:0 "§L这个物种患有硅肺病，使得呼吸变得更加困难。§!"
 
- trait_v_polygynous:0 "多配偶"
- trait_v_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
- TRAIT_POLYGYNOUS_EFFECT:0 "男性领袖带有 ['concept_v_leader_polygynous'] 特质。 \n每个£pop_cat_ruler£统治者岗位对£job_v_harem£ ['concept_v_harem'] 岗位数量: §G+0.5§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时人口增长速度: §G+4%§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时统治者幸福度: §G+2%§! \n每个具多配偶特质人口从事£job_v_harem£§Y后宮§!岗位时工人及奴隶幸福度: §R-2%§!"
+ trait_v_polygynous:0 "后宮"
+ trait_v_polygynous_desc:0 "§L这个物种有后宮制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ TRAIT_POLYGYNOUS_EFFECT:0 "男性领袖带有 ['concept_v_leader_polygynous'] 特质。 \n每个£pop_cat_ruler£统治者岗位对£job_v_harem£ ['concept_v_harem'] 岗位数量: §G+0.5§! \n每个具后宮特质人口从事£job_v_harem£§Y后宮§!岗位时人口增长速度: §G+4%§! \n每个具后宮特质人口从事£job_v_harem£§Y后宮§!岗位时统治者幸福度: §G+2%§! \n每个具后宮特质人口从事£job_v_harem£§Y后宮§!岗位时工人及奴隶幸福度: §R-2%§!"
+
+ trait_v_polyandrous:0 "一妻多夫"
+ trait_v_polyandrous_desc:0 "§L这个物种有一妻多夫制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ TRAIT_POLYANDROUS_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \n女性领袖带有 ['concept_v_leader_polyandrous'] 特质。 \n 每个£pop_cat_ruler£统治者岗位对£job_v_consort£ ['concept_v_consort'] 岗位数量: §G+0.5§! \n每个具一妻多夫特质人口从事 £job_v_consort£ §YConsort§!岗位时统治者幸福度: §G+2%§! \n每个具一妻多夫特质人口从事£job_v_consort£ §YConsort§!岗位时工人及奴隶幸福度: §R-2%§!"
 
  trait_v_magpie:0 "喜鹊"
  trait_v_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
@@ -437,6 +441,18 @@
  trait_v_ring_shaped_brain:0 "环状大脑"
  trait_v_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
  TRAIT_RING_SHAPED_BRAIN_EFFECT:0 "每月死亡机率: §R+1%§!"
+
+ trait_v_destruent:0 "分解者"
+ trait_v_destruent_desc:0 "§L这个物种在其他生物腐烂时茁壮成长。§!"
+ TRAIT_DESTRUENT_EFFECT:0 "当人口成长或被组装时有人口正在被消灭，获得额外一人口"
+
+ trait_v_dulotic:0 "奴隶猎手"
+ trait_v_dulotic_desc:0 "这个物种天生具有寻找奴隶的驱动力。"
+ TRAIT_DULOTIC_EFFECT:0 "£commander£ §Y指挥官§! 具有 ['concept_v_leader_commander_dulotic'] 特质 \n £official£ §Y行政官§! 具有 ['concept_v_leader_official_dulotic'] 特质"
+
+ trait_v_truffle_hunter:0 "松露猎手"
+ trait_v_truffle_hunter_desc:0 "§L这个物种对稀有的美食食材特别敏感。§!"
+ TRAIT_TRUFFLE_HUNTER_EFFECT:0 "£job_farmer£ §Y农夫§!产生的 £trade_value£ 贸易额: §G+2§!"
 
  ###############################################################################################################################################################################################################
 

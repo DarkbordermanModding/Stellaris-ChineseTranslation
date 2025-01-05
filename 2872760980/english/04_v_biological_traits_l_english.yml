@@ -68,7 +68,7 @@
 
  TRAIT_ECOTYPIC_A_EFFECT:0 "On §YDry§! Worlds £energy£ Energy from £job£ Jobs: §G+15%§! \nOn §YWet§! Worlds £food£ Food from £job£ Jobs: §G+15%§! \nOn §YFrozen§! Worlds £minerals£ Minerals from £job£ Jobs: §G+15%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Goods Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a Habitability, Survivor or Radiothropic retain all the previous benefits."
 
- TRAIT_ECOTYPIC_B_EFFECT:0 "On §YWet§! and §YFrozen§! Worlds £energy£ Energy from £job£ Jobs: §G+7.5%§! \nOn §YDry§! and §YFrozen§! Worlds £food£ Food from £job£ Jobs: §G+7.5%§! \nOn §YWet§! and §YDry§! Worlds £minerals£ Minerals from £job£ Jobs: §G+7.5%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Good Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a Habitability, Survivor or Radiothropic retain all the previous benefits."
+ TRAIT_ECOTYPIC_B_EFFECT:0 "On §YWet§! and §YFrozen§! Worlds £energy£ Energy from £job£ Jobs: §G+7.5%§! \nOn §YDry§! and §YFrozen§! Worlds £food£ Food from £job£ Jobs: §G+7.5%§! \nOn §YWet§! and §YDry§! Worlds £minerals£ Minerals from £job£ Jobs: §G+7.5%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Goods Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a Habitability, Survivor or Radiothropic retain all the previous benefits."
 
  trait_v_spores:0 "Spores"
  trait_v_spores_desc:0 "§LThis species releases large amounts of spores on death.§!"
@@ -112,7 +112,7 @@
 
  trait_v_interceptor:0 "Natural Interceptor"
  trait_v_interceptor_desc:0 "§LThis species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
- TRAIT_INTERCEPTOR_EFFECT:0 "§YCommanders§! start with the ['concept_v_leader_interceptor'] trait \n§YScientists§! start with the ['concept_v_leader_evader'] trait"
+ TRAIT_INTERCEPTOR_EFFECT:0 "£commander£ §YCommanders§! start with the ['concept_v_leader_interceptor'] Trait \n£scientist£ §YScientists§! start with the ['concept_v_leader_evader'] Trait"
 
  trait_v_fossorial:0 "Fossorial"
  trait_v_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
@@ -205,7 +205,7 @@
 
  trait_v_behavioral_sink:0 "Behavioral Sink"
  trait_v_behavioral_sink_desc:0 "§LMembers of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse.§!"
- TRAIT_BEHAVIORAL_SINK_EFFECT:0 "This species is incapable of growing its population past 2 times the £planetsize£ §YPlanet Size§! \nLeaders from planets that have reached the limit have a §R75%§! chance to start with the ['concept_v_leader_backstabbing'] trait. \nHappiness on reaching the limit: §R-25%§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
+ TRAIT_BEHAVIORAL_SINK_EFFECT:0 "This species is incapable of growing its population past 2 times the £planetsize£ §YPlanet Size§! \nLeaders from planets that have reached the limit have a §R75%§! chance to start with the ['concept_v_leader_backstabbing'] Trait \nHappiness on reaching the limit: §R-25%§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
  TRAIT_BEHAVIORAL_SINK_EFFECT_OLD:0 "For each sentient pop above 1.5 £planetsize£ §YPlanet Size§!: \n£unity£ Unity from £job£ Jobs: §R-2%§! \nHappiness: §R-2%§! \nGoverning Ethics Attraction: §R-2%§! \nPop Growth Speed: §R-2%§!"
 
@@ -366,7 +366,11 @@
 
  trait_v_polygynous:0 "Polygynous"
  trait_v_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
- TRAIT_POLYGYNOUS_EFFECT:0 "Male Leaders start with the ['concept_v_leader_polygynous'] trait. \n£job_v_harem£ ['concept_v_harem'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nPop Growth Speed per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+4%§! \nRuler Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+2%§! \nWorker and Slave Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §R-2%§!"
+ TRAIT_POLYGYNOUS_EFFECT:0 "Male Leaders start with the ['concept_v_leader_polygynous'] Trait \n£job_v_harem£ ['concept_v_harem'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nPop Growth Speed per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+4%§! \nRuler Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+2%§! \nWorker and Slave Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §R-2%§!"
+
+ trait_v_polyandrous:0 "Polyandrous"
+ trait_v_polyandrous_desc:0 "§LThis species displays polyandrous behavior. It is very common for high status individuals to have multiple mates.§!"
+ TRAIT_POLYANDROUS_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \nFemale Leaders start with the ['concept_v_leader_polyandrous'] Trait \n£job_v_consort£ ['concept_v_consort'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nRuler Happiness per Polyandrous pop working a £job_v_consort£ §YConsort§! Job: §G+2%§! \nWorker and Slave Happiness per Polyandrous pop working a £job_v_consort£ §YConsort§! Job: §R-2%§!"
 
  trait_v_magpie:0 "Magpies"
  trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
@@ -404,7 +408,7 @@
 
  trait_v_phytoextraction:0 "Phytoextraction"
  trait_v_phytoextraction_desc:0 "§LThis species is capable of extracting rare resources from the very soil.§!"
- TRAIT_PHYTOEXTRACTION_EFFECT:0 " £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers are applied to £job_farmer£ §YFarmers§! at §G50%§! of their strenght, and £job_livestock£ §YLivestock§! at §G100%§! of their strenght"
+ TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers are applied to £job_farmer£ §YFarmers§! at §G50%§! of their strength, and £job_livestock£ §YLivestock§! at §G100%§! of their strength."
 
  trait_v_hysterical_strength:0 "Hysterical Strength"
  trait_v_hysterical_strength_desc:0 "§LThis species has a neuro-hormonal mechanism limiting their true strength, as their muscles could destroy their bodies.§!"
@@ -437,6 +441,18 @@
  trait_v_ring_shaped_brain:0 "Ring-Shaped Brain"
  trait_v_ring_shaped_brain_desc:0 "§LThis species has a ring-shaped brain, through which their digestive system runs. Not being careful about eating might cause brain damage or death for them.§!"
  TRAIT_RING_SHAPED_BRAIN_EFFECT:0 "Monthly Death Chance: §R+1%§!"
+
+ trait_v_destruent:0 "Destruent"
+ trait_v_destruent_desc:0 "§LThis species thrives while other decay.§!"
+ TRAIT_DESTRUENT_EFFECT:0 "Each time a pop grows or gets assembled while any pop is being purged, an additional pop is created."
+
+ trait_v_dulotic:0 "Dulotic"
+ trait_v_dulotic_desc:0 "This species has a natural drive to search for slaves."
+ TRAIT_DULOTIC_EFFECT:0 "£commander£ §YCommanders§! start with the ['concept_v_leader_commander_dulotic'] trait \n£official£ §YOfficials§! start with the ['concept_v_leader_official_dulotic'] trait"
+
+ trait_v_truffle_hunter:0 "Truffle Hunters"
+ trait_v_truffle_hunter_desc:0 "§LThis species is especially sensitive to rare gourmet ingredients.§!"
+ TRAIT_TRUFFLE_HUNTER_EFFECT:0 "£trade_value£ Trade Value from £job_farmer£ §YFarmers§!: §G+2§!"
 
  ###############################################################################################################################################################################################################
 
