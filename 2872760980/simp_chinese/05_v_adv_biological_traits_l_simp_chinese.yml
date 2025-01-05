@@ -243,6 +243,9 @@
  trait_v_adv_polygynous:0 "多配偶"
  trait_v_adv_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
 
+ trait_v_adv_polygynous:0 "多配偶"
+ trait_v_adv_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+
  trait_v_adv_magpie:0 "喜鹊"
  trait_v_adv_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
 
@@ -287,6 +290,15 @@
 
  trait_v_adv_ring_shaped_brain:0 "环形大脑"
  trait_v_adv_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
+
+ trait_v_adv_destruent:0 "分解者"
+ trait_v_adv_destruent_desc:0 "§L这个物种在其他生物腐烂时茁壮成长。§!"
+
+ trait_v_adv_dulotic:0 "奴隶猎手"
+ trait_v_adv_dulotic_desc:0 "这个物种天生具有寻找奴隶的驱动力。"
+
+ trait_v_adv_truffle_hunter:0 "松露猎手"
+ trait_v_adv_truffle_hunter_desc:0 "§L这个物种对稀有的美食食材特别敏感。§!"
 
  ################################################################################################################################
 

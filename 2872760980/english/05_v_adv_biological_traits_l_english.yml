@@ -243,6 +243,9 @@
  trait_v_adv_polygynous:0 "Polygynous"
  trait_v_adv_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
 
+ trait_v_adv_polyandrous:0 "Polyandrous"
+ trait_v_adv_polyandrous_desc:0 "§LThis species displays polyandrous behavior. It is very common for high status individuals to have multiple mates.§!"
+
  trait_v_adv_magpie:0 "Magpies"
  trait_v_adv_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
 
@@ -287,6 +290,15 @@
 
  trait_v_adv_ring_shaped_brain:0 "Ring-Shaped Brain"
  trait_v_adv_ring_shaped_brain_desc:0 "§LThis species has a ring-shaped brain, through which their digestive system runs. Not being careful about eating might cause brain damage or death for them.§!"
+
+ trait_v_adv_destruent:0 "Destruent"
+ trait_v_adv_destruent_desc:0 "§LThis species thrives while other decay.§!"
+
+ trait_v_adv_dulotic:0 "Dulotic"
+ trait_v_adv_dulotic_desc:0 "This species has a natural drive to search for slaves."
+
+ trait_v_adv_truffle_hunter:0 "Truffle Hunters"
+ trait_v_adv_truffle_hunter_desc:0 "§LThis species is especially sensitive to rare gourmet ingredients.§!"
 
  ################################################################################################################################
 
