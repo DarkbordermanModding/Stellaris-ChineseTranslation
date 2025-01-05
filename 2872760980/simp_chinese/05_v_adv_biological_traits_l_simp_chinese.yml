@@ -240,11 +240,11 @@
  trait_v_adv_pneumoconiosis:0 "硅肺病"
  trait_v_adv_pneumoconiosis_desc:0 "§L这个物种患有硅肺病，使得呼吸变得更加困难。§!"
 
- trait_v_adv_polygynous:0 "多配偶"
- trait_v_adv_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ trait_v_adv_polygynous:0 "后宮"
+ trait_v_adv_polygynous_desc:0 "§L这个物种有后宮制度的行为。高地位个体拥有多个配偶是很常见的。§!"
 
- trait_v_adv_polygynous:0 "多配偶"
- trait_v_adv_polygynous_desc:0 "§L这个物种有多配偶制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ trait_v_adv_polyandrous:0 "一妻多夫"
+ trait_v_adv_polyandrous_desc:0 "§L这个物种有一妻多夫制度的行为。高地位个体拥有多个配偶是很常见的。§!"
 
  trait_v_adv_magpie:0 "喜鹊"
  trait_v_adv_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
