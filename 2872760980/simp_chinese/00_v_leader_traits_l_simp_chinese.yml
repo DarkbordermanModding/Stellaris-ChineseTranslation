@@ -1,15 +1,26 @@
 ﻿l_simp_chinese:
- #ADMIRAL#
- leader_trait_v_interceptor:0 "拦截者"
- leader_trait_v_interceptor_desc:0 "这位海军上将擅长拦截策略。"
 
- #GENERAL#
- leader_trait_v_digger:0 "挖掘者"
- leader_trait_v_digger_desc:0 ""
+ #COMMANDER#
+
+ leader_trait_v_interceptor:0 "拦截者"
+ leader_trait_v_interceptor_desc:0 "这位领袖擅长拦截策略。"
+
+ leader_trait_v_commander_dulotic:0 "奴隶猎手"
+ leader_trait_v_commander_dulotic_desc:0 "这位领袖天生具有寻找奴隶的驱动力。"
+ LEADER_TRAIT_COMMANDER_DULOTIC_EFFECT:0 "$ARMY_EFFECTS_TXT$:\n$t$地面进攻胜利时:\n $tt$ 每等级新增 §Y$pop_cat_slave_plural$§! 至随机殖民地机率: §G3%§!"
+
+ leader_trait_v_official_dulotic:0 "奴隶管理者"
+ leader_trait_v_official_dulotic_desc:0 "这位领袖本能地知道如何奴役他人。"
+
+ leader_trait_v_hacker:0 "黑客"
+ leader_trait_v_hacker_desc:0 这位领袖能够使用网络战技术来获得对敌人的优势。"
+ LEADER_TRAIT_HACKER_EFFECT:0 "$ARMY_EFFECTS_TXT$:\n$t$地面进攻胜利时:\n$tt$ 每等级新增敌方 $INTEL$: §G+1§!"
 
  #SCIENTIST#
+
  leader_trait_v_evader:0 "闪避者"
  leader_trait_v_evader_desc:0 "这位科学家来自一种拦截者物种，具有逃避敌对势力的能力。"
+
 
  #GENERIC#
 
@@ -17,8 +28,12 @@
  leader_trait_v_gravitational_assist_desc:0 "这位领袖出生于虚空中，非常熟悉利用重力来发挥自己的优势。"
 
  #HAREM#
- leader_trait_v_polygynous:0 "一夫多妻"
+
+ leader_trait_v_polygynous:0 "后宫制"
  leader_trait_v_polygynous_desc:0 "这位领袖有自己的后宫"
+
+ leader_trait_v_polyandrous:0 "一夫多妻制"
+ leader_trait_v_polyandrous_desc:0 "这位领袖有许多配偶"
 
  #BACKSTABBING#
  leader_trait_v_backstabbing:0 "背刺"

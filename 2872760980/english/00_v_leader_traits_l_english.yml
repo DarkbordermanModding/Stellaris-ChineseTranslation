@@ -1,14 +1,20 @@
 ﻿l_english:
 
- #ADMIRAL#
+ #COMMANDER#
 
  leader_trait_v_interceptor:0 "Interceptor"
  leader_trait_v_interceptor_desc:0 "This admiral excels at interception tactics."
 
- #GENERAL#
+ leader_trait_v_commander_dulotic:0 "Dulotic Raider"
+ leader_trait_v_commander_dulotic_desc:0 "This leader is a member of a species that instinctively raids for slaves."
+ LEADER_TRAIT_COMMANDER_DULOTIC_EFFECT:0 "$ARMY_EFFECTS_TXT$:\n$t$On Winning Ground Combat as Attacker:\n$tt$ §Y$pop_cat_slave_plural$§! to Random Colonies per Leader Level: §G3%§!"
 
- leader_trait_v_digger:0 "Digger"
- leader_trait_v_digger_desc:0 ""
+ leader_trait_v_official_dulotic:0 "Dulotic Administrator"
+ leader_trait_v_official_dulotic_desc:0 "This leader has an instinctual knowledge of keeping slaves."
+
+ leader_trait_v_hacker:0 "Hacker"
+ leader_trait_v_hacker_desc:0 "This leader is capable of using cyberwarfare techniques to gain the upper hand against their enemies."
+ LEADER_TRAIT_HACKER_EFFECT:0 "$ARMY_EFFECTS_TXT$:\n$t$On Winning Ground Combat as Attacker:\n$tt$ $INTEL$ on enemy Empire per Leader Level: §G+1§!"
 
  #SCIENTIST#
 
@@ -25,6 +31,9 @@
 
  leader_trait_v_polygynous:0 "Polygynous"
  leader_trait_v_polygynous_desc:0 "This leader has formed a harem."
+
+ leader_trait_v_polyandrous:0 "Polyandrous"
+ leader_trait_v_polyandrous_desc:0 "This leader has many consorts."
 
  #BACKSTABBING#
 
