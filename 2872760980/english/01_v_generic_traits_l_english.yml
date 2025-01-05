@@ -105,4 +105,8 @@
 
  trait_v_extremophile:0 "Extremophile"
  trait_v_extremophile_desc:0 "§LThis species is extremely environmentally resilient, even when compared to similarly adapted species.§!"
- TRAIT_EXTREMOPHILE_EFFECT:0 "Doubles £mod_pop_environment_tolerance£ §YHabitability§! from Species Traits."
+ TRAIT_EXTREMOPHILE_EFFECT:0 "Doubles £mod_pop_environment_tolerance£ §YHabitability§! from non-triggered Species Traits."
+
+ trait_v_virility_displays:0 "Virility Displays"
+ trait_v_virility_displays_desc:0 "§LFor this species, displays of strength and virility are the norm.§!"
+ TRAIT_VIRILITY_DISPLAYS_EFFECT:0 "Army Health, Army Damage, Army Morale and Army Morale Damage modifiers from traits, count as positive Pop Growth Speed modifiers at a rate of §G25%§! \nArmy Disengagement Chance modifiers from traits, count as negative Pop Growth Speed modifiers at a rate of §R-25%§!"

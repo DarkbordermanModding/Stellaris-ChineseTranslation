@@ -106,3 +106,7 @@
  trait_v_extremophile:0 "环境弹性"
  trait_v_extremophile_desc:0 "§L这个物种与类似的物种在环境上具有极高的弹性。§!"
  TRAIT_EXTREMOPHILE_EFFECT:0 "物种£mod_pop_environment_tolerance£§Y宜居性§!效果翻倍。"
+
+ trait_v_virility_displays:0 "力量展示"
+ trait_v_virility_displays_desc:0 "§L对于这个物种，力量和活力的展示是常态。§!"
+ TRAIT_VIRILITY_DISPLAYS_EFFECT:0 "特质相关陆军生命值，陆军伤害，陆军士气伤害，陆军士气对人口成长§G+25%§! \n特质相关陆军撤退几率对人口成长§R-25%§!"
