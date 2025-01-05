@@ -16,6 +16,10 @@
  job_v_harem_plural:0 "Harems"
  job_v_harem_desc:0 "A group of individuals kept as mates by one of the leaders."
 
+ job_v_consort:0 "Consort"
+ job_v_consort_plural:0 "Consorts"
+ job_v_consort_desc:0 "A group of individuals kept as mates by one of the leaders."
+
  job_v_ranch_livestock:0 "Ranch Livestock"
  job_v_ranch_livestock_plural: "Ranch Livestock"
  job_v_ranch_livestock_desc:0 "Livestock with special oversight from another species."
