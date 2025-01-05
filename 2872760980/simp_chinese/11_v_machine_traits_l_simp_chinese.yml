@@ -90,3 +90,11 @@
 
  trait_v_unreliable:0 "不可靠"
  trait_v_unreliable_desc:0 "§L这些机器并不可靠，可能会随机故障。§!"
+
+ trait_v_recyclable:0 "可回收"
+ trait_v_recyclable_desc:0 "§L这些机器非常容易回收制作成新型号。§!"
+ TRAIT_RECYCLABLE_EFFECT:0 "每个具可回收特质人口对机器人专家维护费: §G-1%§!"
+
+ trait_v_hacker:0 "黑客子進程"
+ trait_v_hacker_desc:0 "§L这些机器可以轻松的突破敌人的系统防火墙。§!"
+ TRAIT_HACKER_EFFECT:0 "£commander£ §Y指挥官§!具有 ['concept_v_leader_hacker'] 特质 \n£job_enforcer£ 执法者犯罪率降低: §G+5§! \n£job_criminal£ 罪犯犯罪率提升: §R+5§!"

@@ -78,7 +78,7 @@
  TRAIT_CORRODING_EFFECT:0 "Species Minimum Habitability for each positive trait selected: §R-5%§! \nHabitability for each positive trait selected: §R-5%§!"
 
  trait_v_corner_cutting:0 "Corner Cutting"
- trait_v_corner_cutting_desc:0 "§LThese machines are build very fast. Unfortunately, their quality... is debatable.§!"
+ trait_v_corner_cutting_desc:0 "§LThese machines are built very fast. Unfortunately, their quality... is debatable.§!"
  TRAIT_CORNER_CUTTING_EFFECT:0 "Mechanical Pop Assembly Speed for each negative trait selected: §G+5%§!"
 
  trait_v_spaghetti_code:0 "Spaghetti Code"
@@ -90,3 +90,11 @@
 
  trait_v_unreliable:0 "Unreliable"
  trait_v_unreliable_desc:0 "§LThese machines aren't the most reliable, having a random tendency to break.§!"
+
+ trait_v_recyclable:0 "Recyclable"
+ trait_v_recyclable_desc:0 "§LThese machines are extremely easy to recycle into new models.§!"
+ TRAIT_RECYCLABLE_EFFECT:0 "Roboticists upkeep per pop with the Recyclable trait: §G-1%§!"
+
+ trait_v_hacker:0 "Hacking Subroutines"
+ trait_v_hacker_desc:0 "These machines are capable of breaking through enemy firewalls with relative ease."
+ TRAIT_HACKER_EFFECT:0 "£commander£ §YCommanders§! start with the ['concept_v_leader_hacker'] Trait \n£job_enforcer£ Enforcer Crime Reduction: §G+5§! \n£job_criminal£ Criminal Crime Increase: §R+5§!"
