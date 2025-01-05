@@ -88,3 +88,7 @@ l_english:
 
  trait_v_cyborg_unreliable:0 "Unreliable Cybernetics"
  trait_v_cyborg_unreliable_desc:0 "§LThese cybernetics are extremely unreliable, which can result in the death of the user.§!"
+
+ trait_v_cyborg_hacker:0 "Hacking Augments"
+ trait_v_cyborg_hacker_desc:0 "§LBy equipping specialized cybernetics, breaking through enemy firewalls becomes relatively easy.§!"
+ TRAIT_CYBORG_HACKER_EFFECT:0 "$TRAIT_HACKER_EFFECT$ \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
