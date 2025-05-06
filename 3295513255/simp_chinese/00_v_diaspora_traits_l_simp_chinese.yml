@@ -1,107 +1,107 @@
 ﻿l_simp_chinese:
 
- trait_v_diaspora_adapted_a:0 "§R甲级§! Diaspora"
+ trait_v_diaspora_adapted_a:0 "§R甲级§!新住民"
  trait_v_diaspora_adapted_a_desc:0 "This species originates from a different planet, but it managed to adapt to this new world."
  TRAIT_DIASPORA_ADAPTED_EFFECT:0 "This species will share the same homeworld as the species with the respective §cHomeworlder§! trait. \n\n§H这个特质会在游戏开始时移除§!"
 
- trait_v_diaspora_adapted_b:0 "§H乙级§! Diaspora"
+ trait_v_diaspora_adapted_b:0 "§H乙级§!新住民"
  trait_v_diaspora_adapted_b_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
- trait_v_diaspora_adapted_c:0 "§Y丙级§! Diaspora"
+ trait_v_diaspora_adapted_c:0 "§Y丙级§!新住民"
  trait_v_diaspora_adapted_c_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
- trait_v_diaspora_adapted_d:0 "§l丁级§! Diaspora"
+ trait_v_diaspora_adapted_d:0 "§l丁级§!新住民"
  trait_v_diaspora_adapted_d_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
- trait_v_diaspora_adapted_e:0 "§G戊级§! Diaspora"
+ trait_v_diaspora_adapted_e:0 "§G戊级§!新住民"
  trait_v_diaspora_adapted_e_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
- trait_v_diaspora_adapted_f:0 "§c己级§! Diaspora"
+ trait_v_diaspora_adapted_f:0 "§c己级§!新住民"
  trait_v_diaspora_adapted_f_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
- trait_v_diaspora_adapted_g:0 "§B庚级§! Diaspora"
+ trait_v_diaspora_adapted_g:0 "§B庚级§!新住民"
  trait_v_diaspora_adapted_g_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
- trait_v_diaspora_adapted_h:0 "§r辛级§! Diaspora"
+ trait_v_diaspora_adapted_h:0 "§r辛级§!新住民"
  trait_v_diaspora_adapted_h_desc:0 "$trait_v_diaspora_adapted_a_desc$"
 
  ################################################################################################################################
 
- trait_v_diaspora_unadapted_a:0 "§R甲级§! In A Strange Land"
+ trait_v_diaspora_unadapted_a:0 "§R甲级§!移居者"
  trait_v_diaspora_unadapted_a_desc:0 "This species originates from a different planet, but it didn't manage to adapt to this strange new world."
  TRAIT_DIASPORA_UNADAPTED_EFFECT:0 "This species will share the same homeworld and habitability preference as the species with the respective §cHomeworlder§! trait. \n\n§H这个特质会在游戏开始时移除§!"
 
- trait_v_diaspora_unadapted_b:0 "§H乙级§! In A Strange Land"
+ trait_v_diaspora_unadapted_b:0 "§H乙级§!移居者"
  trait_v_diaspora_unadapted_b_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
- trait_v_diaspora_unadapted_c:0 "§Y丙级§! In A Strange Land"
+ trait_v_diaspora_unadapted_c:0 "§Y丙级§!移居者"
  trait_v_diaspora_unadapted_c_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
- trait_v_diaspora_unadapted_d:0 "§l丁级§! In A Strange Land"
+ trait_v_diaspora_unadapted_d:0 "§l丁级§!移居者"
  trait_v_diaspora_unadapted_d_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
- trait_v_diaspora_unadapted_e:0 "§G戊级§! In A Strange Land"
+ trait_v_diaspora_unadapted_e:0 "§G戊级§!移居者"
  trait_v_diaspora_unadapted_e_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
- trait_v_diaspora_unadapted_f:0 "§c己级§! In A Strange Land"
+ trait_v_diaspora_unadapted_f:0 "§c己级§!移居者"
  trait_v_diaspora_unadapted_f_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
- trait_v_diaspora_unadapted_g:0 "§B庚级§! In A Strange Land"
+ trait_v_diaspora_unadapted_g:0 "§B庚级§!移居者"
  trait_v_diaspora_unadapted_g_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
- trait_v_diaspora_unadapted_h:0 "§r辛级§! In A Strange Land"
+ trait_v_diaspora_unadapted_h:0 "§r辛级§!移居者"
  trait_v_diaspora_unadapted_h_desc:0 "$trait_v_diaspora_unadapted_a_desc$"
 
  ################################################################################################################################
 
- trait_v_diaspora_core_a:0 "§RAlpha§! Homeworlder"
+ trait_v_diaspora_core_a:0 "§R甲级§!原住民"
  trait_v_diaspora_core_a_desc:0 "This species once shared its home world with another species, but it was a long time ago."
- TRAIT_DIASPORA_CORE_EFFECT:0 "This trait determines the homeworld for species with the §cDiaspora§! traits. \n\n§HThis trait will be removed after game start."
+ TRAIT_DIASPORA_CORE_EFFECT:0 "This trait determines the homeworld for species with the §cDiaspora§! traits. \n\n§H这个特质会在游戏开始时移除§!"
 
- trait_v_diaspora_core_b:0 "§HBeta§! Homeworlder"
+ trait_v_diaspora_core_b:0 "§H乙级§!原住民"
  trait_v_diaspora_core_b_desc:0 "$trait_v_diaspora_core_a_desc$"
 
- trait_v_diaspora_core_c:0 "§YGamma§! Homeworlder"
+ trait_v_diaspora_core_c:0 "§Y丙级§!原住民"
  trait_v_diaspora_core_c_desc:0 "$trait_v_diaspora_core_a_desc$"
 
- trait_v_diaspora_core_d:0 "Delta§! Homeworlder"
+ trait_v_diaspora_core_d:0 "§l丁级§!原住民"
  trait_v_diaspora_core_d_desc:0 "$trait_v_diaspora_core_a_desc$"
 
- trait_v_diaspora_core_e:0 "§GEpsilon§! Homeworlder"
+ trait_v_diaspora_core_e:0 "§G戊级§!原住民"
  trait_v_diaspora_core_e_desc:0 "$trait_v_diaspora_core_a_desc$"
 
- trait_v_diaspora_core_f:0 "§cZeta§! Homeworlder"
+ trait_v_diaspora_core_f:0 "§c己级§!原住民"
  trait_v_diaspora_core_f_desc:0 "$trait_v_diaspora_core_a_desc$"
 
- trait_v_diaspora_core_g:0 "§BEta§! Homeworlder"
+ trait_v_diaspora_core_g:0 "§B庚级§!原住民"
  trait_v_diaspora_core_g_desc:0 "$trait_v_diaspora_core_a_desc$"
 
- trait_v_diaspora_core_h:0 "§rTheta§! Homeworlder"
+ trait_v_diaspora_core_h:0 "§r辛级§!原住民"
  trait_v_diaspora_core_h_desc:0 "$trait_v_diaspora_core_a_desc$"
 
  ################################################################################################################################
 
- trait_v_diaspora_exodus_a:0 "§RAlpha§! Exodus"
+ trait_v_diaspora_exodus_a:0 "§R甲级§!流浪者"
  trait_v_diaspora_exodus_a_desc:0 "This species once lived on a different planet, but due to some cataclysmic event, they were forced to leave, never to return..."
- TRAIT_DIASPORA_EXODUS_EFFECT:0 "The homeworld of this species will be a random Barren Planet with the Terraforming Candidate planetary modifier. \n\n§HThis trait will be removed after game start."
+ TRAIT_DIASPORA_EXODUS_EFFECT:0 "The homeworld of this species will be a random Barren Planet with the Terraforming Candidate planetary modifier. \n\n§H这个特质会在游戏开始时移除§!"
 
- trait_v_diaspora_exodus_b:0 "§HBeta§! Exodus"
+ trait_v_diaspora_exodus_b:0 "§H乙级§!流浪者"
  trait_v_diaspora_exodus_b_desc:0 "$trait_v_diaspora_exodus_a_desc$"
 
- trait_v_diaspora_exodus_c:0 "§YGamma§! Exodus"
+ trait_v_diaspora_exodus_c:0 "§Y丙级§!流浪者"
  trait_v_diaspora_exodus_c_desc:0 "$trait_v_diaspora_exodus_a_desc$"
 
- trait_v_diaspora_exodus_d:0 "Delta§! Exodus"
+ trait_v_diaspora_exodus_d:0 "§l丁级§!流浪者"
  trait_v_diaspora_exodus_d_desc:0 "$trait_v_diaspora_exodus_a_desc$"
 
- trait_v_diaspora_exodus_e:0 "§GEpsilon§! Exodus"
+ trait_v_diaspora_exodus_e:0 "§G戊级§!流浪者"
  trait_v_diaspora_exodus_e_desc:0 "$trait_v_diaspora_exodus_a_desc$"
 
- trait_v_diaspora_exodus_f:0 "§cZeta§! Exodus"
+ trait_v_diaspora_exodus_f:0 "§c己级§!流浪者"
  trait_v_diaspora_exodus_f_desc:0 "$trait_v_diaspora_exodus_a_desc$"
 
- trait_v_diaspora_exodus_g:0 "§BEta§! Exodus"
+ trait_v_diaspora_exodus_g:0 "§B庚级§!流浪者"
  trait_v_diaspora_exodus_g_desc:0 "$trait_v_diaspora_exodus_a_desc$"
 
- trait_v_diaspora_exodus_h:0 "§rTheta§! Exodus"
+ trait_v_diaspora_exodus_h:0 "§r辛级§!流浪者"
  trait_v_diaspora_exodus_h_desc:0 "$trait_v_diaspora_exodus_a_desc$"
