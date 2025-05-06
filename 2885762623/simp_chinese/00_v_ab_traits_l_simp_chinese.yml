@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
 
  trait_v_abspecies_a:0 "§R甲级§!转基因"
- trait_v_abspecies_a_desc:0 "§L这个物种在太空的某个地方有亲戚，尽管外貌可能大不相同，但仍然具有亲缘关系。§!"
+ trait_v_abspecies_a_desc:0 "这个物种在太空的某个地方有亲戚，尽管外貌可能大不相同，但仍然具有亲缘关系。"
  TRAIT_ABSPECIES_EFFECT:0 "同类型但不同物种若具有同样的转基因特质，会使两者变成彼此的子物种，必须要同级的转基因特质才会生效。 \n\n§H这个特质会在游戏开始时移除§!"
 
  trait_v_abspecies_b:0 "§H乙级§!转基因"
@@ -28,7 +28,7 @@
  ################################################################################################################################
 
  trait_v_abspecies_universal_a:0 "§R甲级§!跨物种转基因"
- trait_v_abspecies_universal_a_desc:0 "§L这个物种在太空的某个地方有亲戚，尽管外貌甚至生理结构可能截然不同，但仍然具有亲缘关系。§!"
+ trait_v_abspecies_universal_a_desc:0 "这个物种在太空的某个地方有亲戚，尽管外貌甚至生理结构可能截然不同，但仍然具有亲缘关系。"
  TRAIT_ABSPECIES_UNIVERSAL_EFFECT:0 "不同物种若具有同样的转基因特质，会使两者变成彼此的子物种，必须要同级的转基因特质才会生效。 \n\n§H这个特质会在游戏开始时移除§!"
 
  trait_v_abspecies_universal_b:0 "§H乙级§!跨物种转基因"
