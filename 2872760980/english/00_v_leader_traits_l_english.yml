@@ -49,4 +49,7 @@
 
  leader_trait_v_caution_to_the_wind:0 "Caution To The Wind"
  leader_trait_v_caution_to_the_wind_desc:0 "To this leader, health and safety violations seem more like obstacles than valid concerns."
- LEADER_TRAIT_CTTW_EFFECT:0 "Monthly Death Chance: §R+1%§!"
+ LEADER_TRAIT_CTTW_EFFECT:0 "Yearly Death Chance: §R+1%§!"
+
+ leader_trait_v_immortalized:0 "Immortalized"
+ leader_trait_v_immortalized_desc:0 "The cells of this leader achieved immortality."

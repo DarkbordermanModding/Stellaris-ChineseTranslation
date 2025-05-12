@@ -36,6 +36,7 @@
  leader_trait_v_polyandrous_desc:0 "这位领袖有许多配偶"
 
  #BACKSTABBING#
+
  leader_trait_v_backstabbing:0 "背刺"
  leader_trait_v_backstabbing_desc:0 "这位领袖不能信任。与它们互动时，应始终牢记这一点。"
  LEADER_TRAIT_BACKSTABBING_EFFECT:0 "随机领袖死亡机率: §R+1%§! \n领袖死亡时时等级: §G+1§!"
@@ -45,6 +46,10 @@
  leader_trait_v_gang_leader_desc:0 "这位领袖曾经有犯罪背景。事实上他曾是犯罪组织的领导者。"
 
  #CAUTION TO THE WIND#
+
  leader_trait_v_caution_to_the_wind:0 "鲁莽行事"
  leader_trait_v_caution_to_the_wind_desc:0 "对于这位领袖来说，违反健康和安全的行为与其是担忧更像是该跨过的障碍。"
- LEADER_TRAIT_CTTW_EFFECT:0 "每月死亡率: §R+1%§!"
+ LEADER_TRAIT_CTTW_EFFECT:0 "每年死亡率: §R+1%§!"
+
+ leader_trait_v_immortalized:0 "永生者"
+ leader_trait_v_immortalized_desc:0 "这位领袖的细胞永不老化。"
