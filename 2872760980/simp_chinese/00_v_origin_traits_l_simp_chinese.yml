@@ -1,13 +1,13 @@
 ﻿l_simp_chinese:
  trait_v_rapid_mutation:0 "快速突变"
- trait_v_rapid_mutation_desc:0 "§L这个物种突变迅速，使其得以适应各种环境。对于他们来说，不幸的是，这个特质在健康方面有许多缺点。§!"
+ trait_v_rapid_mutation_desc:0 "这个物种突变迅速，使其得以适应各种环境。对于他们来说，不幸的是，这个特质在健康方面有许多缺点。"
 
  trait_v_radiogenesis:0 "辐射起源"
- trait_v_radiogenesis_desc:0 "§L这个物种在放射性废土中进化，它们所知的一切都是放射性灰烬和黑雪。§!"
+ trait_v_radiogenesis_desc:0 "这个物种在放射性废土中进化，它们所知的一切都是放射性灰烬和黑雪。"
  TRAIT_RADIOGENESIS_EFFECT:0 "适居星球变更为§Y死寂星球§!。\n移除 ['concept_survivor'] 特质。 \n\n§H这个特质将在游戏开始后移除。§!"
 
  trait_v_machine_radiogenesis:0 "废土诞生"
- trait_v_machine_radiogenesis_desc:0 "§!这些机器是在曾经属于它们的世界的灰烬和废墟中建造的。§!"
+ trait_v_machine_radiogenesis_desc:0 "这些机器是在曾经属于它们的世界的灰烬和废墟中建造的。"
  TRAIT_MACHINE_RADIOGENESIS_EFFECT:0 "适居星球变更为§Y死寂星球§!。\n移除 ['concept_robot_survivor'] 特质。\n\n§H这个特质将在游戏开始后移除。§!"
 
  trait_v_gravitational_assist:0 "重力辅助"
@@ -15,17 +15,17 @@
  TRAIT_GRAVITATIONAL_ASSIST_EFFECT:0 "§Y指挥官§!与§Y科学家§!获得['concept_v_gravitational_assist']特质"
 
  trait_v_symbiont_a:0 "两仪阳体"
- trait_v_symbiont_a_desc:0 "§L该物种与其他物种存在着牢固的相互关系。没有上述物种的存在，它们就无法繁殖。§!"
+ trait_v_symbiont_a_desc:0 "该物种与其他物种存在着牢固的相互关系。没有上述物种的存在，它们就无法繁殖。"
  TRAIT_SYMBIONT_A_EFFECT:0 "具§H两仪阳体§!特质人口若超过具§H两仪阴体§!特质人口则停止增长"
 
  trait_v_symbiont_b:0 "两仪阴体"
- trait_v_symbiont_b_desc:0 "§L该物种与其他物种存在着牢固的相互关系。没有上述物种的存在，它们就无法繁殖。§!"
+ trait_v_symbiont_b_desc:0 "该物种与其他物种存在着牢固的相互关系。没有上述物种的存在，它们就无法繁殖。"
  TRAIT_SYMBIONT_B_EFFECT:0 "具§H两仪阴体§!特质人口若超过具§H两仪阳体§!特质人口则停止增长"
 
  trait_v_void_neuston:0 "风暴浮游"
- trait_v_void_neuston_desc:0 "§L这个物种能够随星系风暴移动。§!"
+ trait_v_void_neuston_desc:0 "这个物种能够随星系风暴移动。"
  TRAIT_VOID_NEUSTON_EFFECT:0 "强制迁徙£energy£§Y能量币§!花费替换为§Y20%§!的£food£§Y食物§!或£minerals£ §Y矿物§!。 \n在 §Y$default_storm$§! 中時:$TABBED_NEW_LINE$$MOD_POP_GROWTH_FROM_IMMIGRATION$: §G+50%§! $TABBED_NEW_LINE$$MOD_POP_RESETTLEMENT_COST_MULT$: §G-100%§!"
 
  trait_v_storm_sails:0 "风暴帆"
- trait_v_storm_sails_desc:0 "§L这些机器可以倚靠太阳帆进行远航，同时藉由这些帆收集有用的资料。§!"
+ trait_v_storm_sails_desc:0 "这些机器可以倚靠太阳帆进行远航，同时藉由这些帆收集有用的资料。"
  TRAIT_STORM_SAILS_EFFECT:0 "每个强制迁徙人口获得§G100§! £physics£ §Y物理学§!。 \n在 §Y$default_storm$§! 中時: $TABBED_NEW_LINE$ 每个强制迁入或迁出 §Y$default_storm$§! 人口获得 §G100§! £engineering£ £physics£ £society£ §Y随机研究§!. $TABBED_NEW_LINE$Each 每个强制迁入或迁出 §Y$default_storm$§! 人口获得 §G25§! 随机 £volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§! or §G10§! random £sr_living_metal£ £sr_zro£ £sr_dark_matter£ §Y稀有资源§!."

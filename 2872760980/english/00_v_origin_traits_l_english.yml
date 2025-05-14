@@ -1,31 +1,31 @@
 ﻿l_english:
  trait_v_rapid_mutation:0 "Rapid Mutation"
- trait_v_rapid_mutation_desc:0 "§LThis species seems to mutate at a rapid pace, making them masters of adaptation. Unfortunately for them all, that adaptability comes with many drawbacks in terms of their health.§!"
+ trait_v_rapid_mutation_desc:0 "This species seems to mutate at a rapid pace, making them masters of adaptation. Unfortunately for them all, that adaptability comes with many drawbacks in terms of their health."
 
  trait_v_radiogenesis:0 "Radiogenesis"
- trait_v_radiogenesis_desc:0 "§LThis species evolved in a radioactive wasteland, as everything this species knew was the radioactive ash and black snow.§!"
- TRAIT_RADIOGENESIS_EFFECT:0 "Changes Planet Preference to Tomb World Preference. \nRemoves ['concept_survivor'] trait. \n\n§HThis trait will be removed after game start.§!"
+ trait_v_radiogenesis_desc:0 "This species evolved in a radioactive wasteland, as everything this species knew was the radioactive ash and black snow."
+ TRAIT_RADIOGENESIS_EFFECT:0 "Changes Planet Preference to Tomb World Preference. \nRemoves ['concept_survivor'] trait. \n\n§HThis trait will be removed after game start."
 
  trait_v_machine_radiogenesis:0 "Wasteland Construct"
- trait_v_machine_radiogenesis_desc:0 "§!These machines were built in the ashes and ruins of what was once their world.§!"
- TRAIT_MACHINE_RADIOGENESIS_EFFECT:0 "Changes Planet Preference to §YTomb World§! Preference. \nRemoves ['concept_robot_survivor'] trait. \n\n§HThis trait will be removed after game start.§!"
+ trait_v_machine_radiogenesis_desc:0 "§!These machines were built in the ashes and ruins of what was once their world."
+ TRAIT_MACHINE_RADIOGENESIS_EFFECT:0 "Changes Planet Preference to §YTomb World§! Preference. \nRemoves ['concept_robot_survivor'] trait. \n\n§HThis trait will be removed after game start."
 
  trait_v_gravitational_assist:0 "Gravitational Assist"
  trait_v_gravitational_assist_desc:0 "Born in the void, this species is well acquainted with using gravity to their advantage"
  TRAIT_GRAVITATIONAL_ASSIST_EFFECT:0 "§YCommanders§! and §YScientists§! start with the ['concept_v_gravitational_assist'] trait"
 
  trait_v_symbiont_a:0 "Alpha Symbiont"
- trait_v_symbiont_a_desc:0 "§LThis species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce.§!"
+ trait_v_symbiont_a_desc:0 "This species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce."
  TRAIT_SYMBIONT_A_EFFECT:0 "This species won't grow if there are more pops with §HAlpha Symbiont§! than with §HBeta Symbiont§! on the planet."
 
  trait_v_symbiont_b:0 "Beta Symbiont"
- trait_v_symbiont_b_desc:0 "§LThis species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce.§!"
+ trait_v_symbiont_b_desc:0 "This species exists in an obligate mutualistic relationship with another species. Without the presence of said species, they aren't able to reproduce."
  TRAIT_SYMBIONT_B_EFFECT:0 "This species won't grow if there are more pops with §HBeta Symbiont§! than with §HAlpha Symbiont§! on the planet."
 
  trait_v_void_neuston:0 "Void Neuston"
- trait_v_void_neuston_desc:0 "§LThis species is capable of moving with the galactic winds.§!"
+ trait_v_void_neuston_desc:0 "This species is capable of moving with the galactic winds."
  TRAIT_VOID_NEUSTON_EFFECT:0 "Pop Resettlement £energy£ §YEnergy§! Cost gets replaced with £food£ §YFood§! or £minerals£ §YMinerals§! at §Y20%§! of the original value. \nWhile in a §Y$default_storm$§!:$TABBED_NEW_LINE$$MOD_POP_GROWTH_FROM_IMMIGRATION$: §G+50%§! $TABBED_NEW_LINE$$MOD_POP_RESETTLEMENT_COST_MULT$: §G-100%§!"
 
  trait_v_storm_sails:0 "Storm Sails"
- trait_v_storm_sails_desc:0 "§LThese machines were designed to use solar sails to traverse long distances at low costs, while at the same time gathering data about the makeup of the solar wind.§!"
+ trait_v_storm_sails_desc:0 "These machines were designed to use solar sails to traverse long distances at low costs, while at the same time gathering data about the makeup of the solar wind."
  TRAIT_STORM_SAILS_EFFECT:0 "Each Resettled Pop grants §G100§! £physics£ §YPhysics Research§!. \nWhile in a §Y$default_storm$§!: $TABBED_NEW_LINE$Each Resettled Pop from or to a planet in a §Y$default_storm$§! grants §G100§! £engineering£ £physics£ £society£ §YRandom research§!. $TABBED_NEW_LINE$Each Resettled Pop from or to a planet in a §Y$default_storm$§! grants §G25§! random £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! or §G10§! random £sr_living_metal£ £sr_zro£ £sr_dark_matter£ §YRare Resources§!."
