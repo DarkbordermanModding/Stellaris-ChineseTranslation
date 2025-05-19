@@ -1,48 +1,48 @@
 ﻿l_english:
 
  trait_v_cyborg_fetal_education:0 "Fetal Education"
- trait_v_cyborg_fetal_education_desc:0 "§LThrough advanced neuro-placental implants, it becomes possible to greatly boost the initial level of neural development.§!"
+ trait_v_cyborg_fetal_education_desc:0 "Through advanced neuro-placental implants, it becomes possible to greatly boost the initial level of neural development."
  TRAIT_CYBORG_FETAL_EDUCATION_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_nanocarbon_fur:0 "Nanocarbon Fur"
- trait_v_cyborg_nanocarbon_fur_desc:0 "§LExtremely dense fur made out of nanocarbons extremely resistant to damage and extremely durable.§!"
+ trait_v_cyborg_nanocarbon_fur_desc:0 "Extremely dense fur made out of nanocarbons extremely resistant to damage and extremely durable."
 
  trait_v_cyborg_featherblade:0 "Featherblade"
- trait_v_cyborg_featherblade_desc:0 "§LThe feathers of this species have been replaced with artificial structures. Harder, lighter and sharper than the original.§!"
+ trait_v_cyborg_featherblade_desc:0 "The feathers of this species have been replaced with artificial structures. Harder, lighter and sharper than the original."
 
  trait_v_cyborg_respiratory_filters:0 "Respiratory Filters"
- trait_v_cyborg_respiratory_filters_desc:0 "§LBy first filtering the inhaled air, the amount of inhaled toxins and nanoparticles can be greatly reduced, increasing comfort of living by a great amount.§!"
+ trait_v_cyborg_respiratory_filters_desc:0 "By first filtering the inhaled air, the amount of inhaled toxins and nanoparticles can be greatly reduced, increasing comfort of living by a great amount."
  TRAIT_CYBORG_RESPIRATORY_FILTERS_EFFECT:0 "Negates the negative effects of the §cDouble Respiration§! trait. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_thermoproof_scale:0 "Scale Temperature Regulation"
- trait_v_cyborg_thermoproof_scale_desc:0 "§LBy replacing the regular scales with ones capable of increasing and decreasing heat transfer depending on the environmental conditions, it is possible to achieve a much higher tolerance of non-optimal climate conditions.§!"
+ trait_v_cyborg_thermoproof_scale_desc:0 "By replacing the regular scales with ones capable of increasing and decreasing heat transfer depending on the environmental conditions, it is possible to achieve a much higher tolerance of non-optimal climate conditions."
 
  trait_v_cyborg_pearl_farm:0 "Automated Pearl Harvesters"
- trait_v_cyborg_pearl_farm_desc:0 "§LBy applying an advanced monitoring system, it is possible to achieve much grander harvests of pearls than by just using normal means.§!"
+ trait_v_cyborg_pearl_farm_desc:0 "By applying an advanced monitoring system, it is possible to achieve much grander harvests of pearls than by just using normal means."
  TRAIT_PEARL_FARM_EFFECT:0 "Each pop working as a slave or better produces 1 £trade_value£ §YTrade Value§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_additional_nerve_cords:0 "Additional Nerve Cords"
- trait_v_cyborg_additional_nerve_cords_desc:0 "§LBy embedding artificial nerve cords, it becomes possible to increase the efficiency and autonomy of individual appendages.§!"
+ trait_v_cyborg_additional_nerve_cords_desc:0 "By embedding artificial nerve cords, it becomes possible to increase the efficiency and autonomy of individual appendages."
 
  trait_v_cyborg_bionic_energy:0 "Bionic Power Plants"
- trait_v_cyborg_bionic_energy_desc:0 "§LThrough combining a specific type of microbe, the natural fungal properties and a power collection system, individuals of this species can become living power plants of unprecedented efficiency.§!"
+ trait_v_cyborg_bionic_energy_desc:0 "Through combining a specific type of microbe, the natural fungal properties and a power collection system, individuals of this species can become living power plants of unprecedented efficiency."
  TRAIT_CYBORG_BIONIC_ENERGY_EFFECT:0 "Each pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. (An additional 0.5 £energy£ §YEnergy§! per month for each "£energy£ Energy Credits from £job_technician£ Technicians" modifier affecting the planet)"
 
  trait_v_cyborg_nanobionics:0 "Environmental Nanobionics"
- trait_v_cyborg_nanobionics_desc:0 "§LBy using the natural biosensory abilities of this species, they are capable of enhancing the environment wherever it matters.§!"
+ trait_v_cyborg_nanobionics_desc:0 "By using the natural biosensory abilities of this species, they are capable of enhancing the environment wherever it matters."
  TRAIT_CYBORG_NANOBIONICS_EFFECT:0 "Each pop working as a slave or better increases the £mod_pop_environment_tolerance£ §YHabitability§! by: §G+1%§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_concrete:0 "Concrete Armor"
- trait_v_cyborg_concrete_desc:0 "§LA thick layer of reinforced concrete and hydraulics to provide adequate protection from both enemy fire and radiation. Even if the end result can be considered somewhat bulky.§!"
+ trait_v_cyborg_concrete_desc:0 "A thick layer of reinforced concrete and hydraulics to provide adequate protection from both enemy fire and radiation. Even if the end result can be considered somewhat bulky."
  TRAIT_CYBORG_CONCRETE_EFFECT:0 "Negates the negative environmental effects of the §cRadiating§! trait. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep_half$§! (No energy upkeep with the §cRadiating§! trait.) \nIncreases $r_minerals$ Upkeep by §R+$@cyborg_energy_upkeep_half$§!"
 
  trait_v_cyborg_necrobionics:0 "Necrobionics"
- trait_v_cyborg_necrobionics_desc:0 "§LThrough the use of special preservatives and artificial tissue replacements, it is possible to push old, aging, and damaged organs to new heights.§!"
+ trait_v_cyborg_necrobionics_desc:0 "Through the use of special preservatives and artificial tissue replacements, it is possible to push old, aging, and damaged organs to new heights."
 
  trait_v_cyborg_ghoul_protocol:0 "Ghoul Protocol"
- trait_v_cyborg_ghoul_protocol_desc:0 "§LBy using a combination of micro-defibrillators and redundant artificial neural pathways, it becomes possible to cheat death, to an extent…§!"
+ trait_v_cyborg_ghoul_protocol_desc:0 "By using a combination of micro-defibrillators and redundant artificial neural pathways, it becomes possible to cheat death, to an extent…§!"
  TRAIT_CYBORG_GHOUL_PROTOCOL_EFFECT:0 "Destroyed armies of this species return as §YUndead Armies§!. \nEach destroyed army costs §R100§! £energy£ §YEnergy§! to bring back."
 
  trait_v_cyborg_mobile_platform:0 "Mobile Platform"
- trait_v_cyborg_mobile_platform_desc:0 "§LBy adding a cybernetic mobility platform, this species can finally become mobile.§!"
- TRAIT_MOBILE_PLATFORM_EFFECT:0 "§GNegates the effects of immobilising traits.§! \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"
+ trait_v_cyborg_mobile_platform_desc:0 "By adding a cybernetic mobility platform, this species can finally become mobile."
+ TRAIT_MOBILE_PLATFORM_EFFECT:0 "§GNegates the effects of immobilising traits. \nIncreases $r_energy$ Upkeep by §R+$@cyborg_energy_upkeep$§!"

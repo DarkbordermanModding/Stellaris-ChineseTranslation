@@ -1,48 +1,48 @@
 ﻿l_simp_chinese:
 
  trait_v_cyborg_fetal_education:0 "胎儿教育"
- trait_v_cyborg_fetal_education_desc:0 "§L通过神经局部植入物能够极大地提高初始胚胎神经发育的水平。§!"
+ trait_v_cyborg_fetal_education_desc:0 "通过神经局部植入物能够极大地提高初始胚胎神经发育的水平。"
  TRAIT_CYBORG_FETAL_EDUCATION_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_nanocarbon_fur:0 "纳米碳毛皮"
- trait_v_cyborg_nanocarbon_fur_desc:0 "§L由纳米碳制成的极度致密皮毛相当耐用与耐损耗。§!"
+ trait_v_cyborg_nanocarbon_fur_desc:0 "由纳米碳制成的极度致密皮毛相当耐用与耐损耗。"
 
  trait_v_cyborg_featherblade:0 "羽毛刀刃"
- trait_v_cyborg_featherblade_desc:0 "§L这个物种的羽毛已被人工结构所取代。比原生羽毛更硬，更轻，更銳利。§!"
+ trait_v_cyborg_featherblade_desc:0 "这个物种的羽毛已被人工结构所取代。比原生羽毛更硬，更轻，更銳利。"
 
  trait_v_cyborg_respiratory_filters:0 "呼吸过滤"
- trait_v_cyborg_respiratory_filters_desc:0 "§L藉由过滤吸入的空气，减少吸入的毒素和纳米颗粒的量，增加生活的舒适度。§!"
+ trait_v_cyborg_respiratory_filters_desc:0 "藉由过滤吸入的空气，减少吸入的毒素和纳米颗粒的量，增加生活的舒适度。"
  TRAIT_CYBORG_RESPIRATORY_FILTERS_EFFECT:0 "抵销§c双呼吸系统§!特质的负向效果。\n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_thermoproof_scale:0 "鳞片温度调节"
- trait_v_cyborg_thermoproof_scale_desc:0 "§L通过将常规鳞片更换为能够根据环境条件增加或减少热传递的鳞片，可以对气候有更高的耐受性。§!"
+ trait_v_cyborg_thermoproof_scale_desc:0 "通过将常规鳞片更换为能够根据环境条件增加或减少热传递的鳞片，可以对气候有更高的耐受性。"
 
  trait_v_cyborg_pearl_farm:0 "自动珍珠收割"
- trait_v_cyborg_pearl_farm_desc:0 "§L通过高级监控系统与一般方式相比，可以收获更多的珍珠。§!"
+ trait_v_cyborg_pearl_farm_desc:0 "通过高级监控系统与一般方式相比，可以收获更多的珍珠。"
  TRAIT_PEARL_FARM_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 1 £trade_value£§Y贸易额§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_additional_nerve_cords:0 "额外神经元"
- trait_v_cyborg_additional_nerve_cords_desc:0 "§L通过嵌入人造神经元，可以提高物种的效率。§!"
+ trait_v_cyborg_additional_nerve_cords_desc:0 "通过嵌入人造神经元，可以提高物种的效率。"
 
  trait_v_cyborg_bionic_energy:0 "仿生发电厂"
- trait_v_cyborg_bionic_energy_desc:0 "§L通过结合特定类型的微生物、自然真菌和一个能量收集系统，这种物种可以成为高效的活体发电厂。§!"
+ trait_v_cyborg_bionic_energy_desc:0 "通过结合特定类型的微生物、自然真菌和一个能量收集系统，这种物种可以成为高效的活体发电厂。"
  TRAIT_CYBORG_BIONIC_ENERGY_EFFECT:0 "每个做为奴隶或更高工作标准的人口每月产生 0.5 £energy£ §Y能量幣§! (每个星球上"£job_technician£技工£energy£能量币产出"相关加成会额外增加每月 0.5 £energy£ §Y能量币§!产出)"
 
  trait_v_cyborg_nanobionics:0 "奈米生物技术"
- trait_v_cyborg_nanobionics_desc:0 "§L这个物种通过利用自然生物感知能力，它们能够在各方面提升环境质量。§!"
+ trait_v_cyborg_nanobionics_desc:0 "这个物种通过利用自然生物感知能力，它们能够在各方面提升环境质量。"
  TRAIT_CYBORG_NANOBIONICS_EFFECT:0 "每个做为奴隶或更高工作标准的人口增加 £mod_pop_environment_tolerance£ §Y宜居性§!: §G+1%§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
 
  trait_v_cyborg_concrete:0 "混凝土装甲"
- trait_v_cyborg_concrete_desc:0 "§L厚重的钢筋混凝土层和液压系统，提供足够的保护抵御敌人的攻击和辐射。即使可能显得有些笨重。§!"
+ trait_v_cyborg_concrete_desc:0 "厚重的钢筋混凝土层和液压系统，提供足够的保护抵御敌人的攻击和辐射。即使可能显得有些笨重。"
  TRAIT_CYBORG_CONCRETE_EFFECT:0 "增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep_half$§! \n增加$r_minerals$矿物维护费§R+$@cyborg_energy_upkeep_half$§!"
 
  trait_v_cyborg_necrobionics:0 "生化复活学"
- trait_v_cyborg_necrobionics_desc:0 "§L通过使用特殊的防腐剂和人造组织的替代品，可以将旧，衰老和损坏的器官取而代之。§!"
+ trait_v_cyborg_necrobionics_desc:0 "通过使用特殊的防腐剂和人造组织的替代品，可以将旧，衰老和损坏的器官取而代之。"
 
  trait_v_cyborg_ghoul_protocol:0 "尸鬼协议"
- trait_v_cyborg_ghoul_protocol_desc:0 "§L通过微型除颤器和冗余人工神经电路，可以在一定程度上欺骗死亡……§!"
+ trait_v_cyborg_ghoul_protocol_desc:0 "通过微型除颤器和冗余人工神经电路，可以在一定程度上欺骗死亡……"
  TRAIT_CYBORG_GHOUL_PROTOCOL_EFFECT:0 "被击败的陆军会转变为§Y不死军§!。\n每个陆军需花费§R100§!£energy£§Y能量币§!来复活。"
 
  trait_v_cyborg_mobile_platform:0 "移动平台"
- trait_v_cyborg_mobile_platform_desc:0 "§L通过添加义体活动平台，这些义体人终于可以自由移动。§!"
+ trait_v_cyborg_mobile_platform_desc:0 "通过添加义体活动平台，这些义体人终于可以自由移动。"
  TRAIT_MOBILE_PLATFORM_EFFECT:0 "§G使不可移动相关特质无效。§! \n增加$r_energy$能量币维护费§R+$@cyborg_energy_upkeep$§!"
