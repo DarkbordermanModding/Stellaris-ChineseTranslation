@@ -19,20 +19,16 @@
  concept_v_leader_backstabbing_desc:0 "-随机领袖死亡机率: §R+1%§! \n-领袖死亡时时等级: §G+1§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
 
  concept_v_leader_commander_dulotic:0 "$leader_trait_v_commander_dulotic$"
- concept_v_leader_commander_dulotic_desc:0 "$LEADER_TRAIT_COMMANDER_DULOTIC_EFFECT$"
+ concept_v_leader_commander_dulotic_desc:0 "$LEADER_TRAIT_COMMANDER_DULOTIC_EFFECT$ \n\n§L$leader_trait_v_commander_dulotic_desc$§"
 
  concept_v_leader_official_dulotic:0 "$leader_trait_v_official_dulotic$"
- concept_v_leader_official_dulotic_desc:0 "$PLANET_EFFECTS_TXT$: \n$t$-奴隶人口资源产出: §G+2%§! \n\n$SECTOR_EFFECTS_TXT$: \n$t$-奴隶人口资源产出: §G+1%§!"
+ concept_v_leader_official_dulotic_desc:0 "$PLANET_EFFECTS_TXT$: \n$t$-奴隶人口资源产出: §G+2%§! \n\n$SECTOR_EFFECTS_TXT$: \n$t$-奴隶人口资源产出: §G+1%§! \n\n§L$leader_trait_v_official_dulotic_desc$§!"
 
  concept_v_leader_hacker:0 "$leader_trait_v_hacker$"
- concept_v_leader_hacker_desc:0 "$LEADER_TRAIT_HACKER_EFFECT$"
+ concept_v_leader_hacker_desc:0 "$LEADER_TRAIT_HACKER_EFFECT$ "
 
- leader_trait_v_caution_to_the_wind:0 "$leader_trait_v_caution_to_the_wind$"
- leader_trait_v_caution_to_the_wind_desc:0 "-每月死亡率: §R+1%§! \n\n§L$leader_trait_v_backstabbing_desc$§!"
-
- leader_trait_v_gang_leader:0 "$leader_trait_v_gang_leader$"
- leader_trait_v_gang_leader_desc:0 "-随机领袖死亡机率: §R+1%§! \n-领袖死亡时时等级: §G+1§! \n\n§L$leader_trait_v_gang_leader_desc$§!"
-
+ concept_v_leader_immortalized:0 "$leader_trait_v_immortalized$"
+ concept_v_leader_immortalized_desc:0 "$TRAIT_IMMORTAL_LEADERS$ \n\n§L$leader_trait_v_immortalized_desc$§!"
 
  ################################################################################################################################
 
