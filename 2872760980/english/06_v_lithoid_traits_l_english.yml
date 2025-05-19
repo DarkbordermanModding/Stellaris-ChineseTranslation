@@ -1,100 +1,96 @@
 ﻿l_english:
 
  trait_v_silicon_brain: "Silicon Brain"
- trait_v_silicon_brain_desc:0 "§LThe brains of this species resemble computers more than standard brains.§!"
+ trait_v_silicon_brain_desc:0 "The brains of this species resemble computers more than standard brains."
 
  trait_v_regular_structure:0 "Regular Structure"
- trait_v_regular_structure_desc:0 "§LThe structure of this species is exceedingly regular, making their bodies hard but brittle.§!"
+ trait_v_regular_structure_desc:0 "The structure of this species is exceedingly regular, making their bodies hard but brittle."
 
  trait_v_irregular_structure:0 "Irregular Structure"
- trait_v_irregular_structure_desc:0 "§LThe structure of this species is exceedingly irregular, making their bodies strong but soft.§!"
+ trait_v_irregular_structure_desc:0 "The structure of this species is exceedingly irregular, making their bodies strong but soft."
 
  trait_v_litholytic_enzymes:0 "Litholytic Enzymes"
- trait_v_litholytic_enzymes_desc:0 "§LThis species has developed litholytic enzymes for the purpose of easier access to minerals.§!"
+ trait_v_litholytic_enzymes_desc:0 "This species has developed litholytic enzymes for the purpose of easier access to minerals."
  TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a £job_miner£ §YMiner§! increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by: §G+1%§!"
 
  #TRAIT_LITHOLYTIC_ENZYMES_EFFECT:0 "Each pop working as a slave or better increases £minerals£ §YMinerals§! from £job_miner£ §YMiners§! by §G+1%§!"
 
  trait_v_gems:0 "Gems"
- trait_v_gems_desc:0 "§LThis species is shedding gems. While these gems aren't of much value for industry, they are sought after by the wider public, both due to their aesthetic value and as a symbol of status.§!"
+ trait_v_gems_desc:0 "This species is shedding gems. While these gems aren't of much value for industry, they are sought after by the wider public, both due to their aesthetic value and as a symbol of status."
 
  trait_v_vein_network:0 "Ore Vein Network"
- trait_v_vein_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex network of ore veins and artificial wires. Ideas can be quickly shared between individuals, allowing for great leaps in culture and technology.§!"
+ trait_v_vein_network_desc:0 "This species is permanently connected to other members of its species with a complex network of ore veins and artificial wires. Ideas can be quickly shared between individuals, allowing for great leaps in culture and technology."
  TRAIT_VEIN_NETWORK_EFFECT:0 "£engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! per £planetsize£ §YPlanet Size§!: §G+1%§!"
 
  trait_v_living_mountain:0 "Living Mountains"
- trait_v_living_mountain_desc:0 "§LThis species might be considered a mountain, considering the fact that it is basically impossible to move them.§!"
+ trait_v_living_mountain_desc:0 "This species might be considered a mountain, considering the fact that it is basically impossible to move them."
  TRAIT_LIVING_MOUNTAIN_EFFECT:0 "Pop Mineral Upkeep per £planetsize£ §YPlanet Size§!: §G-1%§! \n$TRAIT_ROOTED_EFFECT$"
 
  trait_v_living_reactors:0 "Radiating"
- trait_v_living_reactors_desc:0 "§LThis species is a walking nuclear reactor. Due to a large amount of radioactive isotopes, this species has adapted its organism to make use of those nuclear reactions for its own gain.§!"
+ trait_v_living_reactors_desc:0 "This species is a walking nuclear reactor. Due to a large amount of radioactive isotopes, this species has adapted its organism to make use of those nuclear reactions for its own gain."
  TRAIT_LIVING_REACTOR_EFFECT:0 "Habitability per Radiating Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§! \nEach pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month. \nDestroyed armies and purged pops cause §R5§! planetary devastation."
 
  trait_v_lithoid_old_instincts:0 "Old Instincts"
- trait_v_lithoid_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
+ trait_v_lithoid_old_instincts_desc:0 "While this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors."
 
  trait_v_lithoid_aeroplankton:0 "Dust Reproduction"
- trait_v_lithoid_aeroplankton_desc:0 "§LThis species reproduces through dust-like particles. These particles can be easily moved by the wind, but cause respiratory issues to other species.§!"
+ trait_v_lithoid_aeroplankton_desc:0 "This species reproduces through dust-like particles. These particles can be easily moved by the wind, but cause respiratory issues to other species."
  TRAIT_LITHOID_AEROPLANKTON_EFFECT:0 "Pop Growth Speed per £planetsize£ §YPlanet Size§! differing from £planetsize£ §Y18§!: §G+5%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! for species without §HDust Reproduction§! by §R-1%§!"
 
  trait_v_meteoric:0 "Meteoric"
- trait_v_meteoric_desc:0 "§LThis species has the ability to survive atmospheric entry. Their bodies are tough and durable, to compensate for the extreme heat and kinetic forces.§!"
+ trait_v_meteoric_desc:0 "This species has the ability to survive atmospheric entry. Their bodies are tough and durable, to compensate for the extreme heat and kinetic forces."
  TRAIT_METEORIC_EFFECT:0 "Resettling a pop of this species causes §R10§! planetary devastation."
 
  trait_v_rockust:0 "Rockusts"
- trait_v_rockust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into rockusts and enters a feeding frenzy.§!"
- TRAIT_ROCKUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Sped: §G+100%§! \nPop Mineral Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RMineral Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R2%§! \nEach pop working as a slave or better decreases the £minerals£ §YMinerals§! from jobs by: §R-2%§!  \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds.§!"
+ trait_v_rockust_desc:0 "This species has two different phenotypes dependent on population density. If it reaches a population density, it turns into rockusts and enters a feeding frenzy."
+ TRAIT_ROCKUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Sped: §G+100%§! \nPop Mineral Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RMineral Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R2%§! \nEach pop working as a slave or better decreases the £minerals£ §YMinerals§! from jobs by: §R-2%§!  \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds."
 
  trait_v_lithoid_parthenocarpy:0 "Geodic"
- trait_v_lithoid_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized eggs or fruit in the form of geodes that can be reused as a source of minerals.§!"
+ trait_v_lithoid_parthenocarpy_desc:0 "This species has the capability to produce unfertilized eggs or fruit in the form of geodes that can be reused as a source of minerals."
  TRAIT_PARTHENOCARPY_L_EFFECT:0 "Instead of becoming unemployed, Pops automatically get employed in §YCoop§! Jobs. \nCoops provide §G2§! £minerals£ §YMinerals§! and §Y1§! £trade_value£ §YTrade Value§! but §R-2%§! Pop Growth Speed for §HGeodic§! Pops."
 
  trait_v_lithoid_cecotrophy:0 "Cecotrophy"
- trait_v_lithoid_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
+ trait_v_lithoid_cecotrophy_desc:0 "To gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species."
 
  trait_v_pumice_raft:0 "Pumice Raft"
- trait_v_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
+ trait_v_pumice_raft_desc:0 "Unlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment."
  TRAIT_PUMICE_RAFT_EFFECT:0 "On §YOcean Worlds§! Gain 1 £district£ §YDistrict§! per 10 pops with §HPumice Raft§!"
 
- trait_v_lithoid_embryonic_diapause:0 "Delayed Implantation"
- trait_v_lithoid_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
- TRAIT_LITHOID_EMBRYONIC_DIAPAUSE_EFFECT:0 "Planets with this species can enact the Diapause decision. Upon enacting the Diapause decision, all pops with §HDelayed Implantation§!: \nPop Mineral Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
-
  trait_v_prismatic:0 "Prismatic"
- trait_v_prismatic_desc:0 "§LThe bodies of this species bend light to create beautiful displays of color.§!"
+ trait_v_prismatic_desc:0 "The bodies of this species bend light to create beautiful displays of color."
  TRAIT_PRISMATIC_EFFECT:0 "£mod_planet_immigration_pull_add£ Immigration Pull from £job_entertainer£ Entertainers: §G+5§! \nReplaces £job_entertainer£ §YEntertainer§! £consumer_goods£ §Y$consumer_goods$§! upkeep with £energy£ §YEnergy§!"
 
  trait_v_crucible:0 "Living Crucible"
- trait_v_crucible_desc:0 "§LThis species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up.§!"
+ trait_v_crucible_desc:0 "This species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up."
  TRAIT_CRUCIBLE_EFFECT:0 "£job_miner£ §YMiners§! count as £job_foundry£ §YMetallurgists§!. \nHabitability on §YDry§! Worlds: §G+50%§!"
 
  trait_v_lithoid_mycorrhizal:0 "Lithorrhizal"
- trait_v_lithoid_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
+ trait_v_lithoid_mycorrhizal_desc:0 "This species is connected to a mycelium network, providing additional nutrients for their development."
  TRAIT_LITHOID_MYCORRHIZA_EFFECT:0 "Pop Minerals Upkeep per Naturally Occurring Blocker: §G-5%§!"
 
  trait_v_statuesque:0 "Statuesque"
- trait_v_statuesque_desc:0 "§LThe bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue.§!"
+ trait_v_statuesque_desc:0 "The bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue."
  TRAIT_STATUESQUE_EFFECT:0 "£job_culture_worker£ §YCulture Workers§! for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \n£unity£ Unity from £pop_cat_ruler£ Ruler Pops: §G+1§! \n£consumer_goods£ Consumer Goods upkeep for £pop_cat_ruler£ Ruler Pops: §R+1§!"
 
  trait_v_conductive:0 "Conductive"
- trait_v_conductive_desc:0 "§LDue to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries.§!"
+ trait_v_conductive_desc:0 "Due to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries."
 
  trait_v_iron_shell:0 "Iron Shells"
- trait_v_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
+ trait_v_iron_shell_desc:0 "Members of this species were hatched from cannonballs."
  TRAIT_IRON_SHELL_EFFECT:0 "$mod_planet_livestock_alloys_produces_add$: §G+1§! \n£alloys£ $alloys$ from £job_foundry£ §YMetallurgists§! when a pop of this species is Growing or is being Assembled: §G+0.5§!"
 
  trait_v_eroding:0 "Eroding"
- trait_v_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"
+ trait_v_eroding_desc:0 "Despite their abilities, this species is exceptionally prone to erosion."
  TRAIT_ERODING_EFFECT:0 "Species Habitability Cap for each positive trait selected: §R-10%§!"
 
  trait_v_overgrown:0 "Overgrown"
- trait_v_overgrown_desc:0 "§LThis species is covered in a series of plants that hide their true form. As a bonus, those plants make for an excellent source of nutrition for carbon based species.§!"
- TRAIT_OVERGROWN_EFFECT:0 "Each pop working as a slave or better produces 0.1 £food£ §YFood§! for every Naturally Occurring Blocker per month. \n£job_enforcer£ Enforcer Crime Reduction for every Naturally Occurring Blocker: §G+1§! \n£job_criminal£ Criminal Crime Increase for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
+ trait_v_overgrown_desc:0 "This species is covered in a series of plants that hide their true form. As a bonus, those plants make for an excellent source of nutrition for carbon based species."
+ TRAIT_OVERGROWN_EFFECT:0 "Each pop working as a slave or better produces 0.1 £food£ §YFood§! for every Naturally Occurring Blocker per month. \n£job_enforcer£ Enforcer Crime Reduction for every Naturally Occurring Blocker: §G+1§! \n£job_criminal£ Criminal Crime Increase for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted."
 
  trait_v_porous_respiration:0 "Porous Respiration"
- trait_v_porous_respiration_desc:0 "§LThis species has pores all across their bodies. A higher concentration of oxygen allows this species to reach larger sizes.§!"
+ trait_v_porous_respiration_desc:0 "This species has pores all across their bodies. A higher concentration of oxygen allows this species to reach larger sizes."
  TRAIT_POROUS_RESPIRATION_EFFECT:0 "For each for each level of £planetsize£ §YPlanet Size§! above 18: \nPop Mineral Upkeep: §G-2.5%§! \nResettlement Cost: §R+2.5%§! \nSpecialist Pop Resource Output: §R-2.5%§!  \nWorker Pop Resource Output: §G+2.5%§! \n\nFor each for each level of £planetsize£ §YPlanet Size§! below 18: \nPop Mineral Upkeep: §R+2.5%§! \nResettlement Cost: §G-2.5%§! \nSpecialist Pop Resource Output: §G+2.5%§!  \nWorker Pop Resource Output: §R-2.5%§!"
 
  trait_v_lithology:0 "Lithology"
- trait_v_lithology_desc:0 "§LThis species is extremely well acquainted with all sorts of minerals, always finding new and innovative ways to use them.§!"
- TRAIT_LITHOLOGY_EFFECT:0 "Multiplicative £minerals£ §YMineral§! production modifiers count as £engineering£ §YEngineering Research§! modifiers."
+ trait_v_lithology_desc:0 "This species is extremely well acquainted with all sorts of minerals, always finding new and innovative ways to use them."
+ TRAIT_LITHOLOGY_EFFECT:0 "Multiplicative £minerals£ §YMineral§! production modifiers count as £engineering£ §YEngineering Research§! modifiers.
