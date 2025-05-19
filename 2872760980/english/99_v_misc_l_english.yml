@@ -3,9 +3,9 @@
  mod_planet_livestock_consumer_goods_produces_add:0 "£consumer_goods£ Consumer Goods from £job_livestock£ §YLivestock§!"
  mod_planet_livestock_alloys_produces_add:0 "£alloys£ Alloys from £job_livestock£ §YLivestock§!"
 
- mod_planet_miners_food_produces_add:0 "£food£ Food from £job_miner£ Miners"
- mod_planet_miners_exotic_gases_produces_add:0 "£exotic_gases£ Exotic Gases from £job_miner£ Miners"
- mod_planet_miners_rare_crystals_produces_add:0 "£rare_crystals£ Rare Crystals from £job_miner£ Miners"
+ mod_planet_miners_food_produces_add:0 "£food£ Food from £job_miner£ [GetMinerPlural]"
+ mod_planet_miners_exotic_gases_produces_add:0 "£exotic_gases£ Exotic Gases from £job_miner£ [GetMinerPlural]"
+ mod_planet_miners_rare_crystals_produces_add:0 "£rare_crystals£ Rare Crystals from £job_miner£ [GetMinerPlural]"
 
  mod_planet_entertainers_society_research_produces_add:0 "£society_research£ Society Research from £job_entertainer£ Entertainers"
  mod_planet_entertainers_physics_research_produces_add:0 "£physics_research£ Physics Research from £job_entertainer£ Entertainers"
@@ -18,8 +18,8 @@
  mod_planet_livestock_produces_mult:0 "Livestock Resource Output"
  mod_country_resource_max_energy_add:0 "Energy Storage Capacity"
 
- mod_planet_priests_engineering_research_produces_add:0 "£engineering_research£ Engineering from £job_priest£ £job_death_priest£ Priests"
- mod_planet_priests_physics_research_produces_add:0 "£physics_research£ Physics from £job_priest£ £job_death_priest£ Priests"
+ mod_planet_priests_engineering_research_produces_add:0 "£engineering_research£ Engineering from £job_priest£ Priests"
+ mod_planet_priests_physics_research_produces_add:0 "£physics_research£ Physics from £job_priest£ Priests"
 
  mod_planet_researchers_energy_produces_add:0 "£energy£ Energy from £job_researcher£ Researchers"
 
@@ -40,3 +40,5 @@
  mod_planet_criminals_energy_upkeep_add:0 "Criminal Energy Upkeep"
 
  WEAK_IMMUNE_SYSTEM_FORCE_DECLINE:0 "§RSpecies is in decline§! due to their §Y$trait_v_weak_immune_system$§!"
+
+ mod_planet_miners_unity_produces_add:0 "£unity£ $unity$ from £job_miner£ [GetMinerPlural]"
