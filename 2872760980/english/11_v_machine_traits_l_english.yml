@@ -1,98 +1,98 @@
 ﻿l_english:
 
  trait_v_self_replicating:0 "Self Replicating"
- trait_v_self_replicating_desc:0 "§LThe ability to self replicate is one of the best abilities a machine can have to explore, expand, exploit and exterminate.§!"
+ trait_v_self_replicating_desc:0 "The ability to self replicate is one of the best abilities a machine can have to explore, expand, exploit and exterminate."
  TRAIT_SELF_REPLICATING_EFFECT:0 "Each pop working as a slave or better produces 0.02 £job_roboticist£ §YMonthly Pop Assembly§!"
 
  trait_v_terror_weapons:0 "Terror Weapons"
- trait_v_terror_weapons_desc:0 "§LThese models have been designed to crush the morale of the enemy. Fighting them resembles a scene from the worst nightmares of any organic or lithoid.§!"
+ trait_v_terror_weapons_desc:0 "These models have been designed to crush the morale of the enemy. Fighting them resembles a scene from the worst nightmares of any organic or lithoid."
 
  trait_v_polluting:0 "Polluting"
- trait_v_polluting_desc:0 "§LThese machines have an extremely negative impact on the environment.§!"
+ trait_v_polluting_desc:0 "These machines have an extremely negative impact on the environment."
  TRAIT_POLLUTING_EFFECT:0 "Each pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by §R-1%§!"
 
  trait_v_emergency_repairs:0 "Emergency Repairs"
- trait_v_emergency_repairs_desc:0 "§LThese machines are capable of self repair in a case of being damaged in combat about half the time.§!"
+ trait_v_emergency_repairs_desc:0 "These machines are capable of self repair in a case of being damaged in combat about half the time."
  TRAIT_EMERGENCY_REPAIRS_EFFECT:0 "Chance for defeated armies to return: §Y33%§!"
  
  trait_v_stealth_bots:0 "Stealth Systems"
- trait_v_stealth_bots_desc:0 "§LThese machines are designed for stealth. They can't be seen or heard by normal means.§!"
+ trait_v_stealth_bots_desc:0 "These machines are designed for stealth. They can't be seen or heard by normal means."
 
  trait_v_solar_panels:0 "Solar Panels"
- trait_v_solar_panels_desc:0 "§LThese machines supplement a part of their energy requirements using solar panels.§!"
+ trait_v_solar_panels_desc:0 "These machines supplement a part of their energy requirements using solar panels."
  TRAIT_SOLAR_PANELS_EFFECT: "Reduces Pop Energy Upkeep between §G-0.15§! and §G-0.5§! depending on the most luminous §YActive Star§! in the system."
 
  trait_v_processing_power_donation:0 "Processing Power Donation"
- trait_v_processing_power_donation_desc:0 "§LThese machines are capable of sharing a part of their unused processing power for scientific pursuits.§!"
+ trait_v_processing_power_donation_desc:0 "These machines are capable of sharing a part of their unused processing power for scientific pursuits."
  TRAIT_PROCESSING_POWER_DONATION_EFFECT:0 "Each pop working as a slave or better increases the £engineering£ £physics£ £society£ Research from £job_researcher£ §YResearcher Jobs§! by §G+0.5%§!"
 
  trait_v_stock_bot:0 "Stock Bot"
- trait_v_stock_bot_desc:0 "§LThese Machines spend their excess processing power on calculating stock prices.§!"
+ trait_v_stock_bot_desc:0 "These Machines spend their excess processing power on calculating stock prices."
 
  trait_v_rgb:0 "Exquisite Design"
- trait_v_rgb_desc:0 "§LThese machines have been designed with great care towards how they are designed. Their design is enough to awe almost anyone.§!"
+ trait_v_rgb_desc:0 "These machines have been designed with great care towards how they are designed. Their design is enough to awe almost anyone."
 
  trait_v_auv:0 "AUV"
- trait_v_auv_desc:0 "§LThese machines have been designed to work in an aquatic environment and have problems working everywhere else.§!"
+ trait_v_auv_desc:0 "These machines have been designed to work in an aquatic environment and have problems working everywhere else."
  TRAIT_AUV_EFFECT:0 "Job Resource output on §YOcean§! worlds: §G+10%§! \nJob Resource output on all other worlds: §R-100%§!"
 
  trait_v_flying_machine:0 "Flying Machines"
- trait_v_flying_machine_desc:0 "§LThese machines are capable of flight, which grants them a lot of mobility.§!"
+ trait_v_flying_machine_desc:0 "These machines are capable of flight, which grants them a lot of mobility."
 
  trait_v_stationary: "Stationary"
- trait_v_stationary_desc: "§LThese machines aren't capable of relocation beyond their planet due to their design.§!"
- TRAIT_STATIONARY_EFFECT:0 "§RThese machines can't be resettled or migrate to other planets.§!"
+ trait_v_stationary_desc: "These machines aren't capable of relocation beyond their planet due to their design."
+ TRAIT_STATIONARY_EFFECT:0 "§RThese machines can't be resettled or migrate to other planets."
 
  trait_v_fabricators:0 "Fabricators"
- trait_v_fabricators_desc:0 "§LThese machines were designed to work in heavy industries and metallurgy.§!"
+ trait_v_fabricators_desc:0 "These machines were designed to work in heavy industries and metallurgy."
 
  trait_v_soft_robotics:0 "Soft Robotics"
- trait_v_soft_robotics_desc:0 "§LThese machines by design perform better when dealing with jobs concerning organics.§!"
+ trait_v_soft_robotics_desc:0 "These machines by design perform better when dealing with jobs concerning organics."
  TRAIT_SOFT_ROBOTICS_EFFECT:0 "£society_research£ Society Research from £job_researcher£ Researchers for every Naturally Occurring Blocker: §G+0.25§! \n£job_healthcare£ §YMedical Workers§!, £job_xeno_zoo_keeper£ §YZoo Keepers§! and £job_augmentor£ §YAugmentors§! have their base output increased by: §G+50%§!"
 
  trait_v_automated_chemistry:0 "Automated Chemistry"
- trait_v_automated_chemistry_desc:0 "§LThese machines have been designed for the purpose of working with dangerous chemicals. Due to this, they have enhanced protection from reactive substances.§!"
+ trait_v_automated_chemistry_desc:0 "These machines have been designed for the purpose of working with dangerous chemicals. Due to this, they have enhanced protection from reactive substances."
 
  trait_v_ecomorph:0 "Ecomorph"
- trait_v_ecomorph_desc:0 "§LThese machines have been designed to fill niches inside a ecosystem. Even if it doesn't fulfill the role anymore, it is still able to trigger a instinctual reaction from a specific species.§!"
+ trait_v_ecomorph_desc:0 "These machines have been designed to fill niches inside a ecosystem. Even if it doesn't fulfill the role anymore, it is still able to trigger a instinctual reaction from a specific species."
  TRAIT_ECOMORPH_EFFECT:0 "Pops with this trait are counted for §EBrood Parasite§! and §EPseudocopulative§!. \nPops with this trait can trigger the effects of §EPredator§! and §EPrey§!."
 
  trait_v_machine_engrams:0 "Engram Recorder"
- trait_v_machine_engrams_desc:0 "§LRecording the experiences and combining it with learning algorithms allows skipping years of training while at the same time hopefully helping to avoid any further accidents.§!"
+ trait_v_machine_engrams_desc:0 "Recording the experiences and combining it with learning algorithms allows skipping years of training while at the same time hopefully helping to avoid any further accidents."
  TRAIT_MACHINE_ENGRAMS_EFFECT:0 "Each time a leader with §HEngram Recorder§! dies, other leaders with these traits and the same leader class gain §G10%§! of the total level of skill level experience of the dead leader, minus §Y10%§! of their own total skill level experience. Leaders with higher levels won't gain any experience from dead lower or equal levels of skill."
 
  trait_v_spare_parts:0 "Spare Parts"
- trait_v_spare_parts_desc:0 "§LThese machines are designed with spare parts in mind. But due to the nature of having backup parts for everything, there is a chance to collect enough of them to build a new machine unit.§!"
+ trait_v_spare_parts_desc:0 "These machines are designed with spare parts in mind. But due to the nature of having backup parts for everything, there is a chance to collect enough of them to build a new machine unit."
  TRAIT_SPARE_PARTS_EFFECT:0 "Each time a pop gets assembled, there is a §Y5%§! chance to gain between §Y1-3§! additional pops."
 
  trait_v_economies_of_scale:0 "Economies of Scale"
- trait_v_economies_of_scale_desc:0 "§LFor these machines, efficiency is the main focus of their design. They achieve economies of scale by creating massive production complexes to reduce operating costs.§!"
+ trait_v_economies_of_scale_desc:0 "For these machines, efficiency is the main focus of their design. They achieve economies of scale by creating massive production complexes to reduce operating costs."
  TRAIT_ECONOMIES_OF_SCALE_EFFECT:0 "Each pop with §HEconomies of Scale§! working in a job producing any resource decreases the energy upkeep of pops working that job by: §G-1%§! \nEach pop with §HEconomies of Scale§! working in a job producing an £consumer_goods£ £alloys£ §YAdvanced§! or £volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic§! resource reduces the resource upkeep of that job by: §G-1%§!"
 
  trait_v_wildlife_susceptible:0 "Wildlife Susceptibility"
- trait_v_wildlife_susceptible_desc:0 "§LThese machines are not designed to deal with curious or aggressive wildlife. Their design features many openings through which an animal could enter and deal some damage from within by either building a nest there or chewing through some wires.§!"
+ trait_v_wildlife_susceptible_desc:0 "These machines are not designed to deal with curious or aggressive wildlife. Their design features many openings through which an animal could enter and deal some damage from within by either building a nest there or chewing through some wires."
  TRAIT_WILDLIFE_SUCEPTIBLE_EFFECT:0 "Species Minimum Habitability for every Naturally Occurring Blocker: §R-5%§! \nHabitability for every Naturally Occurring Blocker: §R-5%§!"
 
  trait_v_corroding:0 "Corroding"
- trait_v_corroding_desc:0 "§LThese machines have a poor resistance to rust and corrosion.§!"
+ trait_v_corroding_desc:0 "These machines have a poor resistance to rust and corrosion."
  TRAIT_CORRODING_EFFECT:0 "Species Minimum Habitability for each positive trait selected: §R-5%§! \nHabitability for each positive trait selected: §R-5%§!"
 
  trait_v_corner_cutting:0 "Corner Cutting"
- trait_v_corner_cutting_desc:0 "§LThese machines are built very fast. Unfortunately, their quality... is debatable.§!"
+ trait_v_corner_cutting_desc:0 "These machines are built very fast. Unfortunately, their quality... is debatable."
  TRAIT_CORNER_CUTTING_EFFECT:0 "Mechanical Pop Assembly Speed for each negative trait selected: §G+5%§!"
 
  trait_v_spaghetti_code:0 "Spaghetti Code"
- trait_v_spaghetti_code_desc:0 "§LThe code of these machines... Works... But it is a nightmare to understand it.§!"
+ trait_v_spaghetti_code_desc:0 "The code of these machines... Works... But it is a nightmare to understand it."
  TRAIT_SPAGHETTI_CODE_EFFECT:0 "Empire Size from Pops for each positive trait selected: §R+5%§!"
 
  trait_v_wide_range_sensors:0 "Wide Range Optical Sensors"
- trait_v_wide_range_sensors_desc:0 "§LThrough the application of wide range optical sensors, it is possible to see what others can't.§!"
+ trait_v_wide_range_sensors_desc:0 "Through the application of wide range optical sensors, it is possible to see what others can't."
 
  trait_v_unreliable:0 "Unreliable"
- trait_v_unreliable_desc:0 "§LThese machines aren't the most reliable, having a random tendency to break.§!"
+ trait_v_unreliable_desc:0 "These machines aren't the most reliable, having a random tendency to break."
 
  trait_v_recyclable:0 "Recyclable"
- trait_v_recyclable_desc:0 "§LThese machines are extremely easy to recycle into new models.§!"
+ trait_v_recyclable_desc:0 "These machines are extremely easy to recycle into new models."
  TRAIT_RECYCLABLE_EFFECT:0 "Roboticists upkeep per pop with the Recyclable trait: §G-1%§!"
 
  trait_v_hacker:0 "Hacking Subroutines"

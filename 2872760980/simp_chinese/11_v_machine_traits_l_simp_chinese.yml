@@ -1,100 +1,100 @@
 ﻿l_simp_chinese:
 
  trait_v_self_replicating:0 "自我复制"
- trait_v_self_replicating_desc:0 "§L自我复制的能力是机器可以探索，扩展，利用和消灭對手的最佳能力之一。§!"
+ trait_v_self_replicating_desc:0 "自我复制的能力是机器可以探索，扩展，利用和消灭對手的最佳能力之一。"
  TRAIT_SELF_REPLICATING_EFFECT:0 "每个做为奴隶或更高工作标准的人口产生 0.02 £job_roboticist£ §Y每月人口组装§!"
 
  trait_v_terror_weapons:0 "恐怖武器"
- trait_v_terror_weapons_desc:0 "§L这些机器旨在毁灭敌人的士气，与他们战斗能让任何物种想起他们最糟糕的噩梦。§!"
+ trait_v_terror_weapons_desc:0 "这些机器旨在毁灭敌人的士气，与他们战斗能让任何物种想起他们最糟糕的噩梦。"
 
  trait_v_polluting:0 "污染"
- trait_v_polluting_desc:0 "§L这些机器对环境产生了极大的负面影响。§!"
+ trait_v_polluting_desc:0 "这些机器对环境产生了极大的负面影响。"
  TRAIT_POLLUTING_EFFECT:0 "每个做为奴隶或更高工作标准的人口 £mod_pop_environment_tolerance£ §Y宜居性§! §R-2%§!"
 
  trait_v_emergency_repairs:0 "紧急维修"
- trait_v_emergency_repairs_desc:0 "§L这些机器能够自我修复，如果在战斗中损坏大约一半时间就能修好。§!"
+ trait_v_emergency_repairs_desc:0 "这些机器能够自我修复，如果在战斗中损坏大约一半时间就能修好。"
  TRAIT_EMERGENCY_REPAIRS_EFFECT:0 "被摧毁陆军复活机率: §Y33%§!"
 
  trait_v_stealth_bots:0 "潜行系统"
- trait_v_stealth_bots_desc:0 "§L这些机器是为潜行设计的，他们无法通过正常手段看到或听到。§!"
+ trait_v_stealth_bots_desc:0 "这些机器是为潜行设计的，他们无法通过正常手段看到或听到。"
 
  trait_v_solar_panels:0 "太阳能板"
- trait_v_solar_panels_desc:0 "§L这些机器使用太阳能板补充了其能源需求的一部分。§!"
+ trait_v_solar_panels_desc:0 "这些机器使用太阳能板补充了其能源需求的一部分。"
  TRAIT_SOLAR_PANELS_EFFECT: "根据星系内§Y最亮天体§!降低能量币维护费§G-0.15§!至§G-0.5§!"
 
  trait_v_processing_power_donation:0 "处理器分享"
- trait_v_processing_power_donation_desc:0 "§L这些机器能够将一部分未使用的处理资源分配给科研使用§!"
+ trait_v_processing_power_donation_desc:0 "这些机器能够将一部分未使用的处理资源分配给科研使用"
  TRAIT_PROCESSING_POWER_DONATION_EFFECT:0 "每个做为奴隶或更高工作标准的人口对 £job_researcher£ §Y演算者§! £engineering£ £physics£ £society£ 产出 §G+0.5%§!"
 
  trait_v_stock_bot:0 "股票机器人"
- trait_v_stock_bot_desc:0 "§L这些机器将其过剩的处理能力用于计算股票价格。§!"
+ trait_v_stock_bot_desc:0 "这些机器将其过剩的处理能力用于计算股票价格。"
 
  trait_v_rgb:0 "精美設計"
- trait_v_rgb_desc:0 "§L这些机器的设计非常精美。他们的设计足以令任何人敬畏。§!"
+ trait_v_rgb_desc:0 "这些机器的设计非常精美。他们的设计足以令任何人敬畏。"
 
  trait_v_auv:0 "水用机具"
- trait_v_auv_desc:0 "§L这些机器专为水生环境中工作设计，在其他环境下无法使用。§!"
+ trait_v_auv_desc:0 "这些机器专为水生环境中工作设计，在其他环境下无法使用。"
  TRAIT_AUV_EFFECT:0 "§Y海洋§!星球岗位产出: §G+10%§! \n其他星球岗位产出: §R-100%§!"
 
  trait_v_flying_machine:0 "航天机具"
- trait_v_flying_machine_desc:0 "§L这些机器能够飞行，使他们机动性优良。§!"
+ trait_v_flying_machine_desc:0 "这些机器能够飞行，使他们机动性优良。"
 
  trait_v_fabricators:0 "工业制造"
- trait_v_fabricators_desc:0 "§L这些机器广泛用于在重工业和冶金中。§!"
+ trait_v_fabricators_desc:0 "这些机器广泛用于在重工业和冶金中。"
 
  trait_v_stationary: "锚定"
- trait_v_stationary_desc: "§L由于设计，这些机器无法搬迁到其他星球。§!"
+ trait_v_stationary_desc: "由于设计，这些机器无法搬迁到其他星球。"
  TRAIT_STATIONARY_EFFECT:0 "§R这些机器不会搬迁并且无法强制迁徙§!"
 
  trait_v_soft_robotics:0 "软体机器"
- trait_v_soft_robotics_desc:0 "§L这些机器得利于其设计，在处理有机物的工作时的表现更好。§!"
+ trait_v_soft_robotics_desc:0 "这些机器得利于其设计，在处理有机物的工作时的表现更好。"
  TRAIT_SOFT_ROBOTICS_EFFECT:0 "每个天然障碍对£job_researcher£演算者及£job_ranger£护林员£society_research£社会学产出: §G+0.25§! \n£job_healthcare£医务工作者£society_research£社会学产出: §G+1 §! \n£job_healthcare£医务工作者基础产量§G+50%§! \n£job_xeno_zoo_keeper£动物园饲养员基础舒适度产量: §G+50%§!"
 
  trait_v_automated_chemistry:0 "化学自处理"
- trait_v_automated_chemistry_desc:0 "§L这些机器的设计目的是用于危险的化学物质处理。因此，它们增强了对化学物质的保护。§!"
+ trait_v_automated_chemistry_desc:0 "这些机器的设计目的是用于危险的化学物质处理。因此，它们增强了对化学物质的保护。"
 
  trait_v_ecomorph:0 "生态变形"
- trait_v_ecomorph_desc:0 "§L这些机器被设计来在完善生态系循环。即使它不再扮演角色，它仍然能够引发特定物种的本能反应。§!"
+ trait_v_ecomorph_desc:0 "这些机器被设计来在完善生态系循环。即使它不再扮演角色，它仍然能够引发特定物种的本能反应。"
  TRAIT_ECOMORPH_EFFECT:0 "具此特质人口视为具有§E育雏寄生§!特质及§E拟交配§!特质。\n具此特质人口可以觸發§E掠食者§!特质及§E猎物§!特质效果。"
 
  trait_v_machine_engrams:0 "记忆纪录器"
- trait_v_machine_engrams_desc:0 "§L记忆纪录器记录经验并与学习算法相结合，可以跳过多年的培训，同时有望帮助避免发生任何其他事故。§!"
+ trait_v_machine_engrams_desc:0 "记忆纪录器记录经验并与学习算法相结合，可以跳过多年的培训，同时有望帮助避免发生任何其他事故。"
  TRAIT_MACHINE_ENGRAMS_EFFECT:0 "当具有§H记忆纪录器§!特质领袖死亡时，其他具有此特质的领袖获得§G10%§!此领袖总经验 - §Y10%§!自身总经验。领袖死亡时仅有小于其等级的领袖会获得经验"
 
  trait_v_spare_parts:0 "备用零件"
- trait_v_spare_parts_desc:0 "§L这些机器在设计时留下备用零件以备不时之需。由于所有人口都有备份零件，因此有机会收集足够的它们来建立一个新的机器单元。§!"
+ trait_v_spare_parts_desc:0 "这些机器在设计时留下备用零件以备不时之需。由于所有人口都有备份零件，因此有机会收集足够的它们来建立一个新的机器单元。"
  TRAIT_SPARE_PARTS_EFFECT:0 "每当有人口组装完成时，有§Y5%§!机率额外获得§Y1-3§!人口。"
 
  trait_v_economies_of_scale:0 "规模经济"
- trait_v_economies_of_scale_desc:0 "§L对于这些机器，效率是其设计的主要重点。他们通过建立大量生产建物来降低运营成本实现规模经济。§!"
+ trait_v_economies_of_scale_desc:0 "这些机器通过建立大量生产建物来降低运营成本。"
  TRAIT_ECONOMIES_OF_SCALE_EFFECT:0 "每个具有§H规模经济§!特质的人口在岗位上时对此岗位人口维护费: §G-1%§! \n每个具有§H规模经济§!特质的人口在岗位上对此岗位的£consumer_goods£ £alloys£ §Y进阶资源§!或 £volatile_motes£ £exotic_gases£ £rare_crystals£ §Y战略资源§!维护费: §G-1%§!"
 
  trait_v_wildlife_susceptible:0 "野生动物感知"
- trait_v_wildlife_susceptible_desc:0 "§L这些机器并非设计用于应对好奇或具有攻击性的野生动物。它们的设计具有许多开口，动物可以通过这些开口进入并从内部造成损坏，无论是筑巢还是啃咬电线。§!"
+ trait_v_wildlife_susceptible_desc:0 "这些机器并非设计用于应对好奇或具有攻击性的野生动物。它们的设计具有许多开口，动物可以通过这些开口进入并从内部造成损坏，无论是筑巢还是啃咬电线。"
  TRAIT_WILDLIFE_SUCEPTIBLE_EFFECT:0 "每个天然障碍对人口舒适度使用: §R+10%§! \n每个天然障碍对£job£岗位产出: §R-5%§!"
 
  trait_v_corroding:0 "易腐"
- trait_v_corroding_desc:0 "§L这些机器对铁锈和腐蚀的抵抗力较差。§!"
+ trait_v_corroding_desc:0 "这些机器对铁锈和腐蚀的抵抗力较差。"
  TRAIT_CORRODING_EFFECT:0 "每个正向特质对最低宜居性: §R-5%§! \n每个正向特质对宜居性: §R-5%§!"
 
  trait_v_corner_cutting:0 "批发机器"
- trait_v_corner_cutting_desc:0 "§L这些机器建造得非常迅速。不幸的是，它们的质量... 是有争议的。§!"
+ trait_v_corner_cutting_desc:0 "这些机器建造得非常迅速。不幸的是，它们的质量... 是有争议的。"
  TRAIT_CORNER_CUTTING_EFFECT:0 "每个负向特质机械人口组装速度: §G+5%§!"
 
  trait_v_spaghetti_code:0 "糟糕代码"
- trait_v_spaghetti_code_desc:0 "§L这些机器的代码……能运行……但要理解它却是噩梦般的困难。§!"
+ trait_v_spaghetti_code_desc:0 "这些机器的代码……能运行……但要理解它却是噩梦般的困难。"
  TRAIT_SPAGHETTI_CODE_EFFECT:0 "每个正向特质对人口帝国规模: §R+5%§!"
 
  trait_v_wide_range_sensors:0 "广域传感器"
- trait_v_wide_range_sensors_desc:0 "§L通过广域光学传感器，可以看到别人无法看到的东西。§!"
+ trait_v_wide_range_sensors_desc:0 "通过广域光学传感器，可以看到别人无法看到的东西。"
 
  trait_v_unreliable:0 "不可靠"
- trait_v_unreliable_desc:0 "§L这些机器并不可靠，可能会随机故障。§!"
+ trait_v_unreliable_desc:0 "这些机器并不可靠，可能会随机故障。"
 
  trait_v_recyclable:0 "可回收"
- trait_v_recyclable_desc:0 "§L这些机器非常容易回收制作成新型号。§!"
+ trait_v_recyclable_desc:0 "这些机器非常容易回收制作成新型号。"
  TRAIT_RECYCLABLE_EFFECT:0 "每个具可回收特质人口对机器人专家维护费: §G-1%§!"
 
  trait_v_hacker:0 "黑客子進程"
- trait_v_hacker_desc:0 "§L这些机器可以轻松的突破敌人的系统防火墙。§!"
+ trait_v_hacker_desc:0 "这些机器可以轻松的突破敌人的系统防火墙。"
  TRAIT_HACKER_EFFECT:0 "£commander£ §Y指挥官§!具有 ['concept_v_leader_hacker'] 特质 \n£job_enforcer£ 执法者犯罪率降低: §G+5§! \n£job_criminal£ 罪犯犯罪率提升: §R+5§!"
