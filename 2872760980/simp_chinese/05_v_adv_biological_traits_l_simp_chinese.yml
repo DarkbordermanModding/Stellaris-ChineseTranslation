@@ -1,306 +1,303 @@
 ﻿l_simp_chinese:
 
  trait_v_adv_social_parasite:0 "社会寄生虫"
- trait_v_adv_social_parasite_desc:0 "§L这个物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。§!"
+ trait_v_adv_social_parasite_desc:0 "这个物种不会做任何低阶工作，在他们的文明早期藉由突袭来获取并奴役其他物种。"
 
  trait_v_adv_brood_parasite:0 "育雏寄生虫"
- trait_v_adv_brood_parasite_desc:0 "§L这个物种不会育儿，而是藉由其他物种帮其育儿。§!"
+ trait_v_adv_brood_parasite_desc:0 "这个物种不会育儿，而是藉由其他物种帮其育儿。"
 
  ###############################################################################################################################################################################################################
 
  trait_v_adv_fertilising:0 "肥沃化"
- trait_v_adv_fertilising_desc:0 "§L这个物种能够提高居住行星的宜居性。§!"
+ trait_v_adv_fertilising_desc:0 "这个物种能够提高居住行星的宜居性。"
 
  trait_v_adv_infertilising:0 "沙漠化"
- trait_v_adv_infertilising_desc:0 "§L这个物种会伤害居住行星的宜居性。§!"
+ trait_v_adv_infertilising_desc:0 "这个物种会伤害居住行星的宜居性。"
 
  trait_v_adv_allelopathy:0 "相克作用"
- trait_v_adv_allelopathy_desc:0 "§L这个物种演化出了一套化学防御机制来对抗捕食者。虽然它们对自己的毒素免疫，但其他物种会遭受化学灼伤。§!"
+ trait_v_adv_allelopathy_desc:0 "这个物种演化出了一套化学防御机制来对抗捕食者。虽然它们对自己的毒素免疫，但其他物种会遭受化学灼伤。"
 
  trait_v_adv_nectaries:0 "花蜜"
- trait_v_adv_nectaries_desc:0 "§L这个物种会产生花蜜来吸引传粉媒介，因此他们可以繁衍地更快。§!"
+ trait_v_adv_nectaries_desc:0 "这个物种会产生花蜜来吸引传粉媒介，因此他们可以繁衍地更快。"
 
  trait_v_adv_kairomones:0 "诱导激素"
- trait_v_adv_kairomones_desc:0 "§L这个物种受伤时能够释放出特殊的化学物质，这些物质能够吸引伤害它们的掠食者。§!"
+ trait_v_adv_kairomones_desc:0 "这个物种受伤时能够释放出特殊的化学物质，这些物质能够吸引伤害它们的掠食者。"
 
  trait_v_adv_pest_sensitive:0 "害虫敏感"
- trait_v_adv_pest_sensitive_desc:0 "§L这个物种受到许多害虫的困扰，未整理过的领地使它们更容易受到侵扰。§!"
+ trait_v_adv_pest_sensitive_desc:0 "这个物种受到许多害虫的困扰，未整理过的领地使它们更容易受到侵扰。"
 
  trait_v_adv_mycorrhizal:0 "菌根"
- trait_v_adv_mycorrhizal_desc:0 "§L这个物种发展出了菌根，为它们的发育提供了其他营养。§!"
+ trait_v_adv_mycorrhizal_desc:0 "这个物种发展出了菌根，为它们的发育提供了其他营养。"
 
  trait_v_adv_hyphae_network:0 "菌丝网络"
- trait_v_adv_hyphae_network_desc:0 "§L这个物种通过复杂的菌丝网络与同类永久连接在一起。思想能够在个体之间迅速共享，从而推动文化和技术的巨大飞跃。§!"
+ trait_v_adv_hyphae_network_desc:0 "这个物种通过复杂的菌丝网络与同类永久连接在一起。思想能够在个体之间迅速共享，从而推动文化和技术的巨大飞跃。"
 
  trait_v_adv_rhizobial:0 "根瘤菌"
- trait_v_adv_rhizobial_desc:0 "§L这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。§!"
+ trait_v_adv_rhizobial_desc:0 "这个物种与根瘤菌存在共生关系，有助于使土壤更肥沃。"
 
  trait_v_adv_olotonic:0 "固氮"
- trait_v_adv_olotonic_desc:0 "§L这个物种能够产生具固氮细菌的粘液，这些粘液能够对其下的土壤施肥。§!"
+ trait_v_adv_olotonic_desc:0 "这个物种能够产生具固氮细菌的粘液，这些粘液能够对其下的土壤施肥。"
 
  trait_v_adv_rooted:0 "扎根"
- trait_v_adv_rooted_desc:0 "§L这个物种物理上无法从居住地分离。它们的根部深入星球，使其不可能搬迁。§!"
+ trait_v_adv_rooted_desc:0 "这个物种物理上无法从居住地分离。它们的根部深入星球，使其不可能搬迁。"
 
  trait_v_adv_ecotypic_a:0 "甲級生态型"
- trait_v_adv_ecotypic_a_desc:0 "§L这个物种基于它们所栖息的生态系统表现出不同的特征，这是由于基因表达的差异造成的。§!"
+ trait_v_adv_ecotypic_a_desc:0 "这个物种基于它们所栖息的生态系统表现出不同的特征，这是由于基因表达的差异造成的。"
  trait_v_adv_ecotypic_b:0 "乙級生态型"
  trait_v_adv_ecotypic_b_desc:0 "$trait_v_adv_ecotypic_a_desc$"
 
  trait_v_adv_spores:0 "孢子"
- trait_v_adv_spores_desc:0 "§L这个物种在死亡时会释放大量孢子。§!"
+ trait_v_adv_spores_desc:0 "这个物种在死亡时会释放大量孢子。"
 
  trait_v_adv_pseudocopulative:0 "拟态交配"
- trait_v_adv_pseudocopulative_desc:0 "§L这个物种演化出模仿其他物种的能力，能够欺骗其他物种与其进行交配。§!"
+ trait_v_adv_pseudocopulative_desc:0 "这个物种演化出模仿其他物种的能力，能够欺骗其他物种与其进行交配。"
 
  ###############################################################################################################################################################################################################
 
  trait_v_adv_flying:0 "飞行"
- trait_v_adv_flying_desc:0 "§L这个物种能够飞行。迁移对他们来说快速和容易§!"
+ trait_v_adv_flying_desc:0 "这个物种能够飞行。迁移对他们来说快速和容易"
 
  trait_v_adv_aeroplankton:0 "空中浮游"
- trait_v_adv_aeroplankton_desc:0 "§L这个物种以悬浮的方式在整个空气中移动，因此低重力或大气浓度高的行星能更好地传播其后代。§!"
+ trait_v_adv_aeroplankton_desc:0 "这个物种以悬浮的方式在整个空气中移动，因此低重力或大气浓度高的行星能更好地传播其后代。"
 
  trait_v_adv_double_respiration:0 "双呼吸系统"
- trait_v_adv_double_respiration_desc:0 "§L这个物种演化出了非常高效的呼吸系统，但也更容易受到空气污染的影响。§!"
+ trait_v_adv_double_respiration_desc:0 "这个物种演化出了非常高效的呼吸系统，但也更容易受到空气污染的影响。"
 
  trait_v_adv_metalic_exoskeleton:0 "金属外骨骼"
- trait_v_adv_metalic_exoskeleton_desc:0 "§L这个物种在它们的外骨骼中嵌入了金属，使其既极具致命性又极难被杀死。§!"
+ trait_v_adv_metalic_exoskeleton_desc:0 "这个物种在它们的外骨骼中嵌入了金属，使其既极具致命性又极难被杀死。"
 
  trait_v_adv_fire_spewing:0 "喷火"
- trait_v_adv_fire_spewing_desc:0 "§L这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。§!"
+ trait_v_adv_fire_spewing_desc:0 "这个物种能够通过化学反应产生火焰。除了造成大量的附带损害外，也使他们擅于在敌人之间传播恐惧。"
 
  trait_v_adv_ectotherm:0 "变温"
- trait_v_adv_ectotherm_desc:0 "§L这个物种依赖于环境的热源而非自体发热。因此，物种生存需要的食物更少并有更高的预期寿命。§!"
+ trait_v_adv_ectotherm_desc:0 "这个物种依赖于环境的热源而非自体发热。因此，物种生存需要的食物更少并有更高的预期寿命。"
 
  trait_v_adv_fac_endotherm:0 "选择性恒温"
- trait_v_adv_fac_endotherm_desc:0 "§L这个物种能够在自体发热与环境热源间做切换。§!"
+ trait_v_adv_fac_endotherm_desc:0 "这个物种能够在自体发热与环境热源间做切换。"
 
  trait_v_adv_interceptor:0 "天生拦截者"
- trait_v_adv_interceptor_desc:0 "§L这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指。§!"
+ trait_v_adv_interceptor_desc:0 "这个物种通过拦截而非伏击来狩猎。即使是现在，他们的拦截能力在海军上将内也首屈一指。"
 
  trait_v_adv_fossorial:0 "穴居"
- trait_v_adv_fossorial_desc:0 "§L这个物种的前肢很好地适应了地下挖掘和生活。§!"
+ trait_v_adv_fossorial_desc:0 "这个物种的前肢很好地适应了地下挖掘和生活。"
 
  trait_v_adv_active_camouflage:0 "匿踪"
- trait_v_adv_active_camouflage_desc:0 "§L这个物种具有匿踪能力，这使他们在伏击时表现出色。§!"
+ trait_v_adv_active_camouflage_desc:0 "这个物种具有匿踪能力，这使他们在伏击时表现出色。"
 
  trait_v_adv_self_decoration:0 "自我装饰"
- trait_v_adv_self_decoration_desc:0 "§L这个物种利用自然物体来伪装自己。§!"
+ trait_v_adv_self_decoration_desc:0 "这个物种利用自然物体来伪装自己。"
 
  trait_v_adv_locust:0 "人口爆發"
- trait_v_adv_locust_desc:0 "§L这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。§!"
+ trait_v_adv_locust_desc:0 "这个物种根据人口密度具有两种不同的表现型态，在人口密度够高时会有爆发性的表现。"
 
  trait_v_adv_repletes:0 "充实工蜂"
- trait_v_adv_repletes_desc:0 "§L这个物种的成员能够充当充实工蜂，作为资源储存。§!"
+ trait_v_adv_repletes_desc:0 "这个物种的成员能够充当充实工蜂，作为资源储存。"
 
  trait_v_adv_explosive_autothysis:0 "自杀爆炸"
- trait_v_adv_explosive_autothysis_desc:0 "§L这个物种演化出一种自杀方式，能使个体以显着的力量爆炸。§!"
+ trait_v_adv_explosive_autothysis_desc:0 "这个物种演化出一种自杀方式，能使个体以显着的力量爆炸。"
 
  trait_v_adv_mayfly:0 "蜉蝣"
- trait_v_adv_mayfly_desc:0 "§L这个物种的寿命非常短暂。作为补偿，它们学习速度非常快。§!"
+ trait_v_adv_mayfly_desc:0 "这个物种的寿命非常短暂。作为补偿，它们学习速度非常快。"
 
  trait_v_adv_biological_immortality:0 "生理不朽"
- trait_v_adv_biological_immortality_desc:0 "§L这个物种似乎是不朽的。除非被疾病，捕食者或武器杀死，否则这个物种会不断再生。§!"
+ trait_v_adv_biological_immortality_desc:0 "这个物种似乎是不朽的。除非被疾病，捕食者或武器杀死，否则这个物种会不断再生。"
 
  trait_v_adv_reanimation:0 "复活"
- trait_v_adv_reanimation_desc:0 "§L这个物种因战斗而死后能够复活，但是处于高度认知减退的状态。§!"
+ trait_v_adv_reanimation_desc:0 "这个物种因战斗而死后能够复活，但是处于高度认知减退的状态。"
 
  trait_v_adv_ghoulish:0 "食尸鬼"
- trait_v_adv_ghoulish_desc:0 "§L这个物种因生理特征令其他物种不安，而不擅长社交。§!"
+ trait_v_adv_ghoulish_desc:0 "这个物种因生理特征令其他物种不安，而不擅长社交。"
 
  trait_v_adv_pearl_makers:0 "珍珠生成"
- trait_v_adv_pearl_makers_desc:0 "§L这个物种能够制造有觀賞價值的珍珠。§!"
+ trait_v_adv_pearl_makers_desc:0 "这个物种能够制造有觀賞價值的珍珠。"
 
  trait_v_adv_nacre_shell:0 "珍珠质甲壳"
- trait_v_adv_nacre_shell_desc:0 "§L该物种有由珍珠质制成的天然护甲，珍珠质是已知宇宙中最高强度的有机物质之一。§!"
+ trait_v_adv_nacre_shell_desc:0 "该物种有由珍珠质制成的天然护甲，珍珠质是已知宇宙中最高强度的有机物质之一。"
 
  trait_v_adv_self_domesticated:0 "自给自足"
- trait_v_adv_self_domesticated_desc:0 "§L这个物种已经在社会中生活了长时间以至于影响了他们的本性，这个物种的成员比其他物种更温顺。§!"
+ trait_v_adv_self_domesticated_desc:0 "这个物种已经在社会中生活了长时间以至于影响了他们的本性，这个物种的成员比其他物种更温顺。"
 
  trait_v_adv_extremely_precise:0 "极度精确"
- trait_v_adv_extremely_precise_desc:0 "§L这个物种在发展精良的小脑以及多组肌肉的辅助下能够做到极度精确的移动。§!"
+ trait_v_adv_extremely_precise_desc:0 "这个物种在发展精良的小脑以及多组肌肉的辅助下能够做到极度精确的移动。"
 
  trait_v_adv_complex_digestive_system:0 "复杂消化"
- trait_v_adv_complex_digestive_system_desc:0 "§L这个物种的消化系统是生物化学的杰作，归功于胃的先进结构及共生微生物的帮助，食物中的卡路里和每种营养素都可以获得。§!"
+ trait_v_adv_complex_digestive_system_desc:0 "这个物种的消化系统是生物化学的杰作，归功于胃的先进结构及共生微生物的帮助，食物中的卡路里和每种营养素都可以获得。"
 
  trait_v_adv_electrogenesis:0 "发电器官"
- trait_v_adv_electrogenesis_desc:0 "§L这个物种演化出了发电器官作为自卫及攻击用，他们目前仍有此功能并且用其发电。§!"
+ trait_v_adv_electrogenesis_desc:0 "这个物种演化出了发电器官作为自卫及攻击用，他们目前仍有此功能并且用其发电。"
 
  trait_v_adv_plague:0 "散播瘟疫"
- trait_v_adv_plague_desc:0 "§L这个物种的免疫系统学会了控制寄居在体内的病原体作为一种不寻常的自卫方式。§!"
+ trait_v_adv_plague_desc:0 "这个物种的免疫系统学会了控制寄居在体内的病原体作为一种不寻常的自卫方式。"
 
  trait_v_adv_urban_adaptation:0 "都市适应"
- trait_v_adv_urban_adaptation_desc:0 "§L尽管这个物种并非在都市演化，但非常适合都市环境。§!"
+ trait_v_adv_urban_adaptation_desc:0 "尽管这个物种并非在都市演化，但非常适合都市环境。"
 
  trait_v_adv_urbanobiont:0 "都市依赖"
- trait_v_adv_urbanobiont_desc:0 "§L这个物种依赖于都市才能生存，当离开他们习以为常的都市时发展得并不好。§!"
+ trait_v_adv_urbanobiont_desc:0 "这个物种依赖于都市才能生存，当离开他们习以为常的都市时发展得并不好。"
 
  trait_v_adv_behavioral_sink:0 "行为沉积"
- trait_v_adv_behavioral_sink_desc:0 "§L这个物种的成员在高人口密度时会出现行为崩溃的情况。反社会成为常见现象，导致繁殖停滞不前，迫使许多成员变得孤僻甚至更糟。§!"
+ trait_v_adv_behavioral_sink_desc:0 "这个物种的成员在高人口密度时会出现行为崩溃的情况。反社会成为常见现象，导致繁殖停滞不前，迫使许多成员变得孤僻甚至更糟。"
 
  trait_v_adv_old_instincts:0 "先祖本能"
- trait_v_adv_old_instincts_desc:0 "§L尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。§!"
+ trait_v_adv_old_instincts_desc:0 "尽管这个物种设法发展出了文明，但却难以融入其中。过去在野外有所帮助的行为和本能现在正在拖延这种物种的发展。尽管可能否认，但其内心仍然与原始祖先相同。"
 
  trait_v_adv_toxoplasmosis:0 "行为改变"
- trait_v_adv_toxoplasmosis_desc:0 "§L这个物种是寄生虫的宿主，影响狩猎的行为。虽然对狩猎有帮助，但会影响到其他物种的幸福度。§!"
+ trait_v_adv_toxoplasmosis_desc:0 "这个物种是寄生虫的宿主，影响狩猎的行为。虽然对狩猎有帮助，但会影响到其他物种的幸福度。"
 
  trait_v_adv_webbing:0 "织网"
- trait_v_adv_webbing_desc:0 "§L这个物种能够生产类似丝绸的网，可以在各种情况下使用。它们是一个优秀的躲藏地，可以遮挡来自环境的各种元素和其他东西。§!"
+ trait_v_adv_webbing_desc:0 "这个物种能够生产类似丝绸的网，可以在各种情况下使用。它们是一个优秀的躲藏地，可以遮挡来自环境的各种元素和其他东西。"
 
  trait_v_adv_parthenocarpy:0 "无精卵"
- trait_v_adv_parthenocarpy_desc:0 "§L这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。§!"
+ trait_v_adv_parthenocarpy_desc:0 "这个物种有能力产生未受精的蛋，这些蛋可以作为食物来源。"
 
  trait_v_adv_blooming:0 "农业绽放"
- trait_v_adv_blooming_desc:0 "§L这个物种以农业引起的绽放而闻名。虽然生长迅速，但这个物种会释放毒素到周围的环境中。§!"
+ trait_v_adv_blooming_desc:0 "这个物种以农业引起的绽放而闻名。虽然生长迅速，但这个物种会释放毒素到周围的环境中。"
 
  trait_v_adv_engrams:0 "生物记忆"
- trait_v_adv_engrams_desc:0 "§L这个物种能够将记忆以遗传密码或其他方式存储。多年来，下一代人普遍藉由遗传上一代获得这些记忆。§!"
+ trait_v_adv_engrams_desc:0 "这个物种能够将记忆以遗传密码或其他方式存储。多年来，下一代人普遍藉由遗传上一代获得这些记忆。"
 
  trait_v_adv_cecotrophy:0 "食粪"
- trait_v_adv_cecotrophy_desc:0 "§L这个物种会藉由食粪获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。§!"
+ trait_v_adv_cecotrophy_desc:0 "这个物种会藉由食粪获得尽可能多的营养。虽然对他们有益，但这种行为被大多数其他物种讨厌。"
 
  trait_v_adv_silken_birth:0 "絲中誕生"
- trait_v_adv_silken_birth_desc:0 "§L这个物种繁殖的副产品是产生类似丝绸的线。§!"
+ trait_v_adv_silken_birth_desc:0 "这个物种繁殖的副产品是产生类似丝绸的线。"
 
  trait_v_adv_polyembryony:0 "多胚胎"
- trait_v_adv_polyembryony_desc:0 "§L这个物种的繁殖过程可以使一个子个体发育出多个胚胎。§!"
+ trait_v_adv_polyembryony_desc:0 "这个物种的繁殖过程可以使一个子个体发育出多个胚胎。"
 
  trait_v_adv_living_building:0 "活体建材"
- trait_v_adv_living_building_desc:0 "§LL这个物种能夠产生一种建材。它便宜且具有自我修复功能，非常适合基础建设。§!"
+ trait_v_adv_living_building_desc:0 "这个物种能夠产生一种建材。它便宜且具有自我修复功能，非常适合基础建设。"
 
  trait_v_adv_hills_have_eyes:0 "山丘之眼"
- trait_v_adv_hills_have_eyes_desc:0 "§L这个物种与其行星有一种独特的联系，它能够感知着陆在行星上敌人的位置。§!"
+ trait_v_adv_hills_have_eyes_desc:0 "这个物种与其行星有一种独特的联系，它能够感知着陆在行星上敌人的位置。"
 
  trait_v_adv_guardians:0 "守卫者"
- trait_v_adv_guardians_desc:0 "§L这个物种的某些成员以巍峨的巨人形态存在，目的是保护他们的族群。§!"
+ trait_v_adv_guardians_desc:0 "这个物种的某些成员以巍峨的巨人形态存在，目的是保护他们的族群。"
 
  trait_v_adv_explosive_birth:0 "诞生爆炸"
- trait_v_adv_explosive_birth_desc:0 "§L由于希望尽可能远地散播后代，这个物种通过利用类似爆炸破片的种子来推动它们。§!"
+ trait_v_adv_explosive_birth_desc:0 "由于希望尽可能远地散播后代，这个物种通过利用类似爆炸破片的种子来推动它们。"
 
  trait_v_adv_intrauterine_cannibalism:0 "产前天择"
- trait_v_adv_intrauterine_cannibalism_desc:0 "§L这个物种虽然许多子个体同时在子宫中发育，但只有一个会迎接第一缕阳光。§!"
+ trait_v_adv_intrauterine_cannibalism_desc:0 "这个物种虽然许多子个体同时在子宫中发育，但只有一个会迎接第一缕阳光。"
 
  trait_v_adv_thorns:0 "棘刺"
- trait_v_adv_thorns_desc:0 "§L这个物种发展出了带有防御目的的刺。不幸的是，这些刺也对其他物种产生影响。§!"
-
- trait_v_adv_grafting:0 "嫁接"
- trait_v_adv_grafting_desc:0 "§L这个物种的生理结构允许移植其他物种的器官部分，而几乎没有副作用。§!"
+ trait_v_adv_thorns_desc:0 "这个物种发展出了带有防御目的的刺。不幸的是，这些刺也对其他物种产生影响。"
 
  trait_v_adv_ecosystem_engineer:0 "生态系工程师"
- trait_v_adv_ecosystem_engineer_desc:0 "§L这个物种在生态系工程上略有建树，它们有能力通过为自己创造新的生活空间来改变环境。§!"
+ trait_v_adv_ecosystem_engineer_desc:0 "这个物种在生态系工程上略有建树，它们有能力通过为自己创造新的生活空间来改变环境。"
 
  trait_v_adv_musk:0 "顺从展示"
- trait_v_adv_musk_desc:0 "§L这个物种使用气味来表示对社会地位更高的同类的顺从。§!"
+ trait_v_adv_musk_desc:0 "这个物种使用气味来表示对社会地位更高的同类的顺从。"
 
  trait_v_adv_modular_organism:0 "模块化生物"
- trait_v_adv_modular_organism_desc:0 "§L这个物种具模块化的行为模式。群体中的个体专门从事少数几种功能以促进整个物种的利益。§!"
+ trait_v_adv_modular_organism_desc:0 "这个物种具模块化的行为模式。群体中的个体专门从事少数几种功能以促进整个物种的利益。"
 
  trait_v_adv_fungus_farmer:0 "树叶收获"
- trait_v_adv_fungus_farmer_desc:0 "§L这个物种能利用地下空间，填充一种基质，上面生长可食用的真菌。§!"
+ trait_v_adv_fungus_farmer_desc:0 "这个物种能利用地下空间，填充一种基质，上面生长可食用的真菌。"
 
  trait_v_adv_reed_cutter:0 "海带收获"
  trait_v_adv_reed_cutter_desc:0 "这个物种切割水生植物使其被真菌感染，然后利用这些真菌作为食物来源。"
 
  trait_v_adv_sensitive_chemoreceptors:0 "化学敏感受体"
- trait_v_adv_sensitive_chemoreceptors_desc:0 "§L这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。§!"
-
- trait_v_adv_embryonic_diapause:0 "滞育"
- trait_v_adv_embryonic_diapause_desc:0 "§L这个物种会在繁殖环境条件困难或是通过调节荷尔蒙来停止胎儿的发展。§!"
+ trait_v_adv_sensitive_chemoreceptors_desc:0 "这个物种的对化学物极为敏感，能够寻找稀有元素的微量迹象。"
 
  trait_v_adv_creature_of_paradise:0 "美若天仙"
- trait_v_adv_creature_of_paradise_desc:0 "§L这个物种以其美丽而闻名，其美貌被形容为好像是从天上降临于凡间。§!"
+ trait_v_adv_creature_of_paradise_desc:0 "这个物种以其美丽而闻名，其美貌被形容为好像是从天上降临于凡间。"
 
  trait_v_adv_annoying_courtship_displays:0 "糟糕求偶展示"
- trait_v_adv_annoying_courtship_displays_desc:0 "§L这个物种特别恼人的求偶展示，是许多不眠之夜的原因。§!"
+ trait_v_adv_annoying_courtship_displays_desc:0 "这个物种特别恼人的求偶展示，是许多不眠之夜的原因。"
 
  trait_v_adv_courtship_displays:0 "求偶展示"
- trait_v_adv_courtship_displays_desc:0 "§L这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。§!"
+ trait_v_adv_courtship_displays_desc:0 "这个物种进行特别有趣的求偶展示，令人惊叹且值得一看。"
 
  trait_v_adv_voice_box:0 "音乐盒"
- trait_v_adv_voice_box_desc:0 "§L这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。§!"
+ trait_v_adv_voice_box_desc:0 "这个物种拥有非常发达的发声器官。这个器官可以产生各种各样的声音，从美妙的歌曲到可怕的尖叫。"
 
  trait_v_adv_weaver:0 "织工"
- trait_v_adv_weaver_desc:0 "§L这个物种倾向于使用自然材料，比如树叶，来制作建筑和日常用品。§!"
+ trait_v_adv_weaver_desc:0 "这个物种倾向于使用自然材料，比如树叶，来制作建筑和日常用品。"
 
  trait_v_adv_bioluminesce:0 "发光"
- trait_v_adv_bioluminesce_desc:0 "§L这个物种能够自行产生光。无论是作为诱饵还是展示行为，它都能使这个物种脱颖而出。§!"
+ trait_v_adv_bioluminesce_desc:0 "这个物种能够自行产生光。无论是作为诱饵还是展示行为，它都能使这个物种脱颖而出。"
 
  trait_v_adv_rancher:0 "牧场主"
- trait_v_adv_rancher_desc:0 "§L这个物种比起照料庄稼更擅长豢养其他物种。§!"
+ trait_v_adv_rancher_desc:0 "这个物种比起照料庄稼更擅长豢养其他物种。"
 
  trait_v_adv_aggregation:0 "群聚"
- trait_v_adv_aggregation_desc:0 "§L这个物种倾向于聚集成大型群体，以节省空间并保护它们免受环境的影响。§!"
+ trait_v_adv_aggregation_desc:0 "这个物种倾向于聚集成大型群体，以节省空间并保护它们免受环境的影响。"
 
  trait_v_adv_filter_feeder:0 "滤食"
- trait_v_adv_filter_feeder_desc:0 "§L这个物种能够从水中过滤食物颗粒。§!"
+ trait_v_adv_filter_feeder_desc:0 "这个物种能够从水中过滤食物颗粒。"
 
  trait_v_adv_life_support:0 "生命维持器"
- trait_v_adv_life_support_desc:0 "§L这个物种比较脆弱，患有许多疾病，因此需要连接到一套生命维持器才能正常运作。然而，与环境的隔离使它们能够在大多数环境中生存良好。§!"
+ trait_v_adv_life_support_desc:0 "这个物种比较脆弱，患有许多疾病，因此需要连接到一套生命维持器才能正常运作。然而，与环境的隔离使它们能够在大多数环境中生存良好。"
 
  trait_v_adv_pneumoconiosis:0 "硅肺病"
- trait_v_adv_pneumoconiosis_desc:0 "§L这个物种患有硅肺病，使得呼吸变得更加困难。§!"
+ trait_v_adv_pneumoconiosis_desc:0 "这个物种患有硅肺病，使得呼吸变得更加困难。"
 
  trait_v_adv_polygynous:0 "后宮"
- trait_v_adv_polygynous_desc:0 "§L这个物种有后宮制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ trait_v_adv_polygynous_desc:0 "这个物种有后宮制度的行为。高地位个体拥有多个配偶是很常见的。"
 
  trait_v_adv_polyandrous:0 "一妻多夫"
- trait_v_adv_polyandrous_desc:0 "§L这个物种有一妻多夫制度的行为。高地位个体拥有多个配偶是很常见的。§!"
+ trait_v_adv_polyandrous_desc:0 "这个物种有一妻多夫制度的行为。高地位个体拥有多个配偶是很常见的。"
 
  trait_v_adv_magpie:0 "喜鹊"
- trait_v_adv_magpie_desc:0 "§L这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。§!"
+ trait_v_adv_magpie_desc:0 "这个物种非常喜欢闪亮的东西。它们会将这些闪亮的东西纳入它们的巢中。"
 
  trait_v_adv_stygiobiont:0 "深穴生物"
- trait_v_adv_stygiobiont_desc:0 "§L这个物种适应了生活在被洪水淹没的洞穴中，失去了大部分视力。§!"
+ trait_v_adv_stygiobiont_desc:0 "这个物种适应了生活在被洪水淹没的洞穴中，失去了大部分视力。"
 
  trait_v_adv_ethylene:0 "乙烯释放"
- trait_v_adv_ethylene_desc:0 "§L这个物种会释放乙烯，加速了周围植物的发展但降低了自己的寿命。§!"
+ trait_v_adv_ethylene_desc:0 "这个物种会释放乙烯，加速了周围植物的发展但降低了自己的寿命。"
 
  trait_v_adv_agro_botanic:0 "农业联系"
- trait_v_adv_agro_botanic_desc:0 "§L这个物种与农业生产有着独特的联系。农业中的任何技术进步似乎也能适用于它们。§!"
+ trait_v_adv_agro_botanic_desc:0 "这个物种与农业生产有着独特的联系。农业中的任何技术进步似乎也能适用于它们。"
 
  trait_v_adv_tracheal_respiration:0 "气管呼吸"
- trait_v_adv_tracheal_respiration_desc:0 "§L这个物种气管遍布整个身体。较高的氧气浓度使这个物种达到更大的尺寸。§!"
-
- trait_v_adv_cryptobiosis:0 "休眠状态"
- trait_v_adv_cryptobiosis_desc:0 "§L这个物种能够在环境条件不理想时进入休眠状态。§!"
+ trait_v_adv_tracheal_respiration_desc:0 "这个物种气管遍布整个身体。较高的氧气浓度使这个物种达到更大的尺寸。"
 
  trait_v_adv_negligible_senescence:0 "无视衰老"
- trait_v_adv_negligible_senescence_desc:0 "§L这个物种在年老时仍能保留大部分生物功能。§!"
+ trait_v_adv_negligible_senescence_desc:0 "这个物种在年老时仍能保留大部分生物功能。"
 
  trait_v_adv_phytoextraction:0 "萃取"
- trait_v_adv_phytoextraction_desc:0 "§L这个物种能够从土壤中提取稀有资源。§!"
+ trait_v_adv_phytoextraction_desc:0 "这个物种能够从土壤中提取稀有资源。"
 
  trait_v_adv_hysterical_strength:0 "力量抑制"
- trait_v_adv_hysterical_strength_desc:0 "§L这个物种有一种神经激素机制限制其真正的力量，因为它们的肌肉可能会摧毁它们的身体。§!"
+ trait_v_adv_hysterical_strength_desc:0 "这个物种有一种神经激素机制限制其真正的力量，因为它们的肌肉可能会摧毁它们的身体。"
 
  trait_v_adv_pyriscence:0 "烈焰繁衍"
- trait_v_adv_pyriscence_desc:0 "§L这个物种需要火的存在才能繁殖。§!"
+ trait_v_adv_pyriscence_desc:0 "这个物种需要火的存在才能繁殖。"
 
  trait_v_adv_polyextremophile:0 "极端环境嗜好"
- trait_v_adv_polyextremophile_desc:0 "§L这个物种喜欢存在于其他物种认为有毒的物质中。§!"
+ trait_v_adv_polyextremophile_desc:0 "这个物种喜欢存在于其他物种认为有毒的物质中。"
 
  trait_v_adv_complex_eyes:0 "复眼"
- trait_v_adv_complex_eyes_desc:0 "§L这个物种能夠看到更多的颜色或细节。§!"
+ trait_v_adv_complex_eyes_desc:0 "这个物种能夠看到更多的颜色或细节。"
 
  trait_v_adv_selective_caste:0 "手足相殘"
- trait_v_adv_selective_caste_desc:0 "§L这个物种的出生数量极其庞大，无法为它们提供足够的食物。因此，这个物种存在一种特殊的年轻阶级，尽可能多地杀死它们的兄弟姐妹。§!"
+ trait_v_adv_selective_caste_desc:0 "这个物种的出生数量极其庞大，无法为它们提供足够的食物。因此，这个物种存在一种特殊的年轻阶级，尽可能多地杀死它们的兄弟姐妹。"
 
  trait_v_adv_petrol_habitat:0 "毒中栖息"
- trait_v_adv_petrol_habitat_desc:0 "§L这个物种喜欢栖息在大多数其他物种认为有毒的环境中。§!"
+ trait_v_adv_petrol_habitat_desc:0 "这个物种喜欢栖息在大多数其他物种认为有毒的环境中。"
 
  trait_v_adv_ring_shaped_brain:0 "环形大脑"
- trait_v_adv_ring_shaped_brain_desc:0 "§L这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。§!"
+ trait_v_adv_ring_shaped_brain_desc:0 "这个物种具有环形大脑，被其消化系统控制。胡乱进食可能会造成脑部损伤或死亡。"
 
  trait_v_adv_destruent:0 "分解者"
- trait_v_adv_destruent_desc:0 "§L这个物种在其他生物腐烂时茁壮成长。§!"
+ trait_v_adv_destruent_desc:0 "这个物种在其他生物腐烂时茁壮成长。"
 
  trait_v_adv_dulotic:0 "奴隶猎手"
  trait_v_adv_dulotic_desc:0 "这个物种天生具有寻找奴隶的驱动力。"
 
  trait_v_adv_truffle_hunter:0 "松露猎手"
- trait_v_adv_truffle_hunter_desc:0 "§L这个物种对稀有的美食食材特别敏感。§!"
+ trait_v_adv_truffle_hunter_desc:0 "这个物种对稀有的美食食材特别敏感。"
+
+ trait_v_adv_gemology:0 "宝石学"
+ trait_v_adv_gemology_desc:0 "这个物种非常熟悉各种矿物质，总是能够找到稀有和有价值的矿物质。"
+
+ trait_v_adv_neoplasmic_biology:0 "肿瘤生物学"
+ trait_v_adv_neoplasmic_biology_desc:0 "这个物种的细胞和代谢方式类似肿瘤。"
 
  ################################################################################################################################
 
  trait_v_maleable_branches:0 "可塑肢体"
- trait_v_maleable_branches_desc:0 "§L这个物种的肢体经过改良，可以用来塑形成家具、外壳和其他消费品。§!"
+ trait_v_maleable_branches_desc:0 "这个物种的肢体经过改良，可以用来塑形成家具、外壳和其他消费品。"
