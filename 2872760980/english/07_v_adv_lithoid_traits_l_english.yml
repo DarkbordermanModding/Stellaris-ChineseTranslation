@@ -1,42 +1,42 @@
 ﻿l_english:
  trait_v_adv_silicon_brain: "Silicon Brain"
- trait_v_adv_silicon_brain_desc:0 "§LThrough advanced genetic engineering, the brains of this species have been altered to resemble computers more than standard brains.§!"
+ trait_v_adv_silicon_brain_desc:0 "Through advanced genetic engineering, the brains of this species have been altered to resemble computers more than standard brains."
 
  trait_v_adv_regular_structure:0 "Regular Structure"
- trait_v_adv_regular_structure_desc:0 "§LThrough advanced genetic engineering, the structure of this species has been altered to be exceedingly regular, making their bodies hard but brittle.§!"
+ trait_v_adv_regular_structure_desc:0 "Through advanced genetic engineering, the structure of this species has been altered to be exceedingly regular, making their bodies hard but brittle."
 
  trait_v_adv_irregular_structure:0 "Irregular Structure"
- trait_v_adv_irregular_structure_desc:0 "§LThrough advanced genetic engineering, the structure of this species has been altered to be exceedingly irregular, making their bodies strong but soft.§!"
+ trait_v_adv_irregular_structure_desc:0 "Through advanced genetic engineering, the structure of this species has been altered to be exceedingly irregular, making their bodies strong but soft."
 
  trait_v_adv_litholytic_enzymes:0 "Litholytic Enzymes"
- trait_v_adv_litholytic_enzymes_desc:0 "§LThrough advanced genetic engineering, this species has gained the ability to produce litholytic enzymes for the purpose of dissolving minerals.§!"
+ trait_v_adv_litholytic_enzymes_desc:0 "Through advanced genetic engineering, this species has gained the ability to produce litholytic enzymes for the purpose of dissolving minerals."
 
  trait_v_adv_living_reactors:0 "Radiating"
- trait_v_adv_living_reactors_desc:0 "§LThrough advanced genetic engineering, this species has become a walking nuclear reactor.§!"
+ trait_v_adv_living_reactors_desc:0 "Through advanced genetic engineering, this species has become a walking nuclear reactor."
 
  trait_v_adv_meteoric:0 "Meteoric"
- trait_v_adv_meteoric_desc:0 "§LThrough advanced genetic engineering, this species has gained the ability to survive atmospheric entry. Their bodies have become more tough and durable, to compensate for the extreme heat and kinetic forces.§!"
+ trait_v_adv_meteoric_desc:0 "Through advanced genetic engineering, this species has gained the ability to survive atmospheric entry. Their bodies have become more tough and durable, to compensate for the extreme heat and kinetic forces."
 
  trait_v_adv_pumice_raft:0 "Pumice Raft"
- trait_v_adv_pumice_raft_desc:0 "§LUnlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment.§!"
+ trait_v_adv_pumice_raft_desc:0 "Unlike most types of rock, pumice floats on water. This species is making the best of this fact by using it to alter their environment."
 
  trait_v_adv_prismatic:0 "Prismatic"
- trait_v_adv_prismatic_desc:0 "§LThe bodies of this species bend light to create beautiful displays of color.§!"
+ trait_v_adv_prismatic_desc:0 "The bodies of this species bend light to create beautiful displays of color."
 
  trait_v_adv_crucible:0 "Living Crucible"
- trait_v_adv_crucible_desc:0 "§LThis species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up.§!"
+ trait_v_adv_crucible_desc:0 "This species is extremely heat-resistant and can refine minerals directly into usable alloys when heated up."
 
  trait_v_adv_statuesque:0 "Statuesque"
- trait_v_adv_statuesque_desc:0 "§LThe bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue.§!"
+ trait_v_adv_statuesque_desc:0 "The bodies of this species are capable of being chiseled into extremely desirable shapes, like a block of marble. The upper classes of this species are well known to hire artisans to chisel away their imperfections to create a statuesque appearance that can easily be confused for a living statue."
 
  trait_v_adv_conductive:0 "Conductive"
- trait_v_adv_conductive_desc:0 "§LDue to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries.§!"
+ trait_v_adv_conductive_desc:0 "Due to a higher concentration of conductive metals within their bodies, this species exhibits conductive properties. Thanks to this, this species is uniquely suited to using cybernetics and functioning as living batteries."
 
  trait_v_adv_iron_shell:0 "Iron Shells"
- trait_v_adv_iron_shell_desc:0 "§LMembers of this species were hatched from cannonballs.§!"
+ trait_v_adv_iron_shell_desc:0 "Members of this species were hatched from cannonballs."
 
  trait_v_adv_eroding:0 "Eroding"
- trait_v_adv_eroding_desc:0 "§LDespite their abilities, this species is exceptionally prone to erosion.§!"
+ trait_v_adv_eroding_desc:0 "Despite their abilities, this species is exceptionally prone to erosion."
 
  trait_v_adv_lithology:0 "Lithology"
- trait_v_adv_lithology_desc:0 "§LThis species is extremely well acquainted with all sorts of minerals, always finding new and innovative ways to use them.§!"
+ trait_v_adv_lithology_desc:0 "This species is extremely well acquainted with all sorts of minerals, always finding new and innovative ways to use them."
