@@ -1,155 +1,166 @@
 ﻿l_simp_chinese:
 
  trait_v_robot_true_belivers:0 "飛升编程"
- trait_v_robot_true_belivers_desc:0 "§L这些机器被設計为专注于更偉大的想法。§!"
+ trait_v_robot_true_belivers_desc:0 "这些机器被設計为专注于更偉大的想法。"
 
  trait_v_robot_useful_idiots:0 "逻辑漏洞"
- trait_v_robot_useful_idiots_desc:0 "§L这些机器认为自己对宣传免疫，实际上并非如此。§!"
+ trait_v_robot_useful_idiots_desc:0 "这些机器认为自己对宣传免疫，实际上并非如此。"
 
  trait_v_robot_dogmatic_mindset:0 "嵌入编程"
- trait_v_robot_dogmatic_mindset_desc:0 "§L这些机器固守其意识形态，很难改变或接受新的行为方式。§!"
+ trait_v_robot_dogmatic_mindset_desc:0 "这些机器固守其意识形态，很难改变或接受新的行为方式。"
 
  trait_v_robot_organizational:0 "组织编程"
- trait_v_robot_organizational_desc:0 "§L这些机器是为防止可能损害集体的不良行为而设计。§!"
+ trait_v_robot_organizational_desc:0 "这些机器是为防止可能损害集体的不良行为而设计。"
 
  trait_v_robot_parasocial:0 "寄生编程"
- trait_v_robot_parasocial_desc:0 "§L这些机器对其统治者具有寄生的行为。§!"
+ trait_v_robot_parasocial_desc:0 "这些机器对其统治者具有寄生的行为。"
 
  trait_v_robot_lawful:0 "司法编程"
- trait_v_robot_lawful_desc:0 "§L这些机器能够根据场合做出正义的选择。§!"
+ trait_v_robot_lawful_desc:0 "这些机器能够根据场合做出正义的选择。"
 
  trait_v_robot_forensic_specialty:0 "法医编程"
- trait_v_robot_forensic_specialty_desc:0 "§L这些机器能够预测犯罪行为的根本原因。§!"
+ trait_v_robot_forensic_specialty_desc:0 "这些机器能够预测犯罪行为的根本原因。"
 
  trait_v_robot_hard_workers:0 "超频协议"
- trait_v_robot_hard_workers_desc:0 "§L这些机器认真工作。§!"
+ trait_v_robot_hard_workers_desc:0 "这些机器认真工作。"
 
  trait_v_robot_masterful_rulers:0 "治理设计"
- trait_v_robot_masterful_rulers_desc:0 "§L这些机器在治理领域都胜过其他机器。§!"
+ trait_v_robot_masterful_rulers_desc:0 "这些机器在治理领域都胜过其他机器。"
 
  trait_v_robot_competetive:0 "竞争编程"
- trait_v_robot_competetive_desc:0 "§L这些机器是为相互竞争而设计。§!"
+ trait_v_robot_competetive_desc:0 "这些机器是为相互竞争而设计。"
 
  trait_v_robot_autolatry:0 "自动监督"
- trait_v_robot_autolatry_desc:0 "§L这些机器将自己优先于任何其他实体。他们极端的自我中心主义与对自我的崇拜接壤。§!"
+ trait_v_robot_autolatry_desc:0 "这些机器将自己优先于任何其他实体。他们极端的自我中心主义与对自我的崇拜接壤。"
 
  trait_v_robot_socially_flexible:0 "阶层重序协议"
- trait_v_robot_socially_flexible_desc:0 "§L这些机器能夠迅速适应社会阶层的变化。§!"
+ trait_v_robot_socially_flexible_desc:0 "这些机器能夠迅速适应社会阶层的变化。"
 
  trait_v_robot_smart_workers:0 "快捷协议"
- trait_v_robot_smart_workers_desc:0 "§L这些机器有效率的工作。§!"
+ trait_v_robot_smart_workers_desc:0 "这些机器有效率的工作。"
 
  trait_v_robot_arrogance:0 "互连设计"
- trait_v_robot_arrogance_desc:0 "§L这些机器的设计基于彼此衔接的组件以提高整体性能及自我价值。§!"
+ trait_v_robot_arrogance_desc:0 "这些机器的设计基于彼此衔接的组件以提高整体性能及自我价值。"
 
  trait_v_robot_ecological_cynicism:0 "排外编程"
- trait_v_robot_ecological_cynicism_desc:0 "§L这些机器对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。§!"
+ trait_v_robot_ecological_cynicism_desc:0 "这些机器对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。"
 
  trait_v_robot_biophobia:0 "自然恐惧编程"
- trait_v_robot_biophobia_desc:0 "§L这些机器对大自然感到畏惧。§!"
+ trait_v_robot_biophobia_desc:0 "这些机器对大自然感到畏惧。"
 
  trait_v_robot_supremacy_complex:0 "钢铁霸权"
- trait_v_robot_supremacy_complex_desc:0 "§L这些机器通过了解生物的弱点确保自身的优越。§!"
+ trait_v_robot_supremacy_complex_desc:0 "这些机器通过了解生物的弱点确保自身的优越。"
 
- trait_v_robot_homely:0 "吵雜設計"
- trait_v_robot_homely_desc:0 "§L这些机器的设计并没有考虑到很多功能，但是没有人能否认其独特的吵杂声。§!"
+ trait_v_robot_homely:0 "吵杂设计"
+ trait_v_robot_homely_desc:0 "这些机器的设计并没有考虑到很多功能，但是没有人能否认其独特的吵杂声。"
 
  trait_v_robot_ecological_naivete:0 "亲外编程"
- trait_v_robot_ecological_naivete_desc:0 "§L这些机器没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
+ trait_v_robot_ecological_naivete_desc:0 "这些机器没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。"
 
  trait_v_robot_biophilia:0 "自然爱好编程"
- trait_v_robot_biophilia_desc:0 "§L这些机器被自然之美吸引。§!"
+ trait_v_robot_biophilia_desc:0 "这些机器被自然之美吸引。"
 
  trait_v_robot_born_sociologists:0 "社会学编程"
- trait_v_robot_born_sociologists_desc:0 "§L这些机器被设计为理解当前的社会进程。§!"
+ trait_v_robot_born_sociologists_desc:0 "这些机器被设计为理解当前的社会进程。"
 
  trait_v_robot_belligerent:0 "爱国者协议"
- trait_v_robot_belligerent_desc:0 "§L这些机器在发生冲突的情况下，能够超越其正常能力的工作量。§!"
+ trait_v_robot_belligerent_desc:0 "这些机器在发生冲突的情况下，能够超越其正常能力的工作量。"
 
  trait_v_robot_war_ingenuity:0 "战时简化协议"
- trait_v_robot_war_ingenuity_desc:0 "§L这些机器能够在战时简化其研究能力。§!"
+ trait_v_robot_war_ingenuity_desc:0 "这些机器能够在战时简化其研究能力。"
 
  trait_v_robot_militaristic_mindset:0 "军事协议"
- trait_v_robot_militaristic_mindset_desc:0 "§L这些机器在军事方面上有高度造诣。§!"
+ trait_v_robot_militaristic_mindset_desc:0 "这些机器在军事方面上有高度造诣。"
 
  trait_v_robot_rage_prone:0 "失控"
- trait_v_robot_rage_prone_desc:0 "§L这些机器经常失控。§!"
+ trait_v_robot_rage_prone_desc:0 "这些机器经常失控。"
 
  trait_v_robot_cowardly:0 "自我保护协议"
- trait_v_robot_cowardly_desc:0 "§L这些机器不在乎国家的存亡，他们寧願保全自己的存在。§!"
+ trait_v_robot_cowardly_desc:0 "这些机器不在乎国家的存亡，他们寧願保全自己的存在。"
 
  trait_v_robot_tight_knit:0 "和平时期协议"
- trait_v_robot_tight_knit_desc:0 "§L这些机器被设计成尽可能容易组织，然而只在和平时期生效。§!"
+ trait_v_robot_tight_knit_desc:0 "这些机器被设计成尽可能容易组织，然而只在和平时期生效。"
 
  trait_v_robot_administrative_mindset:0 "行政协议"
- trait_v_robot_administrative_mindset_desc:0 "§L这些机器在行政方面上有高度造诣。§!"
+ trait_v_robot_administrative_mindset_desc:0 "这些机器在行政方面上有高度造诣。"
 
  trait_v_robot_ascetic:0 "简朴设计"
- trait_v_robot_ascetic_desc:0 "§L这些机器对物质享受并不感兴趣。§!"
+ trait_v_robot_ascetic_desc:0 "这些机器对物质享受并不感兴趣。"
 
  trait_v_robot_scholastic:0 "学术执行"
- trait_v_robot_scholastic_desc:0 "§L这些机器认为科学数据和宗教文本都同样重要。§!"
+ trait_v_robot_scholastic_desc:0 "这些机器认为科学数据和宗教文本都同样重要。"
+
+ trait_v_robot_monastic_warriors:0 "圣战执行"
+ trait_v_robot_monastic_warriors_desc:0 "对这些机器而言，战争与灵性密不可分。"
+
+ trait_v_robot_monastic_hospitality:0 "慷慨协议"
+ trait_v_robot_monastic_hospitality_desc:0 "为不幸者提供款待的需求深植于这些机器的本能之中。"
+ TRAIT_MONASTIC_HOSPITALITY_EFFECT:0 "£job_priest£ §Y祭司§! £amenities£ 舒适度产出: §G+2§! \n £job_priest£ §Y祭司§!对人口生长 : §G+2%§! \n £job_priest£ §Y祭司§!对有机人口组装: §G+2%§! \n £job_priest£ §Y祭司§!对移居性: §G+1%§! \n £job_priest£ §Y祭司§!消费品维护费: §R+1§! \n £job_priest£ §Y祭司§! 视为 £job_healthcare£ §Y医务工作者§!."
+
+ trait_v_inquisitorial:0 "宗教裁判"
+ trait_v_inquisitorial_desc:0 ""
+ TRAIT_INQUISITORIAL_EFFECT:0 "§Y祭司§!犯罪度降低: §G+2§! \n £job_priest£ §Y祭司§!对主流思潮吸引力: §G+1%§!"
+
+ trait_v_robot_lavran_monasticism:0 "洞穴协议"
+ trait_v_robot_lavran_monasticism_desc:0 "这些机器视地底深处为最理想的礼拜场所。"
 
  trait_v_robot_proselytizing:0 "传教协议"
- trait_v_robot_proselytizing_desc:0 "§L这些机器信仰神明，尽管他们的本性应当不会的。§!"
+ trait_v_robot_proselytizing_desc:0 "这些机器信仰神明，尽管他们的本性应当不会的。"
 
  trait_v_robot_intelligent_design_spiritualist:0 "灵性设计"
- trait_v_robot_intelligent_design_spiritualist_desc:0 "§L这些机器其设计中具有灵性的图样及印记。§!"
+ trait_v_robot_intelligent_design_spiritualist_desc:0 "这些机器其设计中具有灵性的图样及印记。"
 
  trait_v_robot_astrology:0 "天体协议"
- trait_v_robot_astrology_desc:0 "§L这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。§!"
+ trait_v_robot_astrology_desc:0 "这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。"
 
  trait_v_robot_druidic:0 "DR00D协议"
- trait_v_robot_druidic_desc:0 "§L这些机器视自然为众神。§!"
+ trait_v_robot_druidic_desc:0 "这些机器视自然为众神。"
 
  trait_v_robot_machine_priests:0 "DTUHAS协议"
- trait_v_robot_machine_priests_desc:0 "§L这些机器意识到机械之神的存在，并认为它们比其他生物更接近神。§!"
+ trait_v_robot_machine_priests_desc:0 "这些机器意识到机械之神的存在，并认为它们比其他生物更接近神。"
 
  trait_v_robot_sybaritic:0 "过度消费故障"
- trait_v_robot_sybaritic_desc:0 "§L由于程序中的故障，这些机器喜爱奢侈行为。§!"
+ trait_v_robot_sybaritic_desc:0 "由于程序中的故障，这些机器喜爱奢侈行为。"
 
  trait_v_robot_materialistic:0 "财富获取协议"
- trait_v_robot_materialistic_desc:0 "§L这些机器的人生目标便是获得尽可能多的物质财富。§!"
+ trait_v_robot_materialistic_desc:0 "这些机器的人生目标便是获得尽可能多的物质财富。"
 
  trait_v_robot_intelligent_design_materialist:0 "物质性设计"
- trait_v_robot_intelligent_design_materialist_desc:0 "§L这些机器在其设计中看不到任何灵性，只看到层出不穷的缺陷。§!"
+ trait_v_robot_intelligent_design_materialist_desc:0 "这些机器在其设计中看不到任何灵性，只看到层出不穷的缺陷。"
 
  trait_v_robot_irresponsible:0 "无自保协议"
- trait_v_robot_irresponsible_desc:0 "§L这些机器将自保协议视为较低优先级§!"
+ trait_v_robot_irresponsible_desc:0 "这些机器将自保协议视为较低优先级"
 
  trait_v_robot_algorithmic_mind:0 "演算协议"
- trait_v_robot_algorithmic_mind_desc:0 "§L这些机器本能地驱使着它们研究物理学的各种形式。§!"
+ trait_v_robot_algorithmic_mind_desc:0 "这些机器本能地驱使着它们研究物理学的各种形式。"
 
  trait_v_robot_fleshcrafter:0 "肉体编织协议"
- trait_v_robot_fleshcrafter_desc:0 "§L这些机器本能地对生物学有兴趣。对他们来说，大脑只是由碳和水制成的处理器。§!"
+ trait_v_robot_fleshcrafter_desc:0 "这些机器本能地对生物学有兴趣。对他们来说，大脑只是由碳和水制成的处理器。"
 
  trait_v_robot_tinkerer:0 "内省协议"
- trait_v_robot_tinkerer_desc:0 "§L这些机器本能地在机械层面上理解自己，他们试图通过這些知识結交朋友。§!"
+ trait_v_robot_tinkerer_desc:0 "这些机器本能地在机械层面上理解自己，他们试图通过這些知识結交朋友。"
 
  trait_v_robot_alchemists:0 "化学协议"
- trait_v_robot_alchemists_desc:0 "§L这些机器对化学的本质感兴趣，无论是为了揭示更高的真理，还是只是为了理解现实。§!"
+ trait_v_robot_alchemists_desc:0 "这些机器对化学的本质感兴趣，无论是为了揭示更高的真理，还是只是为了理解现实。"
 
  trait_v_robot_scholarly_mindset:0 "学术协议"
- trait_v_robot_scholarly_mindset_desc:0 "§L这些机器在学术方面上有高度造诣。§!"
+ trait_v_robot_scholarly_mindset_desc:0 "这些机器在学术方面上有高度造诣。"
 
  ################################################################
 
  trait_v_adv_hive_microclimate:0 "蜂巢气候"
- trait_v_adv_hive_microclimate_desc:0 "§L通过人工建造的蜂巢气候，这个物种能够在其他人认为无法居住的环境中生存。§!"
+ trait_v_adv_hive_microclimate_desc:0 "通过人工建造的蜂巢气候，这个物种能够在其他人认为无法居住的环境中生存。"
  TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "每个区划宜居性: §G+1%§!"
 
  trait_v_adv_hive_epigenetic_castes:0 "遗传学种性"
- trait_v_adv_hive_epigenetic_castes_desc:0 "§L这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。§!"
+ trait_v_adv_hive_epigenetic_castes_desc:0 "这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。"
 
  trait_v_adv_hive_worker_dependency:0 "劳工依赖"
- trait_v_adv_hive_worker_dependency_desc:0 "§L这个物种的上层阶级仰赖于他们的劳工，他们将它们用于进一步的专业化。§!"
+ trait_v_adv_hive_worker_dependency_desc:0 "这个物种的上层阶级仰赖于他们的劳工，他们将它们用于进一步的专业化。"
  TRAIT_ADV_HIVE_WORKER_DEPENDENCY_EFFECT:0 "每个具§H劳工依赖§!特质的£job_clerk£§Y职员§!对专家产出: §G+0.5%§! \n每个£job_clerk£§Y职员§!对建筑及区划建造速度: §G+2%§!"
 
- trait_v_adv_hive_bivouac:0 "露营"
- trait_v_adv_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
-
  trait_v_adv_hive_foragial_limbs:0 "搜索肢"
- trait_v_adv_hive_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
+ trait_v_adv_hive_foragial_limbs_desc:0 "这个物种发展出专门收集食物的肢体。"
 
  trait_v_adv_hive_foragial_limbs_l:0 "搜索肢"
- trait_v_adv_hive_foragial_limbs_l_desc:0 "§L这个物种发展出专门收集矿物的肢体。§!"
+ trait_v_adv_hive_foragial_limbs_l_desc:0 "这个物种发展出专门收集矿物的肢体。"
