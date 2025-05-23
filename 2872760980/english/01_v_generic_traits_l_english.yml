@@ -1,28 +1,28 @@
 ﻿l_english:
 
  trait_v_parasitised:0 "Parasitic Host"
- trait_v_parasitised_desc:0 "§LThis species is infested with a brain parasite, that is capable of hijacking the motor functions of the meatsuit it finds itself in for its own gain. Unfortunately for them, their inteligence is based on the inteligence of the host.§!"
+ trait_v_parasitised_desc:0 "This species is infested with a brain parasite, that is capable of hijacking the motor functions of the meatsuit it finds itself in for its own gain. Unfortunately for them, their inteligence is based on the inteligence of the host."
  TRAIT_PARASITISED_EFFECT: "Over time other species located on the planet will be turned into subspecies of the original parasite species \nChance for defeated armies to infect a pop on the planet: §Y+33%§! \nHappiness in the presence of any number pops with Parasitic Hosts: §R-10%§! \nXenophobe Ethics Attraction in the presence of any number pops with Parasitic Hosts: §Y+10%§! \n\nBecause of how the game works, you need to put a §YSPACE§! in front of your species name, so your original species won't become a subspecies of some other species."
 
  trait_v_parasite_immunity:0 "Parasite Immunity"
- trait_v_parasite_immunity_desc:0 "§LDue to evolutionary adaptations, this species has developed a extremely efficacious immune response to all forms of parasitic infection.§!"
- TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§GThis species can't be infected by parasite pops.§!"
+ trait_v_parasite_immunity_desc:0 "Due to evolutionary adaptations, this species has developed a extremely efficacious immune response to all forms of parasitic infection."
+ TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§GThis species can't be infected by parasite pops."
 
  trait_v_horizontal_gene_transfer:0 "Genetic Assimilation"
- trait_v_horizontal_gene_transfer_desc:0 "§LThis species has gained a adaptation to gain beneficial genes from the enviroment. While this ability is mainly restricted to single cellular organisms, this species seems to be one of the few exceptions.§!"
+ trait_v_horizontal_gene_transfer_desc:0 "This species has gained a adaptation to gain beneficial genes from the enviroment. While this ability is mainly restricted to single cellular organisms, this species seems to be one of the few exceptions."
  TRAIT_HGT_EFFECT: "Each pop working as a slave or better produces 0.5 £society_research£ §YSociety Research§! per month. \nThis species can add §YSpecies Class§! restricted traits through genetic modification, as long as there exists at least one species with that trait in the empire. (Origin, Presapient and Advanced Negative traits can't be added)"
 
  trait_v_precise:0 "Precise"
- trait_v_precise_desc:0 "§LThis species is capable of exceedingly precise movements which come in usefull in both manufacturing and combat.§!"
+ trait_v_precise_desc:0 "This species is capable of exceedingly precise movements which come in usefull in both manufacturing and combat."
 
  trait_v_imprecise:0 "Imprecise"
- trait_v_imprecise_desc:0 "§LThis species isn't known from their precise movement skills, which can be best described as lacking.§!"
+ trait_v_imprecise_desc:0 "This species isn't known from their precise movement skills, which can be best described as lacking."
 
  trait_v_efficient_digestion:0 "Efficient Digestion"
- trait_v_efficient_digestion_desc:0 "§LThis species has developed a efficient digestive system, thanks to this they need less food to sustain their bodies.§!"
+ trait_v_efficient_digestion_desc:0 "This species has developed a efficient digestive system, thanks to this they need less food to sustain their bodies."
 
  trait_v_inefficient_digestion:0 "Inefficient Digestion"
- trait_v_inefficient_digestion_desc:0 "§LThe intestines of this species are inefficient when it comes to absorbing nutrients, a lot of nutrients just get wasted.§!"
+ trait_v_inefficient_digestion_desc:0 "The intestines of this species are inefficient when it comes to absorbing nutrients, a lot of nutrients just get wasted."
 
  trait_v_efficient_digestion_l:0 "$trait_v_efficient_digestion$"
  trait_v_efficient_digestion_l_desc:0 "$trait_v_efficient_digestion_desc$"
@@ -31,60 +31,60 @@
  trait_v_inefficient_digestion_l_desc:0 "$trait_v_inefficient_digestion_desc$"
 
  trait_v_pack_behaviour:0 "Pack Behavior"
- trait_v_pack_behaviour_desc:0 "§LThis species has a distinctive set of relationships between its members. They exhibit a extreme loyalty to anyone who is part of their "Pack". This isn't limited to members of their own species and anyone can become a part of it. And this fact isn't necesarily a good thing for them.§!"
+ trait_v_pack_behaviour_desc:0 "This species has a distinctive set of relationships between its members. They exhibit a extreme loyalty to anyone who is part of their "Pack". This isn't limited to members of their own species and anyone can become a part of it. And this fact isn't necesarily a good thing for them."
 
  trait_v_weak_immune_system:0 "Weak Immune System"
- trait_v_weak_immune_system_desc:0 "§LThis species has a extraordinarily weak immune system. Diseases that other species can simply shrug off are for this species potentially deadly. Because of this, this species has to stay in perpetual quarantine to stay safe from the diseases other species might have.§!"
+ trait_v_weak_immune_system_desc:0 "This species has a extraordinarily weak immune system. Diseases that other species can simply shrug off are for this species potentially deadly. Because of this, this species has to stay in perpetual quarantine to stay safe from the diseases other species might have."
  TRAIT_WEAK_IMMUNE_SYSTEM_EFFECT:0 "This species will start to decline when any Non-Robotic pop without §HWeak Immune System§! is present."
 
  trait_v_edc_sensitive:0 "EDC Sensitive"
- trait_v_edc_sensitive_desc:0 "§LThis species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways.§!"
+ trait_v_edc_sensitive_desc:0 "This species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways."
  TRAIT_EDC_SENSITIVE_EFFECT:0 "Pop Growth Speed per §YCity§!, §YIndustrial§! and §YAgriculture§! district: §R-2.5%§!"
 
  trait_v_lithoid_edc_sensitive:0 "EDC Sensitive"
- trait_v_lithoid_edc_sensitive_desc:0 "§LThis species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways.§!"
+ trait_v_lithoid_edc_sensitive_desc:0 "This species is extremely sensitive to endocrine disrupting chemicals and xenohormones, which affect their fertility in negative ways."
  TRAIT_LITHOID_EDC_SENSITIVE_EFFECT:0 "Pop Growth Speed per §YCity§!, §YIndustrial§! and §YMining§! district: §R-2.5%§!"
 
  trait_v_dry_adaptation:0 "Dry Adaptation"
- trait_v_dry_adaptation_desc:0 "§LThis species has a set of adaptations for dry environments, but they are disadvantageous in cold and wet environments.§!"
+ trait_v_dry_adaptation_desc:0 "This species has a set of adaptations for dry environments, but they are disadvantageous in cold and wet environments."
  TRAIT_DRY_ADAPTATION_EFFECT:0 "Habitability on §YDry§! Worlds: §G+20%§! \nHabitability on §YWet§! and §YFrozen§! Worlds: §R-10%§!"
 
  trait_v_wet_adaptation:0 "Wet Adaptation"
- trait_v_wet_adaptation_desc:0 "§LThis species has a set of adaptations for wet environments, but they are disadvantageous in dry and cold environments.§!"
+ trait_v_wet_adaptation_desc:0 "This species has a set of adaptations for wet environments, but they are disadvantageous in dry and cold environments."
  TRAIT_WET_ADAPTATION_EFFECT:0 "Habitability on §YWet§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YFrozen§! Worlds: §R-10%§!"
 
  trait_v_frozen_adaptation:0 "Frozen Adaptation"
- trait_v_frozen_adaptation_desc:0 "§LThis species has a set of adaptations for frozen environments, but they are disadvantageous in hot and wet environments.§!"
+ trait_v_frozen_adaptation_desc:0 "This species has a set of adaptations for frozen environments, but they are disadvantageous in hot and wet environments."
  TRAIT_FROZEN_ADAPTATION_EFFECT:0 "Habitability on §YFrozen§! Worlds: §G+20%§! \nHabitability on §YDry§! and §YWet§! Worlds: §R-10%§!"
 
  trait_v_difficult_reproduction:0 "Difficult Reproduction"
- trait_v_difficult_reproduction_desc:0 "§LThis species requires a set of extremely specific environmental conditions to reproduce.§!"
+ trait_v_difficult_reproduction_desc:0 "This species requires a set of extremely specific environmental conditions to reproduce."
  TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "Species can't procreate if the planet habitability is below §Y80%§!"
 
  trait_v_asexual_reproduction:0 "Asexual Reproduction"
- trait_v_asexual_reproduction_desc:0 "§LDue to a set of specific evolutionary developments, this species has become exclusively asexual in terms of reproduction.§!"
- TRAIT_ASEXUAL_REPRODUCTION_EFFECT:0 "Each pop working as a slave or better produces 0.05 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!.§!"
+ trait_v_asexual_reproduction_desc:0 "Due to a set of specific evolutionary developments, this species has become exclusively asexual in terms of reproduction."
+ TRAIT_ASEXUAL_REPRODUCTION_EFFECT:0 "Each pop working as a slave or better produces 0.05 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!."
 
  trait_v_neuroplasticity:0 "Neuroplasticity"
- trait_v_neuroplasticity_desc:0 "§LThe brain of this species shows exceptional neuroplastic properties.§!"
+ trait_v_neuroplasticity_desc:0 "The brain of this species shows exceptional neuroplastic properties."
  TRAIT_NEUROPLASTICITY_EFFECT:0 "Monthly chance to remove all Negative Traits from Leader: §G+1%§! \nFor each Trait removed, lose §R-300§! experience."
 
  trait_v_hale:0 "Hale"
- trait_v_hale_desc:0 "§LThis species is of strong health.§!"
+ trait_v_hale_desc:0 "This species is of strong health."
 
  trait_v_sickly:0 "Sickly"
- trait_v_sickly_desc:0 "§LThis species is of weak health.§!"
+ trait_v_sickly_desc:0 "This species is of weak health."
 
  trait_v_piezobiont:0 "Piezobiont"
- trait_v_piezobiont_desc:0 "§LThis species excels at high pressures. Unfortunately, this species has a tendency of turning into mush when not under high pressure.§!"
+ trait_v_piezobiont_desc:0 "This species excels at high pressures. Unfortunately, this species has a tendency of turning into mush when not under high pressure."
  TRAIT_PIEZOBIONT_EFFECT:0 "Habitability on non-§YOcean§! worlds for each §YOcean§! world trait selected: §R-20%§! \nEffect halved on other §YWet§! worlds."
 
  trait_v_large:0 "Large"
- trait_v_large_desc:0 "§LThis species is characterized by its large size.§!"
+ trait_v_large_desc:0 "This species is characterized by its large size."
  TRAIT_LARGE_EFFECT:0 "Pop Food Upkeep for each selected trait: §G-5%§! \nResettlement Cost for each selected trait: §R+10%§!"
 
  trait_v_small:0 "Small"
- trait_v_small_desc:0 "§LThis species is characterized by its small size.§!"
+ trait_v_small_desc:0 "This species is characterized by its small size."
  TRAIT_SMALL_EFFECT:0 "Pop Food Upkeep for each selected trait: §R+5%§! \nResettlement Cost for each selected trait: §G-10%§!"
 
  trait_v_lithoid_large:0 "$trait_v_large$"
@@ -96,17 +96,21 @@
  TRAIT_LITHOID_SMALL_EFFECT:0 "Pop Mineral Upkeep for each selected trait: §R+5%§! \nResettlement Cost for each selected trait: §G-10%§!"
 
  trait_v_gigantic:0 "Leviathanic"
- trait_v_gigantic_desc:0 "§LThis species is characterized by its leviathanic size.§!"
+ trait_v_gigantic_desc:0 "This species is characterized by its leviathanic size."
  TRAIT_GIGANTIC_EFFECT:0 "Pop Food Upkeep for each selected trait: §G-7.5%§! \nResettlement Cost for each selected trait: §R+15%§!"
 
  trait_v_lithoid_gigantic:0 "Leviathanic"
- trait_v_lithoid_gigantic_desc:0 "§LThis species is characterized by its leviathanic size.§!"
+ trait_v_lithoid_gigantic_desc:0 "This species is characterized by its leviathanic size."
  TRAIT_LITHOID_GIGANTIC_EFFECT:0 "Pop Mineral Upkeep for each selected trait: §G-7.5%§! \nResettlement Cost for each selected trait: §R+15%§!"
 
  trait_v_extremophile:0 "Extremophile"
- trait_v_extremophile_desc:0 "§LThis species is extremely environmentally resilient, even when compared to similarly adapted species.§!"
+ trait_v_extremophile_desc:0 "This species is extremely environmentally resilient, even when compared to similarly adapted species."
  TRAIT_EXTREMOPHILE_EFFECT:0 "Doubles £mod_pop_environment_tolerance£ §YHabitability§! from non-triggered Species Traits."
 
  trait_v_virility_displays:0 "Virility Displays"
- trait_v_virility_displays_desc:0 "§LFor this species, displays of strength and virility are the norm.§!"
+ trait_v_virility_displays_desc:0 "For this species, displays of strength and virility are the norm."
  TRAIT_VIRILITY_DISPLAYS_EFFECT:0 "Army Health, Army Damage, Army Morale and Army Morale Damage modifiers from traits, count as positive Pop Growth Speed modifiers at a rate of §G25%§! \nArmy Disengagement Chance modifiers from traits, count as negative Pop Growth Speed modifiers at a rate of §R-25%§!"
+
+ trait_v_wilderness_dweller:0 "Wilderness Dweller"
+ trait_v_wilderness_dweller_desc:0 "This species has a tendency to prefer the wilds to the comforts of civilization."
+ TRAIT_WILDERNESS_DWELLER_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!" 

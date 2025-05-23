@@ -1,28 +1,28 @@
 ﻿l_simp_chinese:
 
  trait_v_parasitised:0 "寄生宿主"
- trait_v_parasitised_desc:0 "§L这个物种被脑部寄生虫感染，寄生虫能夠操作宿主運作。不幸的是他們的智力是跟隨宿主的。§!"
+ trait_v_parasitised_desc:0 "这个物种被脑部寄生虫感染，寄生虫能夠操作宿主運作。不幸的是他們的智力是跟隨宿主的。"
  TRAIT_PARASITISED_EFFECT: "物种随时间成为被寄生的子物种 \n击败陆军时感染人口机率: §Y+33%§! \n有任何寄生宿主存在时幸福度: §R-10%§! \n信任度增长: §R-20%§! \n\n由于游戏设计，如果要避免原生物种变成子物种的话要在物种前面加上§Y空白§!"
 
  trait_v_parasite_immunity:0 "寄生免疫"
- trait_v_parasite_immunity_desc:0 "§L基于物种进化，这个物种对各种寄生虫感染有极有效的免疫反应。§!"
- TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "§G这个物种不会被寄生物种感染§!"
+ trait_v_parasite_immunity_desc:0 "基于物种进化，这个物种对各种寄生虫感染有极有效的免疫反应。"
+ TRAIT_PARASITIC_IMMUNITY_EFFECT:0 "这个物种不会被寄生物种感染"
 
  trait_v_horizontal_gene_transfer:0 "遗传同化"
- trait_v_horizontal_gene_transfer_desc:0 "§L这个物种具有从周遭环境获得正向特质的能力。尽管这种能力一般只有单细胞生物具有，但这个物种似乎是少数例外。§!"
+ trait_v_horizontal_gene_transfer_desc:0 "这个物种具有从周遭环境获得正向特质的能力。尽管这种能力一般只有单细胞生物具有，但这个物种似乎是少数例外。"
  TRAIT_HGT_EFFECT: "每个做为奴隶或更高工作标准的人口每月产生 0.5 £society_research£§Y社会学§!。\n这个物种能够藉由基因修改添加§Y种族限制§!的基因，只要帝国内有此基因的种族存在(起源，未开智及进阶负向特质无法添加)。"
 
  trait_v_precise:0 "精确"
- trait_v_precise_desc:0 "§L这个物种在制造和战斗中都能做到极为精确的动作。§!"
+ trait_v_precise_desc:0 "这个物种在制造和战斗中都能做到极为精确的动作。"
 
  trait_v_imprecise:0 "不精确"
- trait_v_imprecise_desc:0 "§L这个物种在各种动作上都极为不精准§!"
+ trait_v_imprecise_desc:0 "这个物种在各种动作上都极为不精准"
 
  trait_v_efficient_digestion:0 "消化優良"
- trait_v_efficient_digestion_desc:0 "§L这个物种发展出优秀的消化系统，他们需要更少的食物来维持自己的身体运作。§!"
+ trait_v_efficient_digestion_desc:0 "这个物种发展出优秀的消化系统，他们需要更少的食物来维持自己的身体运作。"
 
  trait_v_inefficient_digestion:0 "消化不良"
- trait_v_inefficient_digestion_desc:0 "§L在吸收营养时，这个物种的肠道效率低下，浪费了许多营养。§!"
+ trait_v_inefficient_digestion_desc:0 "在吸收营养时，这个物种的肠道效率低下，浪费了许多营养。"
 
  trait_v_efficient_digestion_l:0 "$trait_v_efficient_digestion$"
  trait_v_efficient_digestion_l_desc:0 "$trait_v_efficient_digestion_desc$"
@@ -31,60 +31,60 @@
  trait_v_inefficient_digestion_l_desc:0 "$trait_v_inefficient_digestion_desc$"
 
  trait_v_pack_behaviour:0 "集团行为"
- trait_v_pack_behaviour_desc:0 "§L这个物种在其成员之间具有独特的关系。他们对参加「集团」的任何人都表现出极大的忠诚。这不仅限于自己物种的成员，任何人都可以成为其中的一部分。这对他们来说是必需的。§!"
+ trait_v_pack_behaviour_desc:0 "这个物种在其成员之间具有独特的关系。他们对参加「集团」的任何人都表现出极大的忠诚。这不仅限于自己物种的成员，任何人都可以成为其中的一部分。这对他们来说是必需的。"
 
  trait_v_weak_immune_system:0 "弱免疫系统"
- trait_v_weak_immune_system_desc:0 "§L这个物种的免疫系统极弱，其他物种的小病可以要了他們的命。因此这个物种必须永久隔离以防止患病。§!"
+ trait_v_weak_immune_system_desc:0 "这个物种的免疫系统极弱，其他物种的小病可以要了他們的命。因此这个物种必须永久隔离以防止患病。"
  TRAIT_WEAK_IMMUNE_SYSTEM_EFFECT:0 "与无§H弱免疫系统§!特质的非机械生存时人口会开始减少。"
 
  trait_v_edc_sensitive:0 "化学物敏感"
- trait_v_edc_sensitive_desc:0 "§L这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。§!"
+ trait_v_edc_sensitive_desc:0 "这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。"
  TRAIT_EDC_SENSITIVE_EFFECT:0 "每 §Y都市区划§!，§Y工业区划§!，§Y农业区划§! 对人口成长速度: §R-2.5%§!"
 
  trait_v_lithoid_edc_sensitive:0 "化学物敏感"
- trait_v_lithoid_edc_sensitive_desc:0 "§L这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。§!"
+ trait_v_lithoid_edc_sensitive_desc:0 "这个物种对内分泌干扰物和环境荷尔蒙非常敏感，并以负面的方式影响其生育能力。"
  TRAIT_LITHOID_EDC_SENSITIVE_EFFECT:0 "每 §Y都市区划§!，§Y工业区划§!，§Y采矿区划§! 对人口成长速度: §R-2.5%§!"
 
  trait_v_dry_adaptation:0 "干旱气候偏好"
- trait_v_dry_adaptation_desc:0 "§L这个物种对干旱气候适应良好，在其他气候则不然。§!"
+ trait_v_dry_adaptation_desc:0 "这个物种对干旱气候适应良好，在其他气候则不然。"
  TRAIT_DRY_ADAPTATION_EFFECT:0 "§Y干旱§!星球宜居性: §G+20%§! \n§Y潮湿§!及§Y寒冷§!星球宜居性: §R-10%§!"
 
  trait_v_wet_adaptation:0 "潮湿气候偏好"
- trait_v_wet_adaptation_desc:0 "§L这个物种对潮湿气候适应良好，在其他气候则不然。§!"
+ trait_v_wet_adaptation_desc:0 "这个物种对潮湿气候适应良好，在其他气候则不然。"
  TRAIT_WET_ADAPTATION_EFFECT:0 "§Y潮湿§!星球宜居性: §G+20%§! \n§Y干旱§!及§Y寒冷§!星球宜居性: §R-10%§!"
 
  trait_v_frozen_adaptation:0 "寒冷气候偏好"
- trait_v_frozen_adaptation_desc:0 "§L这个物种对寒冷气候适应良好，在其他气候则不然。§!"
+ trait_v_frozen_adaptation_desc:0 "这个物种对寒冷气候适应良好，在其他气候则不然。"
  TRAIT_FROZEN_ADAPTATION_EFFECT:0 "§Y寒冷§!星球宜居性: §G+20%§! \n§Y干旱§!及§Y潮湿§!星球宜居性: §R-10%§!"
 
  trait_v_difficult_reproduction:0 "高要求繁殖"
- trait_v_difficult_reproduction_desc:0 "§L這個物种需要极其特定的环境条件才能繁殖。§!"
+ trait_v_difficult_reproduction_desc:0 "這個物种需要极其特定的环境条件才能繁殖。"
  TRAIT_DIFFICULT_REPRODUCTION_EFFECT:0 "物種無法在宜居性§Y80%§!以下繁殖§!"
 
  trait_v_asexual_reproduction:0 "无性繁殖"
- trait_v_asexual_reproduction_desc:0 "§L在一系列特定的进化发展下，這個物种在繁殖上已成为无性繁殖。§!"
+ trait_v_asexual_reproduction_desc:0 "在一系列特定的进化发展下，這個物种在繁殖上已成为无性繁殖。"
  TRAIT_ASEXUAL_REPRODUCTION_EFFECT:0 "每个做为奴隶或更高工作标准的人口產生 0.05 £mod_pop_growth_speed£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!。§!"
 
  trait_v_neuroplasticity:0 "神经可塑性"
- trait_v_neuroplasticity_desc:0 "§L这个物种的大脑显示出卓越的神经塑性。§!"
+ trait_v_neuroplasticity_desc:0 "这个物种的大脑显示出卓越的神经塑性。"
  TRAIT_NEUROPLASTICITY_EFFECT:0 "每月移除全部负向特质机率: §G+1%§! \n每移除一个负向特质§R-300§!经验。"
 
  trait_v_hale:0 "身强体壮"
- trait_v_hale_desc:0 "§L这个物种先天体质健壮§!"
+ trait_v_hale_desc:0 "这个物种先天体质健壮"
 
  trait_v_sickly:0 "体弱多病"
- trait_v_sickly_desc:0 "§L这个物种先天体质虚弱§!"
+ trait_v_sickly_desc:0 "这个物种先天体质虚弱"
 
  trait_v_piezobiont:0 "高压生长"
- trait_v_piezobiont_desc:0 "§L这种物种擅长处于高压环境，如果不处于高压状态，这个物种会变得软绵绵的。§!"
+ trait_v_piezobiont_desc:0 "这种物种擅长处于高压环境，如果不处于高压状态，这个物种会变得软绵绵的。"
  TRAIT_PIEZOBIONT_EFFECT:0 "每个§Y海洋§!星球特质对非§Y海洋§!星球宜居性: §R-20%§! \n在§Y潮湿§!星球效果减半。"
 
  trait_v_large:0 "身形庞大"
- trait_v_large_desc:0 "§L这个物种因其庞大身躯而闻名。§!"
+ trait_v_large_desc:0 "这个物种因其庞大身躯而闻名。"
  TRAIT_LARGE_EFFECT:0 "每个特质对人口食物维护费: §G-5%§! \n每个特质对强制搬迁费用: §R+10%§!"
 
  trait_v_small:0 "身形娇小"
- trait_v_small_desc:0 "§L这个物种因其娇小身躯而闻名。§!"
+ trait_v_small_desc:0 "这个物种因其娇小身躯而闻名。"
  TRAIT_SMALL_EFFECT:0 "每个特质对人口食物维护费: §R+5%§! \n每个特质对强制搬迁费用: §G-10%§!"
 
  trait_v_lithoid_large:0 "$trait_v_large$"
@@ -96,17 +96,21 @@
  TRAIT_LITHOID_SMALL_EFFECT:0 "每个特质对人口矿物维护费: §R+5%§! \n每个特质对强制搬迁费用: §G-10%§!"
 
  trait_v_gigantic:0 "利維坦"
- trait_v_gigantic_desc:0 "§L这个物种因其如同神话巨兽般的身躯而闻名§!"
+ trait_v_gigantic_desc:0 "这个物种因其如同神话巨兽般的身躯而闻名"
  TRAIT_GIGANTIC_EFFECT:0 "每个特质对人口食物维护费: §G-7.5%§! \n每个特质对强制搬迁费用: §R+15%§!"
 
  trait_v_lithoid_gigantic:0 "利維坦"
- trait_v_lithoid_gigantic_desc:0 "§L这个物种因其如同神话巨兽般的身躯而闻名§!"
+ trait_v_lithoid_gigantic_desc:0 "这个物种因其如同神话巨兽般的身躯而闻名"
  TRAIT_LITHOID_GIGANTIC_EFFECT:0 "每个特质对人口矿物维护费: §G-7.5%§! \n每个特质对强制搬迁费用: §R+15%§!"
 
  trait_v_extremophile:0 "环境弹性"
- trait_v_extremophile_desc:0 "§L这个物种与类似的物种在环境上具有极高的弹性。§!"
+ trait_v_extremophile_desc:0 "这个物种与类似的物种在环境上具有极高的弹性。"
  TRAIT_EXTREMOPHILE_EFFECT:0 "物种£mod_pop_environment_tolerance£§Y宜居性§!效果翻倍。"
 
  trait_v_virility_displays:0 "力量展示"
- trait_v_virility_displays_desc:0 "§L对于这个物种，力量和活力的展示是常态。§!"
+ trait_v_virility_displays_desc:0 "对于这个物种，力量和活力的展示是常态。"
  TRAIT_VIRILITY_DISPLAYS_EFFECT:0 "特质相关陆军生命值，陆军伤害，陆军士气伤害，陆军士气对人口成长§G+25%§! \n特质相关陆军撤退几率对人口成长§R-25%§!"
+
+ trait_v_wilderness_dweller:0 "荒野居民"
+ trait_v_wilderness_dweller_desc:0 "这个物种倾向于偏爱荒野而不是文明的舒适。"
+ TRAIT_WILDERNESS_DWELLER_EFFECT:0 "每个天然障碍对人口住房使用: §G-5%§!"
