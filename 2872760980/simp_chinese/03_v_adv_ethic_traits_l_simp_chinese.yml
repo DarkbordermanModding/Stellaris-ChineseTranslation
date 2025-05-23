@@ -101,7 +101,7 @@
  trait_v_inquisitorial_desc:0 ""
  TRAIT_INQUISITORIAL_EFFECT:0 "§Y祭司§!犯罪度降低: §G+2§! \n £job_priest£ §Y祭司§!对主流思潮吸引力: §G+1%§!"
 
- trait_v_robot_lavran_monasticism:0 "洞穴协议"
+ trait_v_robot_lavran_monasticism:0 "地下礼拜"
  trait_v_robot_lavran_monasticism_desc:0 "这些机器视地底深处为最理想的礼拜场所。"
 
  trait_v_robot_proselytizing:0 "传教协议"
