@@ -1,68 +1,68 @@
 ﻿l_english:
 
  trait_v_social_parasite:0 "Social Parasite"
- trait_v_social_parasite_desc:0 "§LThis species won't do any work that is beneath them. In their earlier days, this species performed slave raids against eusocial species in order to acquire workers.§!"
+ trait_v_social_parasite_desc:0 "This species won't do any work that is beneath them. In their earlier days, this species performed slave raids against eusocial species in order to acquire workers."
  TRAIT_SOCIAL_PARASITE_EFFECT:0 "Cannot be employed in §YWorker§! Jobs"
 
  trait_v_brood_parasite:0 "Brood Parasite"
- trait_v_brood_parasite_desc:0 "§LThis species isn't big on parenting and prefers to parasitize on the good will of other species.§!"
+ trait_v_brood_parasite_desc:0 "This species isn't big on parenting and prefers to parasitize on the good will of other species."
  TRAIT_BROOD_PARASITE_EFFECT:0 "Pop Growth Speed per non-Broood Parasite pop: §G+2%§! \nPop Growth Speed per Brood Parasite pop on planet to non-Brood Parasite species: §R-1%§!"
 
  ###############################################################################################################################################################################################################
 
  trait_v_fertilising:0 "Fertilizing"
- trait_v_fertilising_desc:0 "§LThis species has the ability to increase the habitability of any planet they find themselves on.§!"
+ trait_v_fertilising_desc:0 "This species has the ability to increase the habitability of any planet they find themselves on."
  TRAIT_FERTILISING_EFFECT:0 "Each pop working as a slave or better increases the £mod_pop_environment_tolerance£ §YHabitability§! by: §G+1%§!"
 
  trait_v_infertilising:0 "Infertilizing"
- trait_v_infertilising_desc:0 "§LThis species is detrimental to the environment of any world they find themselves on.§!"
+ trait_v_infertilising_desc:0 "This species is detrimental to the environment of any world they find themselves on."
  TRAIT_INFERTILISING_EFFECT:0 "Each pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§!"
 
  trait_v_allelopathy:0 "Allelopathy"
- trait_v_allelopathy_desc:0 "§LThis species has developed a set of chemical defense mechanisms against predators and competition. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns.§!"
+ trait_v_allelopathy_desc:0 "This species has developed a set of chemical defense mechanisms against predators and competition. While they are immune to their own toxins, other species aren't as lucky and may end up with chemical burns."
  TRAIT_ALLELOPATHY_EFFECT:0 "Pop Growth Speed per Allelopathic pop to non-Allelopathic species: §R-1%§! \nPop Assembly Speed per Allelopathic pop to non-Allelopathic species: §R-1%§! "
 
  trait_v_nectaries:0 "Nectaries"
- trait_v_nectaries_desc:0 "§LThis species produces a sweet nectar to attract pollinators. Thanks to this they can increase their numbers faster.§!"
+ trait_v_nectaries_desc:0 "This species produces a sweet nectar to attract pollinators. Thanks to this they can increase their numbers faster."
  TRAIT_NECTARIES_EFFECT:0 "Pop Growth Speed for every Naturally Occurring Blocker: §G+5%§!"
 
  trait_v_kairomones:0 "Kairomones"
- trait_v_kairomones_desc:0 "§LThis species releases special signal chemicals that tend to attract animals when damaged. These signal chemicals attract predators of whatever species might have damaged them.§!"
+ trait_v_kairomones_desc:0 "This species releases special signal chemicals that tend to attract animals when damaged. These signal chemicals attract predators of whatever species might have damaged them."
  TRAIT_KAIROMONES_EFFECT:0 "Habitability for every Naturally Occurring Blocker: §G+5%§! \nDestroyed armies of this species once per invasion attempt attract a number of §YKairomone Wildlife Armies§! equal to the number of Naturally Occurring Blockers."
-
- trait_v_pest_sensitive:0 "Pest Sensitive"
- trait_v_pest_sensitive_desc:0 "§LThis species is uniquely plagued by a number of pests. Being in proximity to large, uncontrolled swathes of territory can lead to them being extra prone to infestation.§!"
- TRAIT_PEST_SENSITIVE_EFFECT:0 "Habitability for every Naturally Occurring Blocker: §R-5%§!"
 
  v_kairomone_wildlife_army:0 "Wildlife Attracted by Kairomones"
  v_kairomone_wildlife_army_desc:0 "These animals have been attracted by a large amount of kairomones released into the atmosphere in search of prey."
  NAME_v_kairomone_wildlife:0 "Kairomone Attracted Wildlife"
 
+ trait_v_pest_sensitive:0 "Pest Sensitive"
+ trait_v_pest_sensitive_desc:0 "This species is uniquely plagued by a number of pests. Being in proximity to large, uncontrolled swathes of territory can lead to them being extra prone to infestation."
+ TRAIT_PEST_SENSITIVE_EFFECT:0 "Habitability for every Naturally Occurring Blocker: §R-5%§!"
+
  trait_v_mycorrhizal:0 "Mycorrhizal"
- trait_v_mycorrhizal_desc:0 "§LThis species is connected to a mycelium network, providing additional nutrients for their development.§!"
+ trait_v_mycorrhizal_desc:0 "This species is connected to a mycelium network, providing additional nutrients for their development."
  TRAIT_MYCORRHIZA_EFFECT:0 "Pop Food Upkeep for every Naturally Occurring Blocker: §G-5%§!"
 
  trait_v_hyphae_network:0 "Hyphae Network"
- trait_v_hyphae_network_desc:0 "§LThis species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology.§!"
+ trait_v_hyphae_network_desc:0 "This species is permanently connected to other members of its species with a complex hyphae network. Ideas can be quickly shared between individuals, alowing for great leaps in culture and technology."
  TRAIT_HYPHAE_NETWORK_EFFECT:0 "£engineering£ £physics£ £society£ Research and £unity£ Unity from £job£ §YJobs§! per Naturally Occurring Blockers: §G+5%§!"
 
  trait_v_rhizobial:0 "Rhizobial"
- trait_v_rhizobial_desc:0 "§LThis species exists in a symbiotic relationship with a Nitrogen fixing bacteria that help to make the soil more fertile.§!"
+ trait_v_rhizobial_desc:0 "This species exists in a symbiotic relationship with a Nitrogen fixing bacteria that help to make the soil more fertile."
  TRAIT_RHIZOBIAL_EFFECT:0 "Gain 1 £district£ §YFarming District§! per 10 pops with Rhizobial on Non-Ecumenopolis and Non-Artificial Worlds"
 
  #TRAIT_RHIZOBIAL_EFFECT:0 "Each pop working as a slave or better increases £food£ §YFood§! from £job_farmer£ §YFarmers§! by: §G+1%§!"
 
  trait_v_olotonic:0 "Olotónic"
- trait_v_olotonic_desc:0 "§LThis species produces a form of mucus inhabited by nitrogen fixing bacteria. This mucus drops and fertilizes the soil below.§!"
+ trait_v_olotonic_desc:0 "This species produces a form of mucus inhabited by nitrogen fixing bacteria. This mucus drops and fertilizes the soil below."
  TRAIT_OLOTONIC_EFFECT:0 "Each pop working as a £job_farmer£ §YFarmer§! increases £food£ §YFood§! from £job_farmer£ §YFarmers§! by: §G+1%§!"
 
  trait_v_rooted:0 "Sessile"
- trait_v_rooted_desc:0 "§LThis species is physically inseperable from the place it was born in. Their roots dig deep into the surface of the planet, making replanting impossible.§!"
- TRAIT_ROOTED_EFFECT:0 "§RThis species can't be resettled or migrate to other planets.§!"
+ trait_v_rooted_desc:0 "This species is physically inseperable from the place it was born in. Their roots dig deep into the surface of the planet, making replanting impossible."
+ TRAIT_ROOTED_EFFECT:0 "§RThis species can't be resettled or migrate to other planets."
  is_v_mobile_cant_be_resetttled:0 "§RPop can't be resettled!§!"
 
  trait_v_ecotypic_a:0 "Alpha Ecotypic"
- trait_v_ecotypic_a_desc:0 "§LThis species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression.§!"
+ trait_v_ecotypic_a_desc:0 "This species exhibits different traits based off of the ecosystem they inhabit as a result of varying genetic expression."
  trait_v_ecotypic_b:0 "Beta Ecotypic"
  trait_v_ecotypic_b_desc:0 "$trait_v_ecotypic_a_desc$"
 
@@ -71,7 +71,7 @@
  TRAIT_ECOTYPIC_B_EFFECT:0 "On §YWet§! and §YFrozen§! Worlds £energy£ Energy from £job£ Jobs: §G+7.5%§! \nOn §YDry§! and §YFrozen§! Worlds £food£ Food from £job£ Jobs: §G+7.5%§! \nOn §YWet§! and §YDry§! Worlds £minerals£ Minerals from £job£ Jobs: §G+7.5%§! \nOn §YGaia§!, §YRare§! and §YRing§! Worlds Basic Resources from £job£ Jobs: §G+15%§! \n\nPop Housing Usage on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \nPop Consumer Goods Upkeep on §YRing§!, §YHive§! and §YGaia§! Worlds: §G-10%§! \n\nSpecies on §YTomb Worlds§! with a Habitability, Survivor or Radiothropic retain all the previous benefits."
 
  trait_v_spores:0 "Spores"
- trait_v_spores_desc:0 "§LThis species releases large amounts of spores on death.§!"
+ trait_v_spores_desc:0 "This species releases large amounts of spores on death."
  TRAIT_SPORES_EFFECT:0 "Destroyed armies and purged pops can spawn §YSpore Camps§! that impact the planet in negative ways. \nPeriodically hostile armies will attempt to take over the planet for themselves. \nOn removal the spore camp will spawn 3 enemy armies + 1 enemy army for each additional §YSpore Camp§! present on the planet."
  d_v_spore_camp:0 "£blocker£ Spore Camp"
  d_v_spore_camp_desc:0 "In this camp live members of a beligerent species that raid and loot the surrounding countryside, making the lives of the locals into a living nightmare."
@@ -80,88 +80,88 @@
  v_spore_raider_army_desc:0 "An army made up of raiders and looters that rose up against the true rulers of the planet."
 
  trait_v_pseudocopulative:0 "Pseudocopulative"
- trait_v_pseudocopulative_desc:0 "§LThis species has evolved to mimic other species. This Mimicry has taken the form of tricking other species into copulation.§!"
+ trait_v_pseudocopulative_desc:0 "This species has evolved to mimic other species. This Mimicry has taken the form of tricking other species into copulation."
  TRAIT_PSEUDOCOPULATIVE_EFFECT:0 "Pop Growth when working £job_entertainer£ §YEntertainer§! Jobs: §G+2%§! \nPop Growth per non-Pseudocopulative pop: §G+1%§!"
 
  trait_v_flying:0 "Flying"
- trait_v_flying_desc:0 "§LThis species has evolved the means of flight. Migration for this species is fast, easy and natural.§!"
+ trait_v_flying_desc:0 "This species has evolved the means of flight. Migration for this species is fast, easy and natural."
 
  trait_v_aeroplankton:0 "Aeroplankton"
- trait_v_aeroplankton_desc:0 "§LThis species is known to move throughout the air in a less controlled fashion. Planets that have lower gravity or a denser atmosphere are preferable, due to a better ability to spread their offspring.§!"
+ trait_v_aeroplankton_desc:0 "This species is known to move throughout the air in a less controlled fashion. Planets that have lower gravity or a denser atmosphere are preferable, due to a better ability to spread their offspring."
  TRAIT_AEROPLANKTON_EFFECT:0 "Pop Growth Speed per £planetsize£ §YPlanet Size§! differing from £planetsize£ §Y18§!: §G+5%§!"
 
  trait_v_double_respiration:0 "Double Respiration"
- trait_v_double_respiration_desc:0 "§LThis species has evolved a highly efficient respiration system. Unfortunately, this makes the species more susceptible to air pollution.§!"
+ trait_v_double_respiration_desc:0 "This species has evolved a highly efficient respiration system. Unfortunately, this makes the species more susceptible to air pollution."
  TRAIT_DOUBLE_RESPIRATION_EFFECT:0 "Species Habitability Cap per §YCity§! and §YIndustrial§! district: §R-4%§! \nSpecies Habitability Cap for every Naturally Occurring Blocker: §G+2%§! \nUrban Adaptation halves the penalty."
  
  trait_v_metalic_exoskeleton:0 "Metallic Exoskeleton"
- trait_v_metalic_exoskeleton_desc:0 "§LThis species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill.§!"
+ trait_v_metalic_exoskeleton_desc:0 "This species has incorporated metals into their exoskeletons, making it both extremely deadly and extremely hard to kill."
  TRAIT_METALIC_EXOSKELETON_EFFECT:0 "Each pop working as a slave or better produces 0.025 £alloys£ §YAlloys§! per month. \n£minerals£ §YMineral§! Upkeep: §R+0.25§!"
 
  trait_v_fire_spewing:0 "Fire Spewing"
- trait_v_fire_spewing_desc:0 "§LThis species is capable of producing flames through chemical reaction. This makes them really good at spreading fear among enemy ranks in addition to creating large amounts of collateral damage.§!"
+ trait_v_fire_spewing_desc:0 "This species is capable of producing flames through chemical reaction. This makes them really good at spreading fear among enemy ranks in addition to creating large amounts of collateral damage."
  TRAIT_FIRE_SPEWING_EFFECT:0 "Habitability on §YCold§! and §YTomb Worlds§!: §G+20%§!"
 
  trait_v_ectotherm:0 "Ectotherm"
- trait_v_ectotherm_desc:0 "§LThis species is ectothermic and relies on environmental sources of heat instead of internal ones. Thanks to this, species needs less food to survive and have a higher life expectancy.§!"
+ trait_v_ectotherm_desc:0 "This species is ectothermic and relies on environmental sources of heat instead of internal ones. Thanks to this, species needs less food to survive and have a higher life expectancy."
  TRAIT_COLD_ECTOTHERM_EFFECT:0 "Habitability on §YCold§! and §YTomb Worlds§!: §R-20%§!"
 
  trait_v_fac_endotherm:0 "Facultative Endotherm"
- trait_v_fac_endotherm_desc:0 "§LThis species is capable of facultative endothermy and is capable of using external heat sources, as well as creating their own heat.§!"
+ trait_v_fac_endotherm_desc:0 "This species is capable of facultative endothermy and is capable of using external heat sources, as well as creating their own heat."
  TRAIT_COLD_FAC_ENDOTHERM_EFFECT:0 "Pop Food Upkeep on §YDry§! and §YWet§! worlds: §G-25%§!"
 
  trait_v_interceptor:0 "Natural Interceptor"
- trait_v_interceptor_desc:0 "§LThis species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
+ trait_v_interceptor_desc:0 "This species has hunted its prey by intercepting it instead of ambushing it. Even now their ability to intercept is shining through in their admirals§!"
  TRAIT_INTERCEPTOR_EFFECT:0 "£commander£ §YCommanders§! start with the ['concept_v_leader_interceptor'] Trait \n£scientist£ §YScientists§! start with the ['concept_v_leader_evader'] Trait"
 
  trait_v_fossorial:0 "Fossorial"
- trait_v_fossorial_desc:0 "§LThe front limbs of this species are well adapted to digging and living underground.§!"
+ trait_v_fossorial_desc:0 "The front limbs of this species are well adapted to digging and living underground."
  TRAIT_FOSSORIAL_EFFECT:0 "Gain 1 £district£ §YMining District§! per 10 pops with Fossorial on Non-Ecumenopolis and Non-Artificial Worlds \nSpecies Minimum Habitability per Mining District: §G+4%§! \nPop Housing Usage when working £job_miner£ §YMiner§! Jobs: §Y-0.5§!"
 
  trait_v_active_camouflage:0 "Camouflage"
- trait_v_active_camouflage_desc:0 "§LThis species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes.§!"
- TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§! \n£job_criminal£ Criminal Crime Increase: §R+5§! \n§GPops can't be abducted.§!"
+ trait_v_active_camouflage_desc:0 "This species has the ability to hide in plain sight. This ability makes them great at hit-and-run attacks and ambushes."
+ TRAIT_ACTIVE_CAMOUFLAGE_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§! \n£job_criminal£ Criminal Crime Increase: §R+5§! \n§GPops can't be abducted."
 
  trait_v_self_decoration:0 "Self Decoration"
- trait_v_self_decoration_desc:0 "§LThis species uses natural objects to create a camouflage for itself.§!"
- TRAIT_SELF_DECORATION_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction for every Naturally Occurring Blocker: §G+1§! \n£job_criminal£ Criminal Crime Increase for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted.§!"
+ trait_v_self_decoration_desc:0 "This species uses natural objects to create a camouflage for itself."
+ TRAIT_SELF_DECORATION_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction for every Naturally Occurring Blocker: §G+1§! \n£job_criminal£ Criminal Crime Increase for every Naturally Occurring Blocker: §R+1§! \n§GPops can't be abducted."
  
  trait_v_locust:0 "Locusts"
- trait_v_locust_desc:0 "§LThis species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy.§!"
- TRAIT_LOCUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Speed: §G+100%§! \nPop Food Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RFood Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-2%§! \nEach pop working as a slave or better decreases the £food£ §YFood§! from jobs by: §R-2%§! \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds.§!"
+ trait_v_locust_desc:0 "This species has two different phenotypes dependent on population density. If it reaches a population density, it turns into locusts and enters a feeding frenzy."
+ TRAIT_LOCUST_EFFECT:0 "When the number of pops is equal or higher than double the £planetsize£ §YPlanet Size§!, they gain the following modifiers: \nPop Growth Speed: §G+100%§! \nPop Food Upkeep: §R+1§! \nEach pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§! \n\nIn the case of a §RFood Deficit§!: \nAs long as the Planetary habitability is above §Y0%§! the deficit doesn't affect Happiness \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-2%§! \nEach pop working as a slave or better decreases the £food£ §YFood§! from jobs by: §R-2%§! \n\n§HThese effects don't apply on §YArtificial§!, §YGaia§! and §YEcumenopolis§! Worlds."
 
  trait_v_repletes:0 "Repletes"
- trait_v_repletes_desc:0 "§LCertain members of this species are able to function as repletes, and are able to function as resource storage.§!"
+ trait_v_repletes_desc:0 "Certain members of this species are able to function as repletes, and are able to function as resource storage."
  TRAIT_REPLETE_EFFECT:0 "Each pop working as a £job_clerk£ §YClerk§! or £job_maintenance_drone£ §YMaintenance Drone§! increases the £mod_country_resource_max_add£ §YResource Storage Capacity§! by: §G+100§!"
 
  trait_v_explosive_autothysis:0 "Explosive Autothysis"
- trait_v_explosive_autothysis_desc:0 "§LThis species has developed a form of altruistic suicide, that ends up with an individual of this species exploding with significant force.§!"
+ trait_v_explosive_autothysis_desc:0 "This species has developed a form of altruistic suicide, that ends up with an individual of this species exploding with significant force."
  TRAIT_EXPLOSIVE_AUTOTHYSIS_EFFECT:0 "Destroyed armies and purged pops cause §R5§! planetary devastation."
 
  trait_v_mayfly:0 "Mayfly"
- trait_v_mayfly_desc:0 "§LThis species is extremely short-lived for a sentient race. In return, they learn really fast.§!"
+ trait_v_mayfly_desc:0 "This species is extremely short-lived for a sentient race. In return, they learn really fast."
  TRAIT_MAYFLY_EFFECT:0 "Starting Age: §G2§!-§G5§! years"
 
  trait_v_biological_immortality:0 "Biological Immortality"
- trait_v_biological_immortality_desc:0 "§LThis species is seemingly immortal and is capable of eternal regeneration unless killed by a disease, predator or weapon.§!"
+ trait_v_biological_immortality_desc:0 "This species is seemingly immortal and is capable of eternal regeneration unless killed by a disease, predator or weapon."
 
  trait_v_reanimation:0 "Reanimation"
- trait_v_reanimation_desc:0 "§LThis species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state.§!"
+ trait_v_reanimation_desc:0 "This species is known to return from the dead when killed in combat. Even if a highly cognitively diminished state."
  TRAIT_REANIMATION_EFFECT:0 "Chance for destroyed armies of this species return as §YUndead Armies§!: §Y66%§!"
 
  trait_v_ghoulish:0 "Ghoulish"
- trait_v_ghoulish_desc:0 "§LMembers of this species aren't very good at social interactions, as their behavior and physiology would be best described as unsettling, and when compared to other species, they seem to look sickly.§!"
+ trait_v_ghoulish_desc:0 "Members of this species aren't very good at social interactions, as their behavior and physiology would be best described as unsettling, and when compared to other species, they seem to look sickly."
  TRAIT_GHOULISH_EFFECT:0 "Each pop working as a slave or better increases the £mod_planet_emigration_push_add£ §YEmigration Push§! by: §Y+0.5§!"
 
  trait_v_pearl_makers:0 "Pearl Makers"
- trait_v_pearl_makers_desc:0 "§LThis species is capable of creating nacre and in consequence pearls that can be sold.§!"
+ trait_v_pearl_makers_desc:0 "This species is capable of creating nacre and in consequence pearls that can be sold."
  TRAIT_PEARL_MAKERS_EFFECT:0 "Each pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!"
 
  trait_v_nacre_shell:0 "Nacre Shell"
- trait_v_nacre_shell_desc:0 "§LThis species has a natural armor made from Nacre. Nacre is one of the most resilient organic substances in the known universe.§!"
+ trait_v_nacre_shell_desc:0 "This species has a natural armor made from Nacre. Nacre is one of the most resilient organic substances in the known universe."
 
  trait_v_parthenocarpy:0 "Parthenocarpy"
- trait_v_parthenocarpy_desc:0 "§LThis species has the capability to produce unfertilized fruit that can be reused as a source of food.§!"
+ trait_v_parthenocarpy_desc:0 "This species has the capability to produce unfertilized fruit that can be reused as a source of food."
  TRAIT_PARTHENOCARPY_EFFECT:0 "Instead of becoming unemployed, Pops automatically get employed in §YCoop§! Jobs. \nCoops provide §G2§! £food£ §YFood§! and §Y1§! £trade_value£ §YTrade Value§! but §R-2%§! Pop Growth Speed for Parthenocarpic Pops."
 
  decision_v_000_coop:0 "Forbid Coops"
@@ -175,77 +175,77 @@
  v_coop_modifier_tooltip:0 "§HParthenocarpic§! pops won't be employed in §YCoop§! jobs."
 
  trait_v_blooming:0 "Blooming"
- trait_v_blooming_desc:0 "§LThis species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment.§!"
+ trait_v_blooming_desc:0 "This species is known for creating massive blooms as a result of agriculture. While growing very fast, this species also releases large amounts of toxins into the surrounding environment."
  TRAIT_BLOOMING_EFFECT:0 "Pop Growth Speed per §YAgriculture§! district on §YOcean Worlds§!: §G2.5%§! \nEach pop working as a slave or better produces 0.005 £exotic_gases£ §YExotic Gases§! per §YAgriculture§! district on §YOcean Worlds§! per month. \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! on §YOcean Worlds§! per §YAgriculture§! district for non-Blooming species by: §R-0.25%§!"
 
  trait_v_self_domesticated:0 "Self Domesticated"
- trait_v_self_domesticated_desc:0 "§LThis species has lived in a society for such a long period of time, it has influenced their DNA. Members of this species tend to be much more docile than other species.§!"
+ trait_v_self_domesticated_desc:0 "This species has lived in a society for such a long period of time, it has influenced their DNA. Members of this species tend to be much more docile than other species."
 
  trait_v_extremely_precise:0 "Extremely Precise"
- trait_v_extremely_precise_desc:0 "§LBe that a more developed Cerebellum or a set of additional muscles under the skin, this species is capable of extremely precise movement.§!"
+ trait_v_extremely_precise_desc:0 "Be that a more developed Cerebellum or a set of additional muscles under the skin, this species is capable of extremely precise movement."
 
  trait_v_complex_digestive_system:0 "Complex Digestive System"
- trait_v_complex_digestive_system_desc:0 "§LThe digestive system of this species is a masterwork of biochemistry. The complex digestive process is thanks to the advanced structure of the stomach and is aided by symbiotic microorganisms. Each calorie and each nutrient that can be gained from the food is gained.§!"
+ trait_v_complex_digestive_system_desc:0 "The digestive system of this species is a masterwork of biochemistry. The complex digestive process is thanks to the advanced structure of the stomach and is aided by symbiotic microorganisms. Each calorie and each nutrient that can be gained from the food is gained."
 
  trait_v_electrogenesis:0 "Electrogenesis"
- trait_v_electrogenesis_desc:0 "§LThis species developed a set of electric organs for defense and offense. Currently, they still use that ability for its intended purpose but also donating that power.§!"
+ trait_v_electrogenesis_desc:0 "This species developed a set of electric organs for defense and offense. Currently, they still use that ability for its intended purpose but also donating that power."
  TRAIT_ELECTROGENESIS_EFFECT:0 "Each pop working as a slave or better produces 0.5 £energy£ §YEnergy§! per month."
 
  trait_v_plague:0 "Plagued"
- trait_v_plague_desc:0 "§LThis species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors.§!"
- TRAIT_PLAGUE_EFFECT:0 "Habitability per Plagued Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§! \n§GThis species can't be infected by parasite pops.§!"
+ trait_v_plague_desc:0 "This species has developed a highly unorthodox way of defending themselves from predation. While other species might use aposematism, toxins and spikes, this species went for something different. That thing being pathogens. The immune system of this species has learned to "tolerate" and "control" all the pathogens inhabiting the body. Everything can be found ranging from bacteria, fungi and viruses, to parasites and transferable tumors."
+ TRAIT_PLAGUE_EFFECT:0 "Habitability per Plagued Pop: §G+1%§! \nEach pop working as a slave or better decreases the £mod_pop_environment_tolerance£ §YHabitability§! by: §R-1%§! \n§GThis species can't be infected by parasite pops."
 
  trait_v_urban_adaptation:0 "Urban Adaptation"
- trait_v_urban_adaptation_desc:0 "§LDespite not having evolved in a city, this species is excellently adapted to the urban environment.§!"
+ trait_v_urban_adaptation_desc:0 "Despite not having evolved in a city, this species is excellently adapted to the urban environment."
  TRAIT_URBAN_ADAPTATION_EFFECT:0 "On §YEcumenopolis§! Worlds: \nPop Housing Usage: §G-30%§! \nPop Consumer Goods Upkeep: §G-30%§! \nPop Amenities Usage: §G-30%§! \n\nOn non-§YEcumenopolis§! Worlds: \nPop Housing Usage per §YCity§! or §YIndustrial§! district: §G-2%§! \nPop Consumer Goods Upkeep per §YCity§! or §YIndustrial§! district: §G-2%§! \nPop Amenities Usage per §YCity§! or §YIndustrial§! district: §G-2%§! \nHabitability per §YCity§! or §YIndustrial§! district: §G+2.5%§!"
 
  trait_v_urbanobiont:0 "Urbanobiont"
- trait_v_urbanobiont_desc:0 "§LThis species is dependent on cities to thrive. Once out of those cities they tend to, not do that well.§!"
+ trait_v_urbanobiont_desc:0 "This species is dependent on cities to thrive. Once out of those cities they tend to, not do that well."
  TRAIT_URBANOBIONT_EFFECT:0 "Species Habitability Cap: §R-70%§! \nSpecies Minimum Habitability: §G+30%§! \nSpecies Habitability Cap per §YCity§! and §YIndustrial§! district: §G+5%§! \nSpecies Minimum Habitability per §YCity§! and §YIndustrial§! district: §G+5%§!"
 
  trait_v_behavioral_sink:0 "Behavioral Sink"
- trait_v_behavioral_sink_desc:0 "§LMembers of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse.§!"
+ trait_v_behavioral_sink_desc:0 "Members of this species are known to suffer from behavioral breakdown, when faced with a combination of population density and number of interactions with other individuals. Antisocial interactions dominate, causing reproduction to grind to a halt, and forcing many of its members into recluse or worse."
  TRAIT_BEHAVIORAL_SINK_EFFECT:0 "This species is incapable of growing its population past 2 times the £planetsize£ §YPlanet Size§! \nLeaders from planets that have reached the limit have a §R75%§! chance to start with the ['concept_v_leader_backstabbing'] Trait \nHappiness on reaching the limit: §R-25%§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
  TRAIT_BEHAVIORAL_SINK_EFFECT_OLD:0 "For each sentient pop above 1.5 £planetsize£ §YPlanet Size§!: \n£unity£ Unity from £job£ Jobs: §R-2%§! \nHappiness: §R-2%§! \nGoverning Ethics Attraction: §R-2%§! \nPop Growth Speed: §R-2%§!"
 
  trait_v_old_instincts:0 "Old Instincts"
- trait_v_old_instincts_desc:0 "§LWhile this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors.§!"
+ trait_v_old_instincts_desc:0 "While this species managed to develop a civilization, it is maladapted to it. Behaviors and instincts that might have helped in the wild, are now dragging this species down. While they may deny it, at the core they are still the same as their primitive ancestors."
 
  trait_v_toxoplasmosis:0 "Behavior Altering"
- trait_v_toxoplasmosis_desc:0 "§LThis species has a host to a parasite that can affect the behavior of its host's prey. While helpful in hunting, it also affects other species by increasing their happiness.§!"
+ trait_v_toxoplasmosis_desc:0 "This species has a host to a parasite that can affect the behavior of its host's prey. While helpful in hunting, it also affects other species by increasing their happiness."
  TRAIT_TOXOPLASMOSIS_EFFECT:0 "Happiness to non-Behavior Altering Pops (Not including Pops unaffected by Happiness and Machine Pops): §G+1%§!"
 
  trait_v_webbing:0 "Webbing"
- trait_v_webbing_desc:0 "§LThis species has developed silk-like webs that can be used in a variety of situations. They make an excellent hiding spot from the elements and whatever else the surrounding environment has to offer.§!"
+ trait_v_webbing_desc:0 "This species has developed silk-like webs that can be used in a variety of situations. They make an excellent hiding spot from the elements and whatever else the surrounding environment has to offer."
  TRAIT_WEBBING_EFFECT:0 "Habitability from £job_farmer£ §YFarmer§! Jobs: §G+2%§! \n£food£ Food from £job_farmer£ §YFarmers§! for every Naturally Occurring Blocker: §G+0.5§!"
 
  trait_v_engrams:0 "Biochemical Engrams"
- trait_v_engrams_desc:0 "§LThis species is able to store memories in their genetic code and other forms of biochemical information storage. Over the years, it has been common for the younger generations to consume their elders to gain access to those memories.§!"
+ trait_v_engrams_desc:0 "This species is able to store memories in their genetic code and other forms of biochemical information storage. Over the years, it has been common for the younger generations to consume their elders to gain access to those memories."
  TRAIT_ENGRAMS_EFFECT:0 "Each time a leader with Biochemical Engrams dies, other leaders with this trait and the same leader class gain §G10%§! of the total level of skill level experience of the dead leader, minus §Y10%§! of their own total skill level experience. Leaders with higher levels won't gain any experience from dead lower or equal levels of skill."
 
  trait_v_cecotrophy:0 "Cecotrophy"
- trait_v_cecotrophy_desc:0 "§LTo gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species.§!"
+ trait_v_cecotrophy_desc:0 "To gain as much out of the nutrients consumed, this species partakes in Cecotrophy. While beneficial to them, this behavior is considered disgusting by most other species."
  TRAIT_CECOTROPHY_EFFECT:0 "Happiness to non-cecotrophic pops (Not including Pops unaffected by Happiness and Machine Pops): §R-1%§!"
 
  trait_v_silken_birth:0 "Silken Birth"
- trait_v_silken_birth_desc:0 "§LThe byproduct of reproduction of this species is the creation of a silklike thread.§!"
+ trait_v_silken_birth_desc:0 "The byproduct of reproduction of this species is the creation of a silklike thread."
  TRAIT_SILK_EFFECT:0 "$mod_planet_livestock_consumer_goods_produces_add$: §G+1§! \n£consumer_goods£ $consumer_goods$ from £job_artisan£ Artisans when a pop of this species is Growing or is being Assembled: §G+0.5§!"
 
  trait_v_polyembryony:0 "Polyembryony"
- trait_v_polyembryony_desc:0 "§LThe reproductive process of this species can result in multiple embryos developing from a singular zygote.§!"
+ trait_v_polyembryony_desc:0 "The reproductive process of this species can result in multiple embryos developing from a singular zygote."
  TRAIT_POLYEMBRYONY_EFFECT:0 "Each time a pop grows or gets assembled, there is a §Y5%§! chance to gain between §Y1-3§! additional pops."
 
  trait_v_living_building:0 "Living Building Material"
- trait_v_living_building_desc:0 "§LThis species produces a material that can be used in construction. It is cheap and self repairing, making it perfect for infrastructure projects.§!"
+ trait_v_living_building_desc:0 "This species produces a material that can be used in construction. It is cheap and self repairing, making it perfect for infrastructure projects."
  TRAIT_LIVING_BUILDING_EFFECT:0 "Each pop working as a slave or better decreases the building and district cost and upkeep by: §G-1%§! \nEffects halved on §YEcumenopolis§! Worlds."
 
  trait_v_hills_have_eyes:0 "Hills Have Eyes"
- trait_v_hills_have_eyes_desc:0 "§LThis species is connected to its planet in a peculiar way, it is able to sense enemies that land on the planet, essentially always knowing where the enemy is.§!"
+ trait_v_hills_have_eyes_desc:0 "This species is connected to its planet in a peculiar way, it is able to sense enemies that land on the planet, essentially always knowing where the enemy is."
  TRAIT_HILLS_HAVE_EYES_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§!"
 
  trait_v_guardians:0 "Guardians"
- trait_v_guardians_desc:0 "§LCertain members of this species take the form of towering giants with the purpose of protecting their people.§!"
+ trait_v_guardians_desc:0 "Certain members of this species take the form of towering giants with the purpose of protecting their people."
  TRAIT_GUARDIANS_EFFECT:0 "§Y10%§! chance that a newly grown pop becomes a §YGrove Guard Army§!. \nThere can be only as many Grove Guard Armies as 1/4th the £planetsize£ §YPlanet Size§!."
 
  v_guardian_army:0 "Grove Guard"
@@ -253,64 +253,31 @@
  NAME_v_guardian:0 "Grove Guard"
 
  trait_v_explosive_birth:0 "Explosive Birth"
- trait_v_explosive_birth_desc:0 "§LBecause of a desire to spread its offspring as far as possible, this species does it through propelling their offspring with the use of explosive shrapnel-like seeds.§!"
+ trait_v_explosive_birth_desc:0 "Because of a desire to spread its offspring as far as possible, this species does it through propelling their offspring with the use of explosive shrapnel-like seeds."
  TRAIT_EXPLOSIVE_BIRTH_EFFECT:0 "§R10§! planetary devastation each time a pop of this species grows \n§R10%§! chance to kill random pop without the Explosive Birth trait each time a pop of this species grows."
 
  trait_v_intrauterine_cannibalism:0 "Intrauterine Cannibalism"
- trait_v_intrauterine_cannibalism_desc:0 "§LWhile many young may develop in the womb at the same time, only one will see the light of day.§!"
+ trait_v_intrauterine_cannibalism_desc:0 "While many young may develop in the womb at the same time, only one will see the light of day."
  TRAIT_INTRAUTERINE_CANNIBALISM_EFFECT:0 "$mod_commander_initial_skill$: §G+1§!"
 
  trait_v_thorns:0 "Thorns"
- trait_v_thorns_desc:0 "§LThis species developed thorns for defensive purposes. Unfortunately, these thorns also affect other species.§!"
+ trait_v_thorns_desc:0 "This species developed thorns for defensive purposes. Unfortunately, these thorns also affect other species."
  TRAIT_THORNS_EFFECT:0 "Pop Housing Usage to non-thorny Pops (Not including Robot and Machine Pops): §R+2%§!"
 
- trait_v_grafting:0 "Grafting"
- trait_v_grafting_desc:0 "§LThe physiology of this species allows for the grafting of parts belonging to other species without any major side effects.§!"
- TRAIT_PLANTOID_GRAFTING_EFFECT: "If this species shares the planet with another species that has a positive Plantoid or Lithoid trait, with a few exceptions, it will also gain its benefits."
- trait_hyphae_grafting:0 "Hyphae Network Graft"
- trait_vein_network_grafting:0 "Ore Vein Network Graft"
- trait_pseudocopulative_grafting:0 "Pseudocopulative Graft"
- trait_detritivore_grafting:0 "Detritivore Graft"
- trait_ecotypic_grafting:0 "Ecotypic Graft"
- trait_ecotypic_a_grafting:0 "Alpha Ecotypic Graft"
- trait_ecotypic_b_grafting:0 "Beta Ecotypic Graft"
- trait_parthenocarpy_grafting:0 "Parthenocarpy Graft"
- trait_silicon_brain_grafting:0 "Silicon Brain Graft"
- trait_radiotrophic_grafting:0 "Radiotrophic Graft"
- trait_kairomone_grafting:0 "Kairomone Graft"
- trait_prismatic_grafting:0 "Prismatic Graft"
- trait_mycorrhizal_grafting:0 "Mycorrhizal Graft"
- trait_blooming_grafting:0 "Blooming Graft"
- trait_phytoextraction_grafting:0 "Phytoextractive Graft"
-
  trait_v_ecosystem_engineer:0 "Ecosystem Engineer"
- trait_v_ecosystem_engineer_desc:0 "§LThis species dabbles in the process of ecosystem engineering. Because of this, they are capable of altering the environment by creating new living spaces for themselves.§!"
+ trait_v_ecosystem_engineer_desc:0 "This species dabbles in the process of ecosystem engineering. Because of this, they are capable of altering the environment by creating new living spaces for themselves."
  TRAIT_ECOSYSTEM_ENGINEER_EFFECT:0 "Gain 1 £district£ §YDistrict§! per 20 pops with Ecosystem Engineer on Non-Ecumenopolis and Non-Artificial Worlds."
 
  trait_v_musk:0 "Appeasement Displays"
- trait_v_musk_desc:0 "§LThis species uses scents and displays to show submission to member of their species that stand higher in their society.§!"
+ trait_v_musk_desc:0 "This species uses scents and displays to show submission to member of their species that stand higher in their society."
  TRAIT_MUSK_EFFECT:0 "Happiness: §R-10§! \nEach pop increases the Happiness of pops with Appeasement Displays in the strata located above them by: §G+1%§!"
 
  trait_v_modular_organism:0 "Modular Organism"
- trait_v_modular_organism_desc:0 "§LMembers of this species take the form of zooids. Colonies specialize in one of few functions to maximize the good of the whole species.§!"
+ trait_v_modular_organism_desc:0 "Members of this species take the form of zooids. Colonies specialize in one of few functions to maximize the good of the whole species."
  TRAIT_MODULAR_ORGANISM_EFFECT:0 "Each pop with Modular Organism working in a job producing a £energy£ £minerals£ £food£ §YBasic Resource§! increases the output of that resource by: §G+1%§!"
 
- trait_v_embryonic_diapause:0 "Delayed Implantation"
- trait_v_embryonic_diapause_desc:0 "§LThis species is capable of halting the development of a fetus while environmental conditions are difficult or via hormonal manipulation.§!"
- TRAIT_EMBRYONIC_DIAPAUSE_EFFECT:0 "Planets with this species can enact the Diapause decision. Upon enacting the Diapause decision, all pops with Delayed Implantation: \nPop Food Upkeep: §G-10%§! \nResources from £job£ §YJobs§!: §G+10%§! \n§RCan't reproduce naturally or assemble pops.§!"
-
- decision_v_000_diapause:0 "Diapause"
- decision_v_000_diapause_desc:0 "Through hormonal manipulation the growth of certain species can be halted."
-
- decision_v_000_diapause_remove:0 "End Diapause"
- decision_v_000_diapause_remove_desc:0 "Time to end the restrictions on growth."
-
- v_diapause_modifier:0 "Diapause"
- v_diapause_modifier_desc:0 "Through hormonal manipulation, the growth of certain species has been halted."
- v_diapause_modifier_tooltip:0 "Activates the effects of §HDelayed Implantation§!"
-
  trait_v_fungus_farmer:0 "Leaf Cutter"
- trait_v_fungus_farmer_desc:0 "§LThis species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi.§!"
+ trait_v_fungus_farmer_desc:0 "This species nearly instinctually fills any subterranean spaces with a substrate on which they grow edible fungi."
  TRAIT_FUNGUS_FARMER_EFFECT:0 "£job_miner£ §YMiners§! count as £job_farmer£ §YFarmers§!."
 
  trait_v_reed_cutter:0 "Reed Cutter"
@@ -318,116 +285,109 @@
  TRAIT_REED_CUTTER_EFFECT:0 "£food£ Food from £job_farmer£ Farmers on §YWet Worlds§!: §G+1§! \n£society£ Society Research from £job_farmer£ Farmers on §YWet Worlds§!: §G+0.25§! \n£food£ Food from £job_farmer£ Farmers on Non-§YWet Worlds§!: §R-2§!"
 
  trait_v_sensitive_chemoreceptors:0 "Sensitive Chemoreceptors"
- trait_v_sensitive_chemoreceptors_desc:0 "§LThe chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements.§!"
+ trait_v_sensitive_chemoreceptors_desc:0 "The chemoreceptors of this species are exceedingly sensitive. Capable of finding even trace signs of rare elements."
 
  trait_v_creature_of_paradise:0 "Creature Of Paradise"
- trait_v_creature_of_paradise_desc:0 "§LThis species is known for its natural beauty. Some may even say that they escaped from some sort of paradise.§!"
+ trait_v_creature_of_paradise_desc:0 "This species is known for its natural beauty. Some may even say that they escaped from some sort of paradise."
  TRAIT_CREATURE_OF_PARADISE_EFFECT:0 "Each pop working as a slave or better increases the £mod_planet_immigration_pull_add£ §YImmigration Pull§! by: §G+1§!"
 
  trait_v_courtship_displays:0 "Courtship Displays"
- trait_v_courtship_displays_desc:0 "§LThis species partakes in particularly entertaining courtship displays that are a wonder to witness.§!"
+ trait_v_courtship_displays_desc:0 "This species partakes in particularly entertaining courtship displays that are a wonder to witness."
  TRAIT_COURTSHIP_DISPLAYS_EFFECT:0 "Each pop working as a slave or better produces 0.25 £unity£ §YUnity§! and 0.25 £society£ §YSociety Research§! per month when a pop of this species is Growing. \nHappiness to pops without Courtship Displays when a pop of this species is Growing: §G+10%§! \n£mod_planet_immigration_pull_add£ §YImmigration Pull§! when a pop of this species is Growing: §G+25§!"
 
  trait_v_annoying_courtship_displays:0 "Annoying Courtship Displays"
- trait_v_annoying_courtship_displays_desc:0 "§LThis species partakes in particularly annoying courtship displays that are the cause of many sleepless nights.§!"
+ trait_v_annoying_courtship_displays_desc:0 "This species partakes in particularly annoying courtship displays that are the cause of many sleepless nights."
  TRAIT_ANNOYING_COURTSHIP_DISPLAYS_EFFECT:0 "Happiness to pops without Courtship Displays when a pop of this species is Growing: §R-10%§! \n£mod_planet_emigration_push_add£ §YEmigration Push§! when a pop of this species is Growing: §Y+25§!"
 
  trait_v_voice_box:0 "Voice Box"
- trait_v_voice_box_desc:0 "§LThis species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams.§!"
+ trait_v_voice_box_desc:0 "This species has a very developed sound-making organ. This organ can produce a wide variety of sounds, from beautiful songs to terrifying screams."
 
  trait_v_weaver:0 "Weavers"
- trait_v_weaver_desc:0 "§LThis species tends to use natural materials such as leaves to produce buildings and everyday items.§!"
+ trait_v_weaver_desc:0 "This species tends to use natural materials such as leaves to produce buildings and everyday items."
  TRAIT_WEAVER_EFFECT:0 "Non-Hivemind pops working £job_farmer£ §YFarmer§! jobs have 1 £food£ §YFood§! replaced with 1 £consumer_goods£ §Y$consumer_goods$§!. \nPops working £job_farmer£ §YFarmer§! jobs decrease building and district cost and upkeep by: §G-2%§! \nPop Housing Usage when working £job_farmer£ §YFarmer§! Jobs: §Y-1§! \n£job_farmer£ §YFarmers§! count as £job_artisan£ §YArtisans§!."
 
  trait_v_bioluminesce:0 "Bioluminesce"
- trait_v_bioluminesce_desc:0 "§LThis species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out.§!"
+ trait_v_bioluminesce_desc:0 "This species is capable of producing light on its own. Be it a form of bait or a part of display behavior, it is going to make this species stand out."
  TRAIT_BIOLUMINESCENCE_EFFECT:0 "Pop Growth Speed per Bioluminescent pop working an £job_entertainer£ §YEntertainer§! Job: §G+2%§! \n£food£ Food from £job_farmer£ §YFarmers§! for every Naturally Occurring Blocker: §G+0.5§! (With Webbing §G+0.25§! instead)"
 
  trait_v_rancher:0 "Ranchers"
- trait_v_rancher_desc:0 "§LThis species is more adapted to herding other species around instead of tending crops.§!"
+ trait_v_rancher_desc:0 "This species is more adapted to herding other species around instead of tending crops."
  TRAIT_RANCHER_EFFECT:0 " Pops working £job_farmer£ §YFarmer§! jobs provide 2 £job_v_ranch_livestock£ ['concept_v_ranch_livestock'] Jobs."
  
  #OLD_TRAIT_RANCHER_EFFECT:0 "Pops working £job_farmer£ §YFarmer§! jobs increase £job_livestock£ §YLivestock§! Resource Output by: §G+2.5%§!"
 
  trait_v_aggregation:0 "Aggregation"
- trait_v_aggregation_desc:0 "§LThis species tends to aggregate into large groups of individuals to save space and protect them from the elements.§!"
+ trait_v_aggregation_desc:0 "This species tends to aggregate into large groups of individuals to save space and protect them from the elements."
  TRAIT_AGGREGATION_EFFECT:0 "Pop Housing Usage per aggregative Pop: §G-1%§! (max: §G-75%§!)"
 
  trait_v_filter_feeder:0 "Filter Feeder"
- trait_v_filter_feeder_desc:0 "§LThis species is adapted to filter food particles from the water.§!"
+ trait_v_filter_feeder_desc:0 "This species is adapted to filter food particles from the water."
  TRAIT_FILTER_FEEDER_EFFECT:0 "Pop Food Upkeep per £planetsize£ §YPlanet Size§! on §YWet Worlds§!: §G-1%§!"
 
  trait_v_life_support:0 "Life Support"
- trait_v_life_support_desc:0 "§LThis species is generally weak and suffers from many ailments, therefore it needs to be constantly hooked up to a set of life support systems to function normally. This separation from their environment, however, grants them the ability to function in most environments without major problems.§!"
+ trait_v_life_support_desc:0 "This species is generally weak and suffers from many ailments, therefore it needs to be constantly hooked up to a set of life support systems to function normally. This separation from their environment, however, grants them the ability to function in most environments without major problems."
  TRAIT_LIFE_SUPPORT_EFFECT:0 "Species Minimum Habitability: §G+10%§! for each negative trait selected \nIncreases £energy£ §YEnergy Credits§! Upkeep by: §R+0.10§! for each negative trait selected"
 
  trait_v_pneumoconiosis:0 "Pneumoconiosis"
- trait_v_pneumoconiosis_desc:0 "§LThis species has a tendency to develop pneumoconiosis, which makes breathing more difficult.§!"
+ trait_v_pneumoconiosis_desc:0 "This species has a tendency to develop pneumoconiosis, which makes breathing more difficult."
 
  trait_v_polygynous:0 "Polygynous"
- trait_v_polygynous_desc:0 "§LThis species displays polygynous behavior. It is very common for high status individuals to have multiple mates.§!"
+ trait_v_polygynous_desc:0 "This species displays polygynous behavior. It is very common for high status individuals to have multiple mates."
  TRAIT_POLYGYNOUS_EFFECT:0 "Male Leaders start with the ['concept_v_leader_polygynous'] Trait \n£job_v_harem£ ['concept_v_harem'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nPop Growth Speed per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+4%§! \nRuler Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §G+2%§! \nWorker and Slave Happiness per Polygynous pop working a £job_v_harem£ §YHarem§! Job: §R-2%§!"
 
  trait_v_polyandrous:0 "Polyandrous"
- trait_v_polyandrous_desc:0 "§LThis species displays polyandrous behavior. It is very common for high status individuals to have multiple mates.§!"
+ trait_v_polyandrous_desc:0 "This species displays polyandrous behavior. It is very common for high status individuals to have multiple mates."
  TRAIT_POLYANDROUS_EFFECT:0 "$MOD_LEADER_INITIAL_SKILL$: §G+1§! \nFemale Leaders start with the ['concept_v_leader_polyandrous'] Trait \n£job_v_consort£ ['concept_v_consort'] Job for every £pop_cat_ruler£ Ruler Pop: §G+0.5§! \nRuler Happiness per Polyandrous pop working a £job_v_consort£ §YConsort§! Job: §G+2%§! \nWorker and Slave Happiness per Polyandrous pop working a £job_v_consort£ §YConsort§! Job: §R-2%§!"
 
  trait_v_magpie:0 "Magpies"
- trait_v_magpie_desc:0 "§LThis species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests.§!"
+ trait_v_magpie_desc:0 "This species is very fond of shiny things. It will go out of its way to incorporate those shiny things into their nests."
  TRAIT_MAGPIE_EFFECT:0 "Pop Growth Speed per Planet £trade_value£ §YTrade Value§!: §G+0.25%§! (max: §G+100%§!)"
 
  trait_v_stygiobiont:0 "Stygiobiont"
- trait_v_stygiobiont_desc:0 "§LThis species is perfectly adapted to live in flooded caves, having lost much of what was once their eyesight.§!"
+ trait_v_stygiobiont_desc:0 "This species is perfectly adapted to live in flooded caves, having lost much of what was once their eyesight."
  TRAIT_STYGIOBIONT_EFFECT:0 "Pop Housing Usage when working £job_miner£ §YMiner§! Jobs on §YOcean§! worlds: §Y-1§! \nEffect halved on other §YWet§! worlds."
 
  trait_v_ethylene:0 "Ethylenic"
- trait_v_ethylene_desc:0 "§LThis species releases ethylene, accelerating both the development of the surrounding flora and reducing their own lifespan.§!"
- TRAIT_ETHYLENE_EFFECT:0 "$MOD_LEADER_LIFESPAN_MULT$: §R-10%§! \nPop growth speed per Ethylenic pop to Ethylenic, §lFungoid§! and §lPlantoid§! species: §G+1%§!"
+ trait_v_ethylene_desc:0 "This species releases ethylene, accelerating both the development of the surrounding flora and reducing their own lifespan."
+ TRAIT_ETHYLENE_EFFECT:0 "$MOD_LEADER_LIFESPAN_MULT$: §R-10%§! \nPop growth speed per Ethylenic pop to Ethylenic, Fungoid§! and Plantoid§! species: §G+1%§!"
 
  trait_v_agro_botanic:0 "Agro-Botanic"
- trait_v_agro_botanic_desc:0 "§LThis species has a unique connection with agricultural production. Any technological advancements in agriculture also seem to be applicable to them.§!"
- TRAIT_AGRO_BOTANIC_EFFECT:0 "Empire and Planetary £food£ §YFood§! output modifiers count as Pop Growth Speed and Pop Assembly Speed Modifiers."
+ trait_v_agro_botanic_desc:0 "This species has a unique connection with agricultural production. Any technological advancements in agriculture also seem to be applicable to them."
+ TRAIT_AGRO_BOTANIC_EFFECT:0 "Multiplicative Empire and Planetary £food£ §YFood§! output modifiers count as Pop Growth Speed and Pop Assembly Speed Modifiers."
 
  #TRAIT_AGRO_BOTANIC_EFFECT:0 "Empire and Planetary £job_farmer£ §YFarmers§! £food£ §YFood§! output modifiers count as Pop Growth Speed and Pop Assembly Speed Modifiers."
 
  trait_v_tracheal_respiration:0 "Tracheal Respiration"
- trait_v_tracheal_respiration_desc:0 "§LThis species has tracheal tubes all across their bodies. A higher concentration of oxygen allows this species to reach larger sizes.§!"
+ trait_v_tracheal_respiration_desc:0 "This species has tracheal tubes all across their bodies. A higher concentration of oxygen allows this species to reach larger sizes."
 
  TRAIT_TRACHEAL_RESPIRATION_EFFECT:0 "For each for each level of £planetsize£ §YPlanet Size§! above 18: \nPop Food Upkeep: §G-2.5%§! \nResettlement Cost: §R+2.5%§! \nSpecialist Pop Resource Output: §R-2.5%§!  \nWorker Pop Resource Output: §G+2.5%§! \n\nFor each for each level of £planetsize£ §YPlanet Size§! below 18: \nPop Food Upkeep: §R+2.5%§! \nResettlement Cost: §G-2.5%§! \nSpecialist Pop Resource Output: §G+2.5%§!  \nWorker Pop Resource Output: §R-2.5%§!"
 
- trait_v_cryptobiosis:0 "Cryptobiosis"
- trait_v_cryptobiosis_desc:0 "This species is capable of entering a state of suspended animation when the environmental conditions aren't optimal."
- TRAIT_CRYPTOBIOSIS_EFFECT:0 "If the habitability for this species is below §Y80%§! instead of growing a pop it will instead create a §YCryptobiont§! Blocker."
- d_v_cryptobiont:0 "£blocker£ Cryptobiont"
- d_v_cryptobiont_desc:0 "Life in a state of suspended animation."
- d_v_cryptobiont_custom_tooltip:0 ""
-
  trait_v_negligible_senescence:0 "Negligible Senescence"
- trait_v_negligible_senescence_desc:0 "§LThis species retains much of their biological capabilities as they get older.§!"
+ trait_v_negligible_senescence_desc:0 "This species retains much of their biological capabilities as they get older."
  TRAIT_NEGLIGIBLE_SENESCENCE_EFFECT:0 "Pop Growth Speed for every Year of Lifespan added: §G+0.5%§!"
 
  trait_v_phytoextraction:0 "Phytoextraction"
- trait_v_phytoextraction_desc:0 "§LThis species is capable of extracting rare resources from the very soil.§!"
+ trait_v_phytoextraction_desc:0 "This species is capable of extracting rare resources from the very soil."
  TRAIT_PHYTOEXTRACTION_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers are applied to £job_farmer£ §YFarmers§! at §G50%§! of their strength, and £job_livestock£ §YLivestock§! at §G100%§! of their strength."
 
  trait_v_hysterical_strength:0 "Hysterical Strength"
- trait_v_hysterical_strength_desc:0 "§LThis species has a neuro-hormonal mechanism limiting their true strength, as their muscles could destroy their bodies.§!"
+ trait_v_hysterical_strength_desc:0 "This species has a neuro-hormonal mechanism limiting their true strength, as their muscles could destroy their bodies."
  TRAIT_HYSTERICAL_STRENGHT_EFFECT:0 "Worker Pop Resource Output During War and Crisis: §G+20%§! \nPop Consumer Goods Upkeep During War and Crisis: §R+20%§!"
 
  trait_v_pyriscence:0 "Pyriscence"
- trait_v_pyriscence_desc:0 "§LThis species requires the presence of fire to reproduce.§!"
+ trait_v_pyriscence_desc:0 "This species requires the presence of fire to reproduce."
  TRAIT_PYROPHYTE_EFFECT:0 "Pop Growth Speed per planetary devastation: §G+5%§! \nHabitability on §YDry§! Worlds: §G+20%§!"
 
  trait_v_polyextremophile:0 "Polyextremophile"
- trait_v_polyextremophile_desc:0 "§LThis species likes to exist in the presence of substances other species would have considered toxic.§!"
+ trait_v_polyextremophile_desc:0 "This species likes to exist in the presence of substances other species would have considered toxic."
  TRAIT_POLYEXTREMOPHILE_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers, count as £mod_pop_environment_tolerance£ §YHabitability§! modifiers."
 
  trait_v_complex_eyes:0 "Complex Eyes"
- trait_v_complex_eyes_desc:0 "§LThis species is gifted with the ability to see more, be that colors or details.§!"
+ trait_v_complex_eyes_desc:0 "This species is gifted with the ability to see more, be that colors or details."
  TRAIT_COMPLEX_EYES_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§!"
 
  trait_v_selective_caste:0 "Selective Caste"
- trait_v_selective_caste_desc:0 "§LMembers of this species are born in extreme numbers. The numbers are so extreme, there wouldn't be enough sustenance for them all. Due to this, this species has a specific caste of young, specifically destined to kill as many of their siblings as possible.§!"
+ trait_v_selective_caste_desc:0 "Members of this species are born in extreme numbers. The numbers are so extreme, there wouldn't be enough sustenance for them all. Due to this, this species has a specific caste of young, specifically destined to kill as many of their siblings as possible."
  TRAIT_SELECTIVE_CASTE_EFFECT:0 "When a pop of this species grows, there is a §R33%§! chance that between §Y2§! and §Y4§! hostile armies are spawned. If the hostile armies win, they will kill a random pop and disappear."
 
  v_selective_caste_army:0 "Fratricidal Siblings"
@@ -435,15 +395,15 @@
  NAME_v_guardian:0 "Fratricidal Siblings"
 
  trait_v_petrol_habitat:0 "Petrol Habitat"
- trait_v_petrol_habitat_desc:0 "§LThis species likes to inhabit environments that most other species would consider toxic.§!"
+ trait_v_petrol_habitat_desc:0 "This species likes to inhabit environments that most other species would consider toxic."
  TRAIT_PETROL_HABITAT_EFFECT:0 "£volatile_motes£ £exotic_gases£ £rare_crystals£ §YStrategic Resources§! from £job_miner£ §YMiners§! modifiers, count as Housing Usage modifiers."
 
  trait_v_ring_shaped_brain:0 "Ring-Shaped Brain"
- trait_v_ring_shaped_brain_desc:0 "§LThis species has a ring-shaped brain, through which their digestive system runs. Not being careful about eating might cause brain damage or death for them.§!"
- TRAIT_RING_SHAPED_BRAIN_EFFECT:0 "Monthly Death Chance: §R+1%§!"
+ trait_v_ring_shaped_brain_desc:0 "This species has a ring-shaped brain, through which their digestive system runs. Not being careful about eating might cause brain damage or death for them."
+ TRAIT_RING_SHAPED_BRAIN_EFFECT:0 "Yearly Death Chance: §R+1%§!"
 
  trait_v_destruent:0 "Destruent"
- trait_v_destruent_desc:0 "§LThis species thrives while other decay.§!"
+ trait_v_destruent_desc:0 "This species thrives while other decay."
  TRAIT_DESTRUENT_EFFECT:0 "Each time a pop grows or gets assembled while any pop is being purged, an additional pop is created."
 
  trait_v_dulotic:0 "Dulotic"
@@ -451,13 +411,22 @@
  TRAIT_DULOTIC_EFFECT:0 "£commander£ §YCommanders§! start with the ['concept_v_leader_commander_dulotic'] trait \n£official£ §YOfficials§! start with the ['concept_v_leader_official_dulotic'] trait"
 
  trait_v_truffle_hunter:0 "Truffle Hunters"
- trait_v_truffle_hunter_desc:0 "§LThis species is especially sensitive to rare gourmet ingredients.§!"
+ trait_v_truffle_hunter_desc:0 "This species is especially sensitive to rare gourmet ingredients."
  TRAIT_TRUFFLE_HUNTER_EFFECT:0 "£trade_value£ Trade Value from £job_farmer£ §YFarmers§!: §G+2§!"
 
+ trait_v_gemology:0 "Gemology"
+ trait_v_gemology_desc:0 "Due to this species' avaricious nature, it is extremely well acquainted with all sorts of minerals, always finding the most rare and valuable ones."
+ TRAIT_GEMOLOGY_EFFECT:0 "£trade_value£ Trade Value from £job_miner£ Miners: §G+2§!"
+ #TRAIT_GEMOLOGY_EFFECT:0 "£trade_value£ Trade Value from £job_miner£ Miners: §G+2§! \nMultiplicative £minerals£ §YMineral§! production modifiers count as £trade_value£ §YTrade Value§! modifiers."
+
+ trait_v_neoplasmic_biology:0 "Neoplasmic Biology"
+ trait_v_neoplasmic_biology_desc:0 "The celular and metabolic structure of this species resembles neoplasm."
+ TRAIT_NEOPLASMIC_BIOLOGY_EFFECT:0 "§Y2%§! yearly chance to get the ['concept_v_leader_immortalized'] trait or die."
+ 
  ###############################################################################################################################################################################################################
 
  trait_v_kleptoplasty:0 "Kleptoplasty"
- trait_v_kleptoplasty_desc:0 "§LThanks to chloroplasts taken from other organisms, this species is able to partially sustain itself on sunlight.§!"
+ trait_v_kleptoplasty_desc:0 "Thanks to chloroplasts taken from other organisms, this species is able to partially sustain itself on sunlight."
 
  trait_v_strobilation:0 "Strobilation"
- trait_v_strobilation_desc:0 "§LThis species has the ability to form polyps. These polyps start dividing just to turn into further individuals.§!"
+ trait_v_strobilation_desc:0 "This species has the ability to form polyps. These polyps start dividing just to turn into further individuals."
