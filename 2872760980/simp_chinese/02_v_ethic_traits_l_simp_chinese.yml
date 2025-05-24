@@ -1,184 +1,196 @@
 ﻿l_simp_chinese:
 
  trait_v_true_belivers:0 "飞升至上"
- trait_v_true_belivers_desc:0 "§L这个物种忠于自己的世界，它们越光荣，它们越敬业。§!"
+ trait_v_true_belivers_desc:0 "这个物种忠于自己的世界，它们越光荣，它们越敬业。"
  TRAIT_TRUE_BELIVERS_EFFECT:0 "每飞升阶级对政府思潮吸引力: §G+2.5%§! \n每飞升阶级对£job£岗位产出: §G+2.5%§! \n每飞升阶级对强制迁徙花费: §R+10%§!"
 
  trait_v_useful_idiots:0 "随波逐流"
- trait_v_useful_idiots_desc:0 "§L这个物种认为自己对宣传免疫，实际上并非如此。§!"
+ trait_v_useful_idiots_desc:0 "这个物种认为自己对宣传免疫，实际上并非如此。"
  TRAIT_USEFUL_IDIOTS_EFFECT:0 "每个宿敌对思潮转换机率: §G+5%§! \n每个宿敌对主流思潮吸引率: §R-5%§!"
 
  trait_v_dogmatic_mindset:0 "教条心态"
- trait_v_dogmatic_mindset_desc:0 "§L这个物种固守其意识形态，很难改变或接受新的行为方式。§!"
+ trait_v_dogmatic_mindset_desc:0 "这个物种固守其意识形态，很难改变或接受新的行为方式。"
 
  trait_v_organizational:0 "组织文化"
- trait_v_organizational_desc:0 "§L这个物种发展出了一种社会结构，能够预防这个物种的不良行为发生。§!"
+ trait_v_organizational_desc:0 "这个物种发展出了一种社会结构，能够预防这个物种的不良行为发生。"
  TRAIT_ORGANIZATIONAL_EFFECT:0 "威权主义人口不产生犯罪度"
 
  trait_v_parasocial:0 "寄生文化"
- trait_v_parasocial_desc:0 "§L这个物种对其统治者具有寄生的行为。§!"
+ trait_v_parasocial_desc:0 "这个物种对其统治者具有寄生的行为。"
  TRAIT_CULT_OF_PERSONALITY_EFFECT:0 "统治者每等级对威权主义人口思潮吸引力: §G+2%§! \n统治者每等级对幸福度: §G+2%§!"
 
  trait_v_lawful:0 "正直"
- trait_v_lawful_desc:0 "§L这个物种极难贿赂。§!"
+ trait_v_lawful_desc:0 "这个物种极难贿赂。"
  TRAIT_LAWFUL_EFFECT:0 "£job_enforcer£执法者犯罪度降低: §G+5§!"
 
  trait_v_forensic_specialty:0 "法医专业"
- trait_v_forensic_specialty_desc:0 "§L这个物种具有理解犯罪行为的能力。§!"
+ trait_v_forensic_specialty_desc:0 "这个物种具有理解犯罪行为的能力。"
  TRAIT_FORENSIC_SPECIALTY_EFFECT:0 "每星球犯罪度对威权主义人口思潮吸引力: §G+1%§! \n每星球犯罪度对£job_enforcer£执法者£society_research£社会学产出: §G+0.05§! \n每星球犯罪度对£job_researcher£研究人员£society_research£社会学产出: §G+1%§!"
 
  trait_v_hard_workers:0 "辛勤工作"
- trait_v_hard_workers_desc:0 "§L这个物种认真工作§!"
+ trait_v_hard_workers_desc:0 "这个物种认真工作"
  TRAIT_HARD_WORKERS_EFFECT:0 "劳工产出相关加成对专家产出加成: §G+50%§!"
 
  trait_v_masterful_rulers:0 "治理大师"
- trait_v_masterful_rulers_desc:0 "§L这个物种在治理领域都胜过其他物种。§!"
+ trait_v_masterful_rulers_desc:0 "这个物种在治理领域都胜过其他物种。"
  TRAIT_MASTERFUL_RULERS_EFFECT:0 "每飞升阶级对统治者产出: §G+10%§! \n$MOD_LEADER_INITIAL_SKILL$: §G+1§!"
 
  trait_v_competetive:0 "爱好竞争"
- trait_v_competetive_desc:0 "§L这个物种天性喜欢竞争。§!"
+ trait_v_competetive_desc:0 "这个物种天性喜欢竞争。"
  TRAIT_COMPETETIVE_EFFECT:0 "平等主义者£job£岗位产出: §G+5%§!"
 
  trait_v_autolatry:0 "自我崇拜"
- trait_v_autolatry_desc:0 "§L这个物种认为宇宙绕着它们转，他们极端的自我中心主义与自我崇拜接壤。§!"
+ trait_v_autolatry_desc:0 "这个物种认为宇宙绕着它们转，他们极端的自我中心主义与自我崇拜接壤。"
  TRAIT_AUTOLATRY_EFFECT:0 "每个做为奴隶或更高工作标准的平等主义者人口產生 1 £trade_value£ §Y犯罪集团分部贸易额§!. \n 犯罪集团分部£job_criminal£§Y罪犯§!贸易额产出: §G+7.5§! \n£job_criminal£§Y罪犯§!贸易额产出: §R-5§! \n£job_criminal£ §Y罪犯§!犯罪度产出: §R+5§!"
 
  trait_v_socially_flexible:0 "阶层弹性"
- trait_v_socially_flexible_desc:0 "§L这个物种能夠迅速适应社会阶层的变化。§!"
+ trait_v_socially_flexible_desc:0 "这个物种能夠迅速适应社会阶层的变化。"
 
  trait_v_smart_workers:0 "高效工作"
- trait_v_smart_workers_desc:0 "§L这个物种有效率的工作。§!"
+ trait_v_smart_workers_desc:0 "这个物种有效率的工作。"
  TRAIT_SMART_WORKERS_EFFECT:0 "专家产出相关加成对劳工产出加成: §G+50%§!"
 
  trait_v_arrogance:0 "傲慢"
- trait_v_arrogance_desc:0 "§L这个物种将自己视为宇宙的最终主宰，他们可以用任何理由贯彻这种信念，将自己提升到他人之上。§!"
+ trait_v_arrogance_desc:0 "这个物种将自己视为宇宙的最终主宰，他们可以用任何理由贯彻这种信念，将自己提升到他人之上。"
  TRAIT_ARROGANCE_EFFECT:0 "每个正向特质排外主义思潮吸引力: §G+5%§! \n每个正向特质幸福度: §G+2.5%§! \n每个正向特质£job£对岗位产出: §G+1.25%§!"
 
  trait_v_ecological_cynicism:0 "外星人警戒"
- trait_v_ecological_cynicism_desc:0 "§L这个物种对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。§!"
+ trait_v_ecological_cynicism_desc:0 "这个物种对其他物种非常谨慎，任何相关事物都会使困扰和焦虑。"
  TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "有§Y相同物种§!共存时排外主义思潮吸引力: §G+10%§! \n有§Y相同物种§!共存时幸福度: §R-10%§! \n有§Y不同物种§!共存时效果加倍"
 
  trait_v_biophobia:0 "自然恐惧"
- trait_v_biophobia_desc:0 "§L这个物种对大自然感到畏惧。用火杀死生物对于这个物种是标准程序。§!"
+ trait_v_biophobia_desc:0 "这个物种对大自然感到畏惧。用火杀死生物对于这个物种是标准程序。"
  TRAIT_BIOPHOBIA_EFFECT:0 "每个天然障碍排外主义思潮吸引力: §G+5%§! \n每个天然障碍幸福度: §R-2.5%§!"
 
  trait_v_supremacy_complex:0 "霸权情结"
- trait_v_supremacy_complex_desc:0 "§L这个物种认为自然世界的存在是为了证明其优越性。§!"
+ trait_v_supremacy_complex_desc:0 "这个物种认为自然世界的存在是为了证明其优越性。"
  TRAIT_SUPREMACY_COMPLEX_EFFECT:0 "£society£§Y社会学§!职位产出加成可套用于£unity£§Y凝聚力§!。"
 
  trait_v_homely:0 "平凡"
- trait_v_homely_desc:0 "§L这个物种不是所有物种中最有用的，它有很多问题使他们的生活变得困难。但由于某种原因，其他物种觉得它们迷人。§!"
+ trait_v_homely_desc:0 "这个物种不是所有物种中最有用的，它有很多问题使他们的生活变得困难。但由于某种原因，其他物种觉得它们迷人。"
  TRAIT_HOMELY_EFFECT:0 "每个做为奴隶或更高工作标准的人口亲外主义思潮吸引力: §G+1%§! \n 每个正向特质岗位£amenities£舒适度产出: §G+7.5%§!"
 
  trait_v_ecological_naivete:0 "外星人天真"
- trait_v_ecological_naivete_desc:0 "§L这个物种没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。§!"
+ trait_v_ecological_naivete_desc:0 "这个物种没有其他物种对它们构成危险的概念，如果有其他物种的话，他们会好奇地接近它。"
  TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "有§Y相同物种§!共存时亲外主义思潮吸引力: §G+5%§! \n有§Y相同物种§!共存时幸福度: §G+5%§! \n有§Y不同物种§!共存时效果加倍"
 
  trait_v_biophilia:0 "自然爱好"
- trait_v_biophilia_desc:0 "§L这个物种被自然之美吸引。§!"
+ trait_v_biophilia_desc:0 "这个物种被自然之美吸引。"
  TRAIT_BIOPHILIA_EFFECT:0 "每个天然障碍£society_research£社会学产出: §G+2.5%§! \n每个天然障碍亲外主义思潮吸引力: §G+5%§! \n每个天然障碍幸福度: §G+2.5%§!"
 
  trait_v_born_sociologists:0 "天生社会学家"
- trait_v_born_sociologists_desc:0 "§L这个物种能够注意到其他物种在文化和社会上容易错过的行为。§!"
+ trait_v_born_sociologists_desc:0 "这个物种能够注意到其他物种在文化和社会上容易错过的行为。"
  TRAIT_BORN_SOCIOLOGISTS_EFFECT:0 "£unity£§Y凝聚力§!职位产出加成可套用于£society£§Y社会学§!。"
 
  trait_v_belligerent:0 "好战"
- trait_v_belligerent_desc:0 "§L战争是这个物种的生活日常，他们会在战争期间各司其职。§!"
+ trait_v_belligerent_desc:0 "战争是这个物种的生活日常，他们会在战争期间各司其职。"
  TRAIT_PATRIOT_EFFECT:0 "在战争和危机期间£unity£凝聚力产出: §G+25%§!"
 
  trait_v_war_ingenuity:0 "战时创意"
- trait_v_war_ingenuity_desc:0 "§L这个物种在战时变得非常有创造力。§!"
+ trait_v_war_ingenuity_desc:0 "这个物种在战时变得非常有创造力。"
  TRAIT_WAR_INGENUITY_EFFECT:0 "在战争和危机期间£job_researcher£研究人员£physics_research£物理学产出: §G+1§! \n在战争和危机期间£job_researcher£研究人员£society_research£社会学产出: §G+1§! \n在战争和危机期间£job_researcher£研究人员£engineering_research£工程学产出: §G+1§!"
 
  trait_v_militaristic_mindset:0 "军事专精"
- trait_v_militaristic_mindset_desc:0 "§L这个物种在军事方面上有高度造诣。§!"
+ trait_v_militaristic_mindset_desc:0 "这个物种在军事方面上有高度造诣。"
  TRAIT_MILITARISTIC_MINDSET_EFFECT:0 "$mod_commander_initial_skill$: §G+1§!"
 
  trait_v_rage_prone:0 "暴怒"
- trait_v_rage_prone_desc:0 "§L这个物种经常表现出攻击性行为。§!"
- TRAIT_RAGE_PRONE_EFFECT:0 "每月 $commander_with_icon$ 死亡机率: §R+1%§!"
+ trait_v_rage_prone_desc:0 "这个物种经常表现出攻击性行为。"
+ TRAIT_RAGE_PRONE_EFFECT:0 "每年 $commander_with_icon$ 死亡机率: §R+1%§!"
 
  trait_v_cowardly:0 "胆小"
- trait_v_cowardly_desc:0 "§L這個物種不在乎保家衛國，发生战争时他们宁愿打包离开国家。§!"
+ trait_v_cowardly_desc:0 "这个物种不在乎保家卫国，发生战争时他们宁愿打包离开国家。"
  TRAIT_COWARD_EFFECT:0 "在战争和危机期间£unity£凝聚力产出: §R-25%§! \n在战争和危机期间强制迁徙花费: §G-50%§!"
 
  trait_v_tight_knit:0 "紧密结合"
- trait_v_tight_knit_desc:0 "§L这个物种比其他物种更有组织性。§!"
+ trait_v_tight_knit_desc:0 "这个物种比其他物种更有组织性。"
  TRAIT_TIGHT_KNIT_EFFECT:0 "非战争及危机期间帝国规模: §G-25%§!"
 
  trait_v_administrative_mindset:0 "管理专精"
- trait_v_administrative_mindset_desc:0 "§L这个物种在行政方面上有高度造诣。§!"
+ trait_v_administrative_mindset_desc:0 "这个物种在行政方面上有高度造诣。"
  TRAIT_ADMINISTRATIVE_MINDSET_EFFECT:0 "$mod_official_initial_skill$: §G+1§!"
 
  trait_v_ascetic:0 "苦行者"
- trait_v_ascetic_desc:0 "§L该物种远离享乐主义。他们倾向于避免任何可以认为是不必要的东西。§!"
+ trait_v_ascetic_desc:0 "这个物种远离享乐主义。他们倾向于避免任何可以认为是不必要的东西。"
 
  trait_v_scholastic:0 "学教合一"
- trait_v_scholastic_desc:0 "§L对于这个物种，信仰与科学之间没有区别。实际上，他们认为这两件事是相同的。§!"
- TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£§Y祭司§!视为£job_researcher£§Y研究人员§!"
+ trait_v_scholastic_desc:0 "对于这个物种，信仰与科学之间没有区别。实际上，他们认为这两件事是相同的。"
+ TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£§Y祭司§!视为£job_researcher£§Y研究人员§!"
+
+ trait_v_monastic_warriors:0 "圣战士"
+ trait_v_monastic_warriors_desc:0 "对这个物种而言，战争与灵性密不可分。"
+ TRAIT_MONASTIC_WARRIORS_EFFECT:0 "£job_priest£ §Y祭司§!对星球占领军数量: §G+1§! \n£job_priest£ §Y祭司§! 视为 £job_soldier£ §Y士兵§!."
+
+ trait_v_monastic_hospitality:0 "慷慨好客"
+ trait_v_monastic_hospitality_desc:0 "为不幸者提供款待的需求深植于这个物种的本能之中"
+ TRAIT_MONASTIC_HOSPITALITY_EFFECT:0 "£job_priest£ §Y祭司§! £amenities£ 舒适度产出: §G+2§! \n £job_priest£ §Y祭司§!对人口生长 : §G+2%§! \n £job_priest£ §Y祭司§!对有机人口组装: §G+2%§! \n £job_priest£ §Y祭司§!对移居性: §G+1%§! \n £job_priest£ §Y祭司§!消费品维护费: §R+1§! \n £job_priest£ §Y祭司§! 视为 £job_healthcare£ §Y医务工作者§!."
+
+ trait_v_lavran_monasticism:0 "地下礼拜"
+ trait_v_lavran_monasticism_desc:0 "这个物种视地底深处为最理想的礼拜场所。"
+ TRAIT_LAVRAN_MONASTICISM_EFFECT:0 "每个£job_miner£§Y矿工§!崗位对£job_priest£§Y祭司§!崗位: §G+0.25§! \n從事£job_priest£ §Y祭司§!崗位时人口住房使用: §Y-1§!"
 
  trait_v_proselytizing:0 "传教"
- trait_v_proselytizing_desc:0 "§L宗教对这个物种不仅仅是个人事物。对他们而言信教是本能驱使的，并深深植根于他们的伦理学。§!"
+ trait_v_proselytizing_desc:0 "宗教对这个物种不仅仅是个人事物。对他们而言信教是本能驱使的，并深深植根于他们的伦理学。"
  TRAIT_PROSELYTIZING_EFFECT:0 "每个做为奴隶或更高工作标准的唯心主义人口唯心主义思潮吸引力: §G+1%§! \n每个做为奴隶或更高工作标准的唯心主义人口每月产生 0.5 £unity£§Y凝聚力§!"
 
  trait_v_intelligent_design_spiritualist:0 "灵性设计"
- trait_v_intelligent_design_spiritualist_desc:0 "§L这个物种在其生理中具有灵性的图样及印记。§!"
+ trait_v_intelligent_design_spiritualist_desc:0 "这个物种在其生理中具有灵性的图样及印记。"
  TRAIT_ID_SPIRITUALIST_EFFECT:0 "每个正面特质对唯心主义思潮吸引力: §G+5%§! \n每个正面特质对人口消费品维护费: §G-2%§!"
 
  trait_v_astrology:0 "占星学"
- trait_v_astrology_desc:0 "§L这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。§!"
- TRAIT_ASTROLOGY_EFFECT:0 "星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对幸福度: §G+1%§! \n星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对唯心主义思潮吸引力: §G+2%§! \n£job_priest£ £job_death_priest£ §Y祭司§!视为£job_entertainer£§Y演艺人员§!"
+ trait_v_astrology_desc:0 "这个物种追踪星星、行星和月亮的运动，试图从它们那里理解现实的本质。"
+ TRAIT_ASTROLOGY_EFFECT:0 "星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对幸福度: §G+1%§! \n星系内每个§Y恆星§!，§Y行星§!及§Y卫星§!对唯心主义思潮吸引力: §G+2%§! \n£job_priest£ §Y祭司§!视为£job_entertainer£§Y演艺人员§!"
 
  trait_v_druidic:0 "德鲁伊"
- trait_v_druidic_desc:0 "§L这个物种视自然为众神。§!"
- TRAIT_DRUIDS_EFFECT:0 "每个天然障碍对£job_priest£ £job_death_priest£祭司产出: §G+5%§! \n每个天然障碍唯心主义思潮吸引力: §G+5%§!"
+ trait_v_druidic_desc:0 "这个物种视自然为众神。"
+ TRAIT_DRUIDS_EFFECT:0 "每个天然障碍对£job_priest£ 祭司产出: §G+5%§! \n每个天然障碍唯心主义思潮吸引力: §G+5%§!"
 
  trait_v_machine_priests:0 "机械景仰"
- trait_v_machine_priests_desc:0 "§L这个物种厌恶肉体的脆弱。他们渴望躯体坚硬如钢，渴望心灵如机器的纯洁。§!"
- TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ §Y祭司§!視為£job_foundry£§Y冶金师§!及£job_artisan£§Y工匠§!。 \n每个§H工业区划§!唯心主义思潮吸引力: §G+2%§!"
+ trait_v_machine_priests_desc:0 "这个物种厌恶肉体的脆弱。他们渴望躯体坚硬如钢，渴望心灵如机器的纯洁。"
+ TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ §Y祭司§!視為£job_foundry£§Y冶金师§!及£job_artisan£§Y工匠§!。 \n每个§H工业区划§!唯心主义思潮吸引力: §G+2%§!"
 
  trait_v_sybaritic:0 "奢侈"
- trait_v_sybaritic_desc:0 "§L这个物种喜欢奢侈品。享乐主义和浪费时间不必要的消费是该物种的标志。§!"
+ trait_v_sybaritic_desc:0 "这个物种喜欢奢侈品。享乐主义和浪费时间不必要的消费是该物种的标志。"
 
  trait_v_materialistic:0 "物质主义"
- trait_v_materialistic_desc:0 "§L这个物种的人生目标便是获得尽可能多的物质财富。§!"
+ trait_v_materialistic_desc:0 "这个物种的人生目标便是获得尽可能多的物质财富。"
  TRAIT_MATERIALISTIC_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口唯物主义思潮吸引力: §G+1%§! \n每个做为奴隶或更高工作标准的唯物主义人口產生 1 £trade_value£ §Y贸易额§!。 \n唯物主义人口消费品维护费: §R+10%§! \n唯物主义人口住房使用: §R+10%§!"
 
  trait_v_intelligent_design_materialist:0 "物质性设计"
- trait_v_intelligent_design_materialist_desc:0 "§L这个物种在其生理中看不到任何灵性，只看到层出不穷的缺陷。§!"
+ trait_v_intelligent_design_materialist_desc:0 "这个物种在其生理中看不到任何灵性，只看到层出不穷的缺陷。"
  TRAIT_ID_MATERIALIST_EFFECT:0 "每个负面特质对唯物主义思潮吸引力: §G+5%§! \n每个負面特质对人口消费品维护费: §R+2%§!"
 
  trait_v_irresponsible:0 "不负责任"
- trait_v_irresponsible_desc:0 "§L对这个物种来说，健康和安全是次要的考虑。§!"
+ trait_v_irresponsible_desc:0 "对这个物种来说，健康和安全是次要的考虑。"
  TRAIT_IRRESPONSIBLE_EFFECT:0 "每月 $scientist_with_icon$ 死亡机率: §R+1%§!"
 
  trait_v_algorithmic_mind:0 "算法思维"
- trait_v_algorithmic_mind_desc:0 "§L这个物种以分析的角度看待世界。§!"
+ trait_v_algorithmic_mind_desc:0 "这个物种以分析的角度看待世界。"
  TRAIT_ALGORITHMIC_MIND_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.5 £physics_research£§Y物理学§! \n£job_researcher£§Y研究人员§!视为£job_technician£§Y技工§!"
 
  trait_v_fleshcrafter:0 "躯体工匠"
- trait_v_fleshcrafter_desc:0 "§L这个物种认为有机与其他生物系统没有太大区别。它们像操纵钟表一样调整肉体和基因。§!"
+ trait_v_fleshcrafter_desc:0 "这个物种认为有机与其他生物系统没有太大区别。它们像操纵钟表一样调整肉体和基因。"
  TRAIT_FLESHCRAFTER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.5 £society_research£ §Y社會學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £mod_pop_growth_speed£ §Y每月有机人口组装§!"
 
  trait_v_tinkerer:0 "机械工匠"
- trait_v_tinkerer_desc:0 "§L这个物种对机械系统相当着迷，他们平时喜欢跟机械打交道。§!"
+ trait_v_tinkerer_desc:0 "这个物种对机械系统相当着迷，他们平时喜欢跟机械打交道。"
  TRAIT_TINKERER_EFFECT:0 "每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.5 £engineering_research£ §Y工程學§! \n每个做为奴隶或更高工作标准的唯物主义人口每月产生 0.01 £job_roboticist£ §Y每月机械人口组装§!"
 
  trait_v_alchemists:0 "化学家"
- trait_v_alchemists_desc:0 "§L这个物种对化学的本质感兴趣，无论是为了揭示更高的真理，还是只是为了理解现实。§!"
+ trait_v_alchemists_desc:0 "这个物种对化学的本质感兴趣，无论是为了揭示更高的真理，还是只是为了理解现实。"
  TRAIT_ALCHEMISTS_EFFECT:0 "£job_researcher£§Y研究人员§!视为£job_chemist£§Y化学家§!，£job_translucer£§Y转化师§!，及£job_gas_refiner£ §Y气体精炼工§!"
 
  trait_v_scholarly_mindset:0 "学术专精"
- trait_v_scholarly_mindset_desc:0 "§L这个物种在学术方面上有高度造诣。§!"
+ trait_v_scholarly_mindset_desc:0 "这个物种在学术方面上有高度造诣。"
  TRAIT_SCHOLARLY_MINDSET_EFFECT:0 "$mod_scientist_initial_skill$: §G+1§!"
  ################################################################################################################################
 
  trait_v_hive_microclimate:0 "蜂巢气候"
- trait_v_hive_microclimate_desc:0 "§L通过人工建造的蜂巢气候，这个物种能够在其他人认为无法居住的环境中生存。§!"
+ trait_v_hive_microclimate_desc:0 "通过人工建造的蜂巢气候，这个物种能够在其他人认为无法居住的环境中生存。"
  TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "每个区划宜居性: §G+1%§!"
 
  trait_v_hive_epigenetic_castes:0 "遗传学种性"
- trait_v_hive_epigenetic_castes_desc:0 "§L这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。§!"
+ trait_v_hive_epigenetic_castes_desc:0 "这个物种分成多种特殊种性。这些种姓是通过表观遗传来创建的，为他们的部队提供专业分工。"
  TRAIT_EPIGENETIC_CASTES_EFFECT:0 "这个物种可以招募§Y门卫§!，§Y自杀§!，§Y恐惧§!及§Y分裂者§!部队。"
 
  v_door_drone_army:0 "门卫部队"
@@ -197,15 +209,11 @@
  v_split_drone_army_desc:0 "这个部队由分裂者部队分裂而来。"
 
  trait_v_hive_worker_dependency:0 "子个体依赖"
- trait_v_hive_worker_dependency_desc:0 "§L这个物种的上层阶级仰赖于他们的基础子个体，他们将它们用于进一步的专业化。§!"
+ trait_v_hive_worker_dependency_desc:0 "这个物种的上层阶级仰赖于他们的基础子个体，他们将它们用于进一步的专业化。"
  TRAIT_HIVE_WORKER_DEPENDENCY_EFFECT:0 "每个具§H子个体依赖§!特质的£job_maintenance_drone£§Y维护子个体§!对复合子个体产出: §G+0.5%§! \n每个£job_maintenance_drone£§Y维护子个体§!对建筑及区划建造速度: §G+2%§!"
 
- trait_v_hive_bivouac:0 "露营"
- trait_v_hive_bivouac_desc:0 "§L这个物种的蜂巢由许多材料制成，包括居住在里面的物种。§!"
- TRAIT_HIVE_BIVOUAC_EFFECT:0 "每个天然障碍对人口住房使用: §G-5%§!"
-
  trait_v_hive_foragial_limbs:0 "搜索肢"
- trait_v_hive_foragial_limbs_desc:0 "§L这个物种发展出专门收集食物的肢体。§!"
+ trait_v_hive_foragial_limbs_desc:0 "这个物种发展出专门收集食物的肢体。"
 
  trait_v_hive_foragial_limbs_l:0 "搜索肢"
- trait_v_hive_foragial_limbs_l_desc:0 "§L这个物种发展出专门收集矿物的肢体。§!"
+ trait_v_hive_foragial_limbs_l_desc:0 "这个物种发展出专门收集矿物的肢体。"

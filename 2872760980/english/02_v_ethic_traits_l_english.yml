@@ -1,211 +1,219 @@
 ﻿l_english:
 
  trait_v_true_belivers:0 "True Belivers"
- trait_v_true_belivers_desc:0 "§LThis species is loyal to their worlds and the more glorious they are, the more dedicated they are.§!"
+ trait_v_true_belivers_desc:0 "This species is loyal to their worlds and the more glorious they are, the more dedicated they are."
  TRAIT_TRUE_BELIVERS_EFFECT:0 "Government Ethics Attraction per Ascention Tier: §G+2.5%§! \nResources from £job£ Jobs per Ascention Tier: §G+2.5%§! \nResettlement Cost per Ascention Tier: §R+10%§!"
 
  trait_v_useful_idiots:0 "Useful Idiots"
- trait_v_useful_idiots_desc:0 "§LMembers of this species like to think that they are immune to propaganda.§!"
+ trait_v_useful_idiots_desc:0 "Members of this species like to think that they are immune to propaganda."
  TRAIT_USEFUL_IDIOTS_EFFECT:0 "Ethics Shift Chance per Rival: §G+5%§! \nGoverning Ethics Attraction per Rival: §R-5%§!"
 
  trait_v_dogmatic_mindset:0 "Dogmatic Mindset"
- trait_v_dogmatic_mindset_desc:0 "§LThis species is stuck up in its ideological ways. It is very difficult for them to change their ways or accept a new paradigm.§!"
+ trait_v_dogmatic_mindset_desc:0 "This species is stuck up in its ideological ways. It is very difficult for them to change their ways or accept a new paradigm."
 
  trait_v_organizational:0 "Organizational Culture"
- trait_v_organizational_desc:0 "§LThis species developed a societal structure that exists to prevent undesirable behavior that could potentially harm the group.§!"
+ trait_v_organizational_desc:0 "This species developed a societal structure that exists to prevent undesirable behavior that could potentially harm the group."
  TRAIT_ORGANIZATIONAL_EFFECT:0 "Authoritarian pops generate no Crime."
 
  trait_v_parasocial:0 "Parasocial"
- trait_v_parasocial_desc:0 "§LThis species has a form of parasocial attachment towards their ruler.§!"
+ trait_v_parasocial_desc:0 "This species has a form of parasocial attachment towards their ruler."
  TRAIT_CULT_OF_PERSONALITY_EFFECT:0 "Authoritarian Ethics Attraction per Ruler skill Level: §G+2%§! \nHappiness per Ruler skill Level: §G+2%§!"
 
  trait_v_lawful:0 "Lawful"
- trait_v_lawful_desc:0 "§LThis species is extremely difficult to bribe.§!"
+ trait_v_lawful_desc:0 "This species is extremely difficult to bribe."
  TRAIT_LAWFUL_EFFECT:0 "£job_enforcer£ Enforcer Crime Reduction: §G+5§!"
 
  trait_v_forensic_specialty:0 "Forensic Specialty"
- trait_v_forensic_specialty_desc:0 "§LThis species has a great capability for understanding criminal behavior.§!"
+ trait_v_forensic_specialty_desc:0 "This species has a great capability for understanding criminal behavior."
  TRAIT_FORENSIC_SPECIALTY_EFFECT:0 "Authoritarian Ethics Attraction per planetary Crime: §G+1%§! \n£society_research£ Society Research from £job_enforcer£ Enforcers per planetary Crime: §G+0.05§! \n£society_research£ Society Research from £job_researcher£ Researchers per planetary Crime: §G+1%§!"
 
  trait_v_hard_workers:0 "Hard Workers"
- trait_v_hard_workers_desc:0 "§LThis species works hard.§!"
+ trait_v_hard_workers_desc:0 "This species works hard."
  TRAIT_HARD_WORKERS_EFFECT:0 "Specialist Pop Resource Output from Worker Pop Resource Output modifiers: §G+50%§!"
 
  trait_v_masterful_rulers:0 "Masterful Rulers"
- trait_v_masterful_rulers_desc:0 "§LThis species has a ruler class that outperforms in the realm of governance.§!"
+ trait_v_masterful_rulers_desc:0 "This species has a ruler class that outperforms in the realm of governance."
  TRAIT_MASTERFUL_RULERS_EFFECT:0 "Ruler Pop Resource Output per per Ascention Tier: §G+10%§! \n$MOD_LEADER_INITIAL_SKILL$: §G+1§!"
 
  trait_v_competetive:0 "Competetive"
- trait_v_competetive_desc:0 "§LThis species has a very competetive nature.§!"
+ trait_v_competetive_desc:0 "This species has a very competetive nature."
  TRAIT_COMPETETIVE_EFFECT:0 "Resources from £job£ Jobs worked by egalitarian pops: §G+5%§!"
 
  trait_v_autolatry:0 "Autolatry"
- trait_v_autolatry_desc:0 "§LFor this species, the universe revolves around them. Their extreme egocentrism borders on the worship of the self.§!"
+ trait_v_autolatry_desc:0 "For this species, the universe revolves around them. Their extreme egocentrism borders on the worship of the self."
  TRAIT_AUTOLATRY_EFFECT:0 "Each Egalitarian pop working as a slave or better produces 1 £trade_value£ §YCriminal Branch Office Trade Value§!. \nCriminal Branch Office Trade Value from £job_criminal£ §YCriminals§!: §G+7.5§! \nTrade Value from £job_criminal£ §YCriminals§!: §R-5§! \nCrime Increase From £job_criminal£ §YCriminals§!: §R+5§!"
 
  trait_v_socially_flexible:0 "Social Flexibility"
- trait_v_socially_flexible_desc:0 "§LThis species quickly adapts to changes in social strata.§!"
+ trait_v_socially_flexible_desc:0 "This species quickly adapts to changes in social strata."
 
  trait_v_smart_workers:0 "Smart Workers"
- trait_v_smart_workers_desc:0 "§LThis species works smart.§!"
+ trait_v_smart_workers_desc:0 "This species works smart."
  TRAIT_SMART_WORKERS_EFFECT:0 "Worker Pop Resource Output from Specialist Pop Resource Output modifiers: §G+50%§!"
 
  trait_v_arrogance:0 "Arrogant"
- trait_v_arrogance_desc:0 "§LThis species sees itself as the be-all and end-all of the universe. Any reason they can use to elevate themselves above others is used to enforce that conviction.§!"
+ trait_v_arrogance_desc:0 "This species sees itself as the be-all and end-all of the universe. Any reason they can use to elevate themselves above others is used to enforce that conviction."
  TRAIT_ARROGANCE_EFFECT:0 "Xenophobe Ethics Attraction for each positive trait selected: §G+5%§! \nHappiness for each positive trait selected: §G+2.5%§!  \nResources from £job£ Jobs for each positive trait selected: §G+1.25%§!"
 
  trait_v_ecological_cynicism:0 "Ecological Cynicism"
- trait_v_ecological_cynicism_desc:0 "§LThis species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia.§!"
+ trait_v_ecological_cynicism_desc:0 "This species is extremely cautious of strangers, as anything that isn't them causes them extreme amounts of distress and paranoia."
  TRAIT_ECOLOGICAL_CYNICISM_EFFECT:0 "Xenophobe Ethics Attraction while sharing a planet the same §YSpecies Class§!: §G+10%§! \nHappiness while sharing a planet with the same §YSpecies Class§!: §R-10%§! \nEffects doubled while sharing a planet with other §YSpecies Classes§!."
 
  trait_v_biophobia:0 "Biophobia"
- trait_v_biophobia_desc:0 "§LThis species is afraid of the great outdoors. Killing something with fire is standard procedure for this species.§!"
+ trait_v_biophobia_desc:0 "This species is afraid of the great outdoors. Killing something with fire is standard procedure for this species."
  TRAIT_BIOPHOBIA_EFFECT:0 "Xenophobe Ethics Attraction for every Naturally Occurring Blocker: §G+5%§! \nHappiness for every Naturally Occurring Blocker: §R-2.5%§!"
 
  trait_v_supremacy_complex:0 "Supremacy Complex"
- trait_v_supremacy_complex_desc:0 "§LFor this species, the natural world only exists to prove their superiority.§!"
+ trait_v_supremacy_complex_desc:0 "For this species, the natural world only exists to prove their superiority."
  TRAIT_SUPREMACY_COMPLEX_EFFECT:0 "£society£ §YSociety Research§! from jobs modifiers count as £unity£ §YUnity§! from jobs modifiers."
 
  trait_v_homely:0 "Homely"
- trait_v_homely_desc:0 "§LThis species isn't the most functional of them all. It has a lot of problems that make their lives difficult. But for some reason or another, other species find them charming.§!"
+ trait_v_homely_desc:0 "This species isn't the most functional of them all. It has a lot of problems that make their lives difficult. But for some reason or another, other species find them charming."
  TRAIT_HOMELY_EFFECT:0 "Each pop working as a slave or better increases Xenophile Ethics Attraction by: §G+1%§! \n£amenities£ Amenities from jobs for each negative trait selected: §G+7.5%§!"
 
  trait_v_ecological_naivete:0 "Ecological Naïveté"
- trait_v_ecological_naivete_desc:0 "§LThis species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity.§!"
+ trait_v_ecological_naivete_desc:0 "This species has no concept of the fact that other species might be a danger to them. If anything, they might approach it with curiosity."
  TRAIT_ECOLOGICAL_NAIVETE_EFFECT:0 "Xenophile Ethics Attraction while sharing a planet the same §YSpecies Class§!: §G+5%§! \nHappiness while sharing a planet with the same §YSpecies Class§!: §G+5%§! \nEffects doubled while sharing a planet with other §YSpecies Classes§!."
 
  trait_v_biophilia:0 "Biophilia"
- trait_v_biophilia_desc:0 "§LThis species is being drawn to the great outdoors.§!"
+ trait_v_biophilia_desc:0 "This species is being drawn to the great outdoors."
  TRAIT_BIOPHILIA_EFFECT:0 "£society£ Society Research for every Naturally Occurring Blocker: §G+2.5%§! \nXenophile Ethics Attraction for every Naturally Occurring Blocker: §G+5%§! \nHappiness for every Naturally Occurring Blocker: §G+2.5%§!"
 
  trait_v_born_sociologists:0 "Born Sociologists"
- trait_v_born_sociologists_desc:0 "§LThis species is capable of seeing patterns in cultural and social behaviors other species might easily miss.§!"
+ trait_v_born_sociologists_desc:0 "This species is capable of seeing patterns in cultural and social behaviors other species might easily miss."
  TRAIT_BORN_SOCIOLOGISTS_EFFECT:0 "£unity£ §YUnity§! from jobs modifiers count as £society£ §YSociety Research§! from jobs modifiers."
 
  trait_v_belligerent:0 "Belligerent"
- trait_v_belligerent_desc:0 "§LWar is the way of this species. Members of this species will do their part.§!"
+ trait_v_belligerent_desc:0 "War is the way of this species. Members of this species will do their part."
  TRAIT_PATRIOT_EFFECT:0 "£unity£ Unity from £job£ Jobs During War and Crisis: §G+25%§!"
 
  trait_v_war_ingenuity:0 "War Ingenuity"
- trait_v_war_ingenuity_desc:0 "§LThis species gets really creative when forced into a corner.§!"
+ trait_v_war_ingenuity_desc:0 "This species gets really creative when forced into a corner."
  TRAIT_WAR_INGENUITY_EFFECT:0 "£physics_research£ Physics Research from £job_researcher£ Researchers During War and Crisis: §G+1§! \n£society_research£ Society Research from £job_researcher£ Researchers During War and Crisis: §G+1§! \n£engineering_research£ Engineering Research from £job_researcher£ Researchers During War and Crisis: §G+1§!"
 
  trait_v_militaristic_mindset:0 "Militaristic Mindset"
- trait_v_militaristic_mindset_desc:0 "§LThis species is highly inclined towards militaristic skills.§!"
+ trait_v_militaristic_mindset_desc:0 "This species is highly inclined towards militaristic skills."
  TRAIT_MILITARISTIC_MINDSET_EFFECT:0 "$mod_commander_initial_skill$: §G+1§!"
 
  trait_v_rage_prone:0 "Raging"
- trait_v_rage_prone_desc:0 "§LThis species often acts out aggressively.§!"
- TRAIT_RAGE_PRONE_EFFECT:0 "Monthly $commander_with_icon$ Death Chance: §R+1%§!"
+ trait_v_rage_prone_desc:0 "This species often acts out aggressively."
+ TRAIT_RAGE_PRONE_EFFECT:0 "Yearly $commander_with_icon$ Death Chance: §R+1%§!"
 
  trait_v_cowardly:0 "Cowardly"
- trait_v_cowardly_desc:0 "§LWhen it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared.§!"
+ trait_v_cowardly_desc:0 "When it comes to the preservation of the nation, this species simply doesn't care. They will rather pick up their things and leave the moment a war is declared."
  TRAIT_COWARD_EFFECT:0 "£unity£ Unity from £job£ Jobs During War and Crisis: §R-25%§! \nResettlement Cost During War and Crisis: §G-50%§!"
 
  trait_v_tight_knit:0 "Tight Knit"
- trait_v_tight_knit_desc:0 "§LThis species is naturally inclined to be more organized than most others.§!"
+ trait_v_tight_knit_desc:0 "This species is naturally inclined to be more organized than most others."
  TRAIT_TIGHT_KNIT_EFFECT:0 "Empire Size from Pops when at Peace: §G-25%§!"
 
  trait_v_administrative_mindset:0 "Administrative Mindset"
- trait_v_administrative_mindset_desc:0 "§LThis species is highly inclined towards administrative skills.§!"
+ trait_v_administrative_mindset_desc:0 "This species is highly inclined towards administrative skills."
  TRAIT_ADMINISTRATIVE_MINDSET_EFFECT:0 "$mod_official_initial_skill$: §G+1§!"
 
  trait_v_ascetic:0 "Ascetic"
- trait_v_ascetic_desc:0 "§LThis species strains far from hedonistic pursuits. They tend to abstain from anything that can be considered unnecessary.§!"
+ trait_v_ascetic_desc:0 "This species strains far from hedonistic pursuits. They tend to abstain from anything that can be considered unnecessary."
 
  trait_v_scholastic:0 "Scholastic"
- trait_v_scholastic_desc:0 "§LFor this species, there exists no difference between faith and science. In reality, they seem to consider both of those things to be the same thing.§!"
- TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_researcher£ §YResearchers§!."
+ trait_v_scholastic_desc:0 "For this species, there exists no difference between faith and science. In reality, they seem to consider both of those things to be the same thing."
+ TRAIT_SCHOLASTIC_EFFECT:0 "£job_priest£ §YPriests§! count as £job_researcher£ §YResearchers§!."
+
+ trait_v_monastic_warriors:0 "Monastic Warriors"
+ trait_v_monastic_warriors_desc:0 "To this species, warfare is intrinsically linked to spirituality."
+ TRAIT_MONASTIC_WARRIORS_EFFECT:0 "Planetary Defense Armies from priests £job_priest£ §YPriests§!: §G+1§! \n£job_priest£ §YPriests§! count as £job_soldier£ §YSoldiers§!." 
+
+ trait_v_monastic_hospitality:0 "Monastic Hospitality"
+ trait_v_monastic_hospitality_desc:0 "A need to provide hospitality to the less fortunate is inherent to the nature of this species."
+ TRAIT_MONASTIC_HOSPITALITY_EFFECT:0 "£amenities£ Amenities from £job_priest£ §YPriests§!: §G+2§! \nPop Growth Speed from £job_priest£ §YPriests§!: §G+2%§! \nOrganic Pop Assembly Speed from £job_priest£ §YPriests§!: §G+2%§! \nHabitability from £job_priest£ §YPriests§!: §G+1%§! \n£job_priest£ §YPriests§! Consumer Goods Upkeep: §R+1§! \n£job_priest£ §YPriests§! count as £job_healthcare£ §YMedical Workers§!."
+
+ trait_v_lavran_monasticism:0 "Lavran Monasticism"
+ trait_v_lavran_monasticism_desc:0 "This species sees the depths of the earth as the perfect place for worship."
+ TRAIT_LAVRAN_MONASTICISM_EFFECT:0 "£job_priest£ §YPriest§! Jobs per £job_miner£ §YMiner§! Job: §G+0.25§! \nPop Housing Usage when working £job_priest£ §YPriest§! Jobs: §Y-1§!"
 
  trait_v_proselytizing:0 "Proselytizing"
- trait_v_proselytizing_desc:0 "§LReligion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology.§!"
+ trait_v_proselytizing_desc:0 "Religion for this species is more than a personal thing. For them religion is instinctual and deeply rooted in their ethology."
  TRAIT_PROSELYTIZING_EFFECT:0 "Each Spiritualist pop working as a slave or better increases Spiritualist Ethics Attraction by: §G+1%§! \nEach spiritualist pop working as a slave or better produces 0.5 £unity£ §YUnity§! per month."
 
  trait_v_intelligent_design_spiritualist:0 "Intelligent Design"
- trait_v_intelligent_design_spiritualist_desc:0 "§LThis species, sees the origin of their species as a sign of divinity reflected in their biology.§!"
+ trait_v_intelligent_design_spiritualist_desc:0 "This species, sees the origin of their species as a sign of divinity reflected in their biology."
  TRAIT_ID_SPIRITUALIST_EFFECT:0 "Spiritualist Ethics Attraction for each positive trait selected: §G+5%§! \nPop Consumer Goods Upkeep for each positive trait selected: §G-2%§!"
 
  trait_v_astrology:0 "Astrology"
- trait_v_astrology_desc:0 "§LThis species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them.§!"
- TRAIT_ASTROLOGY_EFFECT:0 "Happiness for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+1%§! \nSpiritualist Ethics Attraction for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+2%§! \n£job_priest£ £job_death_priest£ §YPriests§! count as £job_entertainer£ §YEntertainers§!."
+ trait_v_astrology_desc:0 "This species looks to the skies tracing the movement of the stars, planets and moons, trying to understand the nature of reality from them."
+ TRAIT_ASTROLOGY_EFFECT:0 "Happiness for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+1%§! \nSpiritualist Ethics Attraction for each §YStar§!, §YPlanet§! and §YMoon§! in the system: §G+2%§! \n£job_priest£ §YPriests§! count as £job_entertainer£ §YEntertainers§!."
 
  trait_v_druidic:0 "Druidic"
- trait_v_druidic_desc:0 "§LThis species sees the divine within nature itself.§!"
- TRAIT_DRUIDS_EFFECT:0 "£job_priest£ £job_death_priest£ Priest Output for every Naturally Occurring Blocker: §G+5%§! \nSpiritualist Ethics Attraction for every Naturally Occurring Blocker: §G+5%§!"
+ trait_v_druidic_desc:0 "This species sees the divine within nature itself."
+ TRAIT_DRUIDS_EFFECT:0 "£job_priest£ Priest Output for every Naturally Occurring Blocker: §G+5%§! \nSpiritualist Ethics Attraction for every Naturally Occurring Blocker: §G+5%§!"
 
  trait_v_machine_priests:0 "Machine Reverence"
- trait_v_machine_priests_desc:0 "§LFrom the moment this species understood the weakness of its flesh, it disgusted them. They craved the strength and certainty of steel. They aspired to the purity of the blessed machine.§!"
- TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ £job_death_priest£ §YPriests§! count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
+ trait_v_machine_priests_desc:0 "From the moment this species understood the weakness of its flesh, it disgusted them. They craved the strength and certainty of steel. They aspired to the purity of the blessed machine."
+ TRAIT_MACHINE_PRIESTS_EFFECT:0 "£job_priest£ §YPriests§! count as £job_foundry£ §YMetallurgists§! and £job_artisan£ §YArtisans§!. \nSpiritualist Ethics Attraction for every §HIndustrial District§!: §G+2%§!"
 
  trait_v_sybaritic:0 "Sybaritic"
- trait_v_sybaritic_desc:0 "§LThis species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species.§!"
+ trait_v_sybaritic_desc:0 "This species loves luxury. Hedonism and wasting time on unnecessary consumption is a hallmark of this species."
 
  trait_v_materialistic:0 "Materialistic"
- trait_v_materialistic_desc:0 "§LFor this species, the acquisition of as much material wealth is the main goal in life.§!"
+ trait_v_materialistic_desc:0 "For this species, the acquisition of as much material wealth is the main goal in life."
  TRAIT_MATERIALISTIC_EFFECT:0 "Each Materialist pop working as a slave or better increases Materialist Ethics Attraction by: §G+1%§! \nEach Materialist pop working as a slave or better produces 1 £trade_value£ §YTrade Value§!. \nPop Consumer Goods Upkeep for Materialist pops: §R+10%§! \nPop Housing Usage for Materialist pops: §R+10%§!"
 
  trait_v_intelligent_design_materialist:0 ""Intelligent" Design"
- trait_v_intelligent_design_materialist_desc:0 "§LThis species, sees no divinity in its biology, only flaws upon flaws.§!"
+ trait_v_intelligent_design_materialist_desc:0 "This species, sees no divinity in its biology, only flaws upon flaws."
  TRAIT_ID_MATERIALIST_EFFECT:0 "Materialist Ethics Attraction for each negative trait selected: §G+5%§! \nPop Consumer Goods Upkeep for each negative trait selected: §R+2%§!"
 
  trait_v_irresponsible:0 "Irresponsible"
- trait_v_irresponsible_desc:0 "§LHealth and safety are secondary concerns for this species.§!"
- TRAIT_IRRESPONSIBLE_EFFECT:0 "Monthly $scientist_with_icon$ Death Chance: §R+1%§!"
+ trait_v_irresponsible_desc:0 "Health and safety are secondary concerns for this species."
+ TRAIT_IRRESPONSIBLE_EFFECT:0 "Yearly $scientist_with_icon$ Death Chance: §R+1%§!"
 
  trait_v_algorithmic_mind:0 "Algorithmic Mind"
- trait_v_algorithmic_mind_desc:0 "§LThis species sees the world in the most analytical way possible.§!"
+ trait_v_algorithmic_mind_desc:0 "This species sees the world in the most analytical way possible."
  TRAIT_ALGORITHMIC_MIND_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £physics_research£ §YPhysics Research§! per month. \n£job_researcher£ §YResearchers§! count as £job_technician£ §YTechnicians§!."
 
  trait_v_fleshcrafter:0 "Fleshcrafter"
- trait_v_fleshcrafter_desc:0 "§LThis species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks.§!"
+ trait_v_fleshcrafter_desc:0 "This species doesn't consider working with organic systems any more different than any other systems. They tinker with flesh and genetics like it was clockworks."
  TRAIT_FLESHCRAFTER_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £society_research£ §YSociety Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £mod_pop_growth_speed£ §YMonthly Organic Pop Assembly§!."
 
  trait_v_tinkerer:0 "Tinkerer"
- trait_v_tinkerer_desc:0 "§LFor this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects.§!"
+ trait_v_tinkerer_desc:0 "For this species, mechanical systems are an object of fascination. They like to tinker with mechanical objects."
  TRAIT_TINKERER_EFFECT:0 "Each Materialist pop working as a slave or better produces 0.5 £engineering_research£ §YEngineering Research§! per month. \nEach Materialist pop working as a slave or better produces 0.01 £job_roboticist£ §YMonthly Mechanical Pop Assembly§!."
 
  trait_v_alchemists:0 "Alchemists"
- trait_v_alchemists_desc:0 "§LThis species was always interested in the nature of chemistry, be that to uncover a higher truth or simply to understand reality.§!"
+ trait_v_alchemists_desc:0 "This species was always interested in the nature of chemistry, be that to uncover a higher truth or simply to understand reality."
  TRAIT_ALCHEMISTS_EFFECT:0 "£job_researcher£ §YResearchers§! count as £job_chemist£ §YChemists§!, £job_translucer£ §YTranslucers§!, and £job_gas_refiner£ §YRefiners§!."
 
  trait_v_scholarly_mindset:0 "Scholarly Mindset"
- trait_v_scholarly_mindset_desc:0 "§LThis species is highly inclined towards academic skills.§!"
+ trait_v_scholarly_mindset_desc:0 "This species is highly inclined towards academic skills."
  TRAIT_SCHOLARLY_MINDSET_EFFECT:0 "$mod_scientist_initial_skill$: §G+1§!"
  ################################################################################################################################
 
  trait_v_hive_microclimate:0 "Hive Microclimate"
- trait_v_hive_microclimate_desc:0 "§LBy creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable.§!"
+ trait_v_hive_microclimate_desc:0 "By creating an artificial microclimate for it to live in, this species manages to survive in enviroments others would consider uninhabitable."
  TRAIT_HIVE_MICROCLIMATE_EFFECT:0 "Habitability per district: §G+1%§!"
 
  trait_v_hive_epigenetic_castes:0 "Epigenetic Castes"
- trait_v_hive_epigenetic_castes_desc:0 "§LThis species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops.§!"
+ trait_v_hive_epigenetic_castes_desc:0 "This species is divided into special castes. These castes are created by using epigenetic triggers, in an effort to specialise their troops."
  TRAIT_EPIGENETIC_CASTES_EFFECT:0 "This species can recruit §YDoor§!, §YKamikaze§!, §YTerror§! and §YSplitter§! armies."
 
  v_door_drone_army:0 "Door Army"
  v_door_drone_army_desc:0 "An army originally designed to function as living doors in the protection of hives."
 
  v_suicide_drone_army:0 "Kamikaze Army"
- v_suicide_drone_army_desc:0 "This army is designed to rush in and explode, dealing great damage to its surroundings. \n\n§WOn Destruction causes §R5§! planetary devastation.§!"
+ v_suicide_drone_army_desc:0 "This army is designed to rush in and explode, dealing great damage to its surroundings. \n\n§WOn Destruction causes §R5§! planetary devastation."
 
  v_terror_drone_army:0 "Terror Army"
  v_terror_drone_army_desc:0 "This army is designed to spread fear and destruction. While its direct damage is less than that of other hive armies, the sight of acid dissolving everything it comes in contact with is quite capable of destroying morale."
 
  v_splitter_drone_army:0 "Splitter Army"
- v_splitter_drone_army_desc:0 "This army was designed to create swarms of other smaller, more numerous units in the event of death. Their bodies contain younger forms that are 99% developed and are in a state of suspended animation until their progenitor dies. \n\n§WIf the army gets destroyed, it creates two smaller armies with §Y50%§! of the base stats of the army it was spawned from.§!"
+ v_splitter_drone_army_desc:0 "This army was designed to create swarms of other smaller, more numerous units in the event of death. Their bodies contain younger forms that are 99% developed and are in a state of suspended animation until their progenitor dies. \n\n§WIf the army gets destroyed, it creates two smaller armies with §Y50%§! of the base stats of the army it was spawned from."
 
  v_split_drone_army:0 "Split Army"
  v_split_drone_army_desc:0 "This army was spawned from a splitter army."
 
  trait_v_hive_worker_dependency:0 "Worker Dependency"
- trait_v_hive_worker_dependency_desc:0 "§LThe upper castes of this species are dependent on their workers. They use them for the purpose of further specialization.§!"
+ trait_v_hive_worker_dependency_desc:0 "The upper castes of this species are dependent on their workers. They use them for the purpose of further specialization."
  TRAIT_HIVE_WORKER_DEPENDENCY_EFFECT:0 "Complex Drone Pop Resource Output per £job_maintenance_drone£ §YMaintenance Drone§! with the §HWorker Dependency§! trait: §G+0.5%§! \nBuilding and District build speed from £job_maintenance_drone£ §YMaintenance Drones§!: §G+2%§!"
 
- trait_v_hive_bivouac:0 "Bivouac"
- trait_v_hive_bivouac_desc:0 "§LA hive can be made from many materials, including the members of the species that live inside.§!"
- TRAIT_HIVE_BIVOUAC_EFFECT:0 "Pop Housing Usage for every Naturally Occurring Blocker: §G-5%§!" 
- 
  trait_v_hive_foragial_limbs:0 "Foragial Limbs"
- trait_v_hive_foragial_limbs_desc:0 "§LThis species has limbs specifically for the purpose of collecting food.§!"
+ trait_v_hive_foragial_limbs_desc:0 "This species has limbs specifically for the purpose of collecting food."
 
  trait_v_hive_foragial_limbs_l:0 "Foragial Limbs"
- trait_v_hive_foragial_limbs_l_desc:0 "§LThis species has limbs specifically for the purpose of collecting minerals.§!"
+ trait_v_hive_foragial_limbs_l_desc:0 "This species has limbs specifically for the purpose of collecting minerals."
